@@ -1,6 +1,6 @@
 {
   "name": "daxko-marketing-agents",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Daxko's AI-first GTM agents for the marketing team. Currently ships Agent 9 — Brand Guardian, which reviews draft Daxko marketing content against the official brand guidelines: voice and tone by market, terminology and product naming, visual identity, audience fit, claims and proof, and call-to-action clarity. Returns a verdict, a six-part scorecard, every violation tied to the rule it breaks, line-by-line fixes, and a corrected rewrite. It reviews content; it does not write it. All brand knowledge is bundled inside the plugin — nothing is fetched from the internet or a shared drive, and no customer data is involved.",
   "author": {
     "name": "Abid Siddiqui",
