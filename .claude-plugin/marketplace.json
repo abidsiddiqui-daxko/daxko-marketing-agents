@@ -1,0 +1,16 @@
+{
+  "name": "daxko-marketing",
+  "description": "Daxko marketing AI agents and skills, maintained by the marketing team. Internal use only.",
+  "owner": {
+    "name": "Daxko Marketing",
+    "email": "abid.siddiqui@daxko.com"
+  },
+  "plugins": [
+    {
+      "name": "daxko-marketing-agents",
+      "source": "./plugins/daxko-marketing-agents",
+      "description": "Brand, content and campaign skills for the Daxko marketing team. Currently ships Agent 9 — Brand Guardian, which reviews draft marketing content against Daxko's official brand guidelines and returns a verdict, a six-part scorecard, every violation tied to the rule it breaks, and a corrected rewrite. It reviews content; it does not write it.",
+      "category": "marketing"
+    }
+  ]
+}
