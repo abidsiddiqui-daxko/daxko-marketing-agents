@@ -38,7 +38,7 @@
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `slide-layouts.md` | `visual-brand/slide-layouts.md` | `d591f386abfc5daab6f05f817bf45eedb73e2f4e162ac69ae561c47ef31f91d5` | verbatim | 2026-08-14 | 2026-03-25 | 14 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `3dfab0d1369ba715aab3c558636c83fe6dd4d94aaea031f8da9851a59fcb8246` | converted | 2026-09-01 | 2026-09-01 | 13 KB |
+| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `d8583754d401c5ddef5e39c358dee45527487b7310f420e0df98217223d4ede9` | converted | 2026-09-01 | 2026-09-01 | 13 KB |
 
 ---
 
@@ -77,6 +77,25 @@ been logged but never published** — which would otherwise mean every correctio
 while teammates kept getting the same wrong answer.
 
 It must therefore be re-copied, and this row updated, **at every publish, before the change that publishes.** Its fidelity is , not : the header is replaced at bundling time so the shipped copy does not claim to be the writable master.
+
+
+### Verifying `corrections-snapshot.md` — it is the one exception
+
+Every other row is `verbatim`, so the bundled copy's own checksum equals the recorded
+`source_checksum` and a single comparison proves both that the copy is faithful and that the source
+has not moved on.
+
+**This file is `converted`.** Its header is replaced at bundling time so the shipped copy does not
+claim to be the writable master. So its bundled bytes differ from the source's bytes **by design**, and
+the two checks must be done separately:
+
+| Check | How |
+|---|---|
+| **Has the source moved on since the last publish?** | `shasum -a 256 learnings/agent-09-brand-guardian.md` and compare to the `source_checksum` above. **A mismatch means corrections have been logged but never published** — refresh the snapshot and republish. This is the alarm the row exists for |
+| **Is the bundled copy faithful?** | Compare the correction lines only, not the header: `grep -c '^- \[20' ` on both files must give the same number, and `diff <(grep '^- \[20' <source>) <(grep '^- \[20' <bundled>)` must be empty |
+
+⚠️ **Do not "fix" a mismatch by writing the bundled copy's checksum into the row.** That silences the
+alarm instead of answering it. It was done by accident on 2026-09-01 and corrected the same day.
 
 ## What is deliberately NOT bundled
 
