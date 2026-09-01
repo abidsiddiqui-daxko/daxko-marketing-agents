@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-08-19 (PROMPT 4 publish — corrections snapshot re-bundled, 1 entry → 9) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-01 (v1.4.0 — corrections snapshot re-bundled, 14 entries → 16) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
 
 **What the columns mean**
 
@@ -76,7 +76,7 @@ and stops matching the row below. **That mismatch is how the check-up notices th
 been logged but never published** — which would otherwise mean every correction stayed on one laptop
 while teammates kept getting the same wrong answer.
 
-It must therefore be re-copied, and this row updated, **at every publish, before the change that publishes.** Its fidelity is , not : the header is replaced at bundling time so the shipped copy does not claim to be the writable master.
+It must therefore be re-copied, and this row updated, **at every publish, before the change that publishes.** Its fidelity is `converted`, not `verbatim`: the header is replaced at bundling time so the shipped copy does not claim to be the writable master.
 
 
 ### Verifying `corrections-snapshot.md` — it is the one exception
