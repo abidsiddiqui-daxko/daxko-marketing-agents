@@ -38,7 +38,7 @@
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `slide-layouts.md` | `visual-brand/slide-layouts.md` | `d591f386abfc5daab6f05f817bf45eedb73e2f4e162ac69ae561c47ef31f91d5` | verbatim | 2026-08-14 | 2026-03-25 | 14 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `aee63bbca66e25a4b538fb192295c2c8d12facdb3c455f2edbe6d2df71bcdb46` | verbatim | 2026-08-19 | 2026-08-18 | 8 KB |
+| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `a66f6b4f2d5c74b0b66f9cfb7fb678a1b62edbb9bd19b14d23baf1e039dccee8` | verbatim | 2026-09-01 | 2026-09-01 | 13 KB |
 
 ---
 
