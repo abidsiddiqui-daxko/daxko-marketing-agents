@@ -1,6 +1,6 @@
 {
   "name": "daxko-marketing-agents",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "description": "Brand, content and campaign skills for the Daxko marketing team. Currently ships Agent 9 - Brand Guardian, which reviews UNPUBLISHED marketing drafts (copy, email, social post, slide, ad, or landing-page copy not yet built) against Daxko's official brand guidelines, and returns a verdict, a six-part scorecard, every violation tied to the rule and the file it breaks, line-by-line fixes, and a corrected rewrite. It reviews content; it does not write it. NOT for auditing a page that is already live or on staging - that is daxko-brand-qa.",
   "author": {
     "name": "Abid Siddiqui",

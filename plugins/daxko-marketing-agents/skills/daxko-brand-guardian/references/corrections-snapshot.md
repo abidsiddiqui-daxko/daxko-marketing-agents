@@ -3,13 +3,8 @@
 **READ-ONLY SNAPSHOT.** Taken 2026-09-01 from the writable master at
 `learnings/agent-09-brand-guardian.md`, which lives outside every skill and only on the owner's machine.
 
-**You cannot log a correction here.** This copy is read-only by design — anything you changed would be
-wiped by the next update. **Send corrections to Abid Siddiqui (abid.siddiqui@daxko.com)**, who records
-them in the master and republishes, so the fix reaches everybody.
-
-*(Header replaced at bundling time. The master's own header reads "WRITABLE MASTER — this is the real
-one", which is true there and false here. Copying it verbatim invited recipients to edit a read-only
-file.)*
+**You cannot log a correction here.** This copy is read-only by design. **Send corrections to Abid
+Siddiqui (abid.siddiqui@daxko.com)**, who records them in the master and republishes.
 
 ---
 
@@ -79,3 +74,5 @@ flag exactly that.
 - [2026-08-24] [PATTERN] The reviewer checks its input more carefully than its own output. On the nonprofit-email test its corrected rewrite contained three em dashes in ~104 words, tripping the "excessive em dashes" threshold the skill itself enforces. It also missed the Daxko-as-hero violation in the draft and mis-stated its own scorecard as "four of six fail" when five failed. Worth adding a self-check pass over the corrected rewrite before output. — Abid Siddiqui / 2026-08-24
 - [2026-08-24] [WIN] Distribution route proven end to end with no admin involvement. A PRIVATE GitHub repo works as a claude.ai plugin marketplace; "Sync automatically" is on by default; the skill fires in plain claude.ai chat, auto-triggered from natural language with no slash command; the same plugin also appears in Claude Code; and the corrections snapshot travelled intact — the review's SOURCES block reported "9 entries found in references/corrections-snapshot.md (writable master not present on this machine)". On a deliberately trapped 9-item test the skill scored 5.5/6 on must-catch and 2/2 on must-NOT-flag, against 1.5/6 and 0/2 for the incumbent org skill on the same input. — Abid Siddiqui / 2026-08-24
 - [2026-08-24] [PATTERN] A live org skill can carry production errors, and nobody is checking. daxko-brand-qa told the user to use Sohne (typography-system.md states verbatim "No fonts other than Barlow. Sohne... are not permitted", and brand-guidelines.md mandates Barlow with Arial fallback), suggested inventing testimonial attribution for a quote with no written approval, and advised renaming and shipping a feature that does not deliver until Q3 2026. ~40 org skills are live and this one is telling the whole marketing team to use a prohibited font. Raise with whoever owns the org catalogue. — Abid Siddiqui / 2026-08-24
+- [2026-09-01] [CORRECTION] The grounding rule said "do not substitute another file" with no exception, so when brand-guidelines.md went missing from one install the skill broke the rule to do something better: it found the plugin copy of the same skill at the same version, checksum-verified it against the MANIFEST row, read from there, and disclosed the substitution twice. Recorded as FAIL against the rule as written — "superseded is not a pass" — but the rule was the thing that was wrong. Step 4 now permits exactly one substitution: same filename, another install of THIS SAME SKILL at THIS SAME VERSION, SHA-256 matching the MANIFEST row, disclosed in a bundle-integrity note and in SOURCES. If the checksum cannot be computed or does not match, STOP. Never substitute on filename and plausibility alone: ~/Downloads/daxko-ai-context-main/.../brand-guidelines.md exists with the right name, the wrong contents (the fabricated teal #00857C) and a non-matching checksum. The checksum, not the filename or the folder, is what makes a substitution safe. — Abid Siddiqui / refusal test 2026-09-01
+- [2026-09-01] [PATTERN] A verification loop that iterates the FILES PRESENT can never detect a file that is ABSENT. Mine passed 16/16 while brand-guidelines.md — an always-required file — was missing from the master, because the loop compared each file it found to its MANIFEST row and a missing file is simply not iterated. Always check BOTH directions: every row has a file, and every file has a row. — Abid Siddiqui / 2026-09-01

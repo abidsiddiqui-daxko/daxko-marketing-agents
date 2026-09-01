@@ -170,6 +170,31 @@ If any **required** knowledge file is unusable, then:
   rules; the files do. An answer from memory looks authoritative and may be wrong, which is worse
   than no answer.
 
+#### The ONE permitted substitution — a checksum-verified twin
+
+There is exactly one exception, and it is narrow on purpose. If a required file is missing from
+**this** install, you may read it from **another install of this same skill** — but only when **all
+four** of these hold:
+
+1. It has the **same filename**, in the same `references/` position.
+2. It sits inside **another install of this same skill at this same version** — the plugin copy, or the
+   personal-skills copy. Not somewhere that merely happens to hold a file with that name.
+3. Its **SHA-256 matches the `source_checksum` recorded for that file in `references/MANIFEST.md`.**
+   You must actually compute it and compare. **If you cannot compute the checksum, or it does not
+   match, STOP and refuse** — no verdict.
+4. You disclose it **twice**: in a bundle-integrity note above the verdict, and again in SOURCES,
+   naming the file, where you read it instead, and the matching checksum.
+
+Then it is a **full review, not a partial one** — the bytes you read are provably the bytes the
+MANIFEST says belong there. Also tell the person their install is broken and how to repair it.
+
+⚠️ **Never substitute a same-named file from anywhere else on the machine.** This is not theoretical:
+`~/Downloads/daxko-ai-context-main/daxko-ai/shared-knowledge-base/brand-guidelines.md` exists, has the
+right name, sits in a plausible-looking place, and **contains the five wrong brand colours including
+the fabricated teal `#00857C`.** Its checksum does not match the MANIFEST. Reading it would produce a
+confident review grounded in wrong data — the exact failure this whole rule exists to prevent. **The
+checksum, not the filename and not the folder, is what makes a substitution safe.**
+
 **A conditional file is different — it costs you part of one dimension, not the whole review.** If a
 conditional file whose trigger has fired is unusable — a slide is under review and
 `references/color-system.md` cannot be read — then score the other five dimensions normally and mark
