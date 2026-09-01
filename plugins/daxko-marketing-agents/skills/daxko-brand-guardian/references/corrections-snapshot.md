@@ -1,8 +1,15 @@
 # Corrections — Agent 9 — Brand Guardian
 
-**Created:** 2026-08-11
-**Owner:** Abid Siddiqui
-**Status:** WRITABLE MASTER — this is the real one.
+**READ-ONLY SNAPSHOT.** Taken 2026-09-01 from the writable master at
+`learnings/agent-09-brand-guardian.md`, which lives outside every skill and only on the owner's machine.
+
+**You cannot log a correction here.** This copy is read-only by design — anything you changed would be
+wiped by the next update. **Send corrections to Abid Siddiqui (abid.siddiqui@daxko.com)**, who records
+them in the master and republishes, so the fix reaches everybody.
+
+*(Header replaced at bundling time. The master's own header reads "WRITABLE MASTER — this is the real
+one", which is true there and false here. Copying it verbatim invited recipients to edit a read-only
+file.)*
 
 ---
 
@@ -20,7 +27,7 @@ So the arrangement is:
 | Copy | Where | Who can write to it |
 |---|---|---|
 | **The writable master** | `learnings/agent-09-brand-guardian.md` — this file | Abid Siddiqui's machine only |
-| **The bundled snapshot** | `<skill>/references/corrections-snapshot.md` | Nobody. Generated. Refreshed at every publish, before zipping (PROMPT 4 step 1b). |
+| **The bundled snapshot** | `<skill>/references/corrections-snapshot.md` | Nobody. Generated. Refreshed at every publish — meaning **before the commit that ships a new version**, and equally before a break-glass zip if one is ever cut (PROMPT 4 step 1b). *"Before zipping" no longer binds: publishing is a version bump pushed to the marketplace, not a zip.* |
 
 Teammates read the snapshot and so receive the accumulated learning. **Teammates cannot log
 corrections themselves — they send them to Abid Siddiqui, who records them here and re-publishes.**
