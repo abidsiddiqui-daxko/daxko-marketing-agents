@@ -34,6 +34,26 @@ shared drive. **This is the only place in this skill where knowledge files are d
 
 If any of these three cannot be read, **stop** — see Step 4.
 
+### Also always required — the output shape and its calibration
+
+| File | What it is for |
+|---|---|
+| `templates/review-scorecard.md` | The exact output shape, the partial-review shape, and the fill-in rules |
+| **The matching worked example in `examples/`** | **What the bar actually is.** Pick the one that fits: `on-brand-approved.md` when little or nothing is wrong · `off-brand-rejected.md` when there are several violations · `mislabelled-market.md` when the stated market and the content disagree · `partial-review.md` when a conditional file is unusable |
+
+**Read both, every review, before you score. This is not optional reference material.**
+
+⚠️ **Why this is a required read and not a footnote.** On 2026-09-01 the same three-sentence nonprofit
+email was reviewed twice. One run read the matching example and returned **APPROVED WITH CHANGES**; the
+other skipped it and returned **REJECTED**. The example was the difference. It contains that exact
+draft, scored `pass` on all six rows, with one extra clause — *"fewer manual reminders, more time with
+members"* — and the submitted version was that approved example with the clause deleted. Without
+reading it you cannot see that you are one clause away from the approved bar, so you read a warning as
+a failure and reject a piece the bundle already blesses.
+
+**The specification tells you the shape. The example tells you the severity.** Skipping the example
+does not produce a shorter review; it produces a wrong verdict.
+
 ### Conditional — open only when the trigger applies
 
 | File | Open it when | As of |
@@ -75,6 +95,8 @@ conflict** so it gets fixed at source:
 | Colour values, gradients, colour don'ts | `color-system.md` | The fullest source. **`brand-guidelines.md` and `brand-foundations.md` both carry the same five primaries, so you can still judge whether a hex is on-palette when `color-system.md` is unavailable** — see Step 4 |
 | Logo rules | `logo-guidelines.md` | The fullest source |
 | Product delivery status — what is shipped vs roadmap | The market playbook's **AI capability tier table** | The tier table is authoritative over any prose bullet elsewhere in the same file |
+| **A word banned in one file and recommended in another** | `banned-words.md` — **the ban wins** | Live example, found 2026-09-01: `banned-words.md` bans **"empower (overused)"** with replacements *help, enable, equip, support*. But the "Words We Use / Words We Avoid" table in `brand-guidelines.md` lists **"Empower / Streamline" under Use.** That table sits inside the section headed *"Carried Forward From the Previous Version"* — it is pre-May-2026 text reproduced so nothing was lost, and the ban was added afterwards. **Apply the ban, and say in Violations that the sources conflict.** Escalate to Anna Klement. The same reasoning applies to any other word in that carried-forward table: a later ban beats an earlier recommendation |
+| **Anything in a section headed "Carried Forward From the Previous Version"** | Whichever file states the rule **outside** such a section | Carried-forward text is preserved history, not current instruction. It was reproduced verbatim so no data was lost in a rewrite — that does not make it authoritative |
 | Product availability — trials, pricing, what actually exists to sell | The playbook's explicit ⚠️ warnings and its **Never** list | These beat any messaging string in a tier or segment table. Where `boutique-playbook.md`'s Tier 3 row reads "Start free", that string is stale — "No free trial for Zen Planner" governs. Flag the conflict and escalate to Anna Klement |
 | A bundled file that contradicts **itself** | The stricter of the two statements | Example: `color-system.md` §2 defines seven gradient blends while its Don't 2 says "only the two defined gradients". Take the stricter reading, flag the conflict, escalate to Clint Malson |
 
@@ -329,6 +351,21 @@ with **Agent 29 — UX/UI Design**.
 
 **6. SOURCES** — every file you actually read, with its "as of" date, and whether corrections were
 found. Never omit this block. Never list a file you did not open.
+
+Three rules for this block, all added 2026-09-01 after real reviews got them wrong:
+
+- **Say when a read was partial.** Write `— read in part: [which sections]`. A reader cannot otherwise
+  tell a file you read end to end from thirteen grepped lines, and a judgment resting on a fragment
+  looks identical to one resting on the whole file.
+- **List the template and the worked example you used.** They are always-required reads now, so they
+  belong here. Mark them `(output shape)` and `(calibration)` so they are not mistaken for brand rules.
+- **State the skill version you are running**, taken from the line below. Two copies of this skill can
+  be installed at once under the same name — the personal-skills copy and the plugin copy — and
+  whichever wins is not visible to the person reading your answer. If they ever drift, the version is
+  the only thing in the output that would reveal it.
+
+> **SKILL VERSION: 1.5.0** — report this in SOURCES. If the plugin manifest says a different version,
+> the two installed copies have drifted and you must say so above the verdict.
 
 ```
 SOURCES
