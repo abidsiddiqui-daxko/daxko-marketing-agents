@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-02 (v1.6.0 — Söhne→Barlow corrected at source in slide-layouts.md, layout-and-spacing.md, logo-guidelines.md; decision D14 closed) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-02 (v1.6.1 — SKILL.md version line and three stale "as of" dates corrected; corrections snapshot 22 → 29) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
 
 **What the columns mean**
 
@@ -38,7 +38,7 @@
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `slide-layouts.md` | `visual-brand/slide-layouts.md` | `c263cd7ba14a46bd83acdeb68aa23d79fe968d08b9a072f94840f5880a893e95` | verbatim | 2026-09-02 | 2026-09-02 | 14 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `b9c350caac4fa026f2024f82835acc29d856073847f20fc765e649fb6fddc1fc` | verbatim | 2026-09-02 | 2026-09-02 | 16 KB |
+| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `213c9ed56c4688bfb0ddc2220262e212d5a49a908e8a96a9a289e6120471b007` | verbatim | 2026-09-02 | 2026-09-02 | 22 KB |
 
 ---
 

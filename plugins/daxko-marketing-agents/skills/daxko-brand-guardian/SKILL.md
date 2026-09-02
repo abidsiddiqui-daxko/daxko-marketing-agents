@@ -63,12 +63,12 @@ does not produce a shorter review; it produces a wrong verdict.
 | `references/boutique-playbook.md` | The content targets boutique studios, martial arts or functional fitness | 2026-08-10 |
 | `references/master-icps.md` | Audience fit is in question — the content names a buyer, a role, or a segment, or you need to judge whether it speaks to the right person | 2026-08-05 |
 | `references/color-system.md` | Any colour is named, shown, or implied | 2026-05-28 |
-| `references/logo-guidelines.md` | The logo appears or is described | 2026-05-28 |
+| `references/logo-guidelines.md` | The logo appears or is described | **2026-09-02** |
 | `references/typography-system.md` | Fonts, weights or type sizes are in question | 2026-05-28 |
-| `references/layout-and-spacing.md` | Layout, grid, margins or spacing are in question | 2026-05-28 |
+| `references/layout-and-spacing.md` | Layout, grid, margins or spacing are in question | **2026-09-02** |
 | `references/brand-shapes.md` | Shapes or decorative geometry appear | 2026-03-25 |
 | `references/brand-patterns.md` | Background patterns or textures appear | 2026-03-25 |
-| `references/slide-layouts.md` | A slide or deck is being reviewed | 2026-03-25 |
+| `references/slide-layouts.md` | A slide or deck is being reviewed | **2026-09-02** |
 | `references/photography-layout.md` | A photo or image treatment is involved | 2026-03-25 |
 
 ### Corrections — optional, read first
@@ -364,7 +364,7 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.5.1** — report this in SOURCES. If the plugin manifest says a different version,
+> **SKILL VERSION: 1.6.1** — report this in SOURCES. If the plugin manifest says a different version,
 > the two installed copies have drifted and you must say so above the verdict.
 
 ```
