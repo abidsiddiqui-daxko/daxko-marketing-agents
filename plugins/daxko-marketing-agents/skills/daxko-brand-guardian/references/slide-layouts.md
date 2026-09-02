@@ -2,6 +2,8 @@
 >
 > ✅ **VERIFIED 2026-08-14.** These files did not come from `drop-your-updated-files-here`, but they have been checked byte-for-byte against the `daxko-brand-design-system` skill that is live in Abid Siddiqui's Daxko claude.ai account, and they are IDENTICAL. Confirmed correct by Abid Siddiqui. Full provenance in `visual-brand/INDEX.md`.
 
+> 🟢 **TYPOGRAPHY CORRECTED 2026-09-02.** Söhne references in this file were replaced with **Barlow** (Arial as web-safe fallback only). Ruling: Clint Malson — *"Barlow is the correct font. Use the Daxko Brand Standards as your guide"* (Daxko Brand Standards, live.standards.site/daxko2025). This closes open decision **D14** in `registry/DECISIONS.md`. Söhne is no longer permitted anywhere, including the product-lockup exception previously carried in `logo-guidelines.md`.
+
 # Daxko Slide Layout Patterns
 
 These are the 8 production-proven layout patterns used in Daxko slides and presentations. Every slide should map to one of these layouts or be a deliberate hybrid.
@@ -34,7 +36,7 @@ All layouts assume **1920 × 1080px** (or **13.33 × 7.5 in** in PPTX at 144 DPI
 - Background: Vitality gradient (`linear-gradient(135deg, #B81CB5, #E8236B)`) or Agility gradient
 - Logo: White reversed, 160px wide, 40px from top-left corner
 - Headline: Barlow SemiBold 600, 60–72pt, white, sentence case
-- Subheadline: Sohne Buch 400, 20pt, white
+- Subheadline: Barlow Regular 400, 20pt, white
 - CTA button: White fill, Vitality 600 text, square corners
 - Shape: Large ↗️ triangle solid white, 300–400px, bleeding off lower-right (~40% visible)
 - Additional accent: Small outline ↙️ triangle, 80px, upper-right corner
@@ -76,8 +78,8 @@ slide.addShape(pptx.ShapeType.rect, {
 **Specs:**
 - Left column: 6.5 inches wide, white background
 - Right column: 6.83 inches wide, full-bleed photo (`object-fit: cover`)
-- Headline: Sohne Halbfett 600, 36–44pt, `#000000` (or white if dark BG)
-- Body: Sohne Buch 400, 16pt, `#595959`
+- Headline: Barlow SemiBold 600, 36–44pt, `#000000` (or white if dark BG)
+- Body: Barlow Regular 400, 16pt, `#595959`
 - Photo accent shape: Medium ↙️ triangle 150px, bleeding off photo corner
 - Logo: Bottom-left, 120px wide
 
@@ -108,10 +110,10 @@ Replace the straight column edge with a large curved white mask that sweeps from
 
 **Specs:**
 - Background: White
-- Headline: Sohne Halbfett 600, 40pt, `#595959` (medium gray)
-- Subtitle: Sohne Buch 400, 18pt, `#595959`
-- Stat label: Sohne Halbfett 600, 18pt, `#595959`
-- Stat value inside donut: Sohne Halbfett 600, 52pt, matching donut color
+- Headline: Barlow SemiBold 600, 40pt, `#595959` (medium gray)
+- Subtitle: Barlow Regular 400, 18pt, `#595959`
+- Stat label: Barlow SemiBold 600, 18pt, `#595959`
+- Stat value inside donut: Barlow SemiBold 600, 52pt, matching donut color
 - Donut chart colors: Agility 500 `#038BED`, Champion 300 `#FBB03B`, Core 700 `#B81CB5`
 - Inactive donut track: `#E0E0E0`
 - CTA button: Vitality gradient fill, white text, square corners, 180×50px
@@ -131,7 +133,7 @@ Replace the straight column edge with a large curved white mask that sweeps from
     width: 160px; height: 160px; border-radius: 50%;
     background: white;
     display: flex; align-items: center; justify-content: center;
-    font: 600 52px 'Sohne', sans-serif; color: #038BED;
+    font: 600 52px 'Barlow', Arial, sans-serif; color: #038BED;
   ">85%</div>
 </div>
 ```
@@ -191,10 +193,10 @@ Replace the straight column edge with a large curved white mask that sweeps from
 **Specs (1000 × 1400px):**
 - Background options: White (top cards), Vitality/Agility/Core/Champion gradient (bottom cards)
 - Product logo: top-left, 140px wide, 40px margin
-- Headline: Sohne Halbfett 600, 44–52pt
+- Headline: Barlow SemiBold 600, 44–52pt
   - On white bg: `#000000`
   - On colored bg: `#FFFFFF`
-- Subhead: Sohne Buch 400, 18pt, same color rule as headline
+- Subhead: Barlow Regular 400, 18pt, same color rule as headline
 - Photo: Isolated/cutout photography of a person, positioned right-center, bleeds off right and top edges
 - Shape accent: 1–2 brand shapes, 100–180px, in brand colors, anchored to corners opposite the photo
 - CTA button: Optional, bottom-left area
@@ -232,10 +234,10 @@ Replace the straight column edge with a large curved white mask that sweeps from
 
 **Specs:**
 - Background: White or `#F6F6F6`
-- Headline: Sohne Halbfett 600, 36pt, `#000000`
+- Headline: Barlow SemiBold 600, 36pt, `#000000`
 - Icon: Colored brand shape (20–30px) OR monochrome icon in brand color circle
-- Feature name: Sohne Halbfett 600, 16pt, `#000000`
-- Description: Sohne Buch 400, 13pt, `#595959`
+- Feature name: Barlow SemiBold 600, 16pt, `#000000`
+- Description: Barlow Regular 400, 13pt, `#595959`
 - Column divider: `#E0E0E0` 1px line (optional)
 - CTA: Vitality 600 fill, white text
 
@@ -263,8 +265,8 @@ Replace the straight column edge with a large curved white mask that sweeps from
 **Specs:**
 - Background: Core gradient or dark `#1A1A1A`
 - Quote mark: Vitality 600, Barlow 600, 120pt
-- Quote text: Sohne Buch 400 or Barlow 600, 28–36pt, white
-- Attribution: Sohne Buch 400, 14pt, `rgba(255,255,255,0.7)`
+- Quote text: Barlow Regular 400 or Barlow SemiBold 600, 28–36pt, white
+- Attribution: Barlow Regular 400, 14pt, `rgba(255,255,255,0.7)`
 - Shape: Vitality or Agility solid, ↙️, 200px, lower-right
 
 ---
@@ -293,9 +295,9 @@ Replace the straight column edge with a large curved white mask that sweeps from
 **Specs:**
 - Background: White
 - Left bar: 8px wide, Vitality 600 or brand gradient
-- Number: Sohne Halbfett 600, 48pt, Vitality 600 or Core 700
-- Title: Sohne Halbfett 600, 22pt, `#000000`
-- Descriptor: Sohne Buch 400, 14pt, `#595959`
+- Number: Barlow SemiBold 600, 48pt, Vitality 600 or Core 700
+- Title: Barlow SemiBold 600, 22pt, `#000000`
+- Descriptor: Barlow Regular 400, 14pt, `#595959`
 - Divider: `#E0E0E0`, 1px
 
 ---
@@ -311,7 +313,7 @@ All slides except full-bleed hero should include:
 
 - Footer y position: 7.1–7.4 inches from top (near bottom of 7.5in slide)
 - Logo: 80px wide, full-color on white slides, white reversed on dark slides
-- Copyright: Sohne Buch 400, 10pt, `#595959` or white
+- Copyright: Barlow Regular 400, 10pt, `#595959` or white
 
 ---
 
@@ -334,5 +336,5 @@ const pptx = new PptxGenJS();
 pptx.layout = 'LAYOUT_WIDE';  // 13.33 x 7.5 inches
 // Colors in hex without '#'
 // Positions in inches from top-left
-// Font 'Barlow' for display, 'Calibri' as system fallback for Sohne
+// Font 'Barlow' for display, 'Arial' as system fallback
 ```

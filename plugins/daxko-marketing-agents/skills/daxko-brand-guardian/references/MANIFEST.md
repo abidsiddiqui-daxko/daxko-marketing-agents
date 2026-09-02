@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-01 (v1.4.0 — corrections snapshot re-bundled, 16 entries → 21) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-02 (v1.6.0 — Söhne→Barlow corrected at source in slide-layouts.md, layout-and-spacing.md, logo-guidelines.md; decision D14 closed) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
 
 **What the columns mean**
 
@@ -31,14 +31,14 @@
 | `club-playbook.md` | `verticals/club-playbook.md` | `ea23337e4173d62fbfd5d44bb7c769d6422631d4bae0989e221921ea1605831a` | verbatim | 2026-08-14 | 2026-08-05 | 16 KB |
 | `boutique-playbook.md` | `verticals/boutique-playbook.md` | `3e20ec2b7bb9d7d196fdcc86acf3289e6c5df93a55a477a3d69f2708a4332622` | verbatim | 2026-08-14 | 2026-08-10 | 28 KB |
 | `color-system.md` | `visual-brand/color-system.md` | `b3deb87185aa88bbd0a231c3b0c5facb0706f53ee07091649cb18604c7a828b2` | verbatim | 2026-08-14 | 2026-05-28 | 24 KB |
-| `logo-guidelines.md` | `visual-brand/logo-guidelines.md` | `2ae4e57666998c43bf7e65854e62cd3525d723b125395a8ebcff8435f7f11123` | verbatim | 2026-08-14 | 2026-05-28 | 19 KB |
+| `logo-guidelines.md` | `visual-brand/logo-guidelines.md` | `65a68080ff94c6daa4b0a150ab9284236b82b305d6f9114436f9dda1e28ea208` | verbatim | 2026-09-02 | 2026-09-02 | 20 KB |
 | `typography-system.md` | `visual-brand/typography-system.md` | `c5b7dd44867ee989027c210db9ee8e31b500cd5530e3e81a73ba43b58369d237` | verbatim | 2026-08-14 | 2026-05-28 | 7 KB |
-| `layout-and-spacing.md` | `visual-brand/layout-and-spacing.md` | `cd751a9f2cc645d1444a9ce3466df2e0cd44661cc014552a010b17a5a5aadf3f` | verbatim | 2026-08-14 | 2026-05-28 | 15 KB |
+| `layout-and-spacing.md` | `visual-brand/layout-and-spacing.md` | `c0c1b5ef3b6a40784abf4910679f95373fece699c17a27fc3de063e493a79981` | verbatim | 2026-09-02 | 2026-09-02 | 15 KB |
 | `brand-shapes.md` | `visual-brand/brand-shapes.md` | `9b81d0def6e3b7bab77e92b9dda03cf84c9058e10ea5e37cba744d1ebfba42e3` | verbatim | 2026-08-14 | 2026-03-25 | 9 KB |
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `slide-layouts.md` | `visual-brand/slide-layouts.md` | `d591f386abfc5daab6f05f817bf45eedb73e2f4e162ac69ae561c47ef31f91d5` | verbatim | 2026-08-14 | 2026-03-25 | 14 KB |
+| `slide-layouts.md` | `visual-brand/slide-layouts.md` | `c263cd7ba14a46bd83acdeb68aa23d79fe968d08b9a072f94840f5880a893e95` | verbatim | 2026-09-02 | 2026-09-02 | 14 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `018e24a1ca1a0bc75e62f0e71cb38e46379636666dbc49d4d897b5ee9f3d434c` | converted | 2026-09-01 | 2026-09-01 | 13 KB |
+| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `b9c350caac4fa026f2024f82835acc29d856073847f20fc765e649fb6fddc1fc` | verbatim | 2026-09-02 | 2026-09-02 | 16 KB |
 
 ---
 

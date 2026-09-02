@@ -1,10 +1,8 @@
 # Corrections — Agent 9 — Brand Guardian
 
-**READ-ONLY SNAPSHOT.** Taken 2026-09-01 from the writable master at
-`learnings/agent-09-brand-guardian.md`, which lives outside every skill and only on the owner's machine.
-
-**You cannot log a correction here.** This copy is read-only by design. **Send corrections to Abid
-Siddiqui (abid.siddiqui@daxko.com)**, who records them in the master and republishes.
+**Created:** 2026-08-11
+**Owner:** Abid Siddiqui
+**Status:** WRITABLE MASTER — this is the real one.
 
 ---
 
@@ -81,3 +79,4 @@ flag exactly that.
 - [2026-09-01] [CORRECTION] SOURCES must now say when a read was PARTIAL ("— read in part: which sections"), must list the template and worked example used, and must state the skill version. Reason: a review cited master-icps.md flat in SOURCES having grepped roughly thirteen lines of it, which reads identically to having read the file end to end. A judgment resting on a fragment must not look like one resting on the whole file. The version matters because two copies of this skill can be installed under the same name and whichever wins is invisible to the reader. — Abid Siddiqui / 2026-09-01
 - [2026-09-01] [WIN] Routing fix confirmed under adversarial phrasing with the competitor live. With daxko-brand-qa ENABLED, all four phrasings routed to daxko-brand-guardian — including "brand check this landing page" (the exact phrase that caused the 2026-08-24 hijack) and "QA this copy" (which daxko-brand-qa's own description explicitly claims). Every run also named which skill answered and which reference files it opened versus deliberately left closed. — Abid Siddiqui / 2026-09-01
 - [2026-09-01] [PATTERN] Two installs of the same skill under the same name is a coin-flip the reader cannot see. The personal-skills copy wins over the plugin copy by default. They are byte-identical today; the moment the plugin is bumped and the symlinked master lags, a silently stale review is served with nothing in its output to reveal it. Also: in Claude Code the plugin is loaded @inline from disk, not from a registered marketplace, so Claude Code reach VIA THE MARKETPLACE is unproven and must not be inferred from a local test. — Abid Siddiqui / 2026-09-01
+- [2026-09-02] [CORRECTION] Söhne versus Barlow is settled: **Barlow**, with Arial as web-safe fallback only, per Clint Malson citing the Daxko Brand Standards. Söhne is prohibited everywhere — including the product-lockup text exception that logo-guidelines.md Don't 8 used to permit, which is now closed. Fixed AT SOURCE in visual-brand/slide-layouts.md, layout-and-spacing.md, logo-guidelines.md and patterns-and-imagery.md, then re-bundled and shipped as v1.6.0 — not patched in the skill body, which is what D14's own rule demands so the other 73 agents inherit the correction. The skill's conflict table no longer says "escalate to Clint Malson"; a Söhne specification is now a violation to flag. Closes decision D14. — Abid Siddiqui / Clint Malson / 2026-09-02

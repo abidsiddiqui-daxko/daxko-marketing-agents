@@ -2,6 +2,8 @@
 >
 > ✅ **VERIFIED 2026-08-14.** These files did not come from `drop-your-updated-files-here`, but they have been checked byte-for-byte against the `daxko-brand-design-system` skill that is live in Abid Siddiqui's Daxko claude.ai account, and they are IDENTICAL. Confirmed correct by Abid Siddiqui. Full provenance in `visual-brand/INDEX.md`.
 
+> 🟢 **TYPOGRAPHY CORRECTED 2026-09-02.** Söhne references in this file were replaced with **Barlow** (Arial as web-safe fallback only). Ruling: Clint Malson — *"Barlow is the correct font. Use the Daxko Brand Standards as your guide"* (Daxko Brand Standards, live.standards.site/daxko2025). This closes open decision **D14** in `registry/DECISIONS.md`. Söhne is no longer permitted anywhere, including the product-lockup exception previously carried in `logo-guidelines.md`.
+
 # Daxko Logo Guidelines
 
 ## Purpose
@@ -557,7 +559,7 @@ Claude must **never** do any of the following when handling the Daxko logo:
 5. **Don't crop any part of the logo.** Never use `overflow: hidden` on a container that would clip the logo. Never use `object-fit: cover` on the logo image.
 6. **Don't place on busy or cluttered backgrounds.** If the background has complex imagery, patterns, or multiple competing colors, add a solid or semi-transparent overlay behind the logo to ensure legibility.
 7. **Don't render smaller than minimum size.** The logo must be at least 80px wide on screen. The X mark alone must be at least 20px. If layout constraints would force it below this threshold, omit the logo or restructure the layout.
-8. **Don't alter the logo typeface.** Never attempt to recreate the "daxko" wordmark with a custom font rendering in the full logo lockup. When using the product lockup HTML pattern, the Sohne font is acceptable for the text portion only.
+8. **Don't alter the logo typeface.** Never attempt to recreate the "daxko" wordmark with a custom font rendering in the full logo lockup. The wordmark is set in **Barlow**. When using the product lockup HTML pattern, set the text portion in Barlow SemiBold 600 — Söhne is not permitted (corrected 2026-09-02).
 9. **Don't violate clear space.** No element (text, images, borders, decorations) may encroach within the 25%-of-logo-height clear space zone on any side.
 10. **Don't invent product names.** Only use product names from the Known Daxko Products table. If a product name is not listed, ask the user to confirm it.
 11. **Don't create custom X mark icons for products.** Every Daxko product uses the same X mark. There are no product-specific icons (no "Z" for Zenplanner, no "C" for Core, etc.). The X mark is universal across all products.

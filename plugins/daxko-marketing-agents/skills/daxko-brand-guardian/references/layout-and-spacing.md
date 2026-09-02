@@ -2,6 +2,8 @@
 >
 > ✅ **VERIFIED 2026-08-14.** These files did not come from `drop-your-updated-files-here`, but they have been checked byte-for-byte against the `daxko-brand-design-system` skill that is live in Abid Siddiqui's Daxko claude.ai account, and they are IDENTICAL. Confirmed correct by Abid Siddiqui. Full provenance in `visual-brand/INDEX.md`.
 
+> 🟢 **TYPOGRAPHY CORRECTED 2026-09-02.** Söhne references in this file were replaced with **Barlow** (Arial as web-safe fallback only). Ruling: Clint Malson — *"Barlow is the correct font. Use the Daxko Brand Standards as your guide"* (Daxko Brand Standards, live.standards.site/daxko2025). This closes open decision **D14** in `registry/DECISIONS.md`. Söhne is no longer permitted anywhere, including the product-lockup exception previously carried in `logo-guidelines.md`.
+
 # Daxko Brand Design System: Layout and Spacing Reference
 
 **Source:** https://live.standards.site/daxko2025/
@@ -145,7 +147,7 @@ Buttons in the Daxko system have a distinctive flat, square-cornered appearance.
 | Padding          | 15px top/bottom, 20px left/right |
 | Background       | `rgba(137, 137, 137, 0.15)` (#898989 at 15% opacity) |
 | Hover background | `rgba(137, 137, 137, 0.25)` (#898989 at 25% opacity) |
-| Font family      | Sohne Halbfett |
+| Font family      | Barlow SemiBold |
 | Font weight      | 600 |
 | Font size        | 14px |
 | Border radius    | **0** (square corners, intentional) |
@@ -163,7 +165,7 @@ Buttons in the Daxko system have a distinctive flat, square-cornered appearance.
   background: rgba(137, 137, 137, 0.15);
   border: none;
   border-radius: 0;
-  font-family: 'Sohne Halbfett', 'Sohne', sans-serif;
+  font-family: 'Barlow', Arial, sans-serif;
   font-weight: 600;
   font-size: 14px;
   color: inherit;
