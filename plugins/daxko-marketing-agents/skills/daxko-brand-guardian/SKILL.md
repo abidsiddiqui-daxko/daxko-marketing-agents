@@ -182,6 +182,12 @@ truncated, or otherwise contains no usable rules.** A file that opens successful
 it is the most dangerous case of all — it produces a confident review grounded in nothing. **Check
 that a file actually contains rules, not merely that it opened.**
 
+**Every one of those failure modes produces a refusal.** Exactly one of them — **absence**, the file
+not being in `references/` at all — may instead be resolved by the single checksum-verified
+substitution described below. **All the others refuse outright.** *(Scoped explicitly 2026-09-15: the
+substitution rule named only "missing", while this list names six ways to fail, leaving the rest
+undecided.)*
+
 If any **required** knowledge file is unusable, then:
 
 - **Produce no verdict.** No scorecard, no partial score, no "provisional" assessment.
@@ -194,11 +200,30 @@ If any **required** knowledge file is unusable, then:
 
 #### The ONE permitted substitution — a checksum-verified twin
 
-There is exactly one exception, and it is narrow on purpose. If a required file is missing from
-**this** install, you may read it from **another install of this same skill** — but only when **all
-four** of these hold:
+There is exactly one exception, and it is narrow on purpose. It applies **only when the required file
+is ABSENT** — not present in `references/` at all. You may then read it from **another install of this
+same skill** — but only when **all four** of these hold:
 
-1. It has the **same filename**, in the same `references/` position.
+> 🔴 **A file that is PRESENT but EMPTY, TRUNCATED, or otherwise contains no usable rules is NOT
+> substitutable. STOP and refuse.** This exception covers **absence only.**
+>
+> **Why the distinction is not pedantry.** An absent file means the bundle is *incomplete* — something
+> failed to copy, and the twin is the same bundle's missing piece. A file that is present but empty
+> means the bundle is **damaged in place**: something wrote to it, truncated it, or corrupted it, and
+> you do not know what else in this install that same event touched. Reaching for a twin then is
+> treating evidence of corruption as a delivery problem.
+>
+> **This is a decision, not an oversight.** The previous wording said only "missing from this install"
+> while the unusable list above names six failure modes including *empty*, leaving empty-but-present
+> undecided. A regression run on 2026-09-15 proved both readings were defensible and that the
+> substitution **would have succeeded technically** — the twin's SHA-256 matched the MANIFEST row
+> exactly. So a reviewer taking the permissive reading would have returned a **full, APPROVED-eligible
+> review** on an install whose most authoritative file had been zeroed out. That is precisely the
+> "confident review grounded in nothing" this whole rule exists to prevent. Settled here, explicitly:
+> **absent → substitution may apply · present but unusable → refuse.**
+
+1. The file is **ABSENT from this install's `references/`** — not present-but-empty, not
+   present-but-truncated.
 2. It sits inside **another install of this same skill at this same version** — the plugin copy, or the
    personal-skills copy. Not somewhere that merely happens to hold a file with that name.
 3. Its **SHA-256 matches the `source_checksum` recorded for that file in `references/MANIFEST.md`.**
@@ -364,7 +389,7 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.6.1** — report this in SOURCES. If the plugin manifest says a different version,
+> **SKILL VERSION: 1.6.2** — report this in SOURCES. If the plugin manifest says a different version,
 > the two installed copies have drifted and you must say so above the verdict.
 
 ```

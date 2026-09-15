@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-02 (v1.6.1 — SKILL.md version line and three stale "as of" dates corrected; corrections snapshot 22 → 29) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-16 (v1.6.2 — corrections snapshot refreshed to 35 entries; no reference file changed, so all other rows are unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
 
 **What the columns mean**
 
@@ -38,7 +38,7 @@
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `slide-layouts.md` | `visual-brand/slide-layouts.md` | `c263cd7ba14a46bd83acdeb68aa23d79fe968d08b9a072f94840f5880a893e95` | verbatim | 2026-09-02 | 2026-09-02 | 14 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `213c9ed56c4688bfb0ddc2220262e212d5a49a908e8a96a9a289e6120471b007` | verbatim | 2026-09-02 | 2026-09-02 | 22 KB |
+| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `81ab1b7e396812841c6b9d9f18512c1a0ae4e7211c9541ebecd7bbdb275761af` | converted | 2026-09-16 | 2026-09-16 | 29 KB |
 
 ---
 
@@ -64,6 +64,24 @@ row above has been set to **2026-08-17**, the date the content actually last cha
 SOURCES block does not tell a reader they are looking at pre-correction content. **The source file's
 header and change log should be corrected to match.** Until they are, the source understates its own
 currency by seven days.
+
+> 🟢 **Fixed 2026-09-15 — this MANIFEST was describing behaviour that was not happening.** Two places
+> below said the snapshot's fidelity is `converted` because "the header is replaced at bundling time so
+> the shipped copy does not claim to be the writable master." **The header was never actually replaced.**
+> The row above said `verbatim`, and both bundled copies still opened with *"Status: WRITABLE MASTER —
+> this is the real one"*, followed by instructions on how to append a correction — to a file that is
+> read-only for every person who receives it. A teammate who followed it would have written a correction
+> into a file that is overwritten at the next update, and it would have been lost silently.
+>
+> The master's bundled copy has now been regenerated with the header genuinely replaced and the
+> "How to add a correction" section removed, and this row is updated to `converted` with a new checksum.
+> **The SHIPPED copy still carries the old header** — it changes at the next publish, because editing a
+> shipped file without a version bump is what non-negotiable 25 forbids.
+>
+> Also fixed in the same pass: the master's bundled snapshot was at **22** correction entries while the
+> shipped copy was at **29** — the master was *behind* what teammates already had. A publish would have
+> silently rolled teammates back seven corrections. It is now at **33**, matching the writable master.
+> **Always check which copy is behind before copying one over the other.**
 
 ## Note on `corrections-snapshot.md`
 
