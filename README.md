@@ -2,7 +2,12 @@
 
 Daxko's AI-first GTM agents for the marketing team, packaged as a Claude Code plugin.
 
-**Version 1.0.0** · published 2026-08-19 · owner: Abid Siddiqui (abid.siddiqui@daxko.com)
+owner: Abid Siddiqui (abid.siddiqui@daxko.com)
+
+> **The current version lives in exactly one place — `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`.**
+> It is deliberately not repeated here. *(Corrected 2026-09-15: this line said "Version 1.0.0 · published
+> 2026-08-19" and had been wrong through six releases — a version copied into a second file goes stale on
+> the next bump, and this is the file colleagues read.)*
 
 ---
 
@@ -30,10 +35,12 @@ Then:
 /plugin install daxko-marketing-agents
 ```
 
-Restart Claude Code. Confirm it worked with `/plugin` — `daxko-marketing-agents` should be listed as
-installed, version 1.0.0.
+Restart Claude Code. Confirm it worked — `daxko-marketing-agents` should be listed as installed.
+**Note the version number it shows you and send it to Abid**, so he can confirm you are on the current
+one. Do not check it against a number written in this file; the only place a version is correct is
+`plugin.json`.
 
-**Updates arrive on their own.** When a new version is published you get it without removing and
+**Updates are EXPECTED to arrive on their own — and we verify it per release rather than claiming it.** When a new version is published you get it without removing and
 re-adding anything — that is the whole reason this exists as a plugin rather than a zip you have to
 keep re-downloading.
 
