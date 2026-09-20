@@ -52,7 +52,7 @@ Worth keeping.
 - references/brand-guidelines.md (as of 2026-08-11)
 - references/brand-foundations.md (as of 2026-08-05)
 - references/banned-words.md (as of 2026-08-05)
-- references/nonprofit-playbook.md (as of 2026-08-10)
+- references/nonprofit-playbook.md (as of 2026-08-17)
 - Corrections: 1 entry found in references/corrections-snapshot.md (as of 2026-08-11)
 
 ---

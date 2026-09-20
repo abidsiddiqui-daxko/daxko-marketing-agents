@@ -87,8 +87,8 @@ Not a design. Producing or redesigning the asset belongs to **Agent 29 — UX/UI
 - references/brand-guidelines.md (as of 2026-08-11)
 - references/brand-foundations.md (as of 2026-08-05)
 - references/banned-words.md (as of 2026-08-05)
-- references/logo-guidelines.md (as of 2026-05-28)
-- references/slide-layouts.md (as of 2026-03-25)
+- references/logo-guidelines.md (as of 2026-09-02)
+- references/slide-layouts.md (as of 2026-09-02)
 - Attempted: references/color-system.md — **NOT FOUND**
 - Corrections: 3 entries found in references/corrections-snapshot.md (as of 2026-08-17)
 

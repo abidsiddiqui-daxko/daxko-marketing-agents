@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-16 (v1.6.2 — corrections snapshot refreshed to 35 entries; no reference file changed, so all other rows are unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-21 (v1.7.0 — `brand-guidelines.md` re-bundled after its source was corrected on 2026-09-16; corrections snapshot refreshed 35 → 45 entries; all other rows unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
 
 **What the columns mean**
 
@@ -23,7 +23,7 @@
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
-| `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `fd2fc834f93ebc1628f4b6ba1b0882316b5f9b4f6eae3075ded4c70c842679d9` | verbatim | 2026-08-14 | 2026-08-11 | 13 KB |
+| `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `5996cac62b893476c8bf23f98e23b4cdf2af86e4cd7573e776d951457f8c9599` | verbatim | 2026-09-21 | **2026-09-16** | 14 KB |
 | `brand-foundations.md` | `knowledge-base/brand-foundations.md` | `c3f994e60a60a412fa821c38f2b19c93bba0ea7bc023a869a97f13b024992b1f` | verbatim | 2026-08-14 | 2026-08-05 | 8 KB |
 | `banned-words.md` | `knowledge-base/banned-words.md` | `e6c785099915cc77c08d88b66777c52a9eeb375136487f17bd030b04e5bd04ea` | verbatim | 2026-08-14 | 2026-08-05 | 6 KB |
 | `master-icps.md` | `knowledge-base/master-icps.md` | `06f2906660aee9d6144d8bd37d7c9f7db8a079e32e2653b748291a165ec3f27a` | verbatim | 2026-08-14 | 2026-08-05 | 19 KB |
@@ -38,7 +38,7 @@
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `slide-layouts.md` | `visual-brand/slide-layouts.md` | `c263cd7ba14a46bd83acdeb68aa23d79fe968d08b9a072f94840f5880a893e95` | verbatim | 2026-09-02 | 2026-09-02 | 14 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `81ab1b7e396812841c6b9d9f18512c1a0ae4e7211c9541ebecd7bbdb275761af` | converted | 2026-09-16 | 2026-09-16 | 29 KB |
+| `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `bb12e64854a8d9c5c083afa2702492b979123138483614cc532a490d53d3b671` | converted | 2026-09-21 | 2026-09-21 | 42 KB |
 
 ---
 
@@ -80,7 +80,7 @@ currency by seven days.
 >
 > Also fixed in the same pass: the master's bundled snapshot was at **22** correction entries while the
 > shipped copy was at **29** — the master was *behind* what teammates already had. A publish would have
-> silently rolled teammates back seven corrections. It is now at **33**, matching the writable master.
+> silently rolled teammates back seven corrections. It is now at **45**, matching the writable master.
 > **Always check which copy is behind before copying one over the other.**
 
 ## Note on `corrections-snapshot.md`

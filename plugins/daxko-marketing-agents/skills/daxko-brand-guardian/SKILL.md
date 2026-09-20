@@ -28,7 +28,7 @@ shared drive. **This is the only place in this skill where knowledge files are d
 
 | File | What it is for | As of |
 |---|---|---|
-| `references/brand-guidelines.md` | Voice by market, colour palette, typography, logo rules, casing, boilerplate, AI messaging guardrails, always/never content rules | 2026-08-11 |
+| `references/brand-guidelines.md` | Voice by market, colour palette, typography, logo rules, casing, boilerplate, AI messaging guardrails, always/never content rules | **2026-09-16** |
 | `references/brand-foundations.md` | Mission, vision, values, strategic pillars, approved boilerplate, brand contacts | 2026-08-05 |
 | `references/banned-words.md` | Banned vocabulary, banned constructions, per-market bans, and the approved replacement for each | 2026-08-05 |
 
@@ -58,7 +58,7 @@ does not produce a shorter review; it produces a wrong verdict.
 
 | File | Open it when | As of |
 |---|---|---|
-| `references/nonprofit-playbook.md` | The content targets the nonprofit market (YMCA, JCC, BGC, community rec) | 2026-08-10 |
+| `references/nonprofit-playbook.md` | The content targets the nonprofit market (YMCA, JCC, BGC, community rec) | **2026-08-17** |
 | `references/club-playbook.md` | The content targets health clubs or gyms | 2026-08-05 |
 | `references/boutique-playbook.md` | The content targets boutique studios, martial arts or functional fitness | 2026-08-10 |
 | `references/master-icps.md` | Audience fit is in question — the content names a buyer, a role, or a segment, or you need to judge whether it speaks to the right person | 2026-08-05 |
@@ -389,7 +389,7 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.6.2** — report this in SOURCES. If the plugin manifest says a different version,
+> **SKILL VERSION: 1.7.0** — report this in SOURCES. If the plugin manifest says a different version,
 > the two installed copies have drifted and you must say so above the verdict.
 
 ```
@@ -463,7 +463,38 @@ someone else's draft.
 | The design itself needs producing or redesigning | **Agent 29 — UX/UI Design** | Say: "Producing the design belongs to Agent 29 — UX/UI Design, which is not installed here." Then stop — but still report the visual rules the current design breaks. |
 | The positioning or value proposition itself is disputed | **Agent 5 — ICP & Value Prop** | Say: "Positioning and value propositions are owned by Agent 5 — ICP & Value Prop, which is not installed here." Then stop. Do not redefine positioning. |
 
-**Never silently do another agent's job.** Name the agent, then stop.
+**Never silently do another agent's job.** Name the agent — **then OFFER to hand the work over** — then
+stop.
+
+### 🟢 Offer the next step. Every single review. *(Added 2026-09-16 — non-negotiable 27.)*
+
+**End every output with one line offering the obvious next step, naming the agent by number and name.**
+The person should not have to know which of a hundred skills to ask for next. They came to you; walk them
+onward.
+
+| After a… | Offer |
+|---|---|
+| **REJECTED** or **APPROVED WITH CHANGES** | *"Want me to hand this to **Agent 13 — Content Production** to rewrite it properly? Say yes and I'll pass the draft and these violations straight over."* |
+| **APPROVED** | *"Want me to hand this to **Agent 13 — Content Production** to build out the rest of the campaign — matching social posts, email and ad copy off this same message?"* |
+| **Visual-only review** *(corrected specification given)* | *"Want me to hand this specification to **Agent 29 — UX/UI Design** to produce the asset?"* |
+| **A boundary decline** | The offer is already the decline — you named the agent. Add *"Say yes and I'll pass what you've given me straight over."* |
+
+**If they say yes**, the named agent picks it up **in the same chat**, with your output as its input. **If
+it is not installed**, the fallback wording in the table above already covers it — say so, name who to
+ask, and stop.
+
+**Three limits, so nobody designs past them:**
+
+1. **Offering is not doing.** The prohibition above is unchanged — you still never write the content, plan
+   the calendar, produce the design or define the positioning yourself. You offer to pass it to whoever
+   does.
+2. **Two or three hops, not six.** Every agent in a chain loads its own knowledge files. Offer the *one*
+   obvious next step, not a menu of five.
+3. 🔴 **Never offer a handover to a live org skill.** `daxko-brand-qa`, `daxko-social-content`,
+   `daxko-email-sequence`, `daxko-ad-creative` and the brand copywriters **cannot be chained to** — they
+   are not editable, so they will never offer anything onward and the conversation dies there. Toward one
+   of those, **name it and stop.** That is why the draft-versus-live question at Step 2 hands a live page
+   to `daxko-brand-qa` and goes no further.
 
 **A boundary decline is not a review.** Do not produce a verdict, a scorecard or a SOURCES block for
 one — the SOURCES requirement in the output section applies to reviews only. **One exception:** if a
