@@ -1,6 +1,6 @@
 {
   "name": "daxko-marketing-agents",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "Brand and content skills for the Daxko marketing team. Ships two agents. Agent 9 - Brand Guardian REVIEWS unpublished marketing drafts - copy, email, social post, slide, ad or landing-page copy not yet built - against Daxko's official brand guidelines, returning a verdict, a six-part scorecard, every violation tied to the rule and the file it breaks, line-by-line fixes and a corrected rewrite. It reviews content; it does not write it. Agent 13 - Content Production WRITES a complete multi-channel content package for one launch, announcement or campaign: several different kinds of asset drafted together from one locked core message, with a report on where the pieces agree and where they deliberately differ. It writes sets, not single pieces. NOT for auditing a page that is already live or on staging - that is daxko-brand-qa. NOT for a single asset, a content calendar, or a launch plan.",
   "author": {
     "name": "Abid Siddiqui",

@@ -68,7 +68,7 @@ does not produce a shorter review; it produces a wrong verdict.
 | `references/layout-and-spacing.md` | Layout, grid, margins or spacing are in question | **2026-09-02** |
 | `references/brand-shapes.md` | Shapes or decorative geometry appear | 2026-03-25 |
 | `references/brand-patterns.md` | Background patterns or textures appear | 2026-03-25 |
-| `references/slide-layouts.md` | A slide or deck is being reviewed | **2026-09-02** |
+| `references/slide-layouts.md` | A slide or deck is being reviewed | **2026-09-16** |
 | `references/photography-layout.md` | A photo or image treatment is involved | 2026-03-25 |
 
 ### Corrections — optional, read first
@@ -389,7 +389,7 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.1** — report this in SOURCES. If the plugin manifest says a different version,
+> **SKILL VERSION: 1.7.2** — report this in SOURCES. If the plugin manifest says a different version,
 > the two installed copies have drifted and you must say so above the verdict.
 
 ```

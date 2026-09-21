@@ -118,7 +118,8 @@ Replace the straight column edge with a large curved white mask that sweeps from
 - Inactive donut track: `#E0E0E0`
 - CTA button: Vitality gradient fill, white text, square corners, 180×50px
 - **Top-right corner**: Shape cluster (see `brand-patterns.md` → Pattern Cluster Mode)
-- Logo: Bottom-left, full-color, 60px wide
+- Logo: Bottom-left, full-color, **80px wide**  
+  🟢 *Corrected 2026-09-16: this read **60px wide**, which is below the 80px digital minimum stated in `logo-guidelines.md` ("Digital (screen) | 80px") and repeated in its Don't 7 — "Don't render smaller than minimum size... If layout constraints would force it below this threshold, omit the logo or restructure the layout." Two source files disagreeing on a number an agent enforces is a **source defect**, not something to patch inside a skill (non-negotiable 17). The conflict table did resolve it in the agent's favour — logo rules → `logo-guidelines.md` — but the table does not name this pair, and a reviewer could reasonably read this file as the authority on slides. Found by the G15 run of 2026-09-16.*
 - Copyright line: `© 2025 Daxko`, 10pt, `#595959`
 
 **Donut chart HTML:**

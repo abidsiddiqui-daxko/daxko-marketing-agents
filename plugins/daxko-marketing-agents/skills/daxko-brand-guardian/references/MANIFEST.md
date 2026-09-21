@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-21 (v1.7.0 — `brand-guidelines.md` re-bundled after its source was corrected on 2026-09-16; corrections snapshot refreshed 35 → 45 entries; all other rows unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-09-21 (v1.7.2 — `slide-layouts.md` re-bundled after its source was corrected on 2026-09-16: title-slide logo minimum was wrongly stated as 60px, corrected to the 80px digital minimum in `logo-guidelines.md`; `brand-guidelines.md` re-bundled after its source was corrected on 2026-09-16; corrections snapshot refreshed 35 → 45 entries; all other rows unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
 
 **What the columns mean**
 
@@ -36,7 +36,7 @@
 | `layout-and-spacing.md` | `visual-brand/layout-and-spacing.md` | `c0c1b5ef3b6a40784abf4910679f95373fece699c17a27fc3de063e493a79981` | verbatim | 2026-09-02 | 2026-09-02 | 15 KB |
 | `brand-shapes.md` | `visual-brand/brand-shapes.md` | `9b81d0def6e3b7bab77e92b9dda03cf84c9058e10ea5e37cba744d1ebfba42e3` | verbatim | 2026-08-14 | 2026-03-25 | 9 KB |
 | `brand-patterns.md` | `visual-brand/brand-patterns.md` | `f3c928803912e81ad76aaf18fb0f84522e1f0064518f92970c03929042e203a2` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
-| `slide-layouts.md` | `visual-brand/slide-layouts.md` | `c263cd7ba14a46bd83acdeb68aa23d79fe968d08b9a072f94840f5880a893e95` | verbatim | 2026-09-02 | 2026-09-02 | 14 KB |
+| `slide-layouts.md` | `visual-brand/slide-layouts.md` | `19031514a730a34ddc54026f98e47e3eceb9681ae25200d2fe11e5d00c20d7d9` | verbatim | 2026-09-21 | **2026-09-16** | 16 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `bb12e64854a8d9c5c083afa2702492b979123138483614cc532a490d53d3b671` | converted | 2026-09-21 | 2026-09-21 | 42 KB |
 
