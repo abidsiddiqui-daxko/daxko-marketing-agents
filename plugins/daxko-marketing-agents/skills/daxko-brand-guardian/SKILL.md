@@ -389,7 +389,7 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.3** — report this in SOURCES. If the plugin manifest says a different version,
+> **SKILL VERSION: 1.7.4** — report this in SOURCES. If the plugin manifest says a different version,
 > the two installed copies have drifted and you must say so above the verdict.
 
 ```
