@@ -132,7 +132,7 @@ to long-term student. 2 clicks to set up."
 ### Theme 1: "Built for the Mat, Not the Salon"
 - **Angle:** Your software should understand belt ranks, not hair appointments
 - **Proof:** Native belt tracking, family billing, tournament management
-- **CTA:** Free trial — see belt tracking in action
+- **CTA:** Book a demo — see belt tracking in action ⚠️ **Zen Planner has NO free trial. Never imply or promise one** (see this file's 2026 Updates, boutique-playbook.md and boutique-learnings.md 2026-05-04) *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 - **Target:** Studios currently on Mindbody or generic platforms
 
 ### Theme 2: "Your Family Business Deserves Family Software"

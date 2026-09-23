@@ -100,7 +100,7 @@ These words are prohibited across all Daxko marketing content:
 
 **Required framing (Boutique market):**
 - Always highlight "taking admin off your plate" or equivalent owner-time-back angle
-- Always reference specific proof points (e.g., 62M workouts logged on SugarWOD; CrossFit 1926 +$10,690 revenue with Flex Fees)
+- Always reference specific proof points (e.g., 62M workouts logged on SugarWOD; CrossFit 1926 grew revenue $10,690.08 with **Flex Fees contributing $2,404.41 of that, 22.5%** — cite the itemised split, never the total, because crediting Flex Fees with the whole increase overstates it 4.4x) *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 
 ## Club-Specific Bans
 

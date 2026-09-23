@@ -258,7 +258,7 @@ tier. Do not convert one into a product name.*
 ## Proof Points by Market
 
 ### Daxko Global Scale
-- ~19,000 facilities, 25M+ members, 55 countries, 700+ team members, 3,000+ mission-driven organizations
+- ~19,000 facilities, 20M+ members, 55 countries, 700+ team members, 3,000+ mission-driven organizations
 
 ### Nonprofit
 - **Edgar May Community Center:** After switching to Daxko: +41% registrations, +314% donations, +11% memberships

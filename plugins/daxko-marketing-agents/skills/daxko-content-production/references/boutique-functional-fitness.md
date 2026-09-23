@@ -107,9 +107,9 @@ Wodify talks about a growth roadmap, but it's unproven — you'd be betting on p
 ## Proof Points
 
 ### CrossFit 1926 — Flex Fees Success Story
-- **Result:** $10,690 in revenue growth
+- **Result:** $10,690.08 in total revenue growth, of which **Flex Fees contributed $2,404.41 (22.5%)** *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 - **Context:** Achieved DESPITE a 4% membership decline
-- **How:** Flex Fees (Daxko Payments integration) recovered failed payments automatically
+- **How:** Flex Fees passes card and ACH transaction costs to the member at the point of payment, so the studio's margin stops absorbing the processing fee. **It does NOT recover failed payments** — that is Revenue Recovery Services / Zen Planner Revenue Recovery, a separate product *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 - **Talk track:** "CrossFit 1926 grew revenue by $10,690 even while membership dropped 4%.
   How? Flex Fees caught the failed payments that were silently bleeding revenue every month.
   Most gym owners don't even know how much they're losing to payment failures."

@@ -22,25 +22,25 @@
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
-| `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `5996cac62b893476c8bf23f98e23b4cdf2af86e4cd7573e776d951457f8c9599` | verbatim | 2026-09-17 | **2026-09-16** | 14 KB |
+| `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `e49957279b3a4a151073cae64085e7b5d3bef7f49bd3d89ba4db21599fa95aa7` | verbatim | 2026-09-17 | **2026-09-16** | 14 KB |
 | `brand-foundations.md` | `knowledge-base/brand-foundations.md` | `c3f994e60a60a412fa821c38f2b19c93bba0ea7bc023a869a97f13b024992b1f` | verbatim | 2026-09-17 | 2026-08-05 | 9 KB |
-| `banned-words.md` | `knowledge-base/banned-words.md` | `e6c785099915cc77c08d88b66777c52a9eeb375136487f17bd030b04e5bd04ea` | verbatim | 2026-09-17 | 2026-08-05 | 6 KB |
+| `banned-words.md` | `knowledge-base/banned-words.md` | `510ff56acb1977d95916dc09679fab3c91bbe212c186d975ea2309c9b21cb7f7` | verbatim | 2026-09-17 | 2026-08-05 | 6 KB |
 | `okrs-and-priorities.md` | `knowledge-base/okrs-and-priorities.md` | `52d169ac5aa287cda7315cb75937a362680ce18be1014d7c5125e4bdf32ef5cf` | verbatim | 2026-09-17 | 2026-08-11 | 12 KB |
 | `master-icps.md` | `knowledge-base/master-icps.md` | `06f2906660aee9d6144d8bd37d7c9f7db8a079e32e2653b748291a165ec3f27a` | verbatim | 2026-09-17 | 2026-08-05 | 19 KB |
-| `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `832c3e5c9d8f74b844864b945b7b8f9433aab89f86f75218753b3e856e469f72` | verbatim | 2026-09-18 | **2026-09-18** | 22 KB |
+| `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `4d3d9d6ff9c166e04e40d468d4a56be5360b3a3196476ce39b10c7a53444b1a6` | verbatim | 2026-09-18 | **2026-09-18** | 22 KB |
 | `competitive-intel.md` | `knowledge-base/competitive-intel.md` | `d98a0576ad8bedf21e91b5debc6cf847e515389f4844940904e17a3588d4518b` | verbatim | 2026-09-17 | 2026-08-05 | 31 KB |
 | `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `38cbf7152ec18875cd3f2c388b545699f32614f144de17b02b06d6d5c91cf279` | verbatim | 2026-09-17 | **2026-08-17** | 31 KB |
-| `club-playbook.md` | `verticals/club-playbook.md` | `ea23337e4173d62fbfd5d44bb7c769d6422631d4bae0989e221921ea1605831a` | verbatim | 2026-09-17 | 2026-08-05 | 16 KB |
-| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `3e20ec2b7bb9d7d196fdcc86acf3289e6c5df93a55a477a3d69f2708a4332622` | verbatim | 2026-09-17 | 2026-08-10 | 29 KB |
+| `club-playbook.md` | `verticals/club-playbook.md` | `31dbb5897a42ee0a3e1f3fb8b7d9bc9a3d0b4060bd051af2dae00c4dae31c475` | verbatim | 2026-09-17 | 2026-08-05 | 16 KB |
+| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `eaa5b4182ce8a4f6f6cf39684ef5bca4b79d918cc9c8118916040ab5d9391c1b` | verbatim | 2026-09-17 | 2026-08-10 | 29 KB |
 | `nonprofit-learnings.md` | `verticals/nonprofit-learnings.md` | `71deb914759481cf68ffdfb47c1eb8d34efdfbf936c296eff0a9e2b10ac73357` | verbatim | 2026-09-17 | 2026-08-05 | 3 KB |
 | `club-learnings.md` | `verticals/club-learnings.md` | `dd3b74574fc03522ce0ef0c48c06894e17de4f29af72f9db6fc01f33865cc071` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
-| `nonprofit-ymca-playbook.md` | `verticals/nonprofit-ymca-playbook.md` | `f78af8b9cd64d5bc4da0029fbcdb7eb6126f43d686d226095521e584a46d4583` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
+| `nonprofit-ymca-playbook.md` | `verticals/nonprofit-ymca-playbook.md` | `25d7bbbdc600339908fedfeba080d1ec34f50f4c210889c15a6cb90705ec76e2` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
 | `nonprofit-jcc-playbook.md` | `verticals/nonprofit-jcc-playbook.md` | `d95e37e9d56c6bd7d60aac05483aa2a29ba21f37e4eea447d4e89c32c295ee26` | verbatim | 2026-09-17 | 2026-08-05 | 19 KB |
 | `nonprofit-bgc-playbook.md` | `verticals/nonprofit-bgc-playbook.md` | `10455dcd75d979947ea7da1032411783266896f334c37e06ec4b70bf6e38831b` | verbatim | 2026-09-17 | 2026-08-05 | 18 KB |
-| `club-sss-revenue-model.md` | `verticals/club-sss-revenue-model.md` | `e6f28cc84382cb35a53193d537f755fac9a0e644a3da9c4a1dc634114af1e79a` | verbatim | 2026-09-17 | 2026-08-05 | 12 KB |
-| `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `25a5ce90e96c1d5132d3a94adc96b3e7882d453e0118c214eb869697a45c5744` | verbatim | 2026-09-17 | 2026-08-05 | 16 KB |
-| `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `a2e896aff37d070a8bb779fbdac16878f7c1177fb493b7a89e3104b0bbcda537` | verbatim | 2026-09-17 | 2026-08-05 | 22 KB |
+| `club-sss-revenue-model.md` | `verticals/club-sss-revenue-model.md` | `9098c23bb01470232f82020cd288b6aeb2cdca6d9b29c59e3abf9bb30048fde1` | verbatim | 2026-09-17 | 2026-08-05 | 12 KB |
+| `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-09-17 | 2026-08-05 | 16 KB |
+| `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `d90be4b2f416df0658f01fc9afd1c0d2ed3cb97d03f8e2ebd8f1dd2cc897cfac` | verbatim | 2026-09-17 | 2026-08-05 | 22 KB |
 | `corrections-snapshot.md` | `learnings/agent-13-content-production.md` | `2471f0dec9e53b5d010d3ad143ad213fd8a90ac22c587a97be2d4a719af27488` | converted | 2026-09-21 | 2026-09-21 | 3 KB |
 
 **20 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge. Any

@@ -23,13 +23,13 @@
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
-| `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `5996cac62b893476c8bf23f98e23b4cdf2af86e4cd7573e776d951457f8c9599` | verbatim | 2026-09-21 | **2026-09-16** | 14 KB |
+| `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `e49957279b3a4a151073cae64085e7b5d3bef7f49bd3d89ba4db21599fa95aa7` | verbatim | 2026-09-21 | **2026-09-16** | 14 KB |
 | `brand-foundations.md` | `knowledge-base/brand-foundations.md` | `c3f994e60a60a412fa821c38f2b19c93bba0ea7bc023a869a97f13b024992b1f` | verbatim | 2026-08-14 | 2026-08-05 | 8 KB |
-| `banned-words.md` | `knowledge-base/banned-words.md` | `e6c785099915cc77c08d88b66777c52a9eeb375136487f17bd030b04e5bd04ea` | verbatim | 2026-08-14 | 2026-08-05 | 6 KB |
+| `banned-words.md` | `knowledge-base/banned-words.md` | `510ff56acb1977d95916dc09679fab3c91bbe212c186d975ea2309c9b21cb7f7` | verbatim | 2026-08-14 | 2026-08-05 | 6 KB |
 | `master-icps.md` | `knowledge-base/master-icps.md` | `06f2906660aee9d6144d8bd37d7c9f7db8a079e32e2653b748291a165ec3f27a` | verbatim | 2026-08-14 | 2026-08-05 | 19 KB |
 | `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `38cbf7152ec18875cd3f2c388b545699f32614f144de17b02b06d6d5c91cf279` | verbatim | 2026-08-19 | 2026-08-17 | 30 KB |
-| `club-playbook.md` | `verticals/club-playbook.md` | `ea23337e4173d62fbfd5d44bb7c769d6422631d4bae0989e221921ea1605831a` | verbatim | 2026-08-14 | 2026-08-05 | 16 KB |
-| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `3e20ec2b7bb9d7d196fdcc86acf3289e6c5df93a55a477a3d69f2708a4332622` | verbatim | 2026-08-14 | 2026-08-10 | 28 KB |
+| `club-playbook.md` | `verticals/club-playbook.md` | `31dbb5897a42ee0a3e1f3fb8b7d9bc9a3d0b4060bd051af2dae00c4dae31c475` | verbatim | 2026-08-14 | 2026-08-05 | 16 KB |
+| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `eaa5b4182ce8a4f6f6cf39684ef5bca4b79d918cc9c8118916040ab5d9391c1b` | verbatim | 2026-08-14 | 2026-08-10 | 28 KB |
 | `color-system.md` | `visual-brand/color-system.md` | `b3deb87185aa88bbd0a231c3b0c5facb0706f53ee07091649cb18604c7a828b2` | verbatim | 2026-08-14 | 2026-05-28 | 24 KB |
 | `logo-guidelines.md` | `visual-brand/logo-guidelines.md` | `65a68080ff94c6daa4b0a150ab9284236b82b305d6f9114436f9dda1e28ea208` | verbatim | 2026-09-02 | 2026-09-02 | 20 KB |
 | `typography-system.md` | `visual-brand/typography-system.md` | `c5b7dd44867ee989027c210db9ee8e31b500cd5530e3e81a73ba43b58369d237` | verbatim | 2026-08-14 | 2026-05-28 | 7 KB |

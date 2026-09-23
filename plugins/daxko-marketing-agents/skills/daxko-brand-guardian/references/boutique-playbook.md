@@ -108,7 +108,7 @@ pipeline generation, and market positioning for Daxko's Boutique vertical.
 |------|---------|-----------|---------|
 | Tier 1 — Small Chains (5-15 sites) | Standardize, prepare for growth | "Scale without adding headcount — one dashboard, every location" | ZP + Engage bundle |
 | Tier 2 — Flagship Single-Site (300+ members) | Deepen engagement, diversify revenue | "The all-in-one toolkit to run your fitness hub and keep members coming back" | ZP with optional Engage upsell |
-| Tier 3 — Start-Up Studios (<300 members) | Launch quickly, prove model, grow | "Start free, automate the admin, and grow on autopilot" | ZP full onboarding (no trial available) |
+| Tier 3 — Start-Up Studios (<300 members) | Launch quickly, prove model, grow | "Automate the admin and grow *(⚠️ "Start free" removed 2026-09-22 — Zen Planner has no free trial and the phrase implies one; corrected form taken from master-icps.md)*" | ZP full onboarding (no trial available) |
 
 ---
 
@@ -214,15 +214,15 @@ SugarWOD is not just a feature — it is a direct relationship with CrossFit and
 **Tagline:** "Unleash Your Potential"
 
 **Key differentiators vs. field:**
-- Campaign Marketplace: 100+ pre-built campaigns, 2-click setup → 33% membership growth in 90 days
+- Campaign Marketplace: 100+ pre-built campaigns, 2-click setup → up to 33% membership growth in the first 90 days *(bounded wording is the approved form — `product-knowledge.md` states it as a ceiling, and no file names a customer or sample size behind it; corrected 2026-09-22)*
 - Dedicated 1:1 expert onboarding (vs. PushPress DIY forums)
 - SugarWOD native integration (80,000+ reviews, 4.9 Apple rating)
 - Engage AI suite ($199/month unlimited: Voice, Conversation, Workflow, Content, Reviews AI)
 - Transparent $99/month pricing (vs. Mindbody opacity + 20% marketplace fee)
 
 **Key proof points:**
-- CrossFit 1926: +$10,690 revenue despite 4% membership decline (Flex Fees)
-- Campaign Marketplace: 33% membership growth in 90 days
+- CrossFit 1926: revenue grew $10,690.08 despite 4% membership decline — **Flex Fees contributed $2,404.41, 22.5% of the increase.** Cite the split, not the total *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
+- Campaign Marketplace: up to 33% membership growth in the first 90 days *(bounded wording is the approved form — `product-knowledge.md` states it as a ceiling, and no file names a customer or sample size behind it; corrected 2026-09-22)*
 
 ---
 

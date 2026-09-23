@@ -68,7 +68,7 @@ Flex Fees are a revenue driver that passes transaction processing costs to membe
 | "Switching is risky" | Daxko handles migration with dedicated payments team. No gap in processing |
 | "We'll lose next-day funding" | Daxko offers competitive funding timelines with integrated reporting advantage |
 | "Members will push back on Flex Fees" | Industry adoption is accelerating. Most members don't notice or accept it. College Park saw no material pushback |
-| "Our rates are already competitive" | It's not just rates — it's recovery. +5% card approval reclaims revenue you're currently losing |
+| "Our rates are already competitive" | It's not just rates — it's recovery. **Daxko's 2026 target is a 5% card approval improvement by Dec 31 2026** — a company target we are working to, never a result a club has already banked. Do not state it as an outcome the customer will receive *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)* |
 
 ---
 

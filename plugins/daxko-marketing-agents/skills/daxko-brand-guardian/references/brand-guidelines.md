@@ -203,6 +203,25 @@ Daxko is embedding AI directly into the operational systems customers already tr
 
 ## Carried Forward From the Previous Version (final pass)
 
+> 🔴 **[2026-09-22] THESE SECTIONS ARE CURRENT INSTRUCTION. The heading records where the text came
+> from, not whether it still binds.** Everything below — *Tone by Content Type*, *Words We Use / Words
+> We Avoid*, *Content Guardrails Always / Never*, *AI Content Guardrails*, *Content Approval Chain* —
+> is the **only** statement of those rules anywhere. Nothing above this line supersedes them.
+>
+> **Why this note exists.** Agent 13 — Content Production's test suite found that the skills' precedence
+> rule — *"a rule stated outside a Carried Forward section beats anything inside one"* — formally
+> demotes this entire half of the file to history. That would leave the agent entitled to ignore the
+> content guardrails and the words-we-avoid list, in the file that governs words. It did not cause a
+> wrong answer only because `banned-words.md` carries the bans independently; the Case 16 run had to
+> reason its way past this note's absence to justify a measured nonprofit social post against a table
+> telling it to be *"energetic and community-focused"*.
+>
+> **The correct reading, now written into the skills:** preserved history loses to current instruction
+> **only where current instruction exists on the same point.** Where a carried-forward section is the
+> sole statement of a rule, it binds. The one genuine conflict below is *"Social media: energetic and
+> community-focused"* against the current per-market voice rules above, and the per-market rules win
+> because they are later and more specific.
+
 > **PROVENANCE.** Reproduced verbatim on 2026-08-05 from the pre-May 2026 `daxko-ai/shared-knowledge-base/brand-guidelines.md`
 > (Nick Lindauer / Claude). This content did not survive the May rewrite. Nothing above this
 > line was altered.

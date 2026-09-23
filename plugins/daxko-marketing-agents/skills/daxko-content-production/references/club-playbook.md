@@ -135,7 +135,7 @@ Fitness · Multi-Purpose · Campus Recreation · Corporate Wellness · Country C
 | **Dominate the Digital Landscape** | Online joins, lead capture, digital conversion | 40% self-service online joins target |
 | **Convert Fitness Cashflow Without the Headache** | Payment processing, billing automation, revenue recovery | +5% card approval; Flex Fees; Daxko Payment Services |
 | **Create a Loyal Community** | Member engagement, retention, experience | CA Mobile App 4.5+ with 100+ reviews |
-| **Powerful All-In-One Solution** | Replace fragmented tech stack | 99.99% uptime; native mobile; real-time reporting |
+| **One Platform Instead of a Stack** | Replace fragmented tech stack | 99.99% uptime; native mobile; real-time reporting |
 
 ### Key Proof Points
 - Engage Pro: +391% lead conversion when response time <1 minute
@@ -199,7 +199,7 @@ Every campaign brief includes:
 
 ### Always
 1. Lead with financial impact and ROI — club operators are numbers-driven
-2. Use specific benchmarks ("$150K reclaimed," "+5% card approval")
+2. Use specific benchmarks ("$150K reclaimed" — attributed as *revenue recovery through payment optimization*, platform-wide, not to any single mechanism). ⚠️ **"+5% card approval" is Daxko's 2026 TARGET (`okrs-and-priorities.md`: improve by 5% by Dec 31 2026), not an achieved result — never cite it as a customer outcome.** *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 3. Address implementation concerns proactively — timeline, risk, migration plan
 4. Highlight payment processing advantages — integrated, Flex Fees, Daxko Payment Services
 5. Emphasize speed to value — how fast they go live and see results
@@ -271,7 +271,7 @@ notes: ""
 **Mission-driven framing:**
 > "Daxko partners with clubs to create healthier communities through technology..."
 → Wrong vertical. Club operators want revenue impact, not mission statements.
-→ Better: "Metro Fitness recovered $12K/month in failed payments within 60 days of switching to Daxko's payment processing."
+→ Better: *"[Customer name] recovered [$X]/month in failed payments within [N] days of switching to Daxko's payment processing."* 🔴 **ILLUSTRATION ONLY — the bracketed shape is deliberate. This is an example of how to PHRASE a claim, not a claim. There is no Metro Fitness customer; the earlier version of this line named one and read exactly like a real proof point, which is how an invented figure gets lifted into live copy.** *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 
 **Feature dump:**
 > "Campaign highlighting Daxko's member management, billing, scheduling, reporting, and mobile app features."

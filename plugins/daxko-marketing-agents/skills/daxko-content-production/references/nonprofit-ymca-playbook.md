@@ -80,7 +80,7 @@
 | [Pending upload] | | | |
 
 ## Messaging Do's and Don'ts (YMCA-Specific)
-- **Do:** Reference community impact, member experience, mission alignment
+- **Do:** Reference community results, member outcomes, member experience, mission alignment. ⚠️ **Do NOT write the word "impact" — it is banned for Nonprofit in `banned-words.md`, which supplies these replacements.** *(corrected 2026-09-22 — found by Agent 13 — Content Production's test suite)*
 - **Do:** Use "association" language (YMCAs call their network "associations")
 - **Do:** Mention Y-USA strategic alliance where appropriate
 - **Do:** Frame operational efficiency as enabling more mission delivery
