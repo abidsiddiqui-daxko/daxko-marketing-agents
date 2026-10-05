@@ -1,4 +1,4 @@
-> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/market-strategists/club/CLAUDE.md`  ·  **LAST UPDATED:** 2026-08-05 (file date — no "last updated" line stated inside the document)  ·  **ORIGIN:** FRESH — from your drop folder (main club market playbook)  ·  **Placed in Agent HQ:** 2026-08-11
+> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/market-strategists/club/CLAUDE.md`  ·  **LAST UPDATED:** 2026-10-05 (content corrected 2026-09-22 and 2026-10-05 — see the dated notes inline; original file date 2026-08-05)  ·  **ORIGIN:** FRESH — from your drop folder (main club market playbook)  ·  **Placed in Agent HQ:** 2026-08-11
 
 # Club Market Strategist Agent
 
@@ -133,8 +133,13 @@ Fitness · Multi-Purpose · Campus Recreation · Corporate Wellness · Country C
 | Pillar | What It Means | Key Proof Points |
 |--------|--------------|-----------------|
 | **Dominate the Digital Landscape** | Online joins, lead capture, digital conversion | 40% self-service online joins target |
-| **Convert Fitness Cashflow Without the Headache** | Payment processing, billing automation, revenue recovery | +5% card approval; Flex Fees; Daxko Payment Services |
-| **Create a Loyal Community** | Member engagement, retention, experience | CA Mobile App 4.5+ with 100+ reviews |
+| **Convert Fitness Cashflow Without the Headache** | Payment processing, billing automation, revenue recovery | +5% card approval *(2026 TARGET, not a result)*; Flex Fees; Daxko Payment Services |
+| **Create a Loyal Community** | Member engagement, retention, experience | CA Mobile App 4.5+ with 100+ reviews *(Q4 2026 TARGET, not a result)* |
+
+> ⚠️ **Two cells in the "Key Proof Points" column are targets, not proof.** "+5% card approval" is Daxko's 2026 goal
+> and "CA Mobile App 4.5+ with 100+ reviews" is the Q4 2026 Club KR (`okrs-and-priorities.md`). Neither may be cited
+> as a result or a customer outcome. *(corrected 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's
+> test suite; the +5% guardrail already appears under Campaign Strategy Guardrails, corrected 2026-09-22)*
 | **One Platform Instead of a Stack** | Replace fragmented tech stack | 99.99% uptime; native mobile; real-time reporting |
 
 ### Key Proof Points
@@ -170,9 +175,10 @@ Fitness · Multi-Purpose · Campus Recreation · Corporate Wellness · Country C
   1. Predictive churn identification of at-risk members
   2. Automated re-engagement and renewals
   3. Campaign orchestration and content generation
-  4. 24/7 conversational support — AI agents respond to prospect and member inquiries across voice, SMS, email, and web chat, capturing leads and resolving questions when staff aren't available
-  5. Smarter communication — selecting the right message, timing, and channel based on member behavior
-  6. Real-time member view — complete view of each member with summaries, engagement history, and next-best actions, helping staff prioritize outreach, personalize interactions, and manage the full member lifecycle (CL-03 Q9, Apr 2026)
+  4. 24/7 conversational support — AI agents respond to prospect and member inquiries across voice, SMS, email, and web chat, capturing leads and resolving questions when staff aren't available — ⚠️ *delivered by **AI Agents**: delivery starting Q3 2026 — never write as available now; confirm status before citing*
+  5. Smarter communication — selecting the right message, timing, and channel based on member behavior — ⚠️ *delivered by **Smart Sending Engine**: Early 2027 — DO NOT POSITION AS AVAILABLE TODAY, and imply no date*
+  6. Real-time member view — complete view of each member with summaries, engagement history, and next-best actions, helping staff prioritize outreach, personalize interactions, and manage the full member lifecycle — ⚠️ *delivered by **Member Intelligence 360°**: delivery starting Q3 2026 — never write as available now; confirm status before citing*
+  - *(Items 4–6 tagged 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite: this list carried no delivery status, so read on its own it presented three roadmap capabilities as approved and live. Delivery status per `product-knowledge.md` → AI Capabilities by delivery status.)* (CL-03 Q9, Apr 2026)
 - NOT applicable to Club: donor outreach / fundraising AI (that's Nonprofit-specific — the blank template incorrectly listed this; Kim corrected it)
 - Club AI objection "We already use AI partners" → Full talk track: "That's great — many clubs are using third-party AI tools today for things like call handling or front desk inquiries. Daxko is designed to support that, and using a partner now won't limit your ability to adopt native capabilities later. Over time, Daxko Club Automation and Daxko Engage Pro will go deeper by embedding AI directly into operations — like booking, billing, and member actions — while still giving you flexibility and choice."
 - Club AI objection "Will AI features from competitors actually improve operations?" → Clubs question whether competitor AI adds value or just complexity. Counter: Daxko AI is embedded in the tools they already use — no new system to manage, no data silos, no added complexity.

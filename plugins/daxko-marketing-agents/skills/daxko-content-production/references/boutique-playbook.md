@@ -1,4 +1,4 @@
-> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/market-strategists/boutique/CLAUDE.md`  ·  **LAST UPDATED:** 2026-08-10 (file date — no "last updated" line stated inside the document)  ·  **ORIGIN:** FRESH — from your drop folder (main boutique market playbook)  ·  **Placed in Agent HQ:** 2026-08-11
+> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/market-strategists/boutique/CLAUDE.md`  ·  **LAST UPDATED:** 2026-10-05 (content corrected 2026-09-22 and 2026-10-05 — see the dated notes inline; original file date 2026-08-10)  ·  **ORIGIN:** FRESH — from your drop folder (main boutique market playbook)  ·  **Placed in Agent HQ:** 2026-08-11
 
 # Boutique Market Strategist Agent
 
@@ -359,7 +359,7 @@ notes: ""
 **Acquisition-first:**
 > "Grow your studio to 500 members with Daxko's marketing automation."
 → Many boutique owners don't want 500 members. They want the 150 they have to stay longer and pay more. Lead with retention.
-→ Better: "When Ironside BJJ cut billing failures by 80%, they stopped losing 3 members a month to payment friction they didn't even know about."
+→ Better: "When [academy name] cut billing failures by [X%], they stopped losing [N] members a month to payment friction they didn't even know about." 🔴 **ILLUSTRATION ONLY — the bracketed shape is deliberate. This is an example of how to PHRASE a retention claim, not a claim. No bundled proof point names an Ironside BJJ; the earlier version of this line named it ("Ironside BJJ cut billing failures by 80% … 3 members a month") and read exactly like a real result. If Ironside BJJ is a real, approved customer result, add it with its source to `product-knowledge.md` → Proof Points by Market, then cite it from there.** *(corrected 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite; same treatment as club-playbook.md's Metro Fitness line, 2026-09-22)*
 
 **Wrong product routing:**
 > Running ZP campaigns for CrossFit boxes (Q3 2026+)

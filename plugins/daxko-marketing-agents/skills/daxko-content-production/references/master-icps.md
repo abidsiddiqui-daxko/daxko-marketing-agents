@@ -1,4 +1,4 @@
-> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/shared-knowledge-base/master-icps.md`  ·  **LAST UPDATED:** 2026-08-05 (file date — no "last updated" line stated inside the document)  ·  **ORIGIN:** FRESH — from your drop folder (buyer profiles / ICPs)  ·  **Placed in Agent HQ:** 2026-08-11
+> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/shared-knowledge-base/master-icps.md`  ·  **LAST UPDATED:** 2026-10-05 (one clarification added 2026-10-05 — see the dated note inline; original file date 2026-08-05)  ·  **ORIGIN:** FRESH — from your drop folder (buyer profiles / ICPs)  ·  **Placed in Agent HQ:** 2026-08-11
 
 # Master ICPs — Ideal Customer Profiles
 
@@ -342,6 +342,7 @@
 | Bookkeeper / Finance Admin | Validates billing accuracy, fees, and reporting |
 
 **Typical decision flow:** Owner researches in peer groups → short-lists competitors (PushPress, Wodify) → free trial or demo → decision within 7–14 days.
+> ⚠️ **The "free trial" in this flow is a competitor's.** Zen Planner has no free trial — never imply or promise one; design the demo path (`product-knowledge.md`, Zen Planner; `boutique-playbook.md`). *(clarified 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite: read alone, this line looked like a Zen Planner trial)*
 
 **Sales cycle:** Days to weeks — very fast. Owner is the decision maker. High price sensitivity. Word of mouth and community referrals matter.
 

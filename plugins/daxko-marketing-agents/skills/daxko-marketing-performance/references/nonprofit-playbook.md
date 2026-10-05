@@ -1,4 +1,4 @@
-> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/market-strategists/nonprofit/CLAUDE.md`  ·  **LAST UPDATED:** 2026-08-10 (file date — no "last updated" line stated inside the document)  ·  **ORIGIN:** FRESH — from your drop folder (main nonprofit market playbook)  ·  **Placed in Agent HQ:** 2026-08-11
+> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/market-strategists/nonprofit/CLAUDE.md`  ·  **LAST UPDATED:** 2026-10-05 (content corrected 2026-08-17 and 2026-10-05 — see the dated notes inline; original file date 2026-08-10)  ·  **ORIGIN:** FRESH — from your drop folder (main nonprofit market playbook)  ·  **Placed in Agent HQ:** 2026-08-11
 
 # Nonprofit Market Strategist Agent
 
@@ -193,7 +193,7 @@ and commands YMCA/JCC/BGCA market presence with an AI-first positioning strategy
 2. **Member retention** — Competing with low-cost fitness (Planet Fitness, Peloton)
 3. **Digital transformation** — Modernizing legacy systems without disrupting operations
 4. **Community impact** — Demonstrating mission fulfillment to boards, donors, funders
-5. **AI adoption readiness** — 88% of organizations plan AI adoption by 2026 but most lack a strategy; NP especially concerned about data governance, board oversight, grant compliance
+5. **AI adoption readiness** — 88% of organizations plan AI adoption by 2026 but most lack a strategy; NP especially concerned about data governance, board oversight, grant compliance ⚠️ **Source not recorded — do not cite the 88% externally until its source (publisher, study, year, the population it covers) is added here. Its "by 2026" horizon has also arrived.** *(flagged 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite)*
 
 ---
 
@@ -221,7 +221,7 @@ and commands YMCA/JCC/BGCA market presence with an AI-first positioning strategy
 1. Predictive identification of at-risk members
 2. Automated re-engagement and renewals
 3. Campaign orchestration
-4. Conversational support
+4. Conversational support — ⚠️ *delivered by **AI Agents**: delivery starting Q3 2026 — never write as available now; that quarter has closed, so confirm status before citing* *(tagged 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite; this file's own rule below: "Always pair AI claims with delivery status")*
 5. Donor outreach and fundraising optimization (with partners)
 
 ### NP-Specific AI Capabilities to Reference (Approved 2026)
@@ -442,12 +442,12 @@ recommended_action: ""
 
 **Feature-led brief:**
 > "Campaign to promote Daxko's new member management module with automated billing..."
-→ NP buyers buy mission outcomes. Reframe: "Automated member management gives front-desk staff 10 hours/week back — time reinvested in member relationships and program delivery."
+→ NP buyers buy mission outcomes. Reframe: "Automated member management gives front-desk staff [N] hours/week back — time reinvested in member relationships and program delivery." 🔴 **ILLUSTRATION ONLY — the bracketed shape is deliberate. This shows how to PHRASE a time-saving claim, not a measured result; fill [N] only from a sourced figure.** *(corrected 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite: this line previously read "10 hours/week back", which reads like a measured saving and has no source)*
 
 **Generic NP messaging:**
 > "Daxko helps nonprofits serve their communities better with technology solutions."
 → Too vague. Which communities? Which problems? What proof?
-→ Better: "When Metro YMCA automated program registration, wait lists dropped 60% and 400 more kids got into summer camp. Here's how."
+→ Better: "When [YMCA name] automated program registration, wait lists dropped [X%] and [N] more kids got into summer camp. Here's how." 🔴 **ILLUSTRATION ONLY — the bracketed shape is deliberate. This is an example of how to PHRASE a claim, not a claim. No bundled proof point names a Metro YMCA; the earlier version of this line named one ("Metro YMCA … wait lists dropped 60% and 400 more kids got into summer camp") and read exactly like a real result. If Metro YMCA is a real, approved customer result, add it with its source to `product-knowledge.md` → Proof Points by Market, then cite it from there.** *(corrected 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite; same treatment as club-playbook.md's Metro Fitness line, 2026-09-22)*
 
 **Wrong NP pipeline target:**
 > Any reference to "$20.9M pipeline"
@@ -482,7 +482,9 @@ Phase 1 — Active.
 Nonprofit buyers don't buy modules. They buy mission outcomes. Reframe.
 
 **Better version:**
-> "Campaign showing how automated member management gives front-desk staff 10 hours/week back — time they reinvest in member relationships and program delivery."
+> "Campaign showing how automated member management gives front-desk staff [N] hours/week back — time they reinvest in member relationships and program delivery."
+
+🔴 **ILLUSTRATION ONLY** — fill [N] only from a sourced figure. *(corrected 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite: previously "10 hours/week back", unsourced)*
 
 **Generic nonprofit messaging:**
 > "Daxko helps nonprofits serve their communities better with technology solutions."
@@ -490,7 +492,9 @@ Nonprofit buyers don't buy modules. They buy mission outcomes. Reframe.
 Too vague. Which communities? Which problems? What proof?
 
 **Better version:**
-> "When Metro YMCA automated program registration, wait lists dropped 60% and 400 more kids got into summer camp. Here's how."
+> "When [YMCA name] automated program registration, wait lists dropped [X%] and [N] more kids got into summer camp. Here's how."
+
+🔴 **ILLUSTRATION ONLY** — an example of how to phrase a claim, not a claim. See the same line in Anti-Patterns above. *(corrected 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite: previously named "Metro YMCA" with "60%" and "400 more kids", unsourced)*
 
 **Wrong org-type assumption:**
 Running a YMCA-tested campaign for JCC without adapting. Different communities, different pain points, different decision-making structures. Always check the relevant playbook.

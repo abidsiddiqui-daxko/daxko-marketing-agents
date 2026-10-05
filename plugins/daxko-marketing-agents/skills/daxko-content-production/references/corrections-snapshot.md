@@ -2,8 +2,6 @@
 
 **Created:** 2026-09-17
 **Owner:** Abid Siddiqui
-**Created:** 2026-09-17
-**Owner:** Abid Siddiqui
 **Status:** GENERATED SNAPSHOT — READ-ONLY. This is **not** the writable master.
 
 > The writable master is `learnings/agent-13-content-production.md` on Abid Siddiqui's machine. **Do not append to this file** —

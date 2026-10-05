@@ -5,12 +5,14 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.6
+**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.7
 
-> ⚠️ **On that version number.** 1.7.6 is the version of `plugin-daxko-agents` **as it stands on
-> 2026-09-27**, read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This build
-> was built at 1.7.5 and SHIPPED in v1.7.6 on 2026-09-28; plugin.json, both skill bodies and every MANIFEST version line moved in that one commit (N25). The release that ships this skill must move `plugin.json`,
-> the `SKILL VERSION:` line in `SKILL.md` **and this line** in the same commit (non-negotiable 25).
+> ⚠️ **On that version number.** 1.7.7 is the version of `plugin-daxko-agents` **as it stands on
+> 2026-10-05**, read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
+> was built at 1.7.5, first SHIPPED in v1.7.6 on 2026-09-28, and re-shipped in v1.7.7 on 2026-10-05 with
+> the shared-file corrections re-bundled; plugin.json, every skill body and every MANIFEST version line
+> moved in that one commit (N25). Every release that ships this skill must move `plugin.json`, the
+> `SKILL VERSION:` line in `SKILL.md` **and this line** in the same commit (non-negotiable 25).
 
 **What the columns mean**
 
@@ -32,11 +34,11 @@
 | `nonprofit-learnings.md` | `verticals/nonprofit-learnings.md` | `71deb914759481cf68ffdfb47c1eb8d34efdfbf936c296eff0a9e2b10ac73357` | verbatim | 2026-09-27 | 2026-08-05 | 3 KB |
 | `club-learnings.md` | `verticals/club-learnings.md` | `dd3b74574fc03522ce0ef0c48c06894e17de4f29af72f9db6fc01f33865cc071` | verbatim | 2026-09-27 | 2026-08-05 | 7 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-09-27 | 2026-08-05 | 7 KB |
-| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `38cbf7152ec18875cd3f2c388b545699f32614f144de17b02b06d6d5c91cf279` | verbatim | 2026-09-27 | **2026-08-17** | 31 KB |
-| `club-playbook.md` | `verticals/club-playbook.md` | `31dbb5897a42ee0a3e1f3fb8b7d9bc9a3d0b4060bd051af2dae00c4dae31c475` | verbatim | 2026-09-27 | 2026-08-05 | 17 KB |
-| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `eaa5b4182ce8a4f6f6cf39684ef5bca4b79d918cc9c8118916040ab5d9391c1b` | verbatim | 2026-09-27 | 2026-08-10 | 29 KB |
-| `master-icps.md` | `knowledge-base/master-icps.md` | `06f2906660aee9d6144d8bd37d7c9f7db8a079e32e2653b748291a165ec3f27a` | verbatim | 2026-09-27 | 2026-08-05 | 19 KB |
-| `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `4d3d9d6ff9c166e04e40d468d4a56be5360b3a3196476ce39b10c7a53444b1a6` | verbatim | 2026-09-27 | **2026-09-18** | 23 KB |
+| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `735e94322cbe7d2a445e65e8836dbd2a5d094e4f0a318d1dcc52cb550bc09c66` | verbatim | 2026-10-05 | 2026-10-05 | 32 KB |
+| `club-playbook.md` | `verticals/club-playbook.md` | `a8ff458cc99f070904447bc7a5c0efc042516820cfff84f9058c33cd03b2b37c` | verbatim | 2026-10-05 | 2026-10-05 | 18 KB |
+| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `740900c3f36648e2f315809cc452bbec60e9fce20c155b8199c8cbcc3c7e4893` | verbatim | 2026-10-05 | 2026-10-05 | 30 KB |
+| `master-icps.md` | `knowledge-base/master-icps.md` | `6f6f0b560c67683b5bc672352e544939dbaf4b708ba1129a7e43f88af5dd7e7c` | verbatim | 2026-10-05 | 2026-10-05 | 19 KB |
+| `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `17e1fde5b9b71523e4847053e60f82793807b029f0b73cc4cb6426fe8f403332` | verbatim | 2026-10-05 | 2026-10-05 | 23 KB |
 | `corrections-snapshot.md` | `learnings/agent-18-marketing-performance.md` | `3b90435e08c4bf8a357b18a1bde6948059d15177d360f7f7009352224ac1fa50` | converted | 2026-09-27 | 2026-09-27 | 5 KB |
 
 **11 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge.
@@ -87,31 +89,27 @@ number.
 
 ---
 
-## Three `as_of` dates that are NOT the date in the source file's own header
+## `as_of` dates that are NOT the date in the source file's own header — none, as of 2026-10-05
 
-Shown in bold in the table above, plus one that needed checking rather than trusting.
+*Rewritten 2026-10-05, recomputed from the files.* This section listed three. `nonprofit-playbook.md` and
+`product-knowledge.md` were corrected again at source on 2026-10-05 with their headers updated, so header and
+`as_of` now agree (2026-10-05). `okrs-and-priorities.md` always agreed — header, content and checksum, 2026-08-11
+— and **the header is still right about the file and still tells you nothing about the numbers** (see the
+section above).
 
-| File | Header says | `as_of` recorded | Evidence |
-|---|---|---|---|
-| `nonprofit-playbook.md` | `LAST UPDATED: 2026-08-10` | **2026-08-17** | The content was corrected on 2026-08-17 — the AI-differentiation bullet was narrowed to the two capabilities in production today. File mtime agrees (2026-08-17). The header was never updated. Recorded as an inherited source condition in this agent's `SPEC.md` §8.3, and already an outstanding owner action against Agent 9 — Brand Guardian and Agent 13 — Content Production |
-| `product-knowledge.md` | `LAST UPDATED: 2026-08-11` | **2026-09-18** | Its AI-capability section was restructured **by delivery status** on 2026-09-18, ruled by Abid Siddiqui, after four of six Daxko Engage Pro AI capabilities had been listed as delivered when `nonprofit-playbook.md` places two at Q3 2026 and two at Early 2027. Header still shows August |
-| `okrs-and-priorities.md` | `LAST UPDATED: 2026-08-11` | 2026-08-11 | Header, mtime and checksum all agree. **The header is right about the file and still tells you nothing about the numbers** — see the section above |
+### Correction — the former sub-section "Three files whose mtime moved without their content moving"
 
-### Three files whose mtime moved without their content moving — checked, not assumed
+That sub-section concluded that `product-knowledge.md`, `club-playbook.md` and `boutique-playbook.md` carried a
+later mtime than their `as_of` because of a re-save, not a content change, on the grounds that their checksums
+matched rows Agent 13 — Content Production "bundled on 2026-09-17". **That conclusion was wrong.**
+`club-playbook.md` and `boutique-playbook.md` each carry a content correction dated 2026-09-22, and the same
+2026-09-22 batch changed `product-knowledge.md` (25M+ → 20M+). The checksums matched because Agent 13 — Content
+Production's MANIFEST had been re-bundled after 2026-09-22 while keeping its old dates — the stale-date defect
+logged as F-2 by Agent 11 — Thought Leadership & Long-Form's test suite. All three rows were corrected on
+2026-10-05.
 
-`product-knowledge.md` (mtime 2026-09-22), `club-playbook.md` (2026-09-22) and
-`boutique-playbook.md` (2026-09-22) all carry a **later mtime than their `as_of`**. That looks like
-drift and is not.
-
-Each of their SHA-256 values above is **byte-identical** to the row Agent 13 — Content Production
-bundled on 2026-09-17 and recorded in `agent-builds/agent-13-content-production/skill/daxko-content-production/references/MANIFEST.md`.
-Identical bytes cannot be a content change, so the later mtime is a re-save, a copy or a touch.
-`as_of` therefore stays at the date the **content** last changed, which is what a SOURCES block is
-reporting when it quotes one.
-
-⚠️ **This is why `as_of` is not simply `stat`-ed.** An mtime is a filesystem event; `as_of` is a claim
-about content. Taking the first for the second would have aged three files by up to six weeks in
-every SOURCES block this skill ever writes — invisibly, and in the safe-looking direction.
+⚠️ **The lesson stands, and is sharper:** an mtime is not an `as_of` — and neither is a date copied from another
+MANIFEST. Read the dated correction markers inside the file itself.
 
 ---
 
@@ -164,3 +162,9 @@ alarm instead of answering it.
 | Anything in `reference-material/` | Background reading from the previous system. Never bundled into a skill |
 
 Adding any of these later means adding a row above at the same time, in the same commit.
+
+## Change log
+
+- **2026-10-05** — re-bundled from source after the shared-file corrections found by Agent 11 — Thought Leadership & Long-Form's test suite: every row above whose file was corrected today now carries the new checksum, bundled_on 2026-10-05 and as_of 2026-10-05. Rows whose file carries a 2026-09-22 correction but still recorded an older as_of were corrected to 2026-09-22 (finding F-2). Checksums of all other rows unchanged.
+
+- **2026-10-05** — re-bundled from source after the shared-file corrections found by Agent 11 — Thought Leadership & Long-Form's test suite: every row above whose file was corrected today now carries the new checksum, bundled_on 2026-10-05 and as_of 2026-10-05. Rows whose file carries a 2026-09-22 correction but still recorded an older as_of were corrected to 2026-09-22 (finding F-2). Checksums of all other rows unchanged.

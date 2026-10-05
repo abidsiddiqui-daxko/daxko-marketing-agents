@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-17 · **Version line refreshed:** 2026-09-22 · **Agent:** Agent 13 — Content Production · **Skill:** `daxko-content-production` · **Skill version:** 1.7.6
+**Generated:** 2026-09-17 · **Version line refreshed:** 2026-10-05 · **Agent:** Agent 13 — Content Production · **Skill:** `daxko-content-production` · **Skill version:** 1.7.7
 
 **What the columns mean**
 
@@ -24,53 +24,52 @@
 |---|---|---|---|---|---|---|
 | `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `e49957279b3a4a151073cae64085e7b5d3bef7f49bd3d89ba4db21599fa95aa7` | verbatim | 2026-09-17 | **2026-09-16** | 14 KB |
 | `brand-foundations.md` | `knowledge-base/brand-foundations.md` | `c3f994e60a60a412fa821c38f2b19c93bba0ea7bc023a869a97f13b024992b1f` | verbatim | 2026-09-17 | 2026-08-05 | 9 KB |
-| `banned-words.md` | `knowledge-base/banned-words.md` | `510ff56acb1977d95916dc09679fab3c91bbe212c186d975ea2309c9b21cb7f7` | verbatim | 2026-09-17 | 2026-08-05 | 6 KB |
+| `banned-words.md` | `knowledge-base/banned-words.md` | `510ff56acb1977d95916dc09679fab3c91bbe212c186d975ea2309c9b21cb7f7` | verbatim | 2026-09-17 | **2026-09-22** | 6 KB |
 | `okrs-and-priorities.md` | `knowledge-base/okrs-and-priorities.md` | `52d169ac5aa287cda7315cb75937a362680ce18be1014d7c5125e4bdf32ef5cf` | verbatim | 2026-09-17 | 2026-08-11 | 12 KB |
-| `master-icps.md` | `knowledge-base/master-icps.md` | `06f2906660aee9d6144d8bd37d7c9f7db8a079e32e2653b748291a165ec3f27a` | verbatim | 2026-09-17 | 2026-08-05 | 19 KB |
-| `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `4d3d9d6ff9c166e04e40d468d4a56be5360b3a3196476ce39b10c7a53444b1a6` | verbatim | 2026-09-18 | **2026-09-18** | 22 KB |
-| `competitive-intel.md` | `knowledge-base/competitive-intel.md` | `d98a0576ad8bedf21e91b5debc6cf847e515389f4844940904e17a3588d4518b` | verbatim | 2026-09-17 | 2026-08-05 | 31 KB |
-| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `38cbf7152ec18875cd3f2c388b545699f32614f144de17b02b06d6d5c91cf279` | verbatim | 2026-09-17 | **2026-08-17** | 31 KB |
-| `club-playbook.md` | `verticals/club-playbook.md` | `31dbb5897a42ee0a3e1f3fb8b7d9bc9a3d0b4060bd051af2dae00c4dae31c475` | verbatim | 2026-09-17 | 2026-08-05 | 16 KB |
-| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `eaa5b4182ce8a4f6f6cf39684ef5bca4b79d918cc9c8118916040ab5d9391c1b` | verbatim | 2026-09-17 | 2026-08-10 | 29 KB |
+| `master-icps.md` | `knowledge-base/master-icps.md` | `6f6f0b560c67683b5bc672352e544939dbaf4b708ba1129a7e43f88af5dd7e7c` | verbatim | 2026-10-05 | 2026-10-05 | 19 KB |
+| `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `17e1fde5b9b71523e4847053e60f82793807b029f0b73cc4cb6426fe8f403332` | verbatim | 2026-10-05 | 2026-10-05 | 23 KB |
+| `competitive-intel.md` | `knowledge-base/competitive-intel.md` | `f98985ce0c971a98e631c25ca7c70414df1c2fba9ace65fbc0319f70535a160b` | verbatim | 2026-10-05 | 2026-10-05 | 32 KB |
+| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `735e94322cbe7d2a445e65e8836dbd2a5d094e4f0a318d1dcc52cb550bc09c66` | verbatim | 2026-10-05 | 2026-10-05 | 32 KB |
+| `club-playbook.md` | `verticals/club-playbook.md` | `a8ff458cc99f070904447bc7a5c0efc042516820cfff84f9058c33cd03b2b37c` | verbatim | 2026-10-05 | 2026-10-05 | 18 KB |
+| `boutique-playbook.md` | `verticals/boutique-playbook.md` | `740900c3f36648e2f315809cc452bbec60e9fce20c155b8199c8cbcc3c7e4893` | verbatim | 2026-10-05 | 2026-10-05 | 30 KB |
 | `nonprofit-learnings.md` | `verticals/nonprofit-learnings.md` | `71deb914759481cf68ffdfb47c1eb8d34efdfbf936c296eff0a9e2b10ac73357` | verbatim | 2026-09-17 | 2026-08-05 | 3 KB |
 | `club-learnings.md` | `verticals/club-learnings.md` | `dd3b74574fc03522ce0ef0c48c06894e17de4f29af72f9db6fc01f33865cc071` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
-| `nonprofit-ymca-playbook.md` | `verticals/nonprofit-ymca-playbook.md` | `25d7bbbdc600339908fedfeba080d1ec34f50f4c210889c15a6cb90705ec76e2` | verbatim | 2026-09-17 | 2026-08-05 | 7 KB |
+| `nonprofit-ymca-playbook.md` | `verticals/nonprofit-ymca-playbook.md` | `25d7bbbdc600339908fedfeba080d1ec34f50f4c210889c15a6cb90705ec76e2` | verbatim | 2026-09-17 | **2026-09-22** | 7 KB |
 | `nonprofit-jcc-playbook.md` | `verticals/nonprofit-jcc-playbook.md` | `d95e37e9d56c6bd7d60aac05483aa2a29ba21f37e4eea447d4e89c32c295ee26` | verbatim | 2026-09-17 | 2026-08-05 | 19 KB |
 | `nonprofit-bgc-playbook.md` | `verticals/nonprofit-bgc-playbook.md` | `10455dcd75d979947ea7da1032411783266896f334c37e06ec4b70bf6e38831b` | verbatim | 2026-09-17 | 2026-08-05 | 18 KB |
-| `club-sss-revenue-model.md` | `verticals/club-sss-revenue-model.md` | `9098c23bb01470232f82020cd288b6aeb2cdca6d9b29c59e3abf9bb30048fde1` | verbatim | 2026-09-17 | 2026-08-05 | 12 KB |
-| `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-09-17 | 2026-08-05 | 16 KB |
-| `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `d90be4b2f416df0658f01fc9afd1c0d2ed3cb97d03f8e2ebd8f1dd2cc897cfac` | verbatim | 2026-09-17 | 2026-08-05 | 22 KB |
-| `corrections-snapshot.md` | `learnings/agent-13-content-production.md` | `2471f0dec9e53b5d010d3ad143ad213fd8a90ac22c587a97be2d4a719af27488` | converted | 2026-09-21 | 2026-09-21 | 3 KB |
+| `club-sss-revenue-model.md` | `verticals/club-sss-revenue-model.md` | `9098c23bb01470232f82020cd288b6aeb2cdca6d9b29c59e3abf9bb30048fde1` | verbatim | 2026-09-17 | **2026-09-22** | 12 KB |
+| `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-09-17 | **2026-09-22** | 16 KB |
+| `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-10-05 | 2026-10-05 | 24 KB |
+| `corrections-snapshot.md` | `learnings/agent-13-content-production.md` | `2471f0dec9e53b5d010d3ad143ad213fd8a90ac22c587a97be2d4a719af27488` | converted | 2026-10-05 | 2026-09-21 | 3 KB |
 
 **20 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge. Any
 both-directions verification enumerates `references/*.md` **minus `MANIFEST.md`**, and must say so.
 
 ---
 
-## Two "as of" dates that are NOT the date in the source file's own header
+## Five "as of" dates that are NOT the date in the source file's own header
 
-Both are shown in bold above. In both cases the header understates the file's currency, so the
-header date was **not** used: reporting it would tell a reader they are looking at pre-correction
-content when they are not.
+Shown in bold above. In each case the header understates the file's currency, so the header date was **not**
+used: reporting it would tell a reader they are looking at pre-correction content when they are not.
+*Rewritten 2026-10-05, recomputed from the files.* This section previously listed `brand-guidelines.md`,
+`nonprofit-playbook.md` and `product-knowledge.md`. The last two were corrected again at source on 2026-10-05
+with their headers updated, so header and `as_of` now agree (2026-10-05). The four 2026-09-22 rows below had
+carried their stale header dates as `as_of` since the 2026-09-22 re-bundle refreshed their checksums but not
+their dates (finding F-2, found by Agent 11 — Thought Leadership & Long-Form's test suite).
 
 | File | Header says | `as_of` recorded | Evidence for the later date |
 |---|---|---|---|
 | `brand-guidelines.md` | `LAST UPDATED: 2026-08-11` | **2026-09-16** | The file's own body carries an edit dated inside it: a truncated provenance line in the *Carried Forward* section was marked as truncated on **2026-09-16**, attributed to "the G15 run of 2026-09-16". File mtime agrees (2026-09-16) |
-| `nonprofit-playbook.md` | `LAST UPDATED: 2026-08-10` | **2026-08-17** | Content was corrected on 2026-08-17 — the AI-differentiation bullet was narrowed to the two capabilities in production today. File mtime agrees (2026-08-17). Recorded as an inherited source condition in this agent's `SPEC.md` §8.2 |
-| `product-knowledge.md` | *(no header date)* | **2026-09-18** | The AI-capability section was **restructured by delivery status on 2026-09-18** — four of six Daxko Engage Pro AI capabilities had been listed as delivered when `verticals/nonprofit-playbook.md` places two at Q3 2026 and two at Early 2027 *"do NOT position as available today."* Ruled by Abid Siddiqui. Re-bundled the same day |
+| `banned-words.md` | `LAST UPDATED: 2026-08-05` | **2026-09-22** | Carries a correction marked *"corrected 2026-09-22 — found by Agent 13 — Content Production's test suite"*; the header was not updated when the content changed. Corrected from a stale 2026-08-05 on 2026-10-05 (finding F-2) |
+| `boutique-martial-arts-playbook.md` | `LAST UPDATED: 2026-08-05` | **2026-09-22** | Carries a correction marked *"corrected 2026-09-22 — found by Agent 13 — Content Production's test suite"*; the header was not updated when the content changed. Corrected from a stale 2026-08-05 on 2026-10-05 (finding F-2) |
+| `club-sss-revenue-model.md` | `LAST UPDATED: 2026-08-05` | **2026-09-22** | Carries a correction marked *"corrected 2026-09-22 — found by Agent 13 — Content Production's test suite"*; the header was not updated when the content changed. Corrected from a stale 2026-08-05 on 2026-10-05 (finding F-2) |
+| `nonprofit-ymca-playbook.md` | `LAST UPDATED: 2026-08-05` | **2026-09-22** | Carries a correction marked *"corrected 2026-09-22 — found by Agent 13 — Content Production's test suite"*; the header was not updated when the content changed. Corrected from a stale 2026-08-05 on 2026-10-05 (finding F-2) |
 
-⚠️ **Two owner actions, neither fixed here** — a source file's header is fixed in the source, never
-inside a skill (non-negotiable 17):
-
-1. `verticals/nonprofit-playbook.md` — header and change log still show 2026-08-10 for content last
-   changed 2026-08-17. Already on the tracker against Agent 9 — Brand Guardian.
-2. `knowledge-base/brand-guidelines.md` — header still shows 2026-08-11 for content last changed
-   2026-09-16. **This is a new instance of the same defect, found on 2026-09-17 while bundling this
-   agent.** A consequence worth naming: Agent 9 — Brand Guardian's MANIFEST carries the pre-edit
-   checksum `fd2fc834…679d9` and `as_of 2026-08-11` for this same file, so its bundled copy is now
-   one edit behind the source. That is Agent 9 — Brand Guardian's next publish to resolve; nothing
-   in its folder was touched by this build.
+⚠️ **Owner actions, not fixed here** — a source file's header is fixed in the source, never inside a skill
+(non-negotiable 17): the five files above still carry header dates earlier than their content. *(The earlier
+note that Agent 9 — Brand Guardian's copy of `brand-guidelines.md` was one edit behind is resolved: on
+2026-10-05 every row in Agent 9 — Brand Guardian's MANIFEST was re-verified against the live source.)*
 
 ## Note on `corrections-snapshot.md`
 
@@ -117,3 +116,10 @@ alarm instead of answering it.
 | Anything in `reference-material/` | Background reading from the previous system. Never bundled into a skill |
 
 Adding any of these later means adding a row here at the same time.
+
+## Change log
+
+- **2026-10-05** — re-bundled from source after the shared-file corrections found by Agent 11 — Thought Leadership & Long-Form's test suite: every row above whose file was corrected today now carries the new checksum, bundled_on 2026-10-05 and as_of 2026-10-05. Rows whose file carries a 2026-09-22 correction but still recorded an older as_of were corrected to 2026-09-22 (finding F-2). Checksums of all other rows unchanged.
+
+- **2026-10-05** — re-bundled from source after the shared-file corrections found by Agent 11 — Thought Leadership & Long-Form's test suite: every row above whose file was corrected today now carries the new checksum, bundled_on 2026-10-05 and as_of 2026-10-05. Rows whose file carries a 2026-09-22 correction but still recorded an older as_of were corrected to 2026-09-22 (finding F-2). Checksums of all other rows unchanged.
+- **2026-10-05** — corrections snapshot regenerated for v1.7.7. Master unchanged since 2026-09-21 (checksum still matches the row; 0 entries). One generator defect fixed: the converted header carried the `Created` and `Owner` lines twice. `bundled_on` moved to 2026-10-05; nothing else in the row changes.

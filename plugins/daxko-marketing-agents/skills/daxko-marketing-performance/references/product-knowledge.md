@@ -1,4 +1,4 @@
-> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/shared-knowledge-base/product-knowledge.md`  ·  **LAST UPDATED:** 2026-08-11 (file date — no "last updated" line stated inside the document)  ·  **ORIGIN:** FRESH — from your drop folder  ·  **Placed in Agent HQ:** 2026-08-11
+> **SOURCE FILE:** `drop-your-updated-files-here/daxko-ai/shared-knowledge-base/product-knowledge.md`  ·  **LAST UPDATED:** 2026-10-05 (content corrected 2026-09-18 and 2026-10-05 — see the dated notes inline; original file date 2026-08-11)  ·  **ORIGIN:** FRESH — from your drop folder  ·  **Placed in Agent HQ:** 2026-08-11
 
 # Product Knowledge
 
@@ -99,8 +99,13 @@ tier. Do not convert one into a product name.*
 1. Predictive identification of at-risk members
 2. Automated re-engagement and renewals
 3. Campaign orchestration and content generation
-4. Conversational support / AI agents (24/7 SMS, voice, email, web)
-5. Smart communication timing and channel selection
+4. Conversational support / AI agents (24/7 SMS, voice, email, web) — ⚠️ *delivered by **AI Agents**: delivery starting Q3 2026 — never write as available now; that quarter has closed, so confirm status before citing*
+5. Smart communication timing and channel selection — ⚠️ *delivered by **Smart Sending Engine**: Early 2027 — DO NOT POSITION AS AVAILABLE TODAY, and imply no date*
+
+*(Items 4 and 5 tagged 2026-10-05 — found by Agent 11 — Thought Leadership & Long-Form's test suite: this list
+carried no delivery status, so read on its own it presented two roadmap capabilities as approved and live — the
+same defect corrected in the AI Capabilities section above on 2026-09-18. "Pre-approved" here means approved
+wording for what Daxko's AI addresses; it never overrides the delivery status.)*
 6. Payment failure recovery (Club-specific)
 7. Donor outreach and fundraising optimization with partners (NP-specific)
 8. Board-ready reporting and financial clarity (NP-specific)
