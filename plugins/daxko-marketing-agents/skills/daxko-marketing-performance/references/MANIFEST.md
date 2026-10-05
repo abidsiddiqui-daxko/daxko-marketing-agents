@@ -5,10 +5,10 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.7
+**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.8
 
-> ⚠️ **On that version number.** 1.7.7 is the version of `plugin-daxko-agents` **as it stands on
-> 2026-10-05**, read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
+> ⚠️ **On that version number.** 1.7.8 is the version of `plugin-daxko-agents` **as it stands on
+> 2026-10-05** (v1.7.8 changed only the plugin description and version lines), read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
 > was built at 1.7.5, first SHIPPED in v1.7.6 on 2026-09-28, and re-shipped in v1.7.7 on 2026-10-05 with
 > the shared-file corrections re-bundled; plugin.json, every skill body and every MANIFEST version line
 > moved in that one commit (N25). Every release that ships this skill must move `plugin.json`, the

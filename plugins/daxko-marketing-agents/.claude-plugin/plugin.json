@@ -1,7 +1,7 @@
 {
   "name": "daxko-marketing-agents",
-  "version": "1.7.7",
-  "description": "Marketing skills for the Daxko marketing team. Ships four agents. Agent 9 - Brand Guardian REVIEWS unpublished marketing drafts against Daxko's official brand guidelines, returning a verdict, a six-part scorecard, every violation tied to the rule and the file it breaks, line-by-line fixes and a corrected rewrite. It reviews content; it does not write it. Agent 11 - Thought Leadership & Long-Form WRITES one long-form authority piece - a whitepaper, eBook manuscript, research report or executive byline article - with every unsourced figure left as a visible placeholder. Agent 13 - Content Production WRITES a complete multi-channel content package for one launch, announcement or campaign, drafted together from one locked core message. Agent 18 - Marketing Performance READS marketing numbers already in the chat and says what they mean for a named Daxko Key Result. It fetches nothing and does not decide. NOT for auditing a page that is already live or on staging - that is daxko-brand-qa.",
+  "version": "1.7.8",
+  "description": "Daxko marketing agents. Agent 9 - Brand Guardian reviews draft marketing content against Daxko's brand guidelines. Agent 11 - Thought Leadership & Long-Form writes one whitepaper, eBook, research report or executive article, leaving any unsourced figure as a visible placeholder. Agent 13 - Content Production writes a matched multi-channel content set for one launch or campaign. Agent 18 - Marketing Performance reads numbers already in the chat against a Daxko Key Result.",
   "author": {
     "name": "Abid Siddiqui",
     "email": "abid.siddiqui@daxko.com"
