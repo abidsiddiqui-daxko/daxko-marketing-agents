@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-17 · **Version line refreshed:** 2026-10-05 · **Agent:** Agent 13 — Content Production · **Skill:** `daxko-content-production` · **Skill version:** 1.7.8
+**Generated:** 2026-09-17 · **Version line refreshed:** 2026-10-05 · **Agent:** Agent 13 — Content Production · **Skill:** `daxko-content-production` · **Skill version:** 1.7.9
 
 **What the columns mean**
 
