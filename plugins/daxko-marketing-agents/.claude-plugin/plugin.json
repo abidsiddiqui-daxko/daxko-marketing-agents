@@ -1,7 +1,7 @@
 {
   "name": "daxko-marketing-agents",
-  "version": "1.7.9",
-  "description": "Daxko marketing agents. Agent 9 - Brand Guardian reviews draft marketing content against Daxko's brand guidelines. Agent 11 - Thought Leadership & Long-Form writes one whitepaper, eBook, research report or executive article, leaving any unsourced figure as a visible placeholder. Agent 13 - Content Production writes a matched multi-channel content set for one launch or campaign. Agent 18 - Marketing Performance reads numbers already in the chat against a Daxko Key Result.",
+  "version": "1.7.10",
+  "description": "Daxko marketing agents. Agent 2 - OKR Copilot turns Daxko's OKRs into a quarterly plan without inventing targets or owners. Agent 9 - Brand Guardian reviews draft marketing content against Daxko's brand guidelines. Agent 11 - Thought Leadership & Long-Form writes one whitepaper, eBook, research report or executive article. Agent 13 - Content Production writes a matched multi-channel content set. Agent 18 - Marketing Performance reads numbers already in the chat against a Daxko Key Result.",
   "author": {
     "name": "Abid Siddiqui",
     "email": "abid.siddiqui@daxko.com"

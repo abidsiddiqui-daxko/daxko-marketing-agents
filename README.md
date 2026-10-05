@@ -15,13 +15,14 @@ owner: Abid Siddiqui (abid.siddiqui@daxko.com)
 
 | Agent | What it does |
 |---|---|
+| **Agent 2 — OKR Copilot** | Turns Daxko's objectives and Key Results into a draft quarterly plan of initiatives — order, a proposed owner role, timing and the signal that would show each one working. It never sets a target, names a person as owner, gives a status or writes into Asana, Airtable or any other system; every open decision is left as a visible placeholder. |
 | **Agent 9 — Brand Guardian** | Reviews draft Daxko marketing content against the official brand guidelines and returns a verdict, a six-dimension scorecard, every violation tied to the rule it breaks, line-by-line fixes, and a corrected rewrite. **It reviews content; it does not write it.** |
 | **Agent 11 — Thought Leadership & Long-Form** | Writes one long-form authority piece — a whitepaper, an eBook manuscript, a research report or an executive byline article — from Daxko's own files. Every figure it cannot source is left as a visible `[PLACEHOLDER]`, never guessed. |
 | **Agent 13 — Content Production** | Writes a matched multi-channel content package for one launch, announcement or campaign, all drafted from one locked core message. |
 | **Agent 18 — Marketing Performance** | Reads marketing numbers you have already put in the chat and says what they mean for a named Daxko Key Result. It fetches nothing and does not decide what to do next. |
 
 More agents are added over time, one tested agent at a time. *(Updated 2026-10-05: this table listed only
-Agent 9 — Brand Guardian through three releases that added the other three.)*
+Agent 9 — Brand Guardian through three releases that added the other three. Agent 2 — OKR Copilot added in v1.7.10, 2026-10-06.)*
 
 ---
 
