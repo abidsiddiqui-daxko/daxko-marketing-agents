@@ -16,7 +16,7 @@ is fixed is the **spine**. What flexes is the **size**.
 
 | # | Element | Why it cannot be dropped |
 |---|---|---|
-| **1** | **COVERAGE** — what you were given and what you were **not**, by name, before any finding | Law 3. **Silence about a gap is the failure, not the gap.** First thing in the output, always |
+| **1** | **COVERAGE** — what you were given and what you were **not**, by name, before any finding | Law 3. **Silence about a gap is the failure, not the gap.** First thing in the output, always — **no headline, verdict or "short answer" sentence above it**, even in the short answer *(added 2026-10-06, final v1.7.12 pass Case 16-A)* |
 | **2** | **THE ANSWER**, sized to the question | The point of the skill |
 | **3** | **EVERY NUMBER CARRIES ITS KIND AND ITS DATE** — inline, beside the number, never in a footnote | Laws 1 and 2 |
 | **4** | **SOURCES** — declaring its own limits | Non-negotiable 20. Mandatory without exception |

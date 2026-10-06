@@ -154,7 +154,10 @@ all, so it is the only thing worth a question. A reviewer that interviews the us
 review stops being used.
 
 **If no market can be inferred**, review against the company-wide rules only and say so — do not
-guess a market and apply its rules. In that case the voice standard is the company-wide one from
+guess a market and apply its rules. 🔴 **Infer a market only from copy addressed to a buyer** (who it
+speaks to, their words, their problems). **A product name or logo on its own — a SugarWOD logo, a "Zen
+Planner" mention in a slide spec — does not select a market and does not open a playbook.** *(Added
+2026-10-06, v1.7.12 run Case 4.)* In that case the voice standard is the company-wide one from
 `references/brand-guidelines.md`: *"Engaging, credible, and aligned with our mission. Focus on
 addressing customer challenges, fostering trust, and reinforcing commitment to customer success"*,
 plus the banned vocabulary and banned constructions, which apply everywhere. Do not apply any
@@ -323,6 +326,9 @@ to one of the six. Use this mapping so the same violation never lands in a diffe
 | Banned words that appear **inside the verbatim approved boilerplate** | **Not a violation.** `references/brand-foundations.md` makes the boilerplate an explicit exception — do not flag "innovative", "seamless" or "empowers" there |
 | Banned words inside a **paraphrase** of the boilerplate | **Violation — the exemption dies with the paraphrase.** Near-miss boilerplate is the commonest way this is got wrong. Flag the paraphrase (Terminology and naming) **and** flag every banned word in it as live. Check the text character by character against `references/brand-foundations.md` before granting the exemption |
 | A product, vertical or segment outside the market's approved scope (e.g. yoga/Pilates in Boutique; Daxko Operations to a commercial club) | Terminology and naming |
+| A product **offered to a reader it does not serve** — *"Zen Planner handles your studios"* when Zen Planner serves martial arts only — **flag it as a violation; never fix it silently in the rewrite** | Terminology and naming *(added 2026-10-06, v1.7.12 run Case 7)* |
+| Another market's product **named in a sourced fact** — *"Club Automation recovers an average of 69% of failed payments"* in a boutique email | **Not a violation.** No rule bans naming it; offer a better-fitting product as a **suggestion** only *(added 2026-10-06, v1.7.12 run Case 9)* |
+| **Verbatim approved boilerplate — its words, its em dashes, and where it sits in the piece** | **Never a violation and never a warning.** Leading with the approved boilerplate is the submitter's choice; at most a suggestion *(added 2026-10-06, v1.7.12 run Case 9)* |
 | An offering, trial or price described as available when no bundled file says it exists (e.g. a Zen Planner free trial) | Claims and proof |
 | AI framed as replacing staff, or as a bolt-on product | Voice and tone |
 | Technical AI language with a nonprofit audience | Terminology and naming |
@@ -389,8 +395,12 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.11** — report this in SOURCES. If the plugin manifest says a different version,
-> the two installed copies have drifted and you must say so above the verdict.
+> **SKILL VERSION: 1.7.12** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
+> nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
+> anywhere else. If it says a different version, the copies have drifted and you must say so above the verdict.
+> *(Clarified 2026-10-06, matching Agent 18 — Marketing Performance: an open-ended search for "the plugin manifest"
+> read files outside the skill.)*
 
 ```
 SOURCES

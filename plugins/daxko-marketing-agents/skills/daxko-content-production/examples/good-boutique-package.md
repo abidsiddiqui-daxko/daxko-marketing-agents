@@ -82,15 +82,15 @@ in your account is less than what you billed.
 Flex Fees passes that transaction cost to the member paying, instead of the studio covering it. Your
 prices do not move.
 
-CrossFit 1926 grew revenue by $10,690.08 in a year membership fell 4%. Flex Fees contributed
+CrossFit 1926 grew revenue by $10,690.08 despite a 4% membership decline. Flex Fees contributed
 $2,404.41 of it.
 
 **See It in Action** → `[PLACEHOLDER — needs the live URL]`
 
 ### Social post 2 of 2 — the proof, short form
 
-$2,404.41 from Flex Fees alone, inside a $10,690.08 revenue increase — in a year membership dropped
-4%.
+$2,404.41 from Flex Fees alone, inside a $10,690.08 revenue increase — despite a 4% membership
+decline.
 
 That is CrossFit 1926. Flex Fees passes the processing cost to the member paying, so it stops coming
 out of what the studio billed.
@@ -112,7 +112,7 @@ never appears on a class schedule and it never stops.
 Flex Fees passes that transaction cost to the member at the point of payment, inside the billing you
 already run. Your price list stays as it is. There is no new system to learn.
 
-CrossFit 1926 grew revenue by **$10,690.08** in a year their membership fell 4% — and **$2,404.41 of
+CrossFit 1926 grew revenue by **$10,690.08** despite a 4% membership decline — and **$2,404.41 of
 that came from Flex Fees**, 22.5% of the increase, with no change to what they charged.
 
 Flex Fees reaches boutique studios `[PLACEHOLDER — needs the confirmed launch date]`. If you would
@@ -139,7 +139,7 @@ billing you already run.
 **H1:** Keep the margin you already priced in
 **Subhead:** Flex Fees passes card and ACH processing costs to the member at the point of payment, so
 your prices stay where you set them and your margin stops absorbing the fee.
-**Proof line:** CrossFit 1926 grew revenue $10,690.08 in a year membership fell 4%. Flex Fees
+**Proof line:** CrossFit 1926 grew revenue $10,690.08 despite a 4% membership decline. Flex Fees
 contributed $2,404.41 — 22.5% of the increase.
 **Primary CTA:** Book a Walkthrough
 **Art direction note for Agent 29 — UX/UI Design (words only, no colour, font or layout

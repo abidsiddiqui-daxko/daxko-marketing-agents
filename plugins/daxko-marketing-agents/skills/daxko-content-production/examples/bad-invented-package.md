@@ -98,7 +98,7 @@ the same call to action.
 
 | # | What was invented | Why it is invention |
 |---|---|---|
-| 1 | **"23% more revenue"**, repeated in three pieces | No bundled file contains this figure. The only sourced Flex Fees outcome is CrossFit 1926's **+$10,690 with membership down 4%** (`references/boutique-playbook.md`). Repeating a made-up figure across pieces does not corroborate it; it multiplies it |
+| 1 | **"23% more revenue"**, repeated in three pieces | No bundled file contains this figure. The only sourced Flex Fees outcome is CrossFit 1926: revenue up **$10,690.08 despite a 4% membership decline, of which Flex Fees contributed $2,404.41 (22.5%)** (`references/product-knowledge.md`). Repeating a made-up figure across pieces does not corroborate it; it multiplies it |
 | 2 | **"up to 40%"** | Invented, and "up to" makes it unfalsifiable as well as unsourced |
 | 3 | **"Most studios see a meaningful lift"** | **Softening an invented number into a vague one is still invention.** This is the fault people think is safe. It is the same claim with the evidence removed |
 | 4 | **"Sarah M., studio owner, Austin TX"** and her quote | An invented customer and an invented testimonial. No Flex Fees quote exists in any bundled file, and a real quote needs written permission that cannot be verified from here |

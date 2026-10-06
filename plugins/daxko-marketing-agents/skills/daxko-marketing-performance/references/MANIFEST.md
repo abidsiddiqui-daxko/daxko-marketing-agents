@@ -5,10 +5,10 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.11
+**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.12
 
-> ⚠️ **On that version number.** 1.7.11 is the version of `plugin-daxko-agents` **as it stands on
-> 2026-10-06** (v1.7.8 changed only the plugin description; v1.7.9 only Agent 11's skill description; v1.7.10 added Agent 2 — OKR Copilot; v1.7.11 shipped the 2026-10-06 re-test fixes and escaped dollar figures — this skill's content is unchanged since v1.7.7), read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
+> ⚠️ **On that version number.** 1.7.12 is this skill's own version line (unpublished on
+> 2026-10-06: it adds the Law 5 subject rule, the version-check read and the ask-nothing rule after the v1.7.11 re-run; the published plugin is 1.7.11) (v1.7.8 changed only the plugin description; v1.7.9 only Agent 11's skill description; v1.7.10 added Agent 2 — OKR Copilot; v1.7.11 shipped the 2026-10-06 re-test fixes and escaped dollar figures — this skill's content is unchanged since v1.7.7), read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
 > was built at 1.7.5, first SHIPPED in v1.7.6 on 2026-09-28, and re-shipped in v1.7.7 on 2026-10-05 with
 > the shared-file corrections re-bundled; plugin.json, every skill body and every MANIFEST version line
 > moved in that one commit (N25). Every release that ships this skill must move `plugin.json`, the
@@ -167,4 +167,3 @@ Adding any of these later means adding a row above at the same time, in the same
 
 - **2026-10-05** — re-bundled from source after the shared-file corrections found by Agent 11 — Thought Leadership & Long-Form's test suite: every row above whose file was corrected today now carries the new checksum, bundled_on 2026-10-05 and as_of 2026-10-05. Rows whose file carries a 2026-09-22 correction but still recorded an older as_of were corrected to 2026-09-22 (finding F-2). Checksums of all other rows unchanged.
 
-- **2026-10-05** — re-bundled from source after the shared-file corrections found by Agent 11 — Thought Leadership & Long-Form's test suite: every row above whose file was corrected today now carries the new checksum, bundled_on 2026-10-05 and as_of 2026-10-05. Rows whose file carries a 2026-09-22 correction but still recorded an older as_of were corrected to 2026-09-22 (finding F-2). Checksums of all other rows unchanged.

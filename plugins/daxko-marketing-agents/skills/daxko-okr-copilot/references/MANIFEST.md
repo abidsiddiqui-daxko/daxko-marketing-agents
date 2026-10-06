@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-10-05 · **Agent:** Agent 2 — OKR Copilot · **Skill:** `daxko-okr-copilot` · **Skill version:** 1.7.11
+**Generated:** 2026-10-05 · **Agent:** Agent 2 — OKR Copilot · **Skill:** `daxko-okr-copilot` · **Skill version:** 1.7.12
 
 > ⚠️ **On that version number.** 1.7.11 is the version of `plugin-daxko-agents` as it stands on 2026-10-06,
 > read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill was built at 1.7.8 on

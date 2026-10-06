@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-29 · **Agent:** Agent 11 — Thought Leadership & Long-Form · **Skill:** `daxko-thought-leadership` · **Skill version:** 1.7.11
+**Generated:** 2026-09-29 · **Agent:** Agent 11 — Thought Leadership & Long-Form · **Skill:** `daxko-thought-leadership` · **Skill version:** 1.7.12
 
 > ⚠️ **On that version number.** 1.7.11 is the version of `plugin-daxko-agents` as it stands on 2026-10-06 (v1.7.8
 > changed only the plugin description; v1.7.9 changed this skill's description after its routing gate; v1.7.10 added Agent 2 — OKR Copilot; v1.7.11 shipped the 2026-10-06 re-test fixes and escaped dollar figures, this skill unchanged),
