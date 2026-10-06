@@ -136,8 +136,9 @@ one of them is about your data.
 **What the contradiction does NOT destroy, and it is the substantive finding:** both candidate
 figures are **on the same side of the same line.** Three quarters of 2026 have elapsed and attainment
 is between 44.0% and 49.7% of target on either figure. The direction is not in dispute; only the
-magnitude is. **Assigning the status word belongs to Agent 2 — OKR Copilot**, which owns KR status;
-what I can hand over is the arithmetic above, unresolved contradiction included.
+magnitude is. **The status stays `cannot say` until a threshold rule exists** — that rule is Abid
+Siddiqui's to set, at source in `performance-data-schema.md`, not any agent's to invent. What I can
+hand over is the arithmetic above, unresolved contradiction included.
 
 **For context, dated:** the last attainment figures in the bundled objectives file are
 **$10,240,700 (ACTUAL, April 2026 — five months before the period you are asking about)**, at 39.5%
