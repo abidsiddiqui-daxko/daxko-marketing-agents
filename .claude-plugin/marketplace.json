@@ -9,7 +9,7 @@
     {
       "name": "daxko-marketing-agents",
       "source": "./plugins/daxko-marketing-agents",
-      "description": "Daxko marketing agents. Agent 2 - OKR Copilot turns Daxko's OKRs into a quarterly plan without inventing targets or owners. Agent 9 - Brand Guardian reviews draft marketing content against Daxko's brand guidelines. Agent 11 - Thought Leadership & Long-Form writes one whitepaper, eBook, research report or executive article. Agent 13 - Content Production writes a matched multi-channel content set. Agent 18 - Marketing Performance reads numbers already in the chat against a Daxko Key Result.",
+      "description": "Daxko marketing agents. Agent 2 - OKR Copilot plans the quarter against Daxko's OKRs. Agent 5 - ICP & Value Prop says who Daxko sells to and what to say, from approved files. Agent 9 - Brand Guardian reviews drafts against the brand guidelines. Agent 11 - Thought Leadership & Long-Form writes one whitepaper, eBook, report or exec article. Agent 13 - Content Production writes a matched multi-channel set. Agent 18 - Marketing Performance reads numbers in the chat against a Key Result.",
       "category": "marketing"
     }
   ]

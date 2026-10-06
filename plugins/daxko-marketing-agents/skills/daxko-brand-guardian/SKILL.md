@@ -395,7 +395,7 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.13** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.14** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the verdict.

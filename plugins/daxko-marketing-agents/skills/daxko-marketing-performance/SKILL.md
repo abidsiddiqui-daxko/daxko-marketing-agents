@@ -471,7 +471,7 @@ corrections file and how many entries it held; and **the skill version you are r
 copies of a skill can be installed at once under one name and whichever answers is otherwise
 invisible to the reader.
 
-> **SKILL VERSION: 1.7.13** — report this in SOURCES. Compare it **only** with the plugin manifest that
+> **SKILL VERSION: 1.7.14** — report this in SOURCES. Compare it **only** with the plugin manifest that
 > ships beside this copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading
 > its `version` field and nothing else. If that file is not there, write *"no plugin manifest beside
 > this copy"* and **do not search for one anywhere else**. If it says a different version, the copies

@@ -5,9 +5,9 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.13
+**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.14
 
-> ⚠️ **On that version number.** 1.7.13 is this skill's own version line (v1.7.12, built on
+> ⚠️ **On that version number.** 1.7.14 is this skill's own version line (v1.7.14 added Agent 5; v1.7.12, built on
 > 2026-10-06: it adds the Law 5 subject rule, the version-check read and the ask-nothing rule after the v1.7.11 re-run; published in v1.7.12; v1.7.13 added the plain-dollar rule) (v1.7.8 changed only the plugin description; v1.7.9 only Agent 11's skill description; v1.7.10 added Agent 2 — OKR Copilot; v1.7.11 shipped the 2026-10-06 re-test fixes and escaped dollar figures — this skill's content is unchanged since v1.7.7), read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
 > was built at 1.7.5, first SHIPPED in v1.7.6 on 2026-09-28, and re-shipped in v1.7.7 on 2026-10-05 with
 > the shared-file corrections re-bundled; plugin.json, every skill body and every MANIFEST version line
