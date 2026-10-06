@@ -5,9 +5,9 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-10-05 · **Agent:** Agent 2 — OKR Copilot · **Skill:** `daxko-okr-copilot` · **Skill version:** 1.7.10
+**Generated:** 2026-10-05 · **Agent:** Agent 2 — OKR Copilot · **Skill:** `daxko-okr-copilot` · **Skill version:** 1.7.11
 
-> ⚠️ **On that version number.** 1.7.10 is the version of `plugin-daxko-agents` as it stands on 2026-10-06,
+> ⚠️ **On that version number.** 1.7.11 is the version of `plugin-daxko-agents` as it stands on 2026-10-06,
 > read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill was built at 1.7.8 on
 > 2026-10-05 (unpublished) and first SHIPPED in v1.7.10 on 2026-10-06; plugin.json, every skill body and
 > every MANIFEST version line moved in that one commit. Every release that ships this skill must move

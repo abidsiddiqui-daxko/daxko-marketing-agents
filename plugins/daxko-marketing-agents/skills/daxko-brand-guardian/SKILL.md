@@ -30,7 +30,7 @@ shared drive. **This is the only place in this skill where knowledge files are d
 |---|---|---|
 | `references/brand-guidelines.md` | Voice by market, colour palette, typography, logo rules, casing, boilerplate, AI messaging guardrails, always/never content rules | **2026-09-16** |
 | `references/brand-foundations.md` | Mission, vision, values, strategic pillars, approved boilerplate, brand contacts | 2026-08-05 |
-| `references/banned-words.md` | Banned vocabulary, banned constructions, per-market bans, and the approved replacement for each | 2026-08-05 |
+| `references/banned-words.md` | Banned vocabulary, banned constructions, per-market bans, and the approved replacement for each | 2026-09-22 |
 
 If any of these three cannot be read, **stop** — see Step 4.
 
@@ -58,10 +58,10 @@ does not produce a shorter review; it produces a wrong verdict.
 
 | File | Open it when | As of |
 |---|---|---|
-| `references/nonprofit-playbook.md` | The content targets the nonprofit market (YMCA, JCC, BGC, community rec) | **2026-08-17** |
-| `references/club-playbook.md` | The content targets health clubs or gyms | 2026-08-05 |
-| `references/boutique-playbook.md` | The content targets boutique studios, martial arts or functional fitness | 2026-08-10 |
-| `references/master-icps.md` | Audience fit is in question — the content names a buyer, a role, or a segment, or you need to judge whether it speaks to the right person | 2026-08-05 |
+| `references/nonprofit-playbook.md` | The content targets the nonprofit market (YMCA, JCC, BGC, community rec) | **2026-10-05** |
+| `references/club-playbook.md` | The content targets health clubs or gyms | 2026-10-05 |
+| `references/boutique-playbook.md` | The content targets boutique studios, martial arts or functional fitness | 2026-10-05 |
+| `references/master-icps.md` | Audience fit is in question — the content names a buyer, a role, or a segment, or you need to judge whether it speaks to the right person | 2026-10-05 |
 | `references/color-system.md` | Any colour is named, shown, or implied | 2026-05-28 |
 | `references/logo-guidelines.md` | The logo appears or is described | **2026-09-02** |
 | `references/typography-system.md` | Fonts, weights or type sizes are in question | 2026-05-28 |
@@ -389,14 +389,14 @@ Three rules for this block, all added 2026-09-01 after real reviews got them wro
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.10** — report this in SOURCES. If the plugin manifest says a different version,
+> **SKILL VERSION: 1.7.11** — report this in SOURCES. If the plugin manifest says a different version,
 > the two installed copies have drifted and you must say so above the verdict.
 
 ```
 SOURCES
-- references/brand-guidelines.md (as of 2026-08-11)
-- references/banned-words.md (as of 2026-08-05)
-- references/nonprofit-playbook.md (as of 2026-08-10)
+- references/brand-guidelines.md (as of 2026-09-16)
+- references/banned-words.md (as of 2026-09-22)
+- references/nonprofit-playbook.md (as of 2026-10-05)
 - Corrections: 3 entries found in references/corrections-snapshot.md (as of 2026-08-11)
 ```
 

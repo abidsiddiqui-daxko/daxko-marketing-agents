@@ -110,9 +110,9 @@ have the owner reconcile them at source; until then every pipeline statement bel
 
 ## Headline
 
-**Sessions rose across the four brands you provided (+5.67%), and nonprofit pipeline attainment sits
-somewhere between 44.0% and 49.7% of the $25.9M Key Result with one quarter of 2026 remaining —
-which figure is right depends on a contradiction only you can settle.**
+**Sessions rose across the four brands you provided (+5.67%), and nonprofit pipeline attainment is
+44.0% of the $25.9M Key Result on one source and 49.7% on the other, with one quarter of 2026
+remaining — which figure is right depends on a contradiction only you can settle.**
 
 ## Key Result status
 
@@ -134,8 +134,8 @@ one of them is about your data.
    threshold and presenting it as a reading. I am not going to do that.
 
 **What the contradiction does NOT destroy, and it is the substantive finding:** both candidate
-figures are **on the same side of the same line.** Three quarters of 2026 have elapsed and attainment
-is between 44.0% and 49.7% of target on either figure. The direction is not in dispute; only the
+figures are **on the same side of the same line.** Three quarters of 2026 have elapsed; attainment is
+44.0% of target on one figure and 49.7% on the other — both reported, neither chosen, no range. The direction is not in dispute; only the
 magnitude is. **The status stays `cannot say` until a threshold rule exists** — that rule is Abid
 Siddiqui's to set, at source in `performance-data-schema.md`, not any agent's to invent. What I can
 hand over is the arithmetic above, unresolved contradiction included.
@@ -235,6 +235,7 @@ the nonprofit market strategist.
 - `templates/performance-answer.md` (output shape — PERIOD STORY) ·
   `examples/good-nonprofit-period-story.md` (standard)
 - Corrections: none found — no corrections file present on this machine
+- references/MANIFEST.md — every "as of" date above is read from here
 - SKILL VERSION: 1.7.5
 
 *Want me to hand this to Agent 13 — Content Production to draft campaign copy against the expansion

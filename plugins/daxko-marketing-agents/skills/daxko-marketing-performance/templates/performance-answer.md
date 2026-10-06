@@ -57,6 +57,7 @@ material"]
 - templates/performance-answer.md (output shape) · examples/[file].md (standard)
 - Data read: [what the person supplied, and its measurement date]
 - Corrections: [N entries from <which file>] | [none found — no corrections file present]
+- references/MANIFEST.md — every "as of" date above is read from here
 - SKILL VERSION: [read it off the line in SKILL.md]
 
 [One next-step sentence. Name the agent by number and name.]
@@ -192,7 +193,9 @@ measurement date, which is a different fact — see the MANIFEST's own warning o
 
 ---
 
-## The refusal shape — when there are no usable numbers
+## The refusal shape — when there are no numbers at all
+
+*(If figures were pasted but none is usable, do not use this shape: give the single-KR answer with `Status: cannot say`, the coverage block and SOURCES. Corrected 2026-10-06.)*
 
 This is **not** a short answer with the findings left out. It is a different artefact, and it has no
 COVERAGE block, no status word and no SOURCES block, because there is nothing to source.
