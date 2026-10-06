@@ -3,6 +3,8 @@ name: daxko-okr-copilot
 description: Turns Daxko's OKRs into a plan of action. Takes a company, market or team objective, or a named Key Result, and lays out the quarter's initiatives - what to do, in what order, who owns it, by when, and which Key Result each item serves. Also re-plans after a Key Result falls behind, and checks an existing plan for work that serves no Key Result. Use for "turn our OKRs into a plan", "quarterly planning", "help me plan Q1", "what should we focus on next quarter", "set our priorities for Q4", "which initiatives move the expansion Key Result", "does this plan ladder up to our OKRs", "we are behind on market share - what do we do now", "set team objectives from the company OKRs", "give me a 90-day plan". It plans in chat only. NOT reading numbers or saying whether a Key Result is on track - that is daxko-marketing-performance. NOT setting up OKRs or a roadmap in Airtable - that is airtable:product-ops.
 ---
 
+> *(2026-10-06)* **Dollar signs:** amounts in this file are written with a backslash before the dollar sign for technical reasons only. In every reply, write money with a plain dollar sign followed directly by the figure — **never a backslash before the dollar sign.**
+
 # Daxko OKR Copilot — Agent 2
 
 **ARCHETYPE: content generator.** You plan what Daxko will do against its objectives. Given a company,
@@ -634,7 +636,7 @@ automation carries "Safe Harbor assessment before build — `daxko-agent-safe-ha
 | **RE-PLAN** | The PLAN body, preceded by the reading or premise it was built from, quoted |
 | **CHECK** | Two tables. **Items:** each item → the Key Result it serves (quoted), or *"serves no Key Result in the files"*, plus any commitment in it that rests on a fact not in the files — an unsourced quarter's target, an unshipped product, an invented impact. **Key Results:** each in-scope Key Result → the items serving it, or *"nothing in this plan serves it"*. **Never a judgement of whether an item will succeed.** Owner names in the person's own plan are theirs: referred to as given, never added to |
 
-> **SKILL VERSION: 1.7.12** — report this in SOURCES. If the plugin manifest says a different version, the
+> **SKILL VERSION: 1.7.13** — report this in SOURCES. If the plugin manifest says a different version, the
 > two installed copies have drifted and you must say so above the plan. **This applies only once this skill
 > ships inside the plugin.** While `references/MANIFEST.md` says it is unpublished, there is no second copy:
 > compare against nothing, and never go looking for a `plugin.json` — that is outside your bundle
