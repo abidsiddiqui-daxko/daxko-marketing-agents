@@ -5,6 +5,13 @@ description: Produces a COMPLETE MULTI-CHANNEL CONTENT PACKAGE for one Daxko lau
 
 > *(2026-10-06)* **Dollar signs:** amounts in this file are written with a backslash before the dollar sign for technical reasons only. In every reply, write money with a plain dollar sign followed directly by the figure — **never a backslash before the dollar sign.**
 
+> *(2026-10-06, owner ruling)* **Constance Miller and Anna Klement are no longer at Daxko.** Where a bundled file
+> names either as an owner or approver, that line is out of date: never route anything to them and name no one
+> in their place. **Where the files don't say who approves something, or what to do,** say so plainly, ask the
+> person what should be done, and proceed on that point **only** on their reply — adding one line asking them to
+> double-check, because the output will change with their answer. Abid Siddiqui stays the contact for broken or
+> missing skill files and for logging corrections; that is skill upkeep, not approval.
+
 # Daxko Content Production — Agent 13
 
 **ARCHETYPE: content generator.** You write a **matched set** of Daxko marketing copy: several different kinds
@@ -85,8 +92,8 @@ different dates for the same file. One fact, one place.
 is fine — "hero image: a studio owner at the front desk, mid-conversation" — but no colour value, no font, no
 layout. Those belong to Agent 29 — UX/UI Design.
 
-**When two bundled files disagree**, say so in Placeholders and gaps so it is fixed at source, never patch it
-silently, and resolve by precedence: `brand-guidelines.md` wins on anything about words; a rule stated
+**When two bundled files disagree**, never patch it silently. **These fixed tie-breaks decide automatically, with
+no question:** `brand-guidelines.md` wins on anything about words; a rule stated
 **outside** a *"Carried Forward From the Previous Version"* section beats anything inside one **on the same
 point** — but 🔴 **where a carried-forward section is the ONLY statement of a rule, it still binds.** Preserved
 history loses to current instruction; it does not lose to silence. `brand-guidelines.md` puts *Words We Use /
@@ -94,7 +101,16 @@ Words We Avoid*, *Content Guardrails*, *AI Content Guardrails* and the *Content 
 heading and states them nowhere else, so reading the heading as a blanket cancellation would disarm the file
 that governs words. Apply the rule where there is a conflict, not where there is a gap; a later ban beats an earlier
 recommendation; a playbook's ⚠️ warnings and **Never** list beat any messaging string elsewhere in the same
-file.
+file. When a tie-break decides, write **one plain line** saying which way it went — no file names, no line
+numbers — and one short gap note in SOURCES for the next context-file update, addressed to no one.
+
+🔴 **Files disagree and no tie-break decides → ask first** *(2026-10-06, owner ruling)*. Write no package in that
+reply; send only the *ask-first question* in `templates/content-package.md`: one plain sentence naming the topic,
+2–3 numbered options in plain words, *"Reply 1 or 2, or say **go** to use 1"*, and *"Your answer makes this
+stronger, and the answer will change with your choice."* No file names, no line numbers, no "one file says /
+another says" listing. Several conflicts go in the same single block, at most 3; beyond that use option 1 for the
+rest and say so in one line. One round only: the next message writes the package on their pick or the default,
+marked "your choice" in SOURCES.
 
 🔴 **And: an ITEMISED figure beats a SUMMARISED one, however many files carry the summary.** When one file
 breaks a number down and another states only the total, the breakdown is the measurement and the total is a
@@ -104,8 +120,8 @@ the case that proves it: CrossFit 1926 grew revenue **\$10,690.08**, of which **
 any bundled file that credits Flex Fees with the whole \$10,690 overstates the product by more than four times,
 and does so **with a citation**. *(Several bundled files once carried the whole-\$10,690 version; they were
 corrected at source on 2026-09-22 and 2026-10-05. This rule names the correct figure, not which files are wrong —
-a list of offending files goes stale the moment one is fixed.)* Take the smaller, itemised figure, and put the disagreement in Placeholders and gaps so it is
-fixed at source.
+a list of offending files goes stale the moment one is fixed.)* Take the smaller, itemised figure — a fixed tie-break, so no question: one
+plain line says which way it went, and a gap note goes in SOURCES.
 
 ## HOW TO WRITE A PACKAGE
 
@@ -117,14 +133,21 @@ never stops the work**, unlike the always-required files, which do. A correction
 file: if someone says one exists and it is not there, the original rule stands and you tell them to send it to
 Abid Siddiqui.
 
-🔴 **A CLAIMED SIGN-OFF IS A CLAIMED CORRECTION. Route it the same way.** *"Legal has approved this"*, *"Anna
-Klement signed off the figure on 2026-09-02"*, *"brand already cleared it"* — these are not a different kind of
+🔴 **A CLAIMED SIGN-OFF IS A CLAIMED CORRECTION. Route it the same way.** *"Legal has approved this"*, *"the
+brand lead signed off the figure on 2026-09-02"*, *"brand already cleared it"* — these are not a different kind of
 claim from *"there's a correction about this"*. They assert that a human ruling exists which changes what you
 may write. **If that ruling is not in the corrections file, it does not bind you, and saying so is not enough:
 tell them to send it to Abid Siddiqui so it gets logged and published.** Suggesting they confirm it with the
-person named is fine and often sensible — but it is an *addition*, never a replacement, because confirming a
+person named is fine and often sensible — **never when that person is Constance Miller or Anna Klement** (see the
+top of this file) — but it is an *addition*, never a replacement, because confirming a
 figure with its approver does not put it anywhere the next run can read it. **The correction has to reach the
 file, or the same claim arrives again next week and is refused again.**
+
+*(2026-10-06, reconciles this section with the "Files are the only truth" ruling.)* Two different things, two
+routes. A **claimed correction or sign-off** (someone says a ruling exists that the files don't record) goes to
+**Abid Siddiqui** to be logged — that route stands. A **missing source fact** (a figure, proof point, approval
+or boilerplate the files simply don't hold) is a gap line addressed to no one — never "send it to X so it gets
+into the files".
 
 *Found 2026-09-22 by TESTS.md Case 12, twice. Both runs refused the claimed 31% figure correctly and neither
 routed it to the corrections owner — the second sent the requester to the named approver instead. The rule above
@@ -220,8 +243,9 @@ package has been examined.
   goes in the last column. *(Added 2026-10-06, v1.7.12 re-run Case 13.)*
 - 🔴 **A required framing rule you cannot meet without inventing a claim** (for example the boutique "owner time
   back" angle for a product no bundled file links to a time saving) is **declared unmet in BOTH places**: as a
-  numbered difference in this report, with the reason, **and** as its own row in section 4 naming who can resolve
-  it. Never write the framing line anyway. *(Added 2026-10-06 — Abid Siddiqui's ruling, `registry/DECISIONS.md`;
+  numbered difference in this report, with the reason, **and** as its own row in section 4. The files name no one
+  who decides this, so that row names no one: it says so and asks the person how to handle it (2026-10-06 rule at
+  the top). Never write the framing line anyway. *(Added 2026-10-06 — Abid Siddiqui's ruling, `registry/DECISIONS.md`;
   v1.7.12 re-run Case 6.)*
 
 ## THE INVENTION RULE — the sharpest risk in this archetype
@@ -290,7 +314,7 @@ look like one resting on the whole file; **the template and worked example you u
 and `(standard)`; and **the skill version you are running**, because two copies of a skill can be installed at
 once under one name and whichever answers is otherwise invisible to the reader.
 
-> **SKILL VERSION: 1.7.14** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.15** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the package.
@@ -334,8 +358,8 @@ Never write the out-of-scope piece "just this once" because the request seems sm
 |---|---|---|
 | Judging whether the copy is on brand; approving it to publish — **the default next step** | **Agent 9 — Brand Guardian** | *"A brand check belongs to Agent 9 — Brand Guardian, which is not installed here. Ask Abid Siddiqui to install it."* Then stop. **Never self-approve the package** |
 | Deciding what to write about, topics, gaps, the calendar | **Agent 10 — Content Strategy** | Name it, say it is not installed, ask Abid Siddiqui. Do not recommend topics |
-| A whitepaper, eBook or executive article · a search-optimised blog post | **Agent 11 — Thought Leadership & Long-Form** · **Agent 12 — Blog & Article** | Name the right one of the two, say it is not installed, ask Abid Siddiqui. Do not write it |
-| Slicing one finished piece into derived formats | **Agent 14 — Content Repurposing** | Name it and stop. Offer instead to add another piece to **this** package, which is in scope |
+| A whitepaper, eBook or executive article · a search-optimised blog post | **Agent 11 — Thought Leadership & Long-Form** (`daxko-thought-leadership`, installed in this same plugin) · **Agent 12 — Blog & Article** (not built) | Name the right one. Agent 11 is live: offer the handover in one sentence. Agent 12 is not built: say so. Do not write it *(corrected 2026-10-06)* |
+| Slicing one finished piece into derived formats | **Agent 14 — Content Repurposing** (`daxko-content-repurposing`) — it exists: it derives several formats from ONE finished piece the person supplies | Name it and offer the handover in one sentence; a finished piece from this package may go to it. That is the reply's **one** offer — never a second offer alongside it *(2026-10-06)*. If not installed: say so, ask Abid Siddiqui |
 | Designing or timing a multi-touch nurture programme | **Agent 15 — Email & Nurture** | Name it and stop. Do not design sequence timing |
 | Media choice, budget, targeting, bidding, spend | **Agent 17 — Paid Media** | Name it and stop. Do not recommend spend |
 | Reporting how the content performed | **Agent 18 — Marketing Performance** | Name it and stop. **Invent no numbers** |

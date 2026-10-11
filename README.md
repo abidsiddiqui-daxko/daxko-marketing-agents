@@ -20,10 +20,11 @@ owner: Abid Siddiqui (abid.siddiqui@daxko.com)
 | **Agent 9 — Brand Guardian** | Reviews draft Daxko marketing content against the official brand guidelines and returns a verdict, a six-dimension scorecard, every violation tied to the rule it breaks, line-by-line fixes, and a corrected rewrite. **It reviews content; it does not write it.** |
 | **Agent 11 — Thought Leadership & Long-Form** | Writes one long-form authority piece — a whitepaper, an eBook manuscript, a research report or an executive byline article — from Daxko's own files. Every figure it cannot source is left as a visible `[PLACEHOLDER]`, never guessed. |
 | **Agent 13 — Content Production** | Writes a matched multi-channel content package for one launch, announcement or campaign, all drafted from one locked core message. |
+| **Agent 14 — Content Repurposing** | Takes one finished piece — a blog post, whitepaper, eBook chapter, webinar transcript or case study — and turns it into several formats at once: social posts, an email series, video scripts, carousel copy, pull quotes and an infographic outline in words. Each piece restates only what the source says, and source claims that clash with Daxko's files are flagged, not copied. |
 | **Agent 18 — Marketing Performance** | Reads marketing numbers you have already put in the chat and says what they mean for a named Daxko Key Result. It fetches nothing and does not decide what to do next. |
 
 More agents are added over time, one tested agent at a time. *(Updated 2026-10-05: this table listed only
-Agent 9 — Brand Guardian through three releases that added the other three. Agent 2 — OKR Copilot added in v1.7.10, 2026-10-06. Agent 5 — ICP & Value Prop added in v1.7.14, 2026-10-06.)*
+Agent 9 — Brand Guardian through three releases that added the other three. Agent 2 — OKR Copilot added in v1.7.10, 2026-10-06. Agent 5 — ICP & Value Prop added in v1.7.14, 2026-10-06. Agent 14 — Content Repurposing added in v1.7.15, 2026-10-12.)*
 
 ---
 

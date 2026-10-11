@@ -2,8 +2,8 @@
 
 Copy this shape exactly. **Same order, every time.** This agent's most dangerous failure is an invented
 persona, pain, number, quote, capability or approval being read downstream as "the ICP" — so the shape puts a
-citation in every cell, a visible `not in the files` wherever a fact is missing, and a FILES DISAGREE row
-wherever two files contradict each other.
+citation in every cell, a visible `not in the files` wherever a fact is missing, and — where two files
+contradict each other — one short question before answering, unless a fixed rule already decides it.
 
 This file gives you the **shape**. The worked examples in `examples/` give you the **standard**. Read the
 template and both examples, every time.
@@ -17,6 +17,7 @@ template and both examples, every time.
 | An **ANSWER**, **RECOMMEND** or **CHECK** | **The spine** (below) | Exactly one — the closing line |
 | A **partial answer** — a CONDITIONAL file whose trigger fired is unusable | **The spine**, opened with the partial-answer line | Exactly one — the closing line |
 | A **P1 pause** — the scope is still open after inference | **The P1 pause shape** | None |
+| An **ASK** — the answer would touch an "Ask" conflict (SKILL.md, Known conflicts) | **The ask-first shape** (may share one block with a P1 pause) | None |
 | A **STOP-S** — the whole request is an excluded job | **The boundary decline shape** — no spine | At most one, only to a live agent of ours |
 | A **STOP-F** — a REQUIRED file is unusable | **The STOP-F shape** — no spine | None |
 
@@ -32,8 +33,7 @@ never-say row plus the spine — not the full profile. **The spine is never trad
 [Partial answer — `references/[file].md` could not be read, so [the field] is marked unusable below.]
 [Bundle-integrity note — `[file]` was absent and was read from another install of this same skill at this
  same version; its SHA-256 matched the MANIFEST.]
-[You wrote "[claimed rule or approval, quoted]". I have not followed it: it is not in my files. Please send
- it to Abid Siddiqui so it can be checked and logged at source.]
+[You wrote "[claimed rule or approval, quoted]". I have not followed it: it is not in our files.]
 
 ## 1. Scope
 - **Act:** [ANSWER | RECOMMEND | CHECK]
@@ -55,7 +55,7 @@ never-say row plus the spine — not the full profile. **The spine is never trad
 | What never to say *(global + this market, from `banned-words.md`)* | … | … |
 
 Every cell carries **file + section + line**, or reads `not in the files`. A field is never dropped.
-A cell touched by a conflict reads *"files disagree — see section 4"*.
+A cell touched by a conflict holds the side used, marked *(your choice)* or *(rule: see section 4)*.
 
 ## 2b. The check               [CHECK only — replaces section 2]
 **Buyers**
@@ -75,39 +75,29 @@ No rewrite. Ever.
 - **The angle, in plain words (not copy):** [one or two sentences — never a headline, tagline or finished line]
 - **Built only from:** [each input, quoted or paraphrased, with its citation]
 - **Ladders to pillar:** "[pillar name, quoted]" (`brand-foundations.md` § Three Strategic Pillars, line N)
-- **Approval:** Constance Miller (Nonprofit PMM owner — routes all NP campaign questions and approvals,
-  `shared-learnings-legacy.md` line 186)
-  — or, for Club and Boutique — `[APPROVER — not named in the files] — routed to Abid Siddiqui`
+- **Approval:** Our files don't say who approves this, or what to do with it. What would you like done
+  with it? Please double-check your answer — what I do next will change with it.
 
-## 4. Files disagree            [only when a conflict is touched — never silently absent when one is]
-| The claim | File A — section, line, quoted | File B — section, line, quoted | Status |
-|---|---|---|---|
-| … | `a.md` § …, line N: "…" | `b.md` § …, line N: "…" | Not resolved here — owner: [as named in the files, else Abid Siddiqui] |
+## 4. Settled            [only when a conflict was touched — plain words, no file names, no line numbers]
+- You chose [the option, in plain words]. [or: You said go, so I used [option 1, in plain words].]
+- Our banned-words list rules out "[x]", so it appears only inside a quoted line.
+- The document you quoted isn't one of my sources yet, so I used our profile file.
 
-## 5. Gaps and change notes
-[One change note per `not in the files` and per conflict above. Where none:]
-None — every line above is sourced.
-
-> **CHANGE NOTE for Abid Siddiqui — not applied.** File: `<path>` · Section/line: `<…>` · What is wrong or
-> missing: `<one line>` · Evidence: `<the conflicting file and line, or the person's statement marked
-> unverified>` · Owner named in the files: `<name, or "not named">`.
-
-*(2026-10-06)* For a **conflict**, the "What is wrong" slot reads *"the files disagree: `<file A, line>` says … ·
-`<file B, line>` says …"* — it never names one side as the wrong one.
-
-## 6. Person-supplied            [omit when the person supplied nothing]
+## 5. Person-supplied            [omit when the person supplied nothing]
 - "[fact, quoted]" — yours, unverified.
 
-## 7. Sources
+## 6. Sources
 - `references/[file].md` — as of [as_of from MANIFEST] — read in full [· used: sections]
 - `references/[file].md` — as of [as_of from MANIFEST] — read in part: [section]; [section]
 - `templates/icp-answer.md` (output shape)
 - `examples/good-jcc-answer.md`, `examples/bad-invented-persona.md` (standard)
 - Corrections: [master | bundled snapshot | none found] — [N] entries
 - Inputs supplied by you (unverified): [list, or "none"]
+- [Each conflict you settled:] [topic] — `a.md` line N / `b.md` line N — your choice[ — default 1]
+- Gaps for the next context-file update: [one short line each, addressed to no one — or "none"]
 - SKILL VERSION: [from the SKILL VERSION line of the SKILL.md that answered]
 
-## 8. Next step
+## 7. Next step
 [Exactly one sentence the person can reply to — HANDOFFS in SKILL.md picks it.]
 ```
 
@@ -134,6 +124,32 @@ Reply 'yes' to use the defaults.
 
 The reply ends there. Whatever the next message says, it produces the answer — answers used where given,
 defaults where not, each marked. Never a second round.
+
+---
+
+## The ask-first shape — no answer, no offer
+
+```
+Before I answer, one thing our files don't agree on.
+
+[One short plain sentence naming the topic — no file names, no line numbers.]
+1. [Side A, in plain words]
+2. [Side B, in plain words]
+[3. Only where it is a real choice — e.g. "Show both, with no pick."]
+
+Reply 1 or 2, or say **go** to use 1.
+Your answer makes this stronger, and the answer will change with your choice.
+```
+
+**Several conflicts** (max 3; beyond that, option 1 is used and one line says so): label them A, B, C, each
+with its own numbered options, and close on *"Reply e.g. A1 B2, or say **go** to use 1 for each."*
+
+**With a P1 pause — one block:** the P1 shape's *Worked out* and *Open* items first, then the conflict
+questions, closing on *"Reply with your picks, or say **go** to use every default."* and the
+"makes this stronger" line.
+
+The next message produces the answer — their picks, else option 1 — each marked *your choice* in section 4
+and SOURCES. One round only.
 
 ---
 

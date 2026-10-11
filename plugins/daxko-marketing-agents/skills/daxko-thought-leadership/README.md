@@ -138,7 +138,7 @@ corrections that fix them are the most valuable entries in the file.
 
 **One correction worth knowing about:** if it leaves a `[PLACEHOLDER]` for a figure that actually is a known,
 sourced number, that usually means the number belongs in a source file (`product-knowledge.md` or
-`competitive-intel.md`). Send it to Abid Siddiqui — he adds it at source so every future piece can use it. It
+`competitive-intel.md`). Send it to Abid Siddiqui to log for the next context-file update, so future pieces can use it. It
 is not a reason to let the agent start writing unsourced numbers.
 
 **Do not edit your own copy of the skill.** It is read-only by design and will be replaced at the next update,
@@ -166,4 +166,4 @@ rules and the same facts.
 ## Questions
 
 - **About this agent, an update, or a bad answer** → Abid Siddiqui
-- **About Daxko brand voice, before a piece goes out** → Anna Klement, Communications Manager
+- **About Daxko brand voice, before a piece goes out** → run it past Agent 9 — Brand Guardian (`daxko-brand-guardian`). No named brand-voice owner is on file (2026-10-06).

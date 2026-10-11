@@ -53,7 +53,26 @@ changes shape is one nobody can skim, and skimmability is most of the value.
 - references/[file].md (as of YYYY-MM-DD)
 - references/[file].md (as of YYYY-MM-DD)
 - Corrections: [N entries found in <which file>] | [none found — no corrections file present]
+- [Gap note, one short line each, addressed to no one — only if a fixed tie-break was applied or a fact was not in our files]
+
+## Needs your decision
+[Only when a Violation is marked "needs your decision". Otherwise omit this section.]
+The files don't say what to do about [item]. What should we do?
+Please double-check your answer — the review will change with it.
 ```
+
+**When two files disagree and no fixed tie-break decides it**, do not review yet. Reply with only this:
+
+```
+Before we review: our files give two different answers on [topic, in plain words].
+1. [option in plain words]
+2. [option in plain words]
+Reply 1 or 2, or say **go** to use 1.
+Your answer makes this stronger, and the answer will change with your choice.
+```
+
+No file names or line numbers in that block. Ask every such conflict at once (max 3). The next message
+produces the full review and lists the pick as "your choice" in SOURCES.
 
 ---
 
@@ -86,6 +105,13 @@ changes shape is one nobody can skim, and skimmability is most of the value.
   neither a direct nor a converging rule belongs in Suggested edits, not here.
 - Quote the offending text exactly. "The tone is off" is not actionable; "STOP LOSING MONEY!!!" is.
 - Number them so they can be discussed.
+- **Banned words: check every line** of the general list and the market's list in
+  `references/banned-words.md`, one by one, before writing this violation. Count each word's
+  occurrences from the draft itself. **Never mention a form you did not flag** — no "not flagged" notes.
+- **A fixed tie-break between files** (the ban wins, the precedence table): apply it and add one plain
+  line saying which way it went — no file names or line numbers in that line, no escalation.
+- **Where the files don't say what to do**, keep the item here marked **needs your decision**, still
+  give the verdict, and ask the question in *Needs your decision*. Never route it to a named person.
 
 ### Suggested edits
 

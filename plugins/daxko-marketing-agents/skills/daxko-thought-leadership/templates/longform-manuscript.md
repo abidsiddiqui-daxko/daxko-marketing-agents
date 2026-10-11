@@ -9,6 +9,25 @@ each, every time.
 
 ---
 
+## Before Step A — only if two files disagree and no fixed tie-break decides it
+
+Ask first and produce nothing else in that reply. No file names, no line numbers, no side-by-side table.
+
+```
+[One short plain sentence naming the topic, e.g. "Our files give two different figures for this result."]
+
+1. [Option in plain words]
+2. [Option in plain words]
+[3. Optional third option]
+
+Reply 1 or 2, or say **go** to use 1.
+Your answer makes this stronger, and the answer will change with your choice.
+```
+
+[Several conflicts: one block, max 3 questions; use option 1 for the rest and say so in one line. One round
+ only: the next message proceeds with their pick or the default, marked "your choice" in SOURCES. Where a fixed
+ tie-break decides the conflict, do not ask: one plain line says which way it went.]
+
 ## Step A — LOCK, then OFFER (the default two-step flow)
 
 ```
@@ -72,9 +91,12 @@ assumed market, assumed audience) so it can be corrected after the draft, not be
 - examples/[file].md (standard)
 - Corrections: [N entries found in <which file>] | [none found — no corrections file present]
 - SKILL VERSION: [read it off the SKILL VERSION line in SKILL.md]
+- [Only if a conflict was asked about: Your choice — [topic]: option N (or the default, "go"). Citations may go here.]
+- [Only if a gap or disagreement was found: Gap for the next context-file update — [one short line, addressed to no one]]
 
 ## Placeholders and gaps
 
+<!-- 2026-10-06: the "Who supplies it" cell is only: You (requester-supplied) · Not in our files · a role a bundled file names. No invented teams. -->
 | # | Placeholder | What is needed | Who supplies it |
 |---|---|---|---|
 | 1 | `[PLACEHOLDER — needs a sourced figure]` | [what claim was wanted and why no bundled file supports it] | [role or team] |

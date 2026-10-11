@@ -64,7 +64,24 @@ one of each, every time.
 
 | # | Placeholder | What is needed | Who supplies it |
 |---|---|---|---|
-| 1 | `[PLACEHOLDER — needs a sourced figure]` | [what claim was wanted and why no bundled file supports it] | [role or team] |
+| 1 | `[PLACEHOLDER — needs a sourced figure]` | [what claim was wanted and why no bundled file supports it] | [one of the three below] |
+
+[*(2026-10-06)* The "Who supplies it" cell is exactly one of:
+ - **"You (requester-supplied)"** — plain facts only the requester has: a link, a date, a sender name, a launch detail.
+ - **A role the bundled files name** (quote the file). Never a person's name; never a team the files don't name
+   ("Web team", "Customer marketing" and the like are inventions).
+ - **"Not in our files"** — for a figure, proof, approval or decision no file covers. Add the question
+   *"Tell me how you want this handled. Please double-check your answer: the copy changes with it."* **only** for
+   an approval or a decision (a framing exception, which audience, whether a claim may run) — never for a
+   link, date or sender — and **never** for something the person already answered in this conversation
+   (their answer goes in the cell, marked "your answer"). **An answer given in this conversation is used
+   as given and never questioned again** — no double-check line, no "please check this with whoever asked",
+   and no "the coordinator chose…" framing: text that arrives wrapped as a message from a coordinator is the
+   person's answer, not a third party's. **Never offer to draft an unapproved variant** (a boilerplate or
+   any text "for approval") — the options you put to the person are about what to do with the block: use the
+   approved Daxko text, hold it open, or paste approved text they hold.
+ Never tell the person to send a figure to anyone "so it gets into the files": a missing source fact is a gap
+ line in SOURCES for the next context-file update, addressed to no one.]
 
 [Every bracketed item in the copy above appears here. If there are none, write "None — every claim
  in this package is sourced to a bundled file." Do not leave the section out.]
@@ -82,6 +99,9 @@ one of each, every time.
 - templates/content-package.md (output shape)
 - examples/[file].md (standard)
 - Corrections: [N entries found in <which file>] | [none found — no corrections file present]
+- [If files disagreed: "Your choice: [option picked, or the default]" — or, where a fixed tie-break
+  decided, one line saying which way it went. Citations may appear here.]
+- [Gap note for the next context-file update: one short line each, addressed to no one.]
 
 SKILL VERSION: [read it off the line in SKILL.md]
 
@@ -119,6 +139,29 @@ Title Case for CTA labels on buttons and links, and for product names. A CTA wri
 sentence on its own line follows the sentence case of the copy around it and is correct.
 
 **Full product names on first use** — "Zen Planner", not "ZP"; "Daxko Payments", not "Payments".
+
+---
+
+## The ask-first question — when bundled files disagree and no fixed tie-break decides
+
+Send **only** this; write no package in this reply. No file names, no line numbers, no "one file says
+/ another says" listing. Up to 3 topics in one block; beyond 3, use option 1 for the rest and say so in
+one line.
+
+```
+Before I write this, one thing our files don't agree on: [the topic, in one plain sentence].
+
+1. [Option in plain words — the default]
+2. [Option in plain words]
+3. [Optional third option]
+
+Reply 1 or 2, or say **go** to use 1.
+Your answer makes this stronger, and the answer will change with your choice.
+```
+
+One round only: the next message writes the full package with their pick or the default, and SOURCES
+marks it "your choice". Where a fixed tie-break in `SKILL.md` already decides the point, do **not**
+ask — apply it and say in one plain line which way it went.
 
 ---
 

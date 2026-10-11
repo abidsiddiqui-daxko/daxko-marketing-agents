@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-10-06 · **Agent:** Agent 5 — ICP & Value Prop · **Skill:** `daxko-icp-value-prop` · **Skill version:** 1.7.14 · **Publication state: PUBLISHED in v1.7.14 (2026-10-06)**
+**Generated:** 2026-10-06 · **Agent:** Agent 5 — ICP & Value Prop · **Skill:** `daxko-icp-value-prop` · **Skill version:** 1.7.15 · **Publication state: PUBLISHED in v1.7.14 (2026-10-06)**
 
 > ⚠️ **On that version number.** This skill was built at 1.7.10 on 2026-10-06 (unpublished) and first SHIPPED in
 > v1.7.14 the same day. The skill never prints a version-drift note and never reads `plugin.json`. Every release that
@@ -47,7 +47,7 @@
 | `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-10-06 | **2026-09-22** | 16 KB |
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-10-06 | 2026-10-05 | 24 KB |
 | `club-sss-revenue-model.md` | `verticals/club-sss-revenue-model.md` | `9098c23bb01470232f82020cd288b6aeb2cdca6d9b29c59e3abf9bb30048fde1` | verbatim | 2026-10-06 | **2026-09-22** | 11 KB |
-| `corrections-snapshot.md` | `learnings/agent-05-icp-value-prop.md` | `593a14ff872e77e10bc75177c8ff50f5d15b0ecd184ecaab2f428722484bdf90` | converted | 2026-10-06 | 2026-10-06 | 5 KB |
+| `corrections-snapshot.md` | `learnings/agent-05-icp-value-prop.md` | `5c7dc8f276aaa26e18d09f25d051d0d61568baf2d633a27e2a7fc13875b4d138` | converted | 2026-10-12 | 2026-10-06 | 6 KB |
 
 **21 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge. Any both-directions
 verification enumerates `references/*.md` **minus `MANIFEST.md`**, and must say so.

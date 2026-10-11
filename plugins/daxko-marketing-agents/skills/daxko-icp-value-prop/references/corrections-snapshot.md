@@ -75,4 +75,6 @@ about any of those are the most valuable entries the corrections file can hold.
 
 ## Corrections
 
-*(No corrections logged yet. This agent was built on 2026-10-06.)*
+*(No corrections logged yet. This agent was built on 2026-10-06. The first entry goes below this
+line, and nothing above it is ever edited.)*
+- [2026-10-06] [CORRECTION] Owner ruling (registry/DECISIONS.md, "Files are the only truth"): Constance Miller and Anna Klement are no longer at Daxko. Any earlier entry here that routes approval, escalation or a question to either of them is superseded: route nothing to them and name no one in their place. Where the files do not say who approves or what to do, say so plainly, ask the person what to do, proceed only on their reply, and ask them to double-check. Where two files disagree and no fixed rule decides, ask first in plain words with numbered options and a default — Abid Siddiqui

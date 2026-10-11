@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-17 · **Version line refreshed:** 2026-10-06 · **Agent:** Agent 13 — Content Production · **Skill:** `daxko-content-production` · **Skill version:** 1.7.14
+**Generated:** 2026-09-17 · **Version line refreshed:** 2026-10-06 · **Agent:** Agent 13 — Content Production · **Skill:** `daxko-content-production` · **Skill version:** 1.7.15
 
 **What the columns mean**
 
@@ -41,7 +41,7 @@
 | `club-sss-revenue-model.md` | `verticals/club-sss-revenue-model.md` | `9098c23bb01470232f82020cd288b6aeb2cdca6d9b29c59e3abf9bb30048fde1` | verbatim | 2026-09-17 | **2026-09-22** | 12 KB |
 | `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-09-17 | **2026-09-22** | 16 KB |
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-10-05 | 2026-10-05 | 24 KB |
-| `corrections-snapshot.md` | `learnings/agent-13-content-production.md` | `2471f0dec9e53b5d010d3ad143ad213fd8a90ac22c587a97be2d4a719af27488` | converted | 2026-10-05 | 2026-09-21 | 3 KB |
+| `corrections-snapshot.md` | `learnings/agent-13-content-production.md` | `2471f0dec9e53b5d010d3ad143ad213fd8a90ac22c587a97be2d4a719af27488` | converted | 2026-10-12 | 2026-09-21 | 3 KB |
 
 **20 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge. Any
 both-directions verification enumerates `references/*.md` **minus `MANIFEST.md`**, and must say so.

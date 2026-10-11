@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-10-05 · **Agent:** Agent 2 — OKR Copilot · **Skill:** `daxko-okr-copilot` · **Skill version:** 1.7.14
+**Generated:** 2026-10-05 · **Agent:** Agent 2 — OKR Copilot · **Skill:** `daxko-okr-copilot` · **Skill version:** 1.7.15
 
 > ⚠️ **On that version number.** 1.7.14 is the version of `plugin-daxko-agents` as it stands on 2026-10-06 (v1.7.14 added Agent 5 — ICP & Value Prop; v1.7.12 shipped the re-test fixes for Agents 9, 13 and 18; v1.7.13 added the plain-dollar rule to Agents 2, 11, 13 and 18),
 > read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill was built at 1.7.8 on
@@ -47,7 +47,7 @@
 | `master-icps.md` | `knowledge-base/master-icps.md` | `6f6f0b560c67683b5bc672352e544939dbaf4b708ba1129a7e43f88af5dd7e7c` | verbatim | 2026-10-05 | 2026-10-05 | 19 KB |
 | `competitive-intel.md` | `knowledge-base/competitive-intel.md` | `f98985ce0c971a98e631c25ca7c70414df1c2fba9ace65fbc0319f70535a160b` | verbatim | 2026-10-05 | 2026-10-05 | 32 KB |
 | `product-marketing-context.md` | `knowledge-base/product-marketing-context.md` | `e0053dbd94eb10a1dee1f4b365af86d29de429cd4a6fa9aff165af72c8420bb9` | verbatim | 2026-10-05 | 2026-08-05 | 66 KB |
-| `corrections-snapshot.md` | `learnings/agent-02-okr-copilot.md` | `f62e9eb6d10af4d5f00365fcd885d4c77ff4bf26be9736a7b87e9d9ce7f5a58d` | converted | 2026-10-05 | 2026-10-05 | 4 KB |
+| `corrections-snapshot.md` | `learnings/agent-02-okr-copilot.md` | `f62e9eb6d10af4d5f00365fcd885d4c77ff4bf26be9736a7b87e9d9ce7f5a58d` | converted | 2026-10-12 | 2026-10-05 | 5 KB |
 
 **19 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge. Any both-directions
 verification enumerates `references/*.md` **minus `MANIFEST.md`**, and must say so.

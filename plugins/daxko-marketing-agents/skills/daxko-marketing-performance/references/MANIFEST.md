@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.14
+**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.15
 
 > ⚠️ **On that version number.** 1.7.14 is this skill's own version line (v1.7.14 added Agent 5; v1.7.12, built on
 > 2026-10-06: it adds the Law 5 subject rule, the version-check read and the ask-nothing rule after the v1.7.11 re-run; published in v1.7.12; v1.7.13 added the plain-dollar rule) (v1.7.8 changed only the plugin description; v1.7.9 only Agent 11's skill description; v1.7.10 added Agent 2 — OKR Copilot; v1.7.11 shipped the 2026-10-06 re-test fixes and escaped dollar figures — this skill's content is unchanged since v1.7.7), read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
@@ -39,7 +39,7 @@
 | `boutique-playbook.md` | `verticals/boutique-playbook.md` | `740900c3f36648e2f315809cc452bbec60e9fce20c155b8199c8cbcc3c7e4893` | verbatim | 2026-10-05 | 2026-10-05 | 30 KB |
 | `master-icps.md` | `knowledge-base/master-icps.md` | `6f6f0b560c67683b5bc672352e544939dbaf4b708ba1129a7e43f88af5dd7e7c` | verbatim | 2026-10-05 | 2026-10-05 | 19 KB |
 | `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `17e1fde5b9b71523e4847053e60f82793807b029f0b73cc4cb6426fe8f403332` | verbatim | 2026-10-05 | 2026-10-05 | 23 KB |
-| `corrections-snapshot.md` | `learnings/agent-18-marketing-performance.md` | `3b90435e08c4bf8a357b18a1bde6948059d15177d360f7f7009352224ac1fa50` | converted | 2026-09-27 | 2026-09-27 | 5 KB |
+| `corrections-snapshot.md` | `learnings/agent-18-marketing-performance.md` | `3b90435e08c4bf8a357b18a1bde6948059d15177d360f7f7009352224ac1fa50` | converted | 2026-10-12 | 2026-09-27 | 4 KB |
 
 **11 rows.** `MANIFEST.md` has no row for itself — it is the index, not bundled knowledge.
 

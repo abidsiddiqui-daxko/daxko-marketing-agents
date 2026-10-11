@@ -66,4 +66,5 @@ Law 1 or Law 2 generally.
 
 ## Corrections
 
-*(No corrections logged yet. This agent was built on 2026-09-27.)*
+*(No corrections logged yet. This agent was built on 2026-09-27. The first entry goes below this
+line, and nothing above it is ever edited.)*

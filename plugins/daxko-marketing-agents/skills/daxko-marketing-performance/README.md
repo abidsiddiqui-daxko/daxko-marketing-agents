@@ -208,4 +208,4 @@ than you expected, ask Abid Siddiqui whether an update is due.
 - **About this agent, an update, or a bad answer** → Abid Siddiqui
 - **About what a KPI means or how a KR is defined** → the market's cross-functional team, named in
   `references/okrs-and-priorities.md`
-- **About Daxko brand voice, if an answer is going to a client** → Anna Klement, Communications Manager
+- **About Daxko brand voice, if an answer is going to a client** → run it past Agent 9 — Brand Guardian (`daxko-brand-guardian`). No named brand-voice owner is on file (2026-10-06).

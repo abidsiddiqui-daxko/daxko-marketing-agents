@@ -64,4 +64,5 @@ no-invention rule and start writing unsourced numbers.
 
 ## Corrections
 
-*(No corrections logged yet. This agent was built on 2026-09-29.)*
+*(No corrections logged yet. This agent was built on 2026-09-29. The first entry goes below this
+line, and nothing above it is ever edited.)*

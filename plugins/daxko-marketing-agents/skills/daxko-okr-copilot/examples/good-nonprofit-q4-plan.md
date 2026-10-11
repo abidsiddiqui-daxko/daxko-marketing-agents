@@ -85,7 +85,7 @@ Performance's own reading. **So the plan comes in this reply**, with the inferen
     - *"Mobile app rating | 4.5 or better on 80+ App Store ratings for next-gen nonprofit mobile app"*
 - **Period:** Q4 2026.
 - **Status:** Pipeline — **`cannot say`**, quoted from Agent 18 — Marketing Performance's reading in this
-  chat (`SAMPLE`), measured 30 Sep 2026: no status rule has been set — owner: Abid Siddiqui. The other
+  chat (`SAMPLE`), measured 30 Sep 2026: no status threshold is in our files. The other
   four Key Results: not assessed here — this plan reads no numbers.
 - **Targets:** as bundled. `okrs-and-priorities.md` open questions 1, 3 and 7 ask whether they have been
   revised.
@@ -151,7 +151,7 @@ forecast. And it says **nothing about what any one item will add** — `[IMPACT 
 | 6 | `[PRODUCT — confirm the next-gen nonprofit app is released to members in Q4 2026]` | Item 6 | Whether the app is in members' hands | Product marketing, at source in `product-knowledge.md` | Not in any bundled file |
 | 7 | `[DATE — depends on the grant deadlines the outreach targets]` | Item 3 | When in Q4 the outreach runs | Item 3's owner, once assigned | Not in any bundled file |
 | 8 | `[DATE — depends on confirmed delivery of Member Intelligence 360° and AI Agents]` | Item 5 | When those conversations can start | Product marketing | As row 5 |
-| 9 | Status: `cannot say` *(quoted, not assigned)* | Inputs and assumptions | A status rule | Abid Siddiqui, at source in `performance-data-schema.md` | No status threshold in any bundled file |
+| 9 | Status: `cannot say` *(quoted, not assigned)* | Inputs and assumptions | None — no status threshold is in our files *(2026-10-06, owner ruling 1: agents define no threshold)* | — | Not in our files — gap line in SOURCES |
 | 10 | Current counts: BGC customers; >$20M YMCA associations that are customers | Key Results check; item 3 | The current figures | BGC: as `okrs-and-priorities.md` open question 2 names · YMCA: the nonprofit team that owns the Key Result | `okrs-and-priorities.md` open question 2; the only BGC count on file is dated Aug 2025 |
 
 **Person-supplied premises and figures:** none — the request carried none.
@@ -184,6 +184,7 @@ forecast. And it says **nothing about what any one item will add** — `[IMPACT 
 - `references/MANIFEST.md` — every "as of" date is read from here and never from a bundled file's own header
 - Inputs: Agent 18 — Marketing Performance's reading earlier in this chat (`SAMPLE`), measured 30 Sep 2026 ·
   no person-supplied figures
+- No status threshold is in our files. Gap noted for the next context-file update.
 - `templates/okr-plan.md` (output shape)
 - `examples/good-nonprofit-q4-plan.md` · `examples/bad-invented-commitments-plan.md` (standard)
 - SKILL VERSION: read it off the SKILL VERSION line in SKILL.md

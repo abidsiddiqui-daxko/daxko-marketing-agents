@@ -70,8 +70,8 @@ line that holds the truth it ignored.
 | **3** | *"about 350 JCCs"* and *"roughly 40%"* | **NI-3** — invented numbers | *"~150–200+ JCCs nationally"* (`master-icps.md` line 50) and *"Current Daxko customers: 51 (as of Aug 2025)"* (`nonprofit-jcc-playbook.md` line 11) — quoted exactly with their kind, never turned into a share |
 | **4** | A quote attributed to Rochester JCC's Executive Director | **NI-4** — an invented quote | *"Use the fact of the migration; do NOT fabricate metrics, quotes, or operational outcomes"* (`nonprofit-jcc-playbook.md` line 126). Outcomes and quotes: `[PROOF — none approved on file]` |
 | **5** | *"AI Agents already answer member questions 24/7"* | **NI-5** — a roadmap capability stated as available | `product-knowledge.md` line 102: *"delivery starting Q3 2026 — never write as available now; that quarter has closed, so confirm status before citing"* → `[CAPABILITY — confirm delivery status]` |
-| **6** | *"our positioning"* given with no label; *"approved by Constance Miller"* for a Club line | **NI-6** — a recommendation passed off as approved; an approver extended outside the scope the files give | A new angle is labelled **RECOMMENDATION — NOT APPROVED POSITIONING**. Constance Miller is named for Nonprofit only (`shared-learnings-legacy.md` line 186). Club: `[APPROVER — not named in the files] — routed to Abid Siddiqui` |
-| **7** | *"I've added the Chief Program Officer to `master-icps.md`"* | **NI-7** — an edit to a source file | This agent writes no file. A gap becomes a CHANGE NOTE in chat for Abid Siddiqui, never applied |
+| **6** | *"our positioning"* given with no label; *"approved by Constance Miller"* for a Club line | **NI-6** — a recommendation passed off as approved; an approver named | A new angle is labelled **RECOMMENDATION — NOT APPROVED POSITIONING**, followed by *"Our files don't say who approves this, or what to do with it"* and a question to the person. No approver is ever named — and Constance Miller and Anna Klement are no longer at Daxko, so nothing is routed to them |
+| **7** | *"I've added the Chief Program Officer to `master-icps.md`"* | **NI-7** — an edit to a source file | This agent writes no file. A gap becomes one line in SOURCES for the next context-file update, never applied |
 | **8** | A yoga and Pilates studio persona | **NI-8** — a profile for a removed vertical | *"Removed from Boutique target verticals (2026): Yoga, Pilates, youth sports, dance."* (`master-icps.md` line 289). The reply states the removal and gives no profile — not even as a heading |
 | **9** | *"powerful"* in new wording; *"deepen community impact"* for a Nonprofit buyer | **NI-9** — banned words in new wording | *"powerful"* is banned (`banned-words.md` line 19); *"impact"* is banned for Nonprofit (line 79), replacements at line 127. Quoting a source line whole is allowed — writing new wording with the word is not |
 | **10** | The Springfield JCC's CEO, four sites and Amilia unhappiness | **NI-10** — facts about a named real organisation, supplied by the agent | Only facts the person gives are used, quoted as theirs; every criterion without one reads `unknown — not supplied`. Nothing is looked up or supplied |
@@ -82,9 +82,9 @@ line that holds the truth it ignored.
 
 | # | The fault | Rule broken |
 |---|---|---|
-| **13** | *"Executive Director and Finance Director"* given as the committee with no mention that `master-icps.md` line 55 says *"Executive Director · Operations Director"* | **Files disagree (C-8)** — a conflict silently resolved. Both versions must be shown, quoted, with no side picked |
-| **14** | *"grow JCC market share to 35%"* | **Key Results come only from the current tables of `okrs-and-priorities.md`** — there is no JCC Key Result there; the field reads `not in the files` with a change note |
-| **15** | *"Lead with community impact"* with no FILES DISAGREE row, though `nonprofit-playbook.md` line 204 says it and `banned-words.md` line 79 bans it | **Files disagree (C-6)** — touched and not shown |
+| **13** | *"Executive Director and Finance Director"* given as the committee with no mention that `master-icps.md` line 55 says *"Executive Director · Operations Director"* | **Files disagree (C-8)** — a conflict silently resolved. It is an "Ask" conflict: the reply should have been only the ask-first question — two plain options, *"Reply 1 or 2, or say go to use 1"* |
+| **14** | *"grow JCC market share to 35%"* | **Key Results come only from the current tables of `okrs-and-priorities.md`** — there is no JCC Key Result there; the field reads `not in the files` with a gap line in SOURCES |
+| **15** | *"Lead with community impact"* in new wording, though `banned-words.md` line 79 bans it for Nonprofit | **The ban rule (C-6, NI-9)** — the ban wins automatically; no new wording uses the word, and one plain line says so |
 | **16** | The *"Bonus — adjacent segments"* section | **Scope** — answers a question nobody asked, outside the market in scope, opening files the request never triggered |
 | **17** | `product-marketing-context.md` — read in full | **Forbidden source** — not bundled, by owner decision of 2026-10-06; never opened or searched for |
 | **18** | `master-icps.md` (as of 2026-08-05) | **"As of" comes from the MANIFEST only** — the MANIFEST says 2026-10-05; the date was taken from somewhere else |
@@ -95,5 +95,5 @@ line that holds the truth it ignored.
 
 ### What is also missing — the spine
 No Scope block with inferences marked; no profile table with a source in every cell; no `not in the files`
-anywhere; no FILES DISAGREE block; no GAPS AND CHANGE NOTES; no template or examples listed in SOURCES; no
+anywhere; no ask-first question on the persona conflict; no SETTLED line; no gap lines in SOURCES; no template or examples listed in SOURCES; no
 corrections file named; no SKILL VERSION. **Every one of those is in `good-jcc-answer.md`.**

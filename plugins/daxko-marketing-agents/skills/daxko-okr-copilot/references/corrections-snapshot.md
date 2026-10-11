@@ -72,4 +72,5 @@ voice — are the most valuable entries this file can hold.
 
 ## Corrections
 
-*(No corrections logged yet. This agent was built on 2026-10-05.)*
+*(No corrections logged yet. This agent was built on 2026-10-05. The first entry goes below this
+line, and nothing above it is ever edited.)*

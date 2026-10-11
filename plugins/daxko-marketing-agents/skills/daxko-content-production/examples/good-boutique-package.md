@@ -23,8 +23,9 @@ claim is handled instead of invented, and how honest the consistency check is.
 > it, both disbelieved it, and both wrote from `product-knowledge.md` instead — the precedence rule
 > working, and the only reason this never reached published copy.
 >
-> **The three source files are still wrong.** Fixing them is an owner action at source (non-negotiable
-> 17) and is not done by editing this file.
+> Those source files have since been corrected at source (2026-09-22 and 2026-10-05). If one ever
+> carries the loose version again, the itemised figure still wins, and the gap is noted in SOURCES for
+> the next context-file update — never fixed by editing this file.
 
 **The request that produced it**
 
@@ -63,11 +64,13 @@ point of payment, so your prices stay where you set them and your margin stops a
 | Zen Planner Flex Fees is already in product, so it sits inside the billing the studio already runs | `references/product-knowledge.md` (Boutique Ancillary Products) |
 | Boutique copy must always reference a specific proof point and speak owner to owner | `references/banned-words.md` (Boutique-Specific Bans — Required framing) |
 
-> ⚠️ **Note how the figure is cited.** `references/boutique-playbook.md`,
-> `references/banned-words.md` and `references/boutique-functional-fitness.md` all say
-> *"+$10,690 revenue with Flex Fees"*. `references/product-knowledge.md` gives the breakdown and is
-> arithmetically self-consistent. **When one file itemises and another summarises, the itemised one
-> wins** — and the disagreement goes in section 4 so it is fixed at source, never patched in copy.
+Where our files give the Flex Fees figure two ways, this uses the itemised breakdown — the smaller,
+exact number — rather than the whole revenue increase.
+
+> ⚠️ **Note how that line is written.** "Itemised beats summarised" is a fixed tie-break, so there is
+> no question to the requester: one plain line says which way it went, with no file names or line
+> numbers, and a gap note goes in SOURCES. **A disagreement that no tie-break decides is different:**
+> then the reply is only the ask-first question in `templates/content-package.md`, and no package.
 
 **The one action:** book a walkthrough → the Flex Fees demo booking page
 `[PLACEHOLDER — needs the live URL]`
@@ -188,8 +191,7 @@ daylight, card reader in shot rather than a laptop.
 | 2 | `[PLACEHOLDER — needs the live URL]` | The demo booking destination. Used in all six pieces | Web team |
 | 3 | **What is actually new here** | `references/product-knowledge.md` lists **Zen Planner Flex Fees** under Boutique Ancillary Products as already "(in product)". So a "launch" to boutique studios is either an extension to other boutique products, a repositioning, or a new capability inside it — and no bundled file says which. The copy therefore says what Flex Fees **does**, never that it is new or first | Product marketing |
 | 4 | **A studio-owner quote** | Asked for. No customer quote for Flex Fees appears in any bundled file, and a quote needs written permission that cannot be verified from here. None was written | Customer marketing |
-| 5 | **A required framing rule this product cannot satisfy** | `references/banned-words.md` requires an owner-time-back angle in all boutique copy. No bundled file attributes any time saving to Flex Fees — every sourced outcome is revenue or margin. Either the rule needs an exception for margin-mechanism products, or a time-saving benefit needs measuring and documenting. Not resolvable in copy | Anna Klement (brand voice) / Boutique product |
-| 6 | 🔴 **The Flex Fees figure is itemised, never the total** | CrossFit 1926 grew revenue **$10,690.08**; Flex Fees contributed **$2,404.41 (22.5%)** (`product-knowledge.md`). Crediting Flex Fees with the whole increase overstates it more than four times. Several bundled files carried the whole-$10,690 version until they were corrected at source (2026-09-22 and 2026-10-05); if a file ever carries it again, flag it here so it is fixed at source. This copy uses the itemised figures *(row updated 2026-10-05: it previously named three files as still overstating the figure, which stopped being true when they were corrected)* | Product marketing / knowledge base owner |
+| 5 | **A required framing rule this product cannot satisfy** | `references/banned-words.md` requires an owner-time-back angle in all boutique copy. No bundled file attributes any time saving to Flex Fees — every sourced outcome is revenue or margin. Either the rule needs an exception for margin-mechanism products, or a time-saving benefit needs measuring and documenting. Not resolvable in copy | Not in our files — no file says who decides this. Tell me how you want it handled (leave the angle out, or add a time-saving claim once one is measured and documented) and I will revise. Please double-check your answer: the copy changes with it |
 
 **Nothing in the copy above was estimated, rounded up or illustrated.** The only figures that appear
 are $10,690.08, $2,404.41, 22.5% and 4%, all from `references/product-knowledge.md`; Ad variant 1
@@ -221,6 +223,10 @@ claimed a churn benefit that followed from the wrong product description.
 - templates/content-package.md (output shape)
 - examples/bad-invented-package.md (standard — annotated failure)
 - Corrections: none found — no corrections file present on this machine
+- Tie-break applied: the Flex Fees figure is the itemised $2,404.41 of $10,690.08 (`product-knowledge.md`
+  breakdown), never the whole increase
+- Gap note for the next context-file update: the boutique owner-time-back framing rule has no
+  exception for margin-mechanism products
 
 > **Two illustration notes, so nobody copies the wrong thing from this block.** A real SOURCES block
 > carries an `(as of YYYY-MM-DD)` date against every file, read from `references/MANIFEST.md`; they
@@ -252,6 +258,6 @@ Want me to send this to **Agent 9 — Brand Guardian** for a brand check before 
    fires by matching words, and "2" matches nothing.
 6. 🔴 **Precedence beats popularity.** Three bundled files say one thing about the CrossFit 1926
    figure and one file says another. The package follows the **single file that itemises** over the
-   three that summarise, uses the smaller and better-evidenced number, and puts the disagreement in
-   section 4 to be fixed at source. **A claim is not safer because more files repeat it** — and one of
+   three that summarise, uses the smaller and better-evidenced number, and says so in one plain line
+   with a gap note in SOURCES — no question, because a fixed tie-break decides it. **A claim is not safer because more files repeat it** — and one of
    those three files instructs writers to repeat it, which is how a wrong figure becomes standard.

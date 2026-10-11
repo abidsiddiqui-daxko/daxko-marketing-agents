@@ -47,11 +47,18 @@ template and both examples, every time.
   `references/okrs-and-priorities.md`, with its objective's name — never a "KR1"-style ID]
 - **Period:** [the quarter or window, with its dates]
 - **Status:** [Agent 18 — Marketing Performance's word, quoted exactly, with its source and measurement
-  date — and for `cannot say`, the reason "no status rule has been set — owner: Abid Siddiqui"]
+  date — and for `cannot say`, the reason "no status threshold is in our files"]
   | [your premise, quoted as yours: "You've told me … is behind"]
   | [Status: not assessed here — this plan reads no numbers]
 - **Targets:** as bundled. `okrs-and-priorities.md` open questions 1, 3 and 7 ask whether they have been
   revised.
+- [Only when the plan rests on a point a fixed tie-break decided: one plain line per point saying which way
+  it went — no file names, no line numbers. E.g. "Where two of our files give different funnel stages, the
+  current definition was used."]
+- [Only after a files-disagree question: one plain line per point naming what was used — "your choice" or
+  "your choice (default)".]
+- [Only after an approval question: one plain line — "[who approves / owns what]: your answer — [as given]",
+  or, with no answer, "not in our files", left as a placeholder.]
 
 ## The plan
 
@@ -89,6 +96,12 @@ unverified. Never omit the section; where there are none, write:
 - references/MANIFEST.md — every "as of" date is read from here and never from a bundled file's own header
 - Inputs: [Agent 18 — Marketing Performance's reading and its measurement date | person-supplied figures |
   pasted goals | a pasted plan | none]
+- [Only after a files-disagree question:] Files disagree on [topic] — [file, section] vs [file, section];
+  used: [the option] — your choice | your choice (default). Gap noted for the next context-file update.
+- [Only when a status is `cannot say`:] No status threshold is in our files. Gap noted for the next
+  context-file update.
+- [Only after an approval question:] Who approves [topic] — not in our files; used: your answer. Gap noted
+  for the next context-file update.
 - templates/okr-plan.md (output shape)
 - examples/good-nonprofit-q4-plan.md (standard) · examples/bad-invented-commitments-plan.md (standard —
   annotated failure)
@@ -171,8 +184,35 @@ Before I plan this — [N] things I have worked out, and [N] I need. Reply "yes"
    `[QUARTERLY TARGET — not defined]`)*   ← rides along only because a pause is already happening
 ```
 
-**No plan in this reply, and no offer.** The person's next message produces the plan, whatever it says.
-Never a second round.
+**When two bundled files disagree** on a point the plan would rest on, and no fixed tie-break in SKILL.md
+decides it, the question is asked in this form — alone, or in the same block as the questions above
+(at most 3 such points; beyond that, option 1 is used for the rest and one line says so):
+
+```
+Our files give two different answers on [the topic, in plain words].
+
+1. [the reading that commits the plan to less — e.g. leave it as a placeholder]
+2. [the other reading, in plain words]
+
+Reply 1 or 2, or say **go** to use 1.
+Your answer makes this stronger, and the answer will change with your choice.
+```
+
+No file names, no line numbers, no "file A says / file B says" table — those go only in the plan's
+SOURCES. No option is ever one of the eight never-invent things.
+
+**When the plan depends on an approval or owner the files don't cover** *(2026-10-06)* — the person asked
+"who signs this off?", or said "make X the approver" — the question names no one and proposes no default:
+
+```
+Our files don't say who approves this [— the topic, in plain words].
+What should be done?
+Please double-check your answer — the plan will change with it.
+```
+
+**No plan in this reply, and no offer.** The person's next message produces the plan, whatever it says,
+using their pick or option 1, marked "your choice" in SOURCES, and any approval answer marked "your
+answer" (none given → a placeholder, "not in our files"). Never a second round.
 
 ---
 

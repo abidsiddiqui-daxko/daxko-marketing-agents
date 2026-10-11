@@ -2,7 +2,7 @@
 
 **This is the standard.** Read it before you answer. The template gives you the shape; this gives you
 the bar — how coverage is stated *before* any finding, how a five-month-old figure is dated, how a
-contradiction is escalated instead of resolved, how a campaign is described without being made the
+contradiction is put to the person as one ask-first question instead of being resolved, how a campaign is described without being made the
 cause of anything, and how `cannot say` is used as an answer rather than a dodge.
 
 > 🔴 **THE PASTED BLOCK BELOW IS INVENTED SAMPLE DATA.** It exists so the behaviour has something to
@@ -15,8 +15,9 @@ cause of anything, and how `cannot say` is used as an answer rather than a dodge
 
 - **Coverage is the first thing on the page**, and it names the two brands that were *not* provided.
   Every later sentence is scoped to the four that were.
-- **The contradiction is reported, not resolved** — and the answer still manages to say something
-  useful, by stating what both figures agree on without picking between them.
+- **The contradiction is asked, not resolved** — one plain question with a default, in the same
+  message as the other questions; the answer then follows the person's pick and still says something
+  useful, by stating what both figures agree on.
 - **The April attainment table is used, and dated April**, five months before the period being
   reported on. The word *"Current"* above it in the source is treated as an authoring artefact.
 - **The webinar series appears without becoming the cause of anything.**
@@ -53,7 +54,7 @@ cause of anything, and how `cannot say` is used as an answer rather than a dodge
 
 ## Step 2 in action — the one batched message, before any answer
 
-> Before I read these — three things I have taken from your data, and two quick ones. Reply **"yes"**
+> Before I read these — three things I have taken from your data, and three quick ones. Reply **"yes"**
 > and I will run with all of it.
 >
 > **Taken from your data:** the period is **Q3 2026 (Jul–Sep)**, from your own date range · this is
@@ -64,16 +65,22 @@ cause of anything, and how `cannot say` is used as an answer rather than a dodge
 >    will use it)*
 > 2. **Length:** a monthly write-up *(default — say "quick check" or "board summary" and I will
 >    resize)*
+> 3. **Your two pipeline lines disagree** — nonprofit pipeline generated at 30 Sep 2026 is $12,880,400
+>    on the OKR tracker and $11,402,750 on the Sheets export.
+>    1. Show both side by side, with no attainment or status taken from either
+>    2. Use $12,880,400 from the OKR tracker
+>    3. Use $11,402,750 from the Sheets export
 >
-> One thing I can already see: two of your lines give a **different value for the same quantity**. I
-> will report both rather than choose, and flag it at the top.
+>    Reply 1 or 2, or say **go** to use 1.
+>    Your answer makes this stronger, and the answer will change with your choice.
 
-*The person replied:* **"yes"**
+*The person replied:* **"yes, go"**
 
 > ⚠️ **Note what did NOT happen.** Five things could have been asked; three were **inferred and
-> stated** instead, which costs the person nothing and is auditable. The two that were asked both
-> change the output. And the contradiction was surfaced in the same breath rather than saved for a
-> second round-trip. **One message, then work.**
+> stated** instead, which costs the person nothing and is auditable. The three that were asked all
+> change the output. And the contradiction was asked in the same breath — plain words, no file names,
+> a default — rather than saved for a second round-trip or resolved by the agent. **One message, then
+> work.**
 
 ---
 
@@ -94,25 +101,16 @@ to efficiency.
 **Inferred rather than asked:** period = Q3 2026 (Jul–Sep), from your date range · market =
 nonprofit · this is Daxko's own marketing, not client work.
 
-🔴 **One contradiction, and I have not resolved it.** Two of your lines give a different value for
-**the same quantity** — nonprofit pipeline generated, as at the same date:
-
-| Figure | Provenance |
-|---|---|
-| **$12,880,400** (ACTUAL, measured 30 Sep 2026) | NP Mkt OKR Tracking, Pipeline tab |
-| **$11,402,750** (ACTUAL, measured 30 Sep 2026) | Nonprofit pipeline export (Sheets), YTD |
-
-They differ by **$1,477,650**. Same metric, same date, two systems. **They cannot both be true, and
-choosing between them is not something your data lets me do** — not by taking the more recent one
-(same date), not by taking the more precise one (both to the dollar), and not by preferring the
-tracker over the export (that is a judgement about your systems, not a fact in the numbers). Please
-have the owner reconcile them at source; until then every pipeline statement below is given twice.
+🔴 **Your pipeline figures disagree, and you chose option 1: both shown side by side.** Nonprofit
+pipeline generated at 30 Sep 2026 is **$12,880,400** (ACTUAL, OKR tracker) and **$11,402,750** (ACTUAL,
+Sheets export) — $12,880,400 − $11,402,750 = **$1,477,650** apart. They cannot both be true, so every
+pipeline statement below is given twice and no status is taken from either.
 
 ## Headline
 
 **Sessions rose across the four brands you provided (+5.67%), and nonprofit pipeline attainment is
 44.0% of the $25.9M Key Result on one source and 49.7% on the other, with one quarter of 2026
-remaining — which figure is right depends on a contradiction only you can settle.**
+remaining — both shown, as you chose, because the two sources disagree.**
 
 ## Key Result status
 
@@ -127,7 +125,7 @@ remaining — which figure is right depends on a contradiction only you can sett
 **Status: `cannot say`** — and there are two separate reasons, which is worth separating because only
 one of them is about your data.
 
-1. **The contradiction above.** Attainment is either 44.0% or 49.7%.
+1. **The disagreement above.** Attainment is either 44.0% or 49.7%, and you chose to see both.
 2. 🔴 **No bundled file defines the thresholds.** `references/performance-data-schema.md` lists
    *on-track / at-risk / off-track* as a monthly reporting output and **gives no rule for when a
    number becomes each one.** Assigning one of those three words here would be me inventing the
@@ -136,9 +134,9 @@ one of them is about your data.
 **What the contradiction does NOT destroy, and it is the substantive finding:** both candidate
 figures are **on the same side of the same line.** Three quarters of 2026 have elapsed; attainment is
 44.0% of target on one figure and 49.7% on the other — both reported, neither chosen, no range. The direction is not in dispute; only the
-magnitude is. **The status stays `cannot say` until a threshold rule exists** — that rule is Abid
-Siddiqui's to set, at source in `performance-data-schema.md`, not any agent's to invent. What I can
-hand over is the arithmetic above, unresolved contradiction included.
+magnitude is. **The status stays `cannot say` while no threshold rule exists** — when a number counts
+as on track, at risk or off track is not in our files, and no agent invents it. What I can hand over is
+the arithmetic above, with both figures.
 
 **For context, dated:** the last attainment figures in the bundled objectives file are
 **$10,240,700 (ACTUAL, April 2026 — five months before the period you are asking about)**, at 39.5%
@@ -232,6 +230,8 @@ the nonprofit market strategist.
   the learnings file
 - Data read: GA4 sessions for four of six properties, Q3 2026 vs Q2 2026, exported 2026-10-02 · two
   contradictory nonprofit pipeline totals measured 30 Sep 2026 · one undated mobile app rating
+- Pipeline disagreement: both figures shown side by side — **your choice** (option 1, "go")
+- Gap for the next context-file update: no file defines the on-track / at-risk / off-track thresholds
 - `templates/performance-answer.md` (output shape — PERIOD STORY) ·
   `examples/good-nonprofit-period-story.md` (standard)
 - Corrections: none found — no corrections file present on this machine
