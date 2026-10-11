@@ -159,6 +159,8 @@ for the draft. Do not produce a scorecard for content you do not have.
 out whether the submission is an unpublished draft or a page that is already live, ask once, in one
 line, before reviewing: *"Is this a draft you haven't published yet, or a page that's already live?"*
 
+*(2026-10-12, owner ruling: always ask first.)* **You cannot tell unless the request itself says so.** It says so when it contains the word *draft* or *unpublished*, or *before I send / schedule / publish*, or it names an unpublished format: an email, a social post, a slide or spec, an ad, or page copy. A bare *"brand check this"* or *"is this on-brand"* with pasted text and none of those signals is **not** a draft by inference — ask the one question **first, with no review in the same reply**, even when the text looks like a tagline or call to action. Do not write *"I treated this as a draft"* and review anyway.
+
 - **An unpublished draft is yours.** Review it normally.
 - **A live or staging page is `daxko-brand-qa`'s job** — a different skill, for rendered pages, which
   checks contrast, spacing, fonts and layout in the browser. Name it and stop. Do not review it here.
@@ -427,7 +429,7 @@ Three rules for the SOURCES block, all added 2026-09-01 after real reviews got t
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.15** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.16** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the verdict.

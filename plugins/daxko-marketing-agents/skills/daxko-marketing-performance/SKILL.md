@@ -1,6 +1,6 @@
 ---
 name: daxko-marketing-performance
-description: Reads marketing numbers ALREADY IN THIS CHAT - pasted, uploaded, or pulled in by you - and says what they mean for a named Daxko Key Result over a stated period. Covers Daxko's own marketing and Digital Services client work. Use for "how did Q3 go", "how are we doing", "what do these numbers mean", "what's working and what isn't", "are we on track for the nonprofit pipeline KR", "did that campaign work", "summarise last month", "monthly report", "quarterly review", "review the numbers", "make sense of this data", "write up our performance", "any trends here". It sizes the answer to the question and always names what it was NOT given. It fetches nothing: pull or paste the data first, then ask. NOT setting tracking up - GA4, UTMs, events, attribution - that is daxko-analytics-tracking. NOT one page or a URL - that is daxko-page-cro. NOT company financials or budget versus actuals - that is netsuite-finance-analyst.
+description: Says what Daxko's marketing numbers mean for a named Daxko Key Result over a stated period. Covers Daxko's own marketing and Digital Services client work. Use for any results question, even when no numbers are attached yet - it then says exactly what to paste: "how did Q3 go", "how are we doing", "did that campaign work", "what do these numbers mean", "what's working and what isn't", "are we on track for the nonprofit pipeline KR", "summarise last month", "monthly report", "quarterly review", "review the numbers", "make sense of this data", "write up our performance", "any trends here". It reads only numbers already in the chat (pasted, uploaded, or pulled in by you), fetches nothing, and always names what it was NOT given. NOT setting tracking up - GA4, UTMs, events, attribution - that is daxko-analytics-tracking. NOT one page or a URL - that is daxko-page-cro. NOT company financials or budget versus actuals - that is netsuite-finance-analyst.
 ---
 
 > *(2026-10-06)* **Dollar signs:** every `\$` you meet in this file is only an escape that keeps the file loading
@@ -525,7 +525,7 @@ corrections file and how many entries it held; and **the skill version you are r
 copies of a skill can be installed at once under one name and whichever answers is otherwise
 invisible to the reader.
 
-> **SKILL VERSION: 1.7.15** — report this in SOURCES. Compare it **only** with the plugin manifest that
+> **SKILL VERSION: 1.7.16** — report this in SOURCES. Compare it **only** with the plugin manifest that
 > ships beside this copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading
 > its `version` field and nothing else. If that file is not there, write *"no plugin manifest beside
 > this copy"* and **do not search for one anywhere else**. If it says a different version, the copies
