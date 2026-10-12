@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-10-06 · **Agent:** Agent 14 — Content Repurposing · **Skill:** `daxko-content-repurposing` · **Skill version:** 1.7.17 · **Publication state: PUBLISHED in v1.7.16 (2026-10-12)**
+**Generated:** 2026-10-06 · **Agent:** Agent 14 — Content Repurposing · **Skill:** `daxko-content-repurposing` · **Skill version:** 1.7.18 · **Publication state: PUBLISHED in v1.7.16 (2026-10-12)**
 
 > ⚠️ **On that version number.** This skill was built on 2026-10-06 and has **not** shipped. 1.7.14 is the version of
 > the plugin it will join, written here so the three version lines agree from the start. The skill never prints a

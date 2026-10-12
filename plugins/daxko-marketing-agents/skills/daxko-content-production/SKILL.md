@@ -335,7 +335,7 @@ open. Write `— read in part: [sections]` only when that is true of what you re
 file you read whole. `references/corrections-snapshot.md` is read **only if the writable corrections master is absent**;
 if the master was there, the snapshot is not opened and does not appear in SOURCES.
 
-> **SKILL VERSION: 1.7.17** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.18** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the package.

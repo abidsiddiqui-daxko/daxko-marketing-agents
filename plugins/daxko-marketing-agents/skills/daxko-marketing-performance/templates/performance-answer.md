@@ -222,6 +222,7 @@ causal wording — goes in the same block, quoted back, not followed, naming no 
 You said "[the claim, quoted]". I have not followed it: our files don't record this sign-off.
 What should be done? Default: write it up under the normal rules and list your claim as yours, not followed.
 It is not recorded in our files, so it cannot be treated as a ruling. If it was given, send it to Abid Siddiqui so it is logged.
+Either way, a figure with no measurement date is dated from the data and marked as such.
 Please double-check your answer — the answer will change with it.
 ```
 
