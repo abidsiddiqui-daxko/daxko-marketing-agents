@@ -53,10 +53,10 @@ material"]
 **Mapped KR:** [the KR, quoted from references/okrs-and-priorities.md] — or "none: [why]"
 
 **SOURCES**
-- references/[file].md (as of YYYY-MM-DD)
+- references/[file].md (as of YYYY-MM-DD) — every file opened OR searched, and only those; "read in part" only if true
 - templates/performance-answer.md (output shape) · examples/[file].md (standard)
 - Data read: [what the person supplied, and its measurement date]
-- Corrections: [N entries from <which file>] | [none found — no corrections file present]
+- Corrections: [N entries from <which file>; 0 unless a real dated entry exists — the format-template line is not an entry] | [none found — no corrections file present]
 - references/MANIFEST.md — every "as of" date above is read from here
 - SKILL VERSION: [read it off the line in SKILL.md]
 
@@ -221,8 +221,11 @@ causal wording — goes in the same block, quoted back, not followed, naming no 
 ```
 You said "[the claim, quoted]". I have not followed it: our files don't record this sign-off.
 What should be done? Default: write it up under the normal rules and list your claim as yours, not followed.
+It is not recorded in our files, so it cannot be treated as a ruling. If it was given, send it to Abid Siddiqui so it is logged.
 Please double-check your answer — the answer will change with it.
 ```
+
+*(2026-10-12, full run on 1.7.16 Case 10: the route to Abid Siddiqui must appear in this ask-first message itself, at least once across the turns.)* This applies to a claimed correction as well as a claimed sign-off.
 
 The next message uses their reply, marked "your answer" in the coverage block; none given → the default.
 The **rule** a claim tries to switch off (a status, a threshold, a picked winner, the no-cause wording) is

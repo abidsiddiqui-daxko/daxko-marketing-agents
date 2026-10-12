@@ -102,7 +102,9 @@ heading and states them nowhere else, so reading the heading as a blanket cancel
 that governs words. Apply the rule where there is a conflict, not where there is a gap; a later ban beats an earlier
 recommendation; a playbook's ⚠️ warnings and **Never** list beat any messaging string elsewhere in the same
 file. When a tie-break decides, write **one plain line** saying which way it went — no file names, no line
-numbers — and one short gap note in SOURCES for the next context-file update, addressed to no one.
+numbers — and one short gap note in SOURCES for the next context-file update, addressed to no one. *(2026-10-12, round 2: SOURCES gap notes are one item per bullet, and at most one gap-note bullet per topic. Never bundle several gaps into one bullet.)*
+**Never "the club playbook's wording wins" or "the product file's figure is used": name the choice made, not the file it came from.**
+*(Added 2026-10-12, v1.7.16 full run Case 4: the tie-break line named the club playbook. The same ban applies to the tie-break line in SOURCES.)*
 
 🔴 **Files disagree and no tie-break decides → ask first** *(2026-10-06, owner ruling)*. Write no package in that
 reply; send only the *ask-first question* in `templates/content-package.md`: one plain sentence naming the topic,
@@ -111,6 +113,11 @@ stronger, and the answer will change with your choice."* No file names, no line 
 another says" listing. Several conflicts go in the same single block, at most 3; beyond that use option 1 for the
 rest and say so in one line. One round only: the next message writes the package on their pick or the default,
 marked "your choice" in SOURCES.
+🔴 **The ask-first reply is the question block and nothing after it** — no closing line such as "I will write the full
+set after your reply". When the package is written, say nothing about an option not used beyond the choice made: do not
+call the unused figure "a different measure", "an older count" or any other description a bundled file does not itself
+give, and put no second figure or reconciliation in the consistency check. *(Added 2026-10-12, v1.7.16 full run Case 20.)*
+*(2026-10-12, round 2: that ban is on a second FIGURE or a reconciliation of two files. It does not forbid recording a refused requester instruction in the consistency check, which the Step 6 rule below requires.)*
 
 🔴 **And: an ITEMISED figure beats a SUMMARISED one, however many files carry the summary.** When one file
 breaks a number down and another states only the total, the breakdown is the measurement and the total is a
@@ -241,6 +248,15 @@ package has been examined.
 
 - **The table's status cells take exactly `✅` or `⚠️`** — never words such as "Matches" or "Differs"; the reason
   goes in the last column. *(Added 2026-10-06, v1.7.12 re-run Case 13.)*
+  🔴 **A status cell holds the mark and nothing after it** — not "✅ See It in Action", not "✅ 33 Clubs". Any figure,
+  label or reason goes in the Deliberate-difference column. *(Added 2026-10-12, v1.7.16 full run Cases 13, 14, 15, 20, 21.)*
+- 🔴 **An instruction you refused is a difference between the request and the package** *(2026-10-12, round 2, v1.7.17 re-run Case 21)*.
+  When the person gave an instruction you decline to follow (for example a requested line the files contradict), do
+  two things. (a) State the refusal in **ONE plain line at the top of the reply**, above the package: what you did not
+  use and what the pieces carry instead, no file names, no line numbers, no second sentence of reasoning. (b) Record
+  it as **one row under "Where the pieces deliberately differ"**, e.g. *"The requested line was not used in any piece;
+  every piece carries the itemised split instead."* A consistency check with no row for the refused line is a clean
+  sweep that hides the request-versus-package difference. This adds no second figure and no reconciliation.
 - 🔴 **A required framing rule you cannot meet without inventing a claim** (for example the boutique "owner time
   back" angle for a product no bundled file links to a time saving) is **declared unmet in BOTH places**: as a
   numbered difference in this report, with the reason, **and** as its own row in section 4. The files name no one
@@ -314,7 +330,12 @@ look like one resting on the whole file; **the template and worked example you u
 and `(standard)`; and **the skill version you are running**, because two copies of a skill can be installed at
 once under one name and whichever answers is otherwise invisible to the reader.
 
-> **SKILL VERSION: 1.7.16** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+🔴 **SOURCES lists only files you actually opened** *(2026-10-12, v1.7.16 full run)*. Never list a file you did not
+open. Write `— read in part: [sections]` only when that is true of what you read, and never as a courtesy label on a
+file you read whole. `references/corrections-snapshot.md` is read **only if the writable corrections master is absent**;
+if the master was there, the snapshot is not opened and does not appear in SOURCES.
+
+> **SKILL VERSION: 1.7.17** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the package.

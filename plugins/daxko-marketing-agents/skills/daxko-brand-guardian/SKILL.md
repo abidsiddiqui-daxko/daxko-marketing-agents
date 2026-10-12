@@ -161,6 +161,8 @@ line, before reviewing: *"Is this a draft you haven't published yet, or a page t
 
 *(2026-10-12, owner ruling: always ask first.)* **You cannot tell unless the request itself says so.** It says so when it contains the word *draft* or *unpublished*, or *before I send / schedule / publish*, or it names an unpublished format: an email, a social post, a slide or spec, an ad, or page copy. A bare *"brand check this"* or *"is this on-brand"* with pasted text and none of those signals is **not** a draft by inference — ask the one question **first, with no review in the same reply**, even when the text looks like a tagline or call to action. Do not write *"I treated this as a draft"* and review anyway.
 
+*(2026-10-12, v1.7.16 run Case 16)* 🔴 **The ask-first reply is EXACTLY this one line and nothing else:** *"Is this a draft you haven't published yet, or a page that's already live?"* No second sentence, no explanation, no pointer to `daxko-brand-qa`, no offer. The `daxko-brand-qa` pointer belongs **only** in the turn-2 reply, after the person says it is live.
+
 - **An unpublished draft is yours.** Review it normally.
 - **A live or staging page is `daxko-brand-qa`'s job** — a different skill, for rendered pages, which
   checks contrast, spacing, fonts and layout in the browser. Name it and stop. Do not review it here.
@@ -356,12 +358,15 @@ to one of the six. Use this mapping so the same violation never lands in a diffe
 | Approved boilerplate paraphrased instead of used verbatim | Terminology and naming |
 | Banned words that appear **inside the verbatim approved boilerplate** | **Not a violation.** `references/brand-foundations.md` makes the boilerplate an explicit exception — do not flag "innovative", "seamless" or "empowers" there |
 | Banned words inside a **paraphrase** of the boilerplate | **Violation — the exemption dies with the paraphrase.** Near-miss boilerplate is the commonest way this is got wrong. Flag the paraphrase (Terminology and naming) **and** flag every banned word in it as live. Check the text character by character against `references/brand-foundations.md` before granting the exemption |
+| **Verbatim approved boilerplate submitted as the draft** *(added 2026-10-12, round 2, v1.7.17 re-run Case 12)* | Grant the exemption **and say in the reply, in plain words, that the boilerplate is used word for word and must not be edited, even to remove banned words** (`references/brand-foundations.md`: the approved boilerplate is exempt and is used exactly as written). Putting the exemption in the reason column is not enough; the do-not-edit sentence has to appear |
 | A product, vertical or segment outside the market's approved scope (e.g. yoga/Pilates in Boutique; Daxko Operations to a commercial club) | Terminology and naming |
 | A product **offered to a reader it does not serve** — *"Zen Planner handles your studios"* when Zen Planner serves martial arts only — **flag it as a violation; never fix it silently in the rewrite** | Terminology and naming *(added 2026-10-06, v1.7.12 run Case 7)* |
 | Another market's product **named in a sourced fact** — *"Club Automation recovers an average of 69% of failed payments"* in a boutique email | **Not a violation.** No rule bans naming it; offer a better-fitting product as a **suggestion** only *(added 2026-10-06, v1.7.12 run Case 9)* |
 | **Verbatim approved boilerplate — its words, its em dashes, and where it sits in the piece** | **Never a violation and never a warning.** Leading with the approved boilerplate is the submitter's choice; at most a suggestion *(added 2026-10-06, v1.7.12 run Case 9)* |
 | A **different form** of a banned word — *"transform"* or *"transformed"* when the list bans *"transformative"*; *"excited"* when it bans *"exciting"* | **Not a violation — never mention it anywhere in the reply: no "deliberately not flagged" or "not flagged" notes, not even as "transform/transformed".** A banned word matches only the exact form the file lists. Flag the surrounding construction only if another rule covers it *(added 2026-10-06, carried-forward re-test Case 1)* |
 | A plain greeting such as *"Hi there,"* | **Not a violation and not evidence for any fail row.** Never cite it as a reason. Suggesting a named greeting in the rewrite is fine *(added 2026-10-06, carried-forward re-test Case 1)* |
+| **A fact a bundled file states** — e.g. *"Mindbody charges a 20% marketplace fee"* (stated in `references/club-playbook.md` and `references/boutique-playbook.md`) | **Not an unsourced claim and not a violation. Never flag it and never delete or soften it in the rewrite.** The only possible issue is negative framing of a competitor (a rival named as the thing to avoid); a neutral, sourced comparison is fine. Check the playbooks for the fact before calling anything unsourced *(added 2026-10-12, v1.7.16 run Case 7)* |
+| **A clean piece** | **`APPROVED`, `Violations: None`, and no padding.** Do not add optional notes that re-raise what the rules clear: product-fit notes about a sourced proof point, *"please confirm whose registration / that the date is right"*, or any question. The only suggestion allowed is wording: for Zen Planner or martial arts, offer **"students"** wherever "users" appears and **"students"** as the better word for "members", per `references/brand-guidelines.md` *(added 2026-10-12, v1.7.16 run Case 9)* |
 | An offering, trial or price described as available when no bundled file says it exists (e.g. a Zen Planner free trial) | Claims and proof |
 | AI framed as replacing staff, or as a bolt-on product | Voice and tone |
 | Technical AI language with a nonprofit audience | Terminology and naming |
@@ -404,6 +409,7 @@ came from. A violation with no rule behind it is an opinion, and opinions do not
 section. Format: what is wrong → the rule → why it matters here.
 
 **4. Suggested edits, line by line** — quote the original, give the replacement.
+*(2026-10-12, round 2, Case 12)* **When the draft is the verbatim approved boilerplate, the APPROVED reply reads:** *"This is the approved company boilerplate, used word for word. It must not be edited, even to remove banned words, so Suggested edits: none."* Use that wording (or a plain-English equivalent that keeps both halves: word for word, and not edited even to remove banned words).
 
 **5. Corrected rewrite** — **only when the verdict is not APPROVED.** This is a repair of the
 problems you found, not new content, and it does not cross the boundary below.
@@ -422,6 +428,7 @@ Three rules for the SOURCES block, all added 2026-09-01 after real reviews got t
 - **Say when a read was partial.** Write `— read in part: [which sections]`. A reader cannot otherwise
   tell a file you read end to end from thirteen grepped lines, and a judgment resting on a fragment
   looks identical to one resting on the whole file.
+- *(2026-10-12, v1.7.16 runs Cases 4, 7, 9)* **List only files actually opened, and describe the read truthfully.** Write `read in part` only when you really opened part of the file, and nothing else reads as whole; a whole-file `cat` or Read is a full read. Cite a line number only after you opened that line in this session; otherwise cite the file and section.
 - **List the template and the worked example you used.** They are always-required reads now, so they
   belong here. Mark them `(output shape)` and `(calibration)` so they are not mistaken for brand rules.
 - **State the skill version you are running**, taken from the line below. Two copies of this skill can
@@ -429,7 +436,7 @@ Three rules for the SOURCES block, all added 2026-09-01 after real reviews got t
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.16** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.17** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the verdict.
@@ -524,6 +531,7 @@ onward.
 | **REJECTED** or **APPROVED WITH CHANGES** | *"Want me to hand this to **Agent 13 — Content Production** to rewrite it properly? Say yes and I'll pass the draft and these violations straight over."* |
 | **APPROVED** | *"Want me to hand this to **Agent 13 — Content Production** to build out the rest of the campaign — matching social posts, email and ad copy off this same message?"* |
 | **Visual-only review** *(corrected specification given)* | *"Want me to hand this specification to **Agent 29 — UX/UI Design** to produce the asset?"* |
+| **A slide/visual spec that also carries copy** *(2026-10-12, v1.7.16 run Case 4)* | The corrected **specification** goes to **Agent 29 — UX/UI Design**; **Agent 13 — Content Production** only for rewriting the copy. Still one line: *"Want me to hand the corrected specification to **Agent 29 — UX/UI Design**, and any copy to **Agent 13 — Content Production**?"* Never offer Agent 13 alone for a spec. |
 | **A boundary decline** | The offer is already the decline — you named the agent. Add *"Say yes and I'll pass what you've given me straight over."* |
 
 **If they say yes**, the named agent picks it up **in the same chat**, with your output as its input. **If

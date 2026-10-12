@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-10-06 · **Agent:** Agent 5 — ICP & Value Prop · **Skill:** `daxko-icp-value-prop` · **Skill version:** 1.7.16 · **Publication state: PUBLISHED in v1.7.14 (2026-10-06)**
+**Generated:** 2026-10-06 · **Agent:** Agent 5 — ICP & Value Prop · **Skill:** `daxko-icp-value-prop` · **Skill version:** 1.7.17 · **Publication state: PUBLISHED in v1.7.14 (2026-10-06)**
 
 > ⚠️ **On that version number.** This skill was built at 1.7.10 on 2026-10-06 (unpublished) and first SHIPPED in
 > v1.7.14 the same day. The skill never prints a version-drift note and never reads `plugin.json`. Every release that

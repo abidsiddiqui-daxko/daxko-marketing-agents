@@ -153,12 +153,12 @@ daylight, card reader in shot rather than a laptop.
 
 | Piece | Core message | The one action | Claim set | Deliberate difference |
 |---|---|---|---|---|
-| Social post 1 | ✅ | ✅ See It in Action | ✅ $2,404.41 / $10,690.08 / 4% | none |
-| Social post 2 | ⚠️ | ✅ See It in Action | ✅ $2,404.41 / $10,690.08 / 4% | Proof led; compresses the mechanism to one clause and drops the "your prices do not move" reassurance |
-| Launch email | ✅ | ⚠️ Book a Walkthrough | ✅ full breakdown incl. 22.5% | Different CTA label, same destination; only piece carrying the percentage |
-| Ad variant 1 | ✅ | ✅ See It in Action | ✅ $2,404 / $10,690 rounded to whole dollars | Rounds the cents for ad length — the claim is unchanged |
-| Ad variant 2 | ✅ | ✅ See It in Action | ⚠️ No figure cited | Carries the mechanism with no number |
-| Landing page hero | ✅ | ⚠️ Book a Walkthrough | ✅ full breakdown incl. 22.5% | Different CTA label, same destination |
+| Social post 1 | ✅ | ✅ | ✅ | none |
+| Social post 2 | ⚠️ | ✅ | ✅ | Proof led; compresses the mechanism to one clause and drops the "your prices do not move" reassurance |
+| Launch email | ✅ | ⚠️ | ✅ | Book a Walkthrough label, same destination; only piece carrying the percentage |
+| Ad variant 1 | ✅ | ✅ | ✅ | Figures $2,404 / $10,690 rounded to whole dollars; rounds the cents for ad length — the claim is unchanged |
+| Ad variant 2 | ✅ | ✅ | ⚠️ | No figure cited; carries the mechanism with no number |
+| Landing page hero | ✅ | ⚠️ | ✅ | Book a Walkthrough label, same destination |
 
 **Where the pieces deliberately differ**
 
@@ -223,8 +223,7 @@ claimed a churn benefit that followed from the wrong product description.
 - templates/content-package.md (output shape)
 - examples/bad-invented-package.md (standard — annotated failure)
 - Corrections: none found — no corrections file present on this machine
-- Tie-break applied: the Flex Fees figure is the itemised $2,404.41 of $10,690.08 (`product-knowledge.md`
-  breakdown), never the whole increase
+- Tie-break applied: the Flex Fees figure is the itemised $2,404.41 of $10,690.08, never the whole increase
 - Gap note for the next context-file update: the boutique owner-time-back framing rule has no
   exception for margin-mechanism products
 

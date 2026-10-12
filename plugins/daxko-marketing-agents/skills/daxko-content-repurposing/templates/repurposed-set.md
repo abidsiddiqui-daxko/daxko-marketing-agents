@@ -64,7 +64,8 @@ LinkedIn posts, a three-email series, one 45–60-second video script, five pull
    carries [APPROVAL — written customer approval not verified] **only when the quote arrives only in the source** — a result a bundled file already publishes needs no bracket.
  - Infographic outline: Title · the points or figures in order, each with its label and its S-number · at most one
    word for chart type, no reason given. Words only: no colour, font, layout, position or design word
-   (footer, tiles, grid, axis).
+   (footer, tile, grid, axis, under, above, beside).
+   (2026-10-12) The Chart type line is one word, nothing after it.
  - Key takeaways: 3–7 bullets.]
 
 ## 4. Trace and consistency
