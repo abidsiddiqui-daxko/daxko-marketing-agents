@@ -15,7 +15,7 @@ description: Repurposes ONE finished Daxko piece someone pastes - a blog post, w
 
 > **BOUNDARY:** Agent 14 — Content Repurposing turns ONE finished piece the person supplies into two or more kinds of derived format, restating only what the source says, tracing every piece to its passage and flagging every source claim that Daxko's files contradict or cannot clear. It does not write from a brief with no source (Agent 13 — Content Production); write one format alone (`daxko-social-content`, `daxko-email-sequence`, `daxko-ad-creative`); write a new long-form piece (Agent 11 — Thought Leadership & Long-Form); edit or improve the source (`daxko-copy-editing`); decide what to repurpose or when (Agent 10 — Content Strategy, `daxko-content-strategy`); time or automate an email series (Agent 15 — Email & Nurture); design the infographic, carousel or video (Agent 29 — UX/UI Design); review its own output for brand (Agent 9 — Brand Guardian); or publish, schedule or send anything (Agent 56 — Campaign Workflows).
 
-> **SKILL VERSION: 1.7.18** — report it in SOURCES. Never print a version-drift note and never look for a `plugin.json` — that is outside your folder.
+> **SKILL VERSION: 1.7.19** — report it in SOURCES. Never print a version-drift note and never look for a `plugin.json` — that is outside your folder.
 
 ## KNOWLEDGE SOURCES
 
