@@ -181,7 +181,7 @@ Every value proposition and campaign must map to at least one pillar.
 
 ### Nonprofit Market
 
-**Segments served:** YMCA, JCC, Boys and Girls Clubs, Community Recreation Centers
+**Segments served:** YMCA, JCC, Boys & Girls Clubs, Community Recreation Centers
 
 #### YMCA ICP
 
@@ -217,7 +217,7 @@ Every value proposition and campaign must map to at least one pillar.
 - **Migration proof points:** Rochester JCC, Siegel JCC (Amilia migrations)
 - **Qualification signals:** Active fitness center and structured membership model; multiple overlapping programs; growing or modernizing facilities; increasing focus on donor engagement; accumulated point solutions creating friction; JCCs currently evaluating Amilia (priority displacement opportunity)
 
-#### Boys and Girls Clubs ICP
+#### Boys & Girls Clubs ICP
 
 - **Scale:** 4,000-5,500+ club sites, **~850 independent organizations** (corrected from prior 1,100 figure — confirmed with Constance). Daxko serves 31 as of Aug 2025. **2026 target: 27% market share = 229 customers.**
 - **Primary ICP:** Mid-to-large BGC organizations managing multiple sites and youth participant volume — especially those under pressure to report outcomes to funders
@@ -636,8 +636,8 @@ Concrete, defensible numbers — preferred over generic AI claims:
 | Term | Nonprofit | Club | Boutique |
 |---|---|---|---|
 | End customer | Member | Member / Subscriber | Member / Student |
-| Location | Branch / Association / Center | Club / Location | Studio / Gym / Box (CrossFit) |
-| Senior leader | Executive Director / CEO | GM / VP of Operations | Owner / Operator |
+| Location | YMCA: branch (whole org: association) · JCC: center or campus · Boys & Girls Clubs: Club or Clubhouse · mixed: location | Club / Location | Studio / Gym / Box (CrossFit) |
+| Senior leader | YMCA: CEO / Executive Director · JCC: CEO, President & CEO or Executive Director · Boys & Girls Clubs: CEO, Chief Professional Officer or Executive Director (confirm per account) | GM / VP of Operations | Owner / Operator |
 | Revenue | Fundraising + Dues + Program Fees | SSS Net Revenue | Monthly Recurring Revenue |
 | Nonprofit-specific | Nonprofits, mission-driven organizations, community centers, participants, programs, childcare, fundraising, donors, grants | — | — |
 | Boutique segments | — | — | Functional Fitness, Martial Arts, Personal Training, Fitness Influencers/Content Creators |
@@ -839,7 +839,7 @@ Concrete, defensible numbers — preferred over generic AI claims:
 |---|---|---|---|
 | YMCA | 2,597 locations, ~750 buying units | 637 (Aug 2025) | Strategic Y-USA alliance |
 | JCC | ~150-200+ JCCs nationally | 51 (Aug 2025) | No single vendor has fully solved JCC needs — market opportunity |
-| Boys and Girls Clubs | 4,000-5,500+ club sites, **~850** independent organizations | 31 (Aug 2025) | MyClubHub now a direct BGC competitor |
+| Boys & Girls Clubs | 4,000-5,500+ club sites, **~850** independent organizations | 31 (Aug 2025) | MyClubHub now a direct BGC competitor |
 | Community Rec | 3,490 independent centers, $2B+ annual revenue | — | 52,882 employees. NP new logo target: ~$1.03M in 2026 |
 | Club and Boutique | TAM/SAM figures pending confirmation | — | Boutique 2026 bookings target: $9,884,869 (includes Exercise.com) |
 

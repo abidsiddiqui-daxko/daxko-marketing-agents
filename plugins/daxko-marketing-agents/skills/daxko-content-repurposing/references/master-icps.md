@@ -52,7 +52,7 @@
 **Primary ICP:** Mid-sized to large JCCs with diverse programming — fitness, preschool, camps, cultural arts, and senior services.
 
 **Personas:**
-- **Core:** Executive Director · Operations Director
+- **Core:** Executive Director · Operations Director · CEO / President & CEO *(common at JCCs, confirm per account; not yet validated)*
 - **Secondary:** Finance Director · Board Members (particularly for capital investment)
 
 **Buying committee dynamic:** Decision-making centered around Executive Director with Finance Director and Board. Many JCCs rely on peer guidance and external consultants due to limited IT resources.
@@ -81,13 +81,13 @@
 
 ### Boys & Girls Clubs (BGC)
 
-**Organization type:** Youth development nonprofits — after-school and summer programs. 4,000–5,500+ club sites, **~850 independent local BGC organizations** (corrected from prior 1,100 figure). Members are youth participants, not adult fitness members.
+**Organization type:** Youth development nonprofits — after-school and summer programs. 4,000–5,500+ Club sites, **~850 independent local BGC organizations** (corrected from prior 1,100 figure). Members are youth participants, not adult fitness members.
 
 **Primary ICP:** Mid-to-large BGC organizations managing multiple sites and youth participant volume — especially those under pressure to report outcomes to funders.
 
 **Personas:**
-- **Core:** Executive Director / CEO
-- **Secondary:** Board of Directors · Operations / Club Services Director · Development / Fundraising Director
+- **Core:** Executive Director / CEO · Chief Professional Officer (CPO) *(common at Boys & Girls Clubs, confirm per account; not yet validated)*
+- **Secondary:** Board of Directors · Operations / Club Services Director · Development / Fundraising Director · Unit Director (leads one Club site; not yet validated)
 
 **Buying committee dynamic:** Centralized and lean — Executive Director is key authority. Board scrutinizes ROI and mission alignment. BGCA national office influences data collection standards indirectly.
 

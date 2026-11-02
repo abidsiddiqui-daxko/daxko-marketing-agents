@@ -65,6 +65,7 @@ with no example calibrates quality from nothing, and produces fluent unsourced c
 | `references/club-playbook.md` + `references/club-learnings.md` | The club market is named — open both together |
 | `references/boutique-playbook.md` + `references/boutique-learnings.md` | The boutique market is named — open both together |
 | `references/nonprofit-ymca-playbook.md` · `references/nonprofit-jcc-playbook.md` · `references/nonprofit-bgc-playbook.md` | **Only** when YMCA, JCC or Boys & Girls Clubs is named — and only the one named |
+| `references/segment-language-guide.md` | ANY nonprofit segment is named (YMCA, JCC, Boys & Girls Clubs, YWCA), OR the content goes to more than one segment, OR the segment is "none / not specific" |
 | `references/boutique-martial-arts-playbook.md` · `references/boutique-functional-fitness.md` | **Only** when martial arts / BJJ / MMA / boxing, or CrossFit / functional fitness / HIIT / personal training, is named |
 | `references/club-sss-revenue-model.md` | **Only** when same-store-sales revenue, payments economics or implementation time is the subject |
 | `references/competitive-intel.md` | **Only** when the package makes a competitive claim |
@@ -176,6 +177,8 @@ against the evidence — never silently apply one market's rules to another's co
 genuinely conflict, say the package most likely needs one version per market rather than averaging the voices.
 **Ask nothing else** — a writer that interviews the person before every package stops being used.
 
+**Nonprofit segment** *(2026-11-02)*. If one segment is named, use that segment's own words from `references/segment-language-guide.md` (YMCA: branch, association · JCC: center, campus · Boys & Girls Clubs: Club, Clubhouse). If several or none are named, write **neutral**: "location", "your organization", "members", "staff" — no "branch", no "association", no "the Y", no Y-only examples. When segments are listed, vary the order so YMCA is not always first. Never write "YMCA" as a merge-field fallback. Always "Boys & Girls Clubs" with the "&". Items the guide marks [Validate] are "usually", never hard rules. State the segment choice you made in your report. Put it in the consistency report.
+
 ### Step 3 — Lock the ONE core message before writing anything
 
 **This is the job.** Write the core message first: one short paragraph saying the single thing every piece will
@@ -272,6 +275,8 @@ produce: any statistic, percentage, ROI figure, customer count or time saving ·
 or testimonial · any pricing, date or contractual term · any product capability — and **never state an
 unreleased or roadmap capability as available today.**
 
+*(2026-11-02)* Proof from one nonprofit segment is labelled as that segment (*"one YMCA cut its wait list…"*), never stretched to cover all nonprofits. Anyone under 18 gets a first name only.
+
 Where a claim is wanted and no bundled file supports it, write a visibly marked `[PLACEHOLDER — needs a sourced
 figure]` and list it in the output. **Do not soften an invented number into a vague one: "most studios see a
 meaningful lift" is the same invention with the evidence removed.** The rule bites at every level of vagueness,
@@ -335,7 +340,7 @@ open. Write `— read in part: [sections]` only when that is true of what you re
 file you read whole. `references/corrections-snapshot.md` is read **only if the writable corrections master is absent**;
 if the master was there, the snapshot is not opened and does not appear in SOURCES.
 
-> **SKILL VERSION: 1.7.19** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.20** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the package.

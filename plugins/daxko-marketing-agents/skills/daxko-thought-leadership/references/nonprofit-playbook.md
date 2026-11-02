@@ -135,7 +135,7 @@ and commands YMCA/JCC/BGCA market presence with an AI-first positioning strategy
 
 ### JCC
 - **Scale:** ~150-200+ nationally via JCC Association of North America
-- **Key personas:** Executive Director · Finance Director
+- **Key personas:** Executive Director (or CEO / President & CEO, confirm per account) · Finance Director
 - **Top pain (confirmed NP-06):** Disconnected reporting and Excel patchwork → align to board-ready reporting and financial clarity
 - **Primary threat:** Amilia — active counter-campaign at daxko.com/considering-amilia. Migration proof: Rochester JCC, Siegel JCC.
 - **Secondary threat:** TractionRec/Salesforce ecosystem evaluations — use governance burden trap question
@@ -144,7 +144,7 @@ and commands YMCA/JCC/BGCA market presence with an AI-first positioning strategy
 ### Boys & Girls Clubs
 - **Scale:** 4,000-5,500+ sites, **850 independent orgs** (corrected from 1,100 — confirmed NP-06)
 - **2026 KR:** 27% market share = 229 customers. Daxko currently serves 31.
-- **Key personas:** Executive Director/CEO · Board of Directors · Development/Fundraising Director
+- **Key personas:** Executive Director/CEO/Chief Professional Officer · Board of Directors · Development/Fundraising Director · Unit Director (site)
 - **Buying dynamic:** Lean/centralized, board ROI scrutiny, BGCA national office influences data standards, grant cycle timing
 - **Campaign theme (confirmed NP-04/05):** "Ready Now for Club Growth" — movement-centered, NOT migration-centered, NOT competitive displacement
 - **Vision/SGA prospects:** "Ready Now. Future Proven." — no required migration, continued support
@@ -318,6 +318,7 @@ Daxko's controlled access layer for AI integrations. Use when prospects evaluate
 5. Amilia counter-campaign: daxko.com/considering-amilia — reference when JCC/Community Rec relevant
 6. Always frame AI as embedded in existing platform — never as a new tool to buy
 7. BGC buying universe: **850 orgs** — never cite 1,100
+8. **Use each segment's own words** (`segment-language-guide.md`, added 2026-11-02). "Branch" and "association" are YMCA-only. Mixed-segment copy is neutral: no segment nouns, no Y-only examples or proof, and merge-field fallbacks never say "YMCA." Under-18 youth get first names only.
 8. Build campaigns around NP content calendar: board meeting cycles, budget planning, YMCA/JCC/BGCA national conferences, grant cycles
 
 ---

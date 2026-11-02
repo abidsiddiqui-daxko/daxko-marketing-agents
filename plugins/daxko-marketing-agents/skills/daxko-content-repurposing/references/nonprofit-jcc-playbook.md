@@ -22,7 +22,7 @@
 - Currently running accumulated point solutions (separate systems for registration, membership, fundraising)
 
 ### Buying Committee
-- **Structure:** Executive Director + Finance Director + Board
+- **Structure:** Executive Director (or CEO / President & CEO, confirm per account) + Finance Director + Board, often with lay leaders and support from the local Jewish Federation
 - **IT reality:** Limited dedicated IT staff — JCCs rely heavily on peer guidance and consultants for technology decisions
 - **Decision dynamics:** Board scrutinizes ROI and mission alignment; ED champions the initiative
 - **Peer influence:** JCC Association of North America recommendations, peer JCC referrals
@@ -262,3 +262,10 @@ Drop these into JCC landing pages, ad copy, email subject lines, and social cont
 - [2026-05-22] Pass 3 enrichment (this session, sourced from NP-06 ICP): added JCC Account Tiers section (Large Urban / Mid-sized Community / Smaller or Niche Centres) — Abhishek Bhandari
 - [2026-05-22] Earlier Pass 3 enrichment from NP-06 + NP-07 + NP-08: replaced empty case studies placeholder with Rochester JCC and Siegel JCC as approved Amilia migration proof points; added JCC Trap Question Library covering Amilia, TractionRec, Personify, Neon One, and generic point solutions — Abhishek Bhandari
 - [2026-05-04] Added Amilia as primary JCC competitive threat with 5 win themes, counter-campaign URL, migration proof points, trap question; added TractionRec as secondary threat with feature comparison table and trap question; added competitive response protocol — Abhishek Bhandari
+
+## Words to Use (from `segment-language-guide.md`, added 2026-11-02)
+- Say "your JCC," "your center," "your campus," "members and families," "the JCC Movement."
+- Never say "branch," "association," "JCCA" or "the JCC Association." The name is "JCC Association of North America."
+- "Open to all": never write as if every member is Jewish.
+- Explain acronyms and translate Hebrew on first use. Use Jewish terms only when the customer does.
+- Say "community" or "continental," not "national" or "American," unless a U.S.-only fact is meant.

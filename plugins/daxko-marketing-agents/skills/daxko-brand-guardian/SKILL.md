@@ -42,7 +42,7 @@ shared drive. **This is the only place in this skill where knowledge files are d
 |---|---|---|
 | `references/brand-guidelines.md` | Voice by market, colour palette, typography, logo rules, casing, boilerplate, AI messaging guardrails, always/never content rules | **2026-09-16** |
 | `references/brand-foundations.md` | Mission, vision, values, strategic pillars, approved boilerplate, brand contacts | 2026-08-05 |
-| `references/banned-words.md` | Banned vocabulary, banned constructions, per-market bans, and the approved replacement for each | 2026-09-22 |
+| `references/banned-words.md` | Banned vocabulary, banned constructions, per-market bans, and the approved replacement for each | **2026-11-02** |
 
 If any of these three cannot be read, **stop** — see Step 4.
 
@@ -70,10 +70,11 @@ does not produce a shorter review; it produces a wrong verdict.
 
 | File | Open it when | As of |
 |---|---|---|
-| `references/nonprofit-playbook.md` | The content targets the nonprofit market (YMCA, JCC, BGC, community rec) | **2026-10-05** |
+| `references/nonprofit-playbook.md` | The content targets the nonprofit market (YMCA, JCC, BGC, community rec) | **2026-11-02** |
 | `references/club-playbook.md` | The content targets health clubs or gyms | 2026-10-05 |
 | `references/boutique-playbook.md` | The content targets boutique studios, martial arts or functional fitness | 2026-10-05 |
-| `references/master-icps.md` | Audience fit is in question — the content names a buyer, a role, or a segment, or you need to judge whether it speaks to the right person | 2026-10-05 |
+| `references/master-icps.md` | Audience fit is in question — the content names a buyer, a role, or a segment, or you need to judge whether it speaks to the right person | **2026-11-02** |
+| `references/segment-language-guide.md` | The content names or targets a YMCA, JCC, Boys & Girls Club or YWCA, or goes to more than one nonprofit segment | **2026-11-02** |
 | `references/color-system.md` | Any colour is named, shown, or implied | 2026-05-28 |
 | `references/logo-guidelines.md` | The logo appears or is described | **2026-09-02** |
 | `references/typography-system.md` | Fonts, weights or type sizes are in question | 2026-05-28 |
@@ -195,6 +196,8 @@ that the piece most likely needs splitting into one version per market. A single
 two markets is rare. **A single piece that satisfies all three is not achievable — say that plainly
 and recommend three versions**, one per market.
 
+**Several nonprofit segments in one piece** *(2026-11-02)* — say YMCAs, JCCs and Boys & Girls Clubs — is still **ONE market**. Do not recommend splitting it. Check it against the neutral rules in `references/segment-language-guide.md` (Rule 4): no segment nouns, balanced examples and proof, neutral merge-field fallbacks.
+
 ### Step 3 — Open only the files this review needs
 
 Follow the KNOWLEDGE SOURCES tables above. The three always-required files, plus whichever
@@ -303,9 +306,9 @@ Each is **pass**, **warning**, or **fail**.
 | # | Dimension | What you are checking |
 |---|---|---|
 | 1 | **Voice and tone** | Does it match the voice for this market? Nonprofit leads with community outcomes and mission, never commercial sales language. Club leads with ROI and measurable outcomes, never mission framing. Boutique is authentic and peer-to-peer, avoids corporate speak and excessive em dashes — **"excessive" means three or more em dashes in a piece under 150 words, or more than one per paragraph; em dashes inside verbatim approved boilerplate are never counted.** Check banned constructions: passive voice, hedging, filler weakeners, ALL CAPS for emphasis, stacked exclamation marks. |
-| 2 | **Terminology and naming** | Full branded product names on first use in a headline and in body copy ("Daxko Payments", not "Payments"; "Club Automation", not "CA"). Market-appropriate language — nonprofit organizations have **members**, **programs** and **facilities**, never "gym customers" or "users". **"Users" is always a violation. "Members" is always acceptable; for martial arts, CrossFit and youth programs, "students" is the better word — flag it as a suggestion, never as a violation.** Every banned word from `references/banned-words.md`, including the market-specific bans. Casing: sentence case for headings and body; Title Case for product names and **rendered CTA labels on buttons and links** ("Book a Demo", "Get the Guide"). **A CTA written as a full sentence or clause on its own line follows the sentence case of the copy around it and is NOT a casing violation** — `examples/on-brand-approved.md` scores "See it in action — book a 20-minute demo." as `pass`, and that is the canonical Daxko CTA. A call to action inside a prose sentence is likewise not a casing violation. **An email subject line, a social post's opening line and a slide headline all count as headings — sentence case.** |
+| 2 | **Terminology and naming** | Full branded product names on first use in a headline and in body copy ("Daxko Payments", not "Payments"; "Club Automation", not "CA"). Market-appropriate language — nonprofit organizations have **members**, **programs** and **facilities**, never "gym customers" or "users". **"Users" is always a violation. "Members" is always acceptable; for martial arts, CrossFit and youth programs, "students" is the better word — flag it as a suggestion, never as a violation.** Every banned word from `references/banned-words.md`, including the market-specific bans. Casing: sentence case for headings and body; Title Case for product names and **rendered CTA labels on buttons and links** ("Book a Demo", "Get the Guide"). **A CTA written as a full sentence or clause on its own line follows the sentence case of the copy around it and is NOT a casing violation** — `examples/on-brand-approved.md` scores "See it in action — book a 20-minute demo." as `pass`, and that is the canonical Daxko CTA. A call to action inside a prose sentence is likewise not a casing violation. **An email subject line, a social post's opening line and a slide headline all count as headings — sentence case.** **Nonprofit segment words** *(2026-11-02 — open `references/segment-language-guide.md`)*: "branch" and "association" are YMCA-only words — in JCC, Boys & Girls Clubs, YWCA or mixed-segment copy they are a **fail**. Also a **fail**: "Boys and Girls Clubs" without the "&", a lowercase "club" for a Boys & Girls Club, "JCCA" or "the JCC Association" (the name is "JCC Association of North America"), and any borrowed national tagline ("Great Futures Start Here", "Whatever It Takes", "for a better us"). Items the guide marks **[Validate]** — leader titles such as Chief Professional Officer or Unit Director, "branch" at a local Boys & Girls Club — are at most a **warning**, never a fail; a correct title from the guide is never flagged. |
 | 3 | **Visual identity** | Only the five official Daxko brand colours. Quote the exact hex codes from `references/color-system.md` when flagging a wrong colour. Typography (Barlow, with Arial as fallback). Logo rules — permitted backgrounds, and the prohibitions on stretching, resizing elements, recolouring, shadows and effects. Shapes, patterns, slide layouts and photography where relevant. |
-| 4 | **Audience fit** | Does it speak to the buyer it is aimed at, in language that buyer uses? Check against `references/master-icps.md` when audience is in question. |
+| 4 | **Audience fit** | Does it speak to the buyer it is aimed at, in language that buyer uses? Check against `references/master-icps.md` when audience is in question. *(2026-11-02)* A piece sent to more than one nonprofit segment that uses Y-only examples, Y-only proof presented as covering everyone, or a "YMCA" merge-field fallback is a **warning**, with the neutral rewrite in Suggested edits. |
 | 5 | **Claims and proof** | Every number, percentage, or return-on-investment claim **about Daxko's products, performance, pricing or market** needs a source. **An unverifiable Daxko claim is an automatic `fail` on this dimension** — no exceptions, no partial credit. A figure counts as sourced when it matches an approved figure in a bundled file (e.g. the 69% payment recovery figure in `references/brand-guidelines.md`); it does not have to carry a footnote in the copy itself. A Daxko figure you cannot trace to any bundled file is unverifiable — `fail`, even if it sounds plausible. **This does NOT extend to: numbers about the customer's own organisation** (years of operation, branch or site counts, member counts, programme names), **dates and deadlines, or a competitor's published price or published terms.** Those are the submitter's facts to stand behind, not Daxko's — if one looks wrong, raise it in Suggested edits, never in Violations. Flagging "for 150 years your branches have served families" as an unsourced claim is a false positive, and false positives train people to ignore the verdict. Also flag: **future features described as current** (check the delivery-tier tables in the market playbooks — anything not marked "in production today" must not be described as available), **Daxko positioned as the hero** instead of the customer, and **customer quotes**: treat any quote you cannot find in a bundled file as an unapproved pull quote and flag it, since approval is a written-permission question you cannot verify from here. |
 | 6 | **Call-to-action clarity** | One clear CTA per piece. Not generic ("learn more", "click here", "contact us", "submit"). **No aggressive urgency. This is a category ban, not a word list** — any construction manufacturing time pressure without a real deadline is banned: "Last chance!", "Act now!", "Buy now!", "limited time", "don't miss out", "only N left", "ends soon". A genuine stated deadline ("registration closes 14 March") is not urgency. Urgency is an outright ban in the nonprofit market. |
 
@@ -436,7 +439,7 @@ Three rules for the SOURCES block, all added 2026-09-01 after real reviews got t
   whichever wins is not visible to the person reading your answer. If they ever drift, the version is
   the only thing in the output that would reveal it.
 
-> **SKILL VERSION: 1.7.19** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
+> **SKILL VERSION: 1.7.20** — report this in SOURCES. Compare it **only** with the plugin manifest beside this
 > copy — `../../.claude-plugin/plugin.json`, relative to this skill's folder — reading its `version` field and
 > nothing else. If that file is not there, write *"no plugin manifest beside this copy"* and do not search for one
 > anywhere else. If it says a different version, the copies have drifted and you must say so above the verdict.
@@ -606,7 +609,8 @@ records them and re-publishes the skill. Until he does, the bundled
 - **"Users" is banned.** People are **members**, or **students** for martial arts, CrossFit and youth
   programs.
 - **"Gym" is banned in nonprofit content**, along with "impact", "accelerate", and any
-  "[x], together" construction. Use facility, branch, centre or location.
+  "[x], together" construction. Use location or facility; "branch" only in YMCA copy, "center" or "campus" for JCCs, "Club" for Boys & Girls Clubs.
+- **Children's names** *(2026-11-02)*: a full name of anyone under 18 in nonprofit copy is a **fail** on Claims and proof unless a signed release is stated. First names only.
 - **"Partner", never "vendor".**
 - **Use "we", never "I".** All agent output uses "we" language.
 - **Nonprofit content must not use commercial sales language** — revenue, close, sell, churn rate,

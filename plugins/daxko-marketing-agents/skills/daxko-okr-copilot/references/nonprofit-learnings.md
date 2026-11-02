@@ -31,3 +31,4 @@
 - [2026-04-04] [PATTERN] [ALL-NP] ACTIVENet weakness: complex pricing, hidden fees, fragmented data — win on transparency and purpose-built nonprofit ops — Nick Lindauer
 - [2026-04-04] [PATTERN] [ALL-NP] Nonprofit sales cycles are 6-18 months — build campaigns around fiscal year budgets and board meeting cycles — Nick Lindauer
 - [2026-04-04] [PREFERENCE] [ALL-NP] Nonprofit content must always lead with mission impact, not features — reinforced as a core guideline — Nick Lindauer
+- [2026-11-02] [CORRECTION] [ALL-NP] Segment language: use each segment's own words (YMCA branch/association, JCC center/campus, Boys & Girls Clubs Club/Clubhouse). Mixed-segment copy is neutral, never Y-default, and merge-field fallbacks never say "YMCA." Under-18 youth get first names only. Source: knowledge-base/segment-language-guide.md (Segment Language Guide v1, ticket from abc@daxko.com) — Abid Siddiqui

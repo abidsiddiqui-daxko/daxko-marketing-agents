@@ -14,7 +14,7 @@
 - **Growth required:** ~198 net new customers (from 31 to 229)
 - **Avg sales cycle:** 6-18 months (lean committees, mission-scrutinized)
 
-## Primary Persona: Executive Director / CEO
+## Primary Persona: Executive Director / CEO / Chief Professional Officer (CPO)
 
 The ED is the single most important relationship in a BGC deal.
 - Makes or breaks vendor decisions
@@ -299,3 +299,11 @@ This campaign does NOT center migration. It centers the movement. Vision custome
 - [2026-05-22] Pass 4 enrichment from PMM Brief — BGC Messaging and Campaign Strategy (Feb 2026, Constance Miller): (1) added complete 2026 National Market Campaign section with verbatim Core Positioning Statement; (2) added 5-pillar message architecture with market message and supporting capabilities for each pillar; (3) added concrete proof points (1,000+ nonprofits, 33 BGCs using multiple solutions); (4) added 3-phase GTM rollout (Movement Commitment → Operational Proof → Growth Narrative); (5) added "How Vision Fits Into the Story" framing — movement-centered, not migration-centered; (6) added critical "This is NOT / This IS" framing explicitly clarifying it is not a defensive migration story or competitive attack; (7) added Required Cross-Functional Deliverables; (8) fixed stale "~1,100 orgs" in BGC Segment Overview that Pass 1 missed (now correctly 850); (9) named Constance Miller as PMM owner — Abhishek Bhandari
 - [2026-05-22] Pass 3 enrichment from NP-06 + NP-08: Added BGC Account Tiers (Large Multi-Site 5+ / Mid-sized 1-4 / Small Single-Site); added BGC Customer Advisory Board callout; corrected stale "no major competitor has purpose-built tech for BGCs" claim in main body (now reflects MyClubHub entry); added Neon One competitive section with BGC-specific trap question; added BGC Trap Question Library — Abhishek Bhandari
 - [2026-05-04] Corrected BGC buying universe to 850 orgs (from 1,100), updated 2026 target to 229 of 850, added MyClubHub as new competitor, updated "only purpose-built for BGCs" claim, added campaign theme "Ready Now for Club Growth," added BGC CAB note — Abhishek Bhandari
+
+## Words to Use (from `segment-language-guide.md`, added 2026-11-02)
+- Write "Boys & Girls Clubs" with the "&," and no "the" in front.
+- "Club" and "Clubhouse" always take a capital C. Write "Club members" and "Club staff." Use "unit" or "site" only for operations talk.
+- **Children's privacy (hard rule):** first names only for anyone under 18. No full names unless a release and the organization's approval are confirmed.
+- Never use "Great Futures Start Here," "Whatever It Takes" or Blue Door imagery. These are BGCA trademarks.
+- No political tie-ins.
+- "Branch" is not the default *(some local Clubs use it; not yet validated)*.

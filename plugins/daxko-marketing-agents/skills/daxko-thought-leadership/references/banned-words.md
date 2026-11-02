@@ -126,7 +126,7 @@ These words are prohibited across all Daxko marketing content:
 | learn more | See It in Action, Get the Guide, Talk to Our Team |
 | impact (NP) | results, outcomes, community results, member outcomes |
 | accelerate (NP) | speed up, shorten, reduce time to |
-| gym (NP) | facility, branch, center, location |
+| gym (NP) | location, facility (any nonprofit); branch (YMCA copy only); center or campus (JCC); Club or Clubhouse (Boys & Girls Clubs). See segment-language-guide.md |
 | game-changer | proven improvement, measurable change |
 | revolutionary | new, purpose-built, modern |
 | cutting-edge | proven, current, modern |

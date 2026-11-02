@@ -5,7 +5,7 @@
 > file to decide whether this bundled copy has gone stale. Edit a row by hand and the drift becomes
 > invisible.
 
-**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.19
+**Generated:** 2026-09-27 · **Agent:** Agent 18 — Marketing Performance · **Skill:** `daxko-marketing-performance` · **Skill version:** 1.7.20 · **Refreshed:** 2026-11-02 (v1.7.20 — nonprofit segment-language files re-bundled)
 
 > ⚠️ **On that version number.** 1.7.14 is this skill's own version line (v1.7.14 added Agent 5; v1.7.12, built on
 > 2026-10-06: it adds the Law 5 subject rule, the version-check read and the ask-nothing rule after the v1.7.11 re-run; published in v1.7.12; v1.7.13 added the plain-dollar rule) (v1.7.8 changed only the plugin description; v1.7.9 only Agent 11's skill description; v1.7.10 added Agent 2 — OKR Copilot; v1.7.11 shipped the 2026-10-06 re-test fixes and escaped dollar figures — this skill's content is unchanged since v1.7.7), read from `plugins/daxko-marketing-agents/.claude-plugin/plugin.json`. This skill
@@ -31,13 +31,13 @@
 |---|---|---|---|---|---|---|
 | `performance-data-schema.md` | `knowledge-base/performance-data-schema.md` | `6de5a39ed2394de335c310e5ffc018977a0fd3fb89883cbb35a3b471479891e7` | verbatim | 2026-09-27 | 2026-08-11 | 11 KB |
 | `okrs-and-priorities.md` | `knowledge-base/okrs-and-priorities.md` | `52d169ac5aa287cda7315cb75937a362680ce18be1014d7c5125e4bdf32ef5cf` | verbatim | 2026-09-27 | 2026-08-11 | 12 KB |
-| `nonprofit-learnings.md` | `verticals/nonprofit-learnings.md` | `71deb914759481cf68ffdfb47c1eb8d34efdfbf936c296eff0a9e2b10ac73357` | verbatim | 2026-09-27 | 2026-08-05 | 3 KB |
+| `nonprofit-learnings.md` | `verticals/nonprofit-learnings.md` | `c9f5b09a1e0290edfc6dc9e7a7dd7cdc52b8b73f49d335744629df966ac194f6` | verbatim | 2026-11-02 | **2026-11-02** | 3 KB |
 | `club-learnings.md` | `verticals/club-learnings.md` | `dd3b74574fc03522ce0ef0c48c06894e17de4f29af72f9db6fc01f33865cc071` | verbatim | 2026-09-27 | 2026-08-05 | 7 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-09-27 | 2026-08-05 | 7 KB |
-| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `735e94322cbe7d2a445e65e8836dbd2a5d094e4f0a318d1dcc52cb550bc09c66` | verbatim | 2026-10-05 | 2026-10-05 | 32 KB |
+| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `18e7973d8809138e2bda830ae82fd80487bb052b82d27103efc99c83f9b484b9` | verbatim | 2026-11-02 | **2026-11-02** | 33 KB |
 | `club-playbook.md` | `verticals/club-playbook.md` | `a8ff458cc99f070904447bc7a5c0efc042516820cfff84f9058c33cd03b2b37c` | verbatim | 2026-10-05 | 2026-10-05 | 18 KB |
 | `boutique-playbook.md` | `verticals/boutique-playbook.md` | `740900c3f36648e2f315809cc452bbec60e9fce20c155b8199c8cbcc3c7e4893` | verbatim | 2026-10-05 | 2026-10-05 | 30 KB |
-| `master-icps.md` | `knowledge-base/master-icps.md` | `6f6f0b560c67683b5bc672352e544939dbaf4b708ba1129a7e43f88af5dd7e7c` | verbatim | 2026-10-05 | 2026-10-05 | 19 KB |
+| `master-icps.md` | `knowledge-base/master-icps.md` | `9c3baa736f785bab5c6fd4961247aac36faac36d881997245503a1d44ba12917` | verbatim | 2026-11-02 | **2026-11-02** | 19 KB |
 | `product-knowledge.md` | `knowledge-base/product-knowledge.md` | `17e1fde5b9b71523e4847053e60f82793807b029f0b73cc4cb6426fe8f403332` | verbatim | 2026-10-05 | 2026-10-05 | 23 KB |
 | `corrections-snapshot.md` | `learnings/agent-18-marketing-performance.md` | `3b90435e08c4bf8a357b18a1bde6948059d15177d360f7f7009352224ac1fa50` | converted | 2026-10-12 | 2026-09-27 | 4 KB |
 

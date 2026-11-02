@@ -6,7 +6,7 @@
 > current checksum of the source file to decide whether this bundled copy has gone stale. Edit
 > the row and the drift becomes invisible.
 
-**Generated:** 2026-08-14 · **Last refreshed:** 2026-10-05 (v1.7.7 — shared-file corrections re-bundled on 2026-10-05; corrections snapshot refreshed 45 → 48 entries, three 2026-09-21 entries that v1.7.2–v1.7.6 had shipped without) · **Earlier refresh:** 2026-09-21 (v1.7.2 — `slide-layouts.md` re-bundled after its source was corrected on 2026-09-16: title-slide logo minimum was wrongly stated as 60px, corrected to the 80px digital minimum in `logo-guidelines.md`; `brand-guidelines.md` re-bundled after its source was corrected on 2026-09-16; corrections snapshot refreshed 35 → 45 entries; all other rows unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian`
+**Generated:** 2026-08-14 · **Last refreshed:** 2026-10-05 (v1.7.7 — shared-file corrections re-bundled on 2026-10-05; corrections snapshot refreshed 45 → 48 entries, three 2026-09-21 entries that v1.7.2–v1.7.6 had shipped without) · **Earlier refresh:** 2026-09-21 (v1.7.2 — `slide-layouts.md` re-bundled after its source was corrected on 2026-09-16: title-slide logo minimum was wrongly stated as 60px, corrected to the 80px digital minimum in `logo-guidelines.md`; `brand-guidelines.md` re-bundled after its source was corrected on 2026-09-16; corrections snapshot refreshed 35 → 45 entries; all other rows unchanged and still valid) · **Agent:** Agent 9 — Brand Guardian · **Skill:** `daxko-brand-guardian` · **Refreshed:** 2026-11-02 (v1.7.20 — nonprofit segment-language files re-bundled)
 
 **What the columns mean**
 
@@ -25,9 +25,9 @@
 |---|---|---|---|---|---|---|
 | `brand-guidelines.md` | `knowledge-base/brand-guidelines.md` | `e49957279b3a4a151073cae64085e7b5d3bef7f49bd3d89ba4db21599fa95aa7` | verbatim | 2026-09-21 | **2026-09-16** | 14 KB |
 | `brand-foundations.md` | `knowledge-base/brand-foundations.md` | `c3f994e60a60a412fa821c38f2b19c93bba0ea7bc023a869a97f13b024992b1f` | verbatim | 2026-08-14 | 2026-08-05 | 8 KB |
-| `banned-words.md` | `knowledge-base/banned-words.md` | `510ff56acb1977d95916dc09679fab3c91bbe212c186d975ea2309c9b21cb7f7` | verbatim | 2026-08-14 | **2026-09-22** | 6 KB |
-| `master-icps.md` | `knowledge-base/master-icps.md` | `6f6f0b560c67683b5bc672352e544939dbaf4b708ba1129a7e43f88af5dd7e7c` | verbatim | 2026-10-05 | 2026-10-05 | 19 KB |
-| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `735e94322cbe7d2a445e65e8836dbd2a5d094e4f0a318d1dcc52cb550bc09c66` | verbatim | 2026-10-05 | 2026-10-05 | 32 KB |
+| `banned-words.md` | `knowledge-base/banned-words.md` | `2751768c251c600dfe41c40a423730599536db6bb3aadf44c73d039e189c5d72` | verbatim | 2026-11-02 | **2026-11-02** | 6 KB |
+| `master-icps.md` | `knowledge-base/master-icps.md` | `9c3baa736f785bab5c6fd4961247aac36faac36d881997245503a1d44ba12917` | verbatim | 2026-11-02 | **2026-11-02** | 19 KB |
+| `nonprofit-playbook.md` | `verticals/nonprofit-playbook.md` | `18e7973d8809138e2bda830ae82fd80487bb052b82d27103efc99c83f9b484b9` | verbatim | 2026-11-02 | **2026-11-02** | 33 KB |
 | `club-playbook.md` | `verticals/club-playbook.md` | `a8ff458cc99f070904447bc7a5c0efc042516820cfff84f9058c33cd03b2b37c` | verbatim | 2026-10-05 | 2026-10-05 | 18 KB |
 | `boutique-playbook.md` | `verticals/boutique-playbook.md` | `740900c3f36648e2f315809cc452bbec60e9fce20c155b8199c8cbcc3c7e4893` | verbatim | 2026-10-05 | 2026-10-05 | 30 KB |
 | `color-system.md` | `visual-brand/color-system.md` | `b3deb87185aa88bbd0a231c3b0c5facb0706f53ee07091649cb18604c7a828b2` | verbatim | 2026-08-14 | 2026-05-28 | 24 KB |
@@ -39,6 +39,7 @@
 | `slide-layouts.md` | `visual-brand/slide-layouts.md` | `19031514a730a34ddc54026f98e47e3eceb9681ae25200d2fe11e5d00c20d7d9` | verbatim | 2026-09-21 | **2026-09-16** | 16 KB |
 | `photography-layout.md` | `visual-brand/photography-layout.md` | `b315074128d3d3fb2b1b09911cb241ea099617d2322fb8223a76c1526ec6c656` | verbatim | 2026-08-14 | 2026-03-25 | 8 KB |
 | `corrections-snapshot.md` | `learnings/agent-09-brand-guardian.md` | `2b0788b8a90e6771f8705beaf5774cd3191f4378e475dd3f653839f8837c5888` | converted | 2026-10-12 | 2026-10-06 | 48 KB |
+| `segment-language-guide.md` | `knowledge-base/segment-language-guide.md` | `1799dd394853887e7f9aa0e17b05db2ebbd3b76b85557f16ba754d9cb3f641cc` | verbatim | 2026-11-02 | **2026-11-02** | 22 KB |
 
 ---
 
