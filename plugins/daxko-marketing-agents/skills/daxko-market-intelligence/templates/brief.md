@@ -60,7 +60,7 @@ NEXT STEP: [exactly one offer]
 SOURCES
 - references/[file] — read in full | read in part: [sections] — as of [MANIFEST as_of]
 - Corrections: [master | snapshot | none found] — [n] entries
-- SKILL VERSION: 1.7.23
+- SKILL VERSION: 1.7.24
 - No web search or connector was used.
 ```
 

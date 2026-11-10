@@ -1,7 +1,7 @@
 {
   "name": "daxko-marketing-agents",
-  "version": "1.7.23",
-  "description": "Daxko marketing agents. Agent 2 - OKR Copilot plans the quarter. Agent 3 - Market Intelligence answers competitor questions. Agent 5 - ICP & Value Prop gives buyer profiles. Agent 9 - Brand Guardian reviews drafts. Agent 11 - Thought Leadership writes long-form. Agent 13 - Content Production writes multi-channel sets. Agent 14 - Content Repurposing reformats one piece. Agent 18 - Marketing Performance reads results. Agent 67 - Customer Proof plans advocacy asks.",
+  "version": "1.7.24",
+  "description": "Daxko marketing agents. Agent 2 - OKR Copilot plans the quarter. Agent 3 - Market Intelligence answers competitor questions. Agent 5 - ICP & Value Prop gives buyer profiles. Agent 9 - Brand Guardian reviews drafts. Agent 11 - Thought Leadership writes long-form. Agent 13 - Content Production writes content sets. Agent 14 - Content Repurposing reformats a piece. Agent 18 - Marketing Performance reads results. Agent 51 - Release Briefing briefs teams. Agent 67 - Customer Proof plans asks.",
   "author": {
     "name": "Abid Siddiqui",
     "email": "abid.siddiqui@daxko.com"
