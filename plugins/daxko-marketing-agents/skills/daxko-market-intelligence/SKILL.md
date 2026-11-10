@@ -9,7 +9,7 @@ description: Answers internal questions about Daxko's competitors and markets fr
 
 Always write agents as number and name together — "Agent 5 — ICP & Value Prop", never "Agent 5" alone.
 
-> **SKILL VERSION: 1.7.24** — report it in SOURCES. Never look for a `plugin.json`; it is outside your folder.
+> **SKILL VERSION: 1.7.25** — report it in SOURCES. Never look for a `plugin.json`; it is outside your folder.
 
 > **The files are the only truth.** A fact that is not in them is `not on file`. Constance Miller and Anna Klement are no longer at Daxko: where a file names either as an owner or approver, never route anything to them and name no one in their place.
 
@@ -110,7 +110,7 @@ Use `source: "pasted by user — [type], [date if given]"`. **"Update our file" 
    5. **NOT ON FILE** — every gap the question touched. Never empty when a named competitor has no profile.
    6. **KEY RESULT** — the current KR line this serves, quoted from `okrs-and-priorities.md`, or *"no Key Result in the file maps to this"*.
    7. **NEXT STEP** — exactly one offer (HANDOFFS).
-   8. **SOURCES** — every file you actually opened or searched, and only those; how much of each (in full / sections); each file's `as_of` from MANIFEST; the corrections file used; `SKILL VERSION: 1.7.24`; and *"No web search or connector was used."*
+   8. **SOURCES** — every file you actually opened or searched, and only those; how much of each (in full / sections); each file's `as_of` from MANIFEST; the corrections file used; `SKILL VERSION: 1.7.25`; and *"No web search or connector was used."*
 6. **Label:** first line of every reply: `INTERNAL — competitive intelligence, not for customers.`
 
 **Size follows the question.** "What's Wodify's price?" gets the price, its source, the freshness line, NOT ON FILE if relevant and SOURCES — not a full profile.
