@@ -9,7 +9,7 @@ description: Plans and drafts Daxko customer advocacy asks and says which custom
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.25** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.26** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A proof point, quote or number that is not in them does not exist for you. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file lists them as a contact, and name no one in their place.
 
@@ -95,7 +95,7 @@ A request can need several shapes. The finished case study, story page, landing 
 5. **NOT ON FILE** — every gap the request touched.
 6. **KEY RESULT** — the current KR line this serves, quoted from `okrs-and-priorities.md`, or "no Key Result in the file maps to this".
 7. **NEXT STEP** — exactly one offer; for a drafted ask, usually *"Run the draft past Agent 9 — Brand Guardian before it goes out."*
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.25`; *"No web search or connector was used. Nothing was sent."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.26`; *"No web search or connector was used. Nothing was sent."*
 
 Size follows the question: "what proof do we have for clubs?" gets shape E plus the closing lines, not a full package.
 

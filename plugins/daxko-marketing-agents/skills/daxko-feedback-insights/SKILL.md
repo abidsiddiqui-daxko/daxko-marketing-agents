@@ -9,7 +9,7 @@ description: Makes sense of Daxko customer feedback someone pastes - NPS comment
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.25** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.26** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the paste are the only truth.** A count, cause, customer or owner that is in neither is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -96,7 +96,7 @@ A request can need several shapes. Searching the web for more feedback, personas
 6. **NOT ON FILE** — every gap the request touched.
 7. **KEY RESULT** — the KR(s) this moves, quoted from `okrs-and-priorities.md`, or "no Key Result in the file maps to this".
 8. **NEXT STEP** — exactly one offer, usually *"Send the top three themes to the product owner (confirm who) with the item numbers."*
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.25`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.26`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 Size follows the question: "is the belt-tracking complaint a known issue?" gets shape C plus the closing lines, not a full synthesis.
 
@@ -110,6 +110,7 @@ Size follows the question: "is the belt-tracking complaint a known issue?" gets 
 | Buyer personas, ICP profiles, value propositions | Agent 5 — ICP & Value Prop (`daxko-icp-value-prop`) |
 | Cancel flows, save offers, dunning, win-back programs | `daxko-churn-prevention` |
 | Turning a happy comment into an approved quote, review or case study | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`) |
+| Public copy built on the themes — a press release, blog, email, post or page | Agent 13 — Content Production (`daxko-content-production`) for a set; one piece → the market copywriter: `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter`. Always name the owner when you decline |
 | Competitor angle in the feedback | Agent 3 — Market Intelligence & Competitive (`daxko-market-intelligence`) |
 | A release briefing or roadmap talk-track | Agent 51 — Roadmap & Release Briefing (`daxko-release-briefing`) |
 | Marketing results and numbers against a KR | Agent 18 — Marketing Performance (`daxko-marketing-performance`) |
