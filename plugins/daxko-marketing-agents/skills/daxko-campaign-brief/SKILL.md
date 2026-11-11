@@ -9,7 +9,7 @@ description: Plans a Daxko marketing campaign for one market - Nonprofit, Club o
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.28** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.29** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A proof point, date, metric, competitor fact or customer that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -98,7 +98,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 6. **NOT ON FILE** — every gap the request touched.
 7. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`.
 8. **NEXT STEP** — exactly one offer, usually *"Hand the YAML block to Agent 13 — Content Production to write the assets, then Agent 9 — Brand Guardian before anything goes out."*
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.28`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.29`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 ---
 

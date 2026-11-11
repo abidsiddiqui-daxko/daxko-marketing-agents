@@ -29,7 +29,7 @@ Each section: what the files say, with source. Proof exactly as written with its
 The market's Always / Never applied · banned words checked · roadmap AI excluded · segments kept separate
 
 ### DECLINED · NOT ON FILE · KEY RESULT (verbatim) · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER (`SKILL VERSION: 1.7.28`; "No web search or connector was used. Nothing was sent and no file was changed.").
+As in `SKILL.md` → HOW TO ANSWER (`SKILL VERSION: 1.7.29`; "No web search or connector was used. Nothing was sent and no file was changed.").
 
 ---
 

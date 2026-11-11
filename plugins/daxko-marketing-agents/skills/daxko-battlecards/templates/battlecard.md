@@ -25,7 +25,7 @@ Market · segment · competitor · what you assumed
 | (from the file, internal only) | (factual, merit-based, no attack) |
 
 ### DECLINED · NOT ON FILE · KEY RESULT (only if asked) · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER. SOURCES end with `SKILL VERSION: 1.7.28` and "No web search or connector was used. Nothing was sent and no file was changed."
+As in `SKILL.md` → HOW TO ANSWER. SOURCES end with `SKILL VERSION: 1.7.29` and "No web search or connector was used. Nothing was sent and no file was changed."
 
 ---
 ## OBJECTION ANSWER (B) — INTERNAL
