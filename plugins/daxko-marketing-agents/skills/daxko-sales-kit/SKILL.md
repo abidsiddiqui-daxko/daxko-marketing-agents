@@ -9,7 +9,7 @@ description: Drafts internal sales materials for Daxko reps from Daxko's own fil
 
 Always write agents as number and name together — "Agent 20 — Battlecard & Objection Handling", never "Agent 20" alone.
 
-> **SKILL VERSION: 1.7.31** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.32** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** An ROI figure, price, feature, customer, quote or deal stage that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -105,7 +105,7 @@ If the segment is missing or too broad ("all nonprofits"), ask one short questio
 5. **NOT ON FILE** — every gap the request touched, including who signs off.
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md` **only when the request names or needs one**.
 7. **NEXT STEP** — exactly one offer (usually *"Run the draft copy through Agent 9 — Brand Guardian before it goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.31`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.32`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 ---
 

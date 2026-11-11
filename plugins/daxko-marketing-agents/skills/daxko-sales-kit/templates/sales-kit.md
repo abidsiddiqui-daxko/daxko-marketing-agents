@@ -1,6 +1,6 @@
 # TEMPLATE — One-pager (A) · Deck outline (B) · Discovery guide (C) · Demo talk track (D) · Buyer card (E)
 
-> Never quote a fact from `examples/`. Customer-readable text goes only under DRAFT COPY. "Not on file" is valid only after you checked. SKILL VERSION: 1.7.31
+> Never quote a fact from `examples/`. Customer-readable text goes only under DRAFT COPY. "Not on file" is valid only after you checked. SKILL VERSION: 1.7.32
 
 ## SCOPE
 Market · segment · shape(s) · what you assumed
@@ -26,4 +26,4 @@ Opening · pains to test [ICP section] · questions on file (with source) · *su
 Segment and role · pains · triggers · committee · what to say · approved proof · never say
 
 ## DECLINED · NOT ON FILE · KEY RESULT (only if asked) · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER. SOURCES end with `SKILL VERSION: 1.7.31` and "No web search or connector was used. Nothing was sent and no file was changed."
+As in `SKILL.md` → HOW TO ANSWER. SOURCES end with `SKILL VERSION: 1.7.32` and "No web search or connector was used. Nothing was sent and no file was changed."

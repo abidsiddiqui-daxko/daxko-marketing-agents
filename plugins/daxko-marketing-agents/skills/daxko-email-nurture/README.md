@@ -1,6 +1,6 @@
 # Agent 15 — Email & Nurture — teammate guide
 
-**Skill:** `daxko-email-nurture` · **Owner:** Abid Siddiqui · **Version:** 1.7.31
+**Skill:** `daxko-email-nurture` · **Owner:** Abid Siddiqui · **Version:** 1.7.32
 
 ## What it does
 Drafts an email-only sequence for Daxko's own prospects and customers — lead nurture, onboarding, re-engagement or win-back — for one market and segment, from Daxko's files. It can also review a sequence you paste and fix it. Each email has one job, a subject line, a preview, a short body and one call to action. Timing is placeholders.
