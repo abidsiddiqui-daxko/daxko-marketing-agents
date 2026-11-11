@@ -9,7 +9,7 @@
     {
       "name": "daxko-marketing-agents",
       "source": "./plugins/daxko-marketing-agents",
-      "description": "Daxko marketing agents. Agent 2 - OKR Copilot plans the quarter. Agent 3 - Market Intelligence answers competitor questions. Agent 5 - ICP & Value Prop gives buyer profiles. Agent 9 - Brand Guardian reviews drafts. Agent 11 - Thought Leadership writes long-form. Agent 13 - Content Production writes sets. Agent 14 - Content Repurposing reformats. Agent 18 - Marketing Performance reads results. Agents 50, 51, 67 - Feedback, Release Briefing, Customer Proof. Agents 63-65 - Campaign Briefs.",
+      "description": "Daxko marketing agents. Agent 2 - OKR Copilot plans the quarter. Agent 3 - Market Intelligence answers competitor questions. Agent 5 - ICP & Value Prop gives buyer profiles. Agent 9 - Brand Guardian reviews drafts. Agent 11 - Thought Leadership writes long-form. Agent 13 - Content Production writes sets. Agent 14 - Repurposing reformats. Agent 18 - Performance reads results. Agent 20 - Battlecards answers objections. Agents 50, 51, 67 - Feedback, Releases, Proof. Agents 63-65 - Campaign Briefs.",
       "category": "marketing"
     }
   ]

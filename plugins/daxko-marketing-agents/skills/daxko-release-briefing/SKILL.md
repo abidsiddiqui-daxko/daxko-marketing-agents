@@ -9,7 +9,7 @@ description: Turns a Daxko release note or feature update into an INTERNAL brief
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.27** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.28** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A release fact, date, metric or delivery status that is not in them or in the text pasted in this chat is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file lists them as a contact, and name no one in their place.
 
@@ -97,7 +97,7 @@ A request can need several shapes. The launch plan, the public announcement and 
 5. **NOT ON FILE** — every gap the request touched, including delivery status that cannot be confirmed.
 6. **KEY RESULT** — the current KR this serves, quoted from `okrs-and-priorities.md`, or "no Key Result in the file maps to this".
 7. **NEXT STEP** — exactly one offer; usually *"Confirm the not-confirmed items with the product owner, then I can tighten the say / don't-say list."*
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.27`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.28`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 Size follows the question: "has Smart Sending shipped?" gets one status table plus the closing lines, not a full briefing.
 
