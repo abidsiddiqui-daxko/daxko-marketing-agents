@@ -1,6 +1,6 @@
 ---
 name: daxko-campaign-brief
-description: Plans a Daxko marketing campaign for one market - Nonprofit, Club or Boutique - and writes the campaign brief. Given a segment - YMCA, JCC, Boys & Girls Clubs, community centers, health clubs, martial arts studios, CrossFit or functional fitness - and a goal, it writes the brief in the sections Daxko's playbooks require: market context, target segment and roles, theme, value propositions, channels, approved proof only, competitor, CTA, timeline, success metrics and the Key Result it serves, plus the hand-off block for the writers. It can also lay out a quarter's campaigns for one market, or a messaging framework for one segment. Never invents proof, dates or metrics. Use for "plan a Q1 campaign for mid-size YMCAs", "campaign brief for clubs leaving ABC Fitness", "messaging for a BJJ studio switcher campaign". NOT writing the assets - daxko-content-production. NOT a product launch plan - daxko-launch-strategy. NOT a blog editorial calendar - daxko-content-strategy.
+description: Plans a Daxko marketing campaign for one market - Nonprofit, Club or Boutique - and writes the campaign brief. Given a segment - YMCA, JCC, Boys & Girls Clubs, community centers, health clubs, martial arts studios, CrossFit or functional fitness - and a goal, it writes the brief in the sections Daxko's playbooks require: market context, target segment and roles, theme, value propositions, channels, approved proof only, competitor, CTA, timeline, success metrics and the Key Result it serves, plus the hand-off block for the writers. It can also lay out a quarter's campaigns for one market, or a messaging framework for one segment. Never invents proof, dates or metrics. Use for "plan a Q1 campaign for mid-size YMCAs", "campaign brief for clubs leaving ABC Fitness", "messaging for a BJJ studio switcher campaign". NOT writing the assets - daxko-content-production. NOT a product launch plan - daxko-launch-strategy. NOT a blog editorial calendar - daxko-content-planner.
 ---
 
 # Daxko Campaign Brief — Agent 63 — Non-Profit · Agent 64 — Club · Agent 65 — Boutique Campaign & Content Strategist
@@ -9,7 +9,7 @@ description: Plans a Daxko marketing campaign for one market - Nonprofit, Club o
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.29** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.30** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A proof point, date, metric, competitor fact or customer that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -98,7 +98,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 6. **NOT ON FILE** — every gap the request touched.
 7. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`.
 8. **NEXT STEP** — exactly one offer, usually *"Hand the YAML block to Agent 13 — Content Production to write the assets, then Agent 9 — Brand Guardian before anything goes out."*
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.29`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.30`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 ---
 
@@ -108,7 +108,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 |---|---|
 | Writing the emails, posts, ads, landing page or other assets | Agent 13 — Content Production (`daxko-content-production`) for a set; one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A product or feature launch plan, beta, waitlist, launch day | `daxko-launch-strategy` |
-| A blog or editorial calendar, topic clusters, SEO content plan | `daxko-content-strategy` |
+| A blog or editorial calendar, topic clusters, SEO content plan | `daxko-content-planner` |
 | Running paid ads, budgets, bidding | `daxko-paid-ads` |
 | An automated email flow | `daxko-email-sequence` |
 | Quarter initiatives across all KRs | Agent 2 — OKR Copilot (`daxko-okr-copilot`) |

@@ -18,4 +18,4 @@
 
 **DECLINED:** [invented win rate → not on file]; [partner or Daxko product as competitor → why]; [file edit → Abid Siddiqui]
 **NOT ON FILE:** [prices] · [competitor win rate] · [quotes] · who signs off — confirm who signs off
-**SOURCES:** [files + sections, as_of dates, last reviewed] · SKILL VERSION: 1.7.29 · No web search or connector was used. Nothing was sent and no file was changed.
+**SOURCES:** [files + sections, as_of dates, last reviewed] · SKILL VERSION: 1.7.30 · No web search or connector was used. Nothing was sent and no file was changed.
