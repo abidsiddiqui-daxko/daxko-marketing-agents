@@ -35,4 +35,4 @@ Customer proof from `## Proof Points by Market` that fits, exactly as written, w
 Status items to confirm with the product owner · public or internal? · **confirm who signs off** — not on file.
 
 ### 8. DECLINED · 9. NOT ON FILE · 10. KEY RESULT · 11. NEXT STEP · 12. SOURCES
-Per `SKILL.md` → HOW TO ANSWER (DECLINED, NOT ON FILE, KEY RESULT, NEXT STEP, SOURCES with `as_of` dates, `SKILL VERSION: 1.7.32`, "No web search or connector was used. Nothing was sent and no file was changed.").
+Per `SKILL.md` → HOW TO ANSWER (DECLINED, NOT ON FILE, KEY RESULT, NEXT STEP, SOURCES with `as_of` dates, `SKILL VERSION: 1.7.33`, "No web search or connector was used. Nothing was sent and no file was changed.").

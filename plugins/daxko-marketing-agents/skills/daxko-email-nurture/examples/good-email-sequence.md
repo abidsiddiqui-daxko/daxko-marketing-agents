@@ -18,4 +18,4 @@ Pain [master-icps.md, segment section] · proof [file, use rule, or "none on fil
 
 **DECLINED:** [open-rate benchmark → not on file]; [call and LinkedIn steps → gong-sequence-builder]
 **NOT ON FILE:** benchmarks · cadence and send times · stage definitions · who signs off — confirm who signs off
-**SOURCES:** [files + sections, as_of dates] · SKILL VERSION: 1.7.32 · No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed.
+**SOURCES:** [files + sections, as_of dates] · SKILL VERSION: 1.7.33 · No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed.

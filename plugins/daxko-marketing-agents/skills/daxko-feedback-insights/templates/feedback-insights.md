@@ -29,4 +29,4 @@ Promoters a of n (x%) − Detractors b of n (y%) = NPS z · "n < 30 — unstable
 Sample size · channel skew (tickets over-represent problems) · missing markets or segments · no scores · self-selected respondents
 
 ### 7. DECLINED · 8. NOT ON FILE · 9. KEY RESULT · 10. NEXT STEP · 11. SOURCES
-As in `SKILL.md` → HOW TO ANSWER (`SKILL VERSION: 1.7.32`; "No web search or connector was used. Nothing was sent and no file was changed.").
+As in `SKILL.md` → HOW TO ANSWER (`SKILL VERSION: 1.7.33`; "No web search or connector was used. Nothing was sent and no file was changed.").

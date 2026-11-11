@@ -9,7 +9,7 @@ description: Plans what Daxko should publish for one market or segment - YMCA, J
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.7.32** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.33** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A keyword, search volume, ranking, date, published page or customer story that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -101,7 +101,7 @@ A request can need several shapes. Pieces, drafts and assets are **not** yours (
 5. **NOT ON FILE** — every gap the request touched (keywords, volumes, dates, what is published, who signs off).
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`; always for shape A, otherwise only when asked.
 7. **NEXT STEP** — exactly one offer (usually *"Hand the plan to Agent 13 — Content Production to write the first piece, then Agent 9 — Brand Guardian before anything goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; the pasted data you used; `SKILL VERSION: 1.7.32`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; the pasted data you used; `SKILL VERSION: 1.7.33`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
 
 ---
 
