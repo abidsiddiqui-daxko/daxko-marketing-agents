@@ -13,18 +13,39 @@ owner: Abid Siddiqui (abid.siddiqui@daxko.com)
 
 ## What is in it
 
-| Agent | What it does |
-|---|---|
-| **Agent 2 — OKR Copilot** | Turns Daxko's objectives and Key Results into a draft quarterly plan of initiatives — order, a proposed owner role, timing and the signal that would show each one working. It never sets a target, names a person as owner, gives a status or writes into Asana, Airtable or any other system; every open decision is left as a visible placeholder. |
-| **Agent 5 — ICP & Value Prop** | Says who Daxko sells to and what to say to them — buyer profiles, buying committees, pains, triggers, the Key Result each segment serves and what never to say — from Daxko's approved files only, every line cited. Anything the files don't hold reads `not in the files`; it never invents a persona, figure, quote or approval, and it writes no copy and edits no file. |
-| **Agent 9 — Brand Guardian** | Reviews draft Daxko marketing content against the official brand guidelines and returns a verdict, a six-dimension scorecard, every violation tied to the rule it breaks, line-by-line fixes, and a corrected rewrite. **It reviews content; it does not write it.** |
-| **Agent 11 — Thought Leadership & Long-Form** | Writes one long-form authority piece — a whitepaper, an eBook manuscript, a research report or an executive byline article — from Daxko's own files. Every figure it cannot source is left as a visible `[PLACEHOLDER]`, never guessed. |
-| **Agent 13 — Content Production** | Writes a matched multi-channel content package for one launch, announcement or campaign, all drafted from one locked core message. |
-| **Agent 14 — Content Repurposing** | Takes one finished piece — a blog post, whitepaper, eBook chapter, webinar transcript or case study — and turns it into several formats at once: social posts, an email series, video scripts, carousel copy, pull quotes and an infographic outline in words. Each piece restates only what the source says, and source claims that clash with Daxko's files are flagged, not copied. |
-| **Agent 18 — Marketing Performance** | Reads marketing numbers you have already put in the chat and says what they mean for a named Daxko Key Result. It fetches nothing and does not decide what to do next. |
+**Agent name vs skill name.** Each agent has a name for people ("Agent 15 — Email & Nurture") and a short
+skill name that Claude uses to pick it (`daxko-email-nurture`). Skill names can only use small letters,
+numbers and hyphens, so the two never look the same. Use this table to match them.
 
-More agents are added over time, one tested agent at a time. *(Updated 2026-10-05: this table listed only
-Agent 9 — Brand Guardian through three releases that added the other three. Agent 2 — OKR Copilot added in v1.7.10, 2026-10-06. Agent 5 — ICP & Value Prop added in v1.7.14, 2026-10-06. Agent 14 — Content Repurposing added in v1.7.15, 2026-10-12.)*
+**How to read this table:** one row per agent. *Skill #* counts the skills — Agents 63, 64 and 65 share
+skill #12, which is why there are 18 rows but only 16 skills. *Ask it like this* is copied from the
+skill's own description. *First published* is checked against the plugin repo's git history.
+*Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* skills are live.
+
+| S.No | Skill # | Batch | Agent (number — name) | Skill name (what Claude calls it) | What it does, in plain words | Ask it like this | First published | Status today |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 1 | 1 | Agent 2 — OKR Copilot | `daxko-okr-copilot` | Turns Daxko's goals (OKRs) into a quarter plan: what to do, in what order, by when. | "help me plan Q1" | v1.7.10 | Out for stakeholder testing |
+| 2 | 2 | 1 | Agent 5 — ICP & Value Prop | `daxko-icp-value-prop` | Says who Daxko sells to and what to say to them, from approved buyer files. | "what is our ICP for JCCs" | v1.7.14 | Out for stakeholder testing |
+| 3 | 3 | 1 | Agent 9 — Brand Guardian | `daxko-brand-guardian` | Checks a draft against Daxko's brand rules and gives fixes. Reviews only, never writes. | "is this on-brand" + paste the draft | v1.0.0 | Out for stakeholder testing |
+| 4 | 4 | 1 | Agent 11 — Thought Leadership & Long-Form | `daxko-thought-leadership` | Writes one long piece: a whitepaper, eBook, research report or executive article. | "I need a research report on X" | v1.7.7 | Out for stakeholder testing |
+| 5 | 5 | 1 | Agent 13 — Content Production | `daxko-content-production` | Writes a full set of matching pieces (email, social, page…) for one launch or campaign. | "all the assets for this launch" | v1.7.0 | Out for stakeholder testing |
+| 6 | 6 | 1 | Agent 14 — Content Repurposing | `daxko-content-repurposing` | Turns one finished piece you paste into several new formats. | "repurpose this webinar transcript" | v1.7.15 | Out for stakeholder testing |
+| 7 | 7 | 1 | Agent 18 — Marketing Performance | `daxko-marketing-performance` | Explains what marketing numbers you paste mean for a Daxko goal. | "how did Q3 go" | v1.7.6 | Out for stakeholder testing |
+| 8 | 8 | 2 | Agent 3 — Market Intelligence & Competitive | `daxko-market-intelligence` | Answers questions about competitors and the market from Daxko's competitor files. | "where do we win and lose against Mindbody" | v1.7.22 | Live in claude.ai |
+| 9 | 9 | 2 | Agent 67 — Customer Proof & Advocacy | `daxko-customer-proof` | Says which customer stories and quotes are approved, and drafts asks for reviews, quotes or case studies. | "draft a testimonial request" | v1.7.23 | Live in claude.ai |
+| 10 | 10 | 2 | Agent 51 — Roadmap & Release Briefing | `daxko-release-briefing` | Turns release notes you paste into a short internal briefing: what changed and what we may say. | "brief the sales team on this release" | v1.7.24 | Live in claude.ai |
+| 11 | 11 | 2 | Agent 50 — Product Insights & Feedback | `daxko-feedback-insights` | Finds the main themes in customer feedback you paste. | "make sense of these NPS comments" | v1.7.25 | Live in claude.ai |
+| 12 | 12 | 2 | Agent 63 — Non-Profit Campaign & Content Strategist | `daxko-campaign-brief` (shared) | Plans a campaign and writes the brief for YMCAs, JCCs and Boys & Girls Clubs. | "plan a Q1 campaign for mid-size YMCAs" | v1.7.27 | Live in claude.ai |
+| 13 | 12 | 2 | Agent 64 — Club Campaign & Content Strategist | `daxko-campaign-brief` (shared) | Same job for health clubs. | "campaign brief for clubs leaving ABC Fitness" | v1.7.27 | Live in claude.ai |
+| 14 | 12 | 2 | Agent 65 — Boutique Campaign & Content Strategist | `daxko-campaign-brief` (shared) | Same job for martial arts and functional fitness. | "messaging for a BJJ studio switcher campaign" | v1.7.27 | Live in claude.ai |
+| 15 | 13 | 2 | Agent 20 — Battlecard & Objection Handling | `daxko-battlecards` | Makes internal battle cards against a competitor, and ready answers when a buyer pushes back. | "battle card for Amilia" | v1.7.28 | Live in claude.ai |
+| 16 | 14 | 2 | Agent 21 — Sales Enablement | `daxko-sales-kit` | Drafts sales materials: one-pager, deck outline, discovery questions, demo script, buyer cheat card. | "one-pager for YMCA directors" | v1.7.29 | Live in claude.ai |
+| 17 | 15 | 2 | Agent 10 — Content Strategy | `daxko-content-planner` | Plans what content to make: content calendar, topic ideas, what is missing. | "content plan for Q1 for BGCs" | v1.7.30 | Live in claude.ai |
+| 18 | 16 | 2 | Agent 15 — Email & Nurture | `daxko-email-nurture` | Writes or fixes an email-only series: nurture, welcome, re-engagement, win-back. | "nurture sequence for JCC leads" | v1.7.31 | Live in claude.ai |
+
+16 skills, 18 agents.
+
+More agents are added over time, one tested agent at a time. This table is updated with every release.
 
 ---
 
