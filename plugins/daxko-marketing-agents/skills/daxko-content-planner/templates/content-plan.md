@@ -1,6 +1,6 @@
 # TEMPLATE — Content plan (A) · Topic ideas (B) · Gap check (C) · Ranking with pasted numbers (D)
 
-> Never quote a fact from `examples/`. Timing is a placeholder unless the person gave dates. "Not on file" is valid only after you checked. SKILL VERSION: 1.7.30
+> Never quote a fact from `examples/`. Timing is a placeholder unless the person gave dates. "Not on file" is valid only after you checked. SKILL VERSION: 1.7.31
 
 ## SCOPE
 Market · segment · period · shape(s) · assumptions · what was pasted
@@ -24,4 +24,4 @@ Market · segment · period · shape(s) · assumptions · what was pasted
 No numbers pasted → say what to paste: page or query, period, clicks, impressions, conversions.
 
 ## PROOF GAPS & HONEST NOTES · DECLINED · NOT ON FILE · KEY RESULT · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER. SOURCES end with `SKILL VERSION: 1.7.30` and "No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."
+As in `SKILL.md` → HOW TO ANSWER. SOURCES end with `SKILL VERSION: 1.7.31` and "No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."

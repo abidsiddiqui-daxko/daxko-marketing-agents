@@ -9,7 +9,7 @@ description: Writes internal battle cards and gives objection answers for Daxko 
 
 Always write agents as number and name together — "Agent 3 — Market Intelligence & Competitive", never "Agent 3" alone.
 
-> **SKILL VERSION: 1.7.30** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.31** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A price, feature, win rate, customer or quote that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -110,7 +110,7 @@ If the market or competitor is missing or ambiguous (e.g. "Mindbody" — Club or
 5. **NOT ON FILE** — every gap the request touched (prices, win rates, quotes, a missing competitor, who signs off).
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md` **only when the request names or needs a Key Result**; otherwise omit this line.
 7. **NEXT STEP** — exactly one offer (e.g. a campaign brief → `daxko-campaign-brief`; proof → Agent 67 — Customer Proof & Advocacy).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; **last reviewed** = the oldest `as_of` of the competitor files used; `SKILL VERSION: 1.7.30`; *"No web search or connector was used. Nothing was sent and no file was changed."* Add the freshness line: competitor profiles were last enriched April–May 2026 per the file change logs.
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; **last reviewed** = the oldest `as_of` of the competitor files used; `SKILL VERSION: 1.7.31`; *"No web search or connector was used. Nothing was sent and no file was changed."* Add the freshness line: competitor profiles were last enriched April–May 2026 per the file change logs.
 
 Shape B keeps it short: the five lines first, then only the parts of the tail that apply (always DECLINED if anything was declined, NOT ON FILE, SOURCES).
 
@@ -127,6 +127,7 @@ Shape B keeps it short: the five lines first, then only the parts of the tail th
 | New customer proof, testimonials, case-study asks | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`) |
 | Customer-facing copy, emails, posts, ads | Agent 13 — Content Production (`daxko-content-production`) for a set; one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A market campaign brief | `daxko-campaign-brief` |
+| A multi-touch follow-up sequence (emails, calls, voicemail, LinkedIn, Gong Engage) | `gong-sequence-builder` (the owner's own skill — name it and stop) |
 | Brand check before anything goes out | Agent 9 — Brand Guardian (`daxko-brand-guardian`) |
 | Buyer profiles and value props in general | Agent 5 — ICP & Value Prop (`daxko-icp-value-prop`) |
 | Editing a knowledge file, sending, scheduling, logging a deal | A human — Abid Siddiqui owns the files; you only read |
