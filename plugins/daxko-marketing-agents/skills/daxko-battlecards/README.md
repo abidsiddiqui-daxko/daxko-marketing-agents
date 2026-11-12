@@ -1,6 +1,6 @@
 # Agent 20 — Battlecard & Objection Handling — teammate guide
 
-**Skill:** `daxko-battlecards` · **Owner:** Abid Siddiqui · **Version:** 1.7.34 · INTERNAL tool for sales reps
+**Skill:** `daxko-battlecards` · **Owner:** Abid Siddiqui · **Version:** 1.7.35 · INTERNAL tool for sales reps
 
 ## What it does
 Gives you a battle card for one competitor in one market, or a short, call-ready answer to an objection, using only Daxko's own competitive files. It shows where we lose as well as where we win. It marks anything it can't find as "not on file".

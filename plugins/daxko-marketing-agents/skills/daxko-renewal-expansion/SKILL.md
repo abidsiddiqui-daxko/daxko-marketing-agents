@@ -9,7 +9,7 @@ description: Plans renewal and expansion for one existing Daxko customer, from D
 
 Always write agents as number and name together — "Agent 67 — Customer Proof & Advocacy", never "Agent 67" alone.
 
-> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A usage figure, health score, renewal date, contract value, price, discount, customer result, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -102,7 +102,7 @@ One account per answer. If the person names no account and no segment, ask one s
 6. **NOT ON FILE** — every gap the request touched (usage, renewal terms, prices, who approves a discount, who signs off, the delivery status of any roadmap item mentioned, anything else).
 7. **KEY RESULT** — for shapes A and B always; quote the row verbatim from `okrs-and-priorities.md` (e.g. the Expansion pipeline coverage row, the market's GRR row, the Engage bookings or Cash Discounting row, the V1 → V2 row).
 8. **NEXT STEP** — exactly one offer.
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.34`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
 
 ---
 

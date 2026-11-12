@@ -1,0 +1,14 @@
+> Snapshot of the writable corrections master `learnings/agent-12-blog-writer.md` taken 2026-11-13. Fallback only.
+
+# Corrections — Agent 12 — Blog & Article
+
+> Writable master. APPEND-ONLY. Format: `- [YYYY-MM-DD] [CORRECTION|PREFERENCE|PATTERN|WIN] What was wrong and what is right — who said so`
+
+- [2026-11-13] [PREFERENCE] Daxko's own blog guideline files are adopted as sources — the newest version of each: SEO Content Guidelines for Evergreen & Longtail Blogs, and the Nonprofit, Club Automation and Zen Planner Blog Optimization Frameworks (now `knowledge-base/blog-*.md`, wording verbatim). Daxko's core brand, banned-words, segment-language, product and roadmap files win on any conflict (answered "Yes, 4 guideline files") — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Agent 12 — Blog & Article also refreshes an old blog post someone pastes: keeps the structure, fixes facts and rule breaks, lists every change with its rule; the brand verdict stays with Agent 9 — Brand Guardian (answered "Yes") — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Conflicts inside the blog files, resolved by default (core files win): Zen Planner framework "Daxko Engage AI" → Zen Planner Engage AI; CrossFit is Exercise.com, not Zen Planner; only on-file URLs, others as `[link: …]`; no year in a title unless the person gives it; focus keyword 2–3 times, never more than 3 (the NP framework's "4–7 times" loses to its own "2-3 times" line and the SEO guidelines' "max 3") — Abid Siddiqui (default under the Q1 answer)
+- [2026-11-13] [PREFERENCE] Drafts only — never published, scheduled or loaded into WordPress or any CMS; one market and one segment per post; keyword numbers only when pasted (or the Club keyword table inside the adopted Club Automation framework, as of 2026-02-19); author byline and sign-off are not on file — write "confirm the byline" / "confirm who signs off", name no one (defaults) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or replaced; this skill only redirects multi-touch sequences to it — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] No exact prices, discounts or free trials in a post (Pricing Framework beats the Zen Planner $99 and Engage AI $199 lines) — ruled for Agent 21 on 2026-11-11; applies here — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Owner defaults ("I don't know" → defaults): Daxko Engage is not offered to Boutique; in Nonprofit prospect copy the ban on "conversion rate" language beats Engage Pro's "+391% lead conversion"; the blog draft uses Daxko's "we" voice (`brand-guidelines.md`), the skill's own notes use "I" — Abid Siddiqui
+- [2026-11-10] [PREFERENCE] "Lead with mission impact" in nonprofit-playbook.md conflicts with its Never list and banned-words.md: the ban wins, never write "impact" in Nonprofit content — Abid Siddiqui

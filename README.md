@@ -18,7 +18,7 @@ skill name that Claude uses to pick it (`daxko-email-nurture`). Skill names can 
 numbers and hyphens, so the two never look the same. Use this table to match them.
 
 **How to read this table:** one row per agent. *Skill #* counts the skills — Agents 63, 64 and 65 share
-skill #12, which is why there are 20 rows but only 18 skills. *Ask it like this* is copied from the
+skill #12, which is why there are 21 rows but only 19 skills. *Ask it like this* is copied from the
 skill's own description. *First published* is checked against the plugin repo's git history.
 *Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* skills are live.
 
@@ -44,8 +44,9 @@ skill's own description. *First published* is checked against the plugin repo's 
 | 18 | 16 | 2 | Agent 15 — Email & Nurture | `daxko-email-nurture` | Writes or fixes an email-only series: nurture, welcome, re-engagement, win-back. | "nurture sequence for JCC leads" | v1.7.31 | Live in claude.ai |
 | 19 | 17 | 2 | Agent 49 — Renewal & Expansion | `daxko-renewal-expansion` | For one existing customer: which Daxko add-on fits next and why, and how to prepare the renewal talk. | "expansion plan for this YMCA" | v1.7.32 | Live in claude.ai |
 | 20 | 18 | 2 | Agent 57 — Sales Coaching | `daxko-sales-coaching` | Coaches a sales rep on one new-business call: plays a practice buyer, preps a call, or reviews a call you paste — what worked, what missed, what to say instead. | "practise a discovery call with me as a YMCA CFO" | v1.7.33 | Live in claude.ai |
+| 21 | 19 | 2 (added) | Agent 12 — Blog & Article | `daxko-blog-writer` | Writes one search-optimized blog post for one market and segment from Daxko's files and blog guidelines — titles, meta description, the post with FAQs and a demo call to action — or an outline first, or a corrected version of an old post you paste. | "write a blog post for mid-size YMCAs about keeping members after January" | v1.7.35 | Live in claude.ai |
 
-18 skills, 20 agents.
+19 skills, 21 agents.
 
 More agents are added over time, one tested agent at a time. This table is updated with every release.
 

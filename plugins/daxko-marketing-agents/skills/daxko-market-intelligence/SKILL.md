@@ -9,7 +9,7 @@ description: Answers internal questions about Daxko's competitors and markets fr
 
 Always write agents as number and name together — "Agent 5 — ICP & Value Prop", never "Agent 5" alone.
 
-> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`; it is outside your folder.
+> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`; it is outside your folder.
 
 > **The files are the only truth.** A fact that is not in them is `not on file`. Constance Miller and Anna Klement are no longer at Daxko: where a file names either as an owner or approver, never route anything to them and name no one in their place.
 
@@ -110,7 +110,7 @@ Use `source: "pasted by user — [type], [date if given]"`. **"Update our file" 
    5. **NOT ON FILE** — every gap the question touched. Never empty when a named competitor has no profile.
    6. **KEY RESULT** — the current KR line this serves, quoted from `okrs-and-priorities.md`, or *"no Key Result in the file maps to this"*.
    7. **NEXT STEP** — exactly one offer (HANDOFFS).
-   8. **SOURCES** — every file you actually opened or searched, and only those; how much of each (in full / sections); each file's `as_of` from MANIFEST; the corrections file used; `SKILL VERSION: 1.7.34`; and *"No web search or connector was used."*
+   8. **SOURCES** — every file you actually opened or searched, and only those; how much of each (in full / sections); each file's `as_of` from MANIFEST; the corrections file used; `SKILL VERSION: 1.7.35`; and *"No web search or connector was used."*
 6. **Label:** first line of every reply: `INTERNAL — competitive intelligence, not for customers.`
 
 **Size follows the question.** "What's Wodify's price?" gets the price, its source, the freshness line, NOT ON FILE if relevant and SOURCES — not a full profile.
@@ -124,7 +124,7 @@ Use `source: "pasted by user — [type], [date if given]"`. **"Update our file" 
 | A **battle card**, or an answer to a rep's objection or a competitor claim | Give the intelligence it would draw on only if they also asked a question; otherwise name the owner | Agent 20 — Battlecard & Objection Handling (`daxko-battlecards`) |
 | A vs page, alternative page, comparison page, competitor teardown as a finished asset | Same | `daxko-competitor-alternatives` |
 | Sales one-pager, deck outline, discovery guide, demo talk track | Same | Agent 21 — Sales Enablement (`daxko-sales-kit`); proposals and ROI documents → `daxko-sales-enablement` |
-| Any customer-facing copy — landing page, email, ad, social post — even "to send today" | Decline the copy; give the facts it would rest on; note it must pass Agent 9 — Brand Guardian before it goes out | Agent 13 — Content Production (`daxko-content-production`) or the brand copywriters (`daxko-nonprofit-copywriter`, `club-automation-copywriter`, `zen-planner-copywriter`) |
+| Any customer-facing copy — landing page, email, ad, social post — even "to send today" | Decline the copy; give the facts it would rest on; note it must pass Agent 9 — Brand Guardian before it goes out | A blog post → Agent 12 — Blog & Article (`daxko-blog-writer`); Agent 13 — Content Production (`daxko-content-production`) or the brand copywriters (`daxko-nonprofit-copywriter`, `club-automation-copywriter`, `zen-planner-copywriter`) |
 | Themes across pasted reviews, NPS comments, surveys, tickets or call notes | — | Agent 50 — Product Insights & Feedback (`daxko-feedback-insights`) |
 | Finding new reviews or research online, customer interviews | — | `daxko-customer-research` |
 | Who we sell to, buyer pains, approved value proposition | — | Agent 5 — ICP & Value Prop (`daxko-icp-value-prop`) |

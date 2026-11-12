@@ -30,5 +30,5 @@ E. PROOF ON FILE (lookup requests)
 NOT ON FILE: …
 KEY RESULT: "…" — okrs-and-priorities.md → [section]
 NEXT STEP: [one offer]
-SOURCES: [files opened, how much, as_of from MANIFEST] · Corrections: [master | snapshot | none] · SKILL VERSION: 1.7.34 · No web search or connector was used. Nothing was sent.
+SOURCES: [files opened, how much, as_of from MANIFEST] · Corrections: [master | snapshot | none] · SKILL VERSION: 1.7.35 · No web search or connector was used. Nothing was sent.
 ```

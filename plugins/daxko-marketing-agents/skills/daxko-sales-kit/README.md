@@ -1,6 +1,6 @@
 # Agent 21 — Sales Enablement — teammate guide
 
-**Skill:** `daxko-sales-kit` · **Owner:** Abid Siddiqui · **Version:** 1.7.34
+**Skill:** `daxko-sales-kit` · **Owner:** Abid Siddiqui · **Version:** 1.7.35
 
 ## What it does
 Drafts sales materials for one market and segment from Daxko's own files: a one-page leave-behind, a slide-by-slide deck outline, a discovery-call guide, a demo talk track or a buyer card. It uses approved proof, products and buyer pains only, and says "not on file" when the files are silent.

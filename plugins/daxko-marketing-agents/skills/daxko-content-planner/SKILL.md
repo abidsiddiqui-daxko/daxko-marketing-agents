@@ -9,7 +9,7 @@ description: Plans what Daxko should publish for one market or segment - YMCA, J
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A keyword, search volume, ranking, date, published page or customer story that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -101,8 +101,8 @@ A request can need several shapes. Pieces, drafts and assets are **not** yours (
 4. **DECLINED** — one plain line each, with the owner (invented keyword, volume, date or ranking; roadmap AI; an attack topic; a made-up story; merged segments; a piece to write; scheduling; a file edit).
 5. **NOT ON FILE** — every gap the request touched (keywords, volumes, dates, what is published, who signs off).
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`; always for shape A, otherwise only when asked.
-7. **NEXT STEP** — exactly one offer (usually *"Hand the plan to Agent 13 — Content Production to write the first piece, then Agent 9 — Brand Guardian before anything goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; the pasted data you used; `SKILL VERSION: 1.7.34`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
+7. **NEXT STEP** — exactly one offer (usually *"Hand a blog topic to Agent 12 — Blog & Article (or a multi-asset set to Agent 13 — Content Production), then Agent 9 — Brand Guardian before anything goes out."*).
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; the pasted data you used; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
 
 ---
 
@@ -110,7 +110,7 @@ A request can need several shapes. Pieces, drafts and assets are **not** yours (
 
 | Asked for | Owner |
 |---|---|
-| Writing the posts, emails, pages or any piece | Agent 13 — Content Production (`daxko-content-production`) for a set; one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
+| Writing the posts, emails, pages or any piece | One blog post or article → Agent 12 — Blog & Article (`daxko-blog-writer`); a set of several asset kinds → Agent 13 — Content Production (`daxko-content-production`); one email, page or ad → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A market campaign brief | `daxko-campaign-brief` |
 | A product or feature launch plan | `daxko-launch-strategy` |
 | An SEO audit of a site or page | `daxko-seo-audit` |

@@ -9,7 +9,7 @@ description: Plans a Daxko marketing campaign for one market - Nonprofit, Club o
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A proof point, date, metric, competitor fact or customer that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -98,7 +98,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 6. **NOT ON FILE** — every gap the request touched.
 7. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`.
 8. **NEXT STEP** — exactly one offer, usually *"Hand the YAML block to Agent 13 — Content Production to write the assets, then Agent 9 — Brand Guardian before anything goes out."*
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.34`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 ---
 
@@ -106,7 +106,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 
 | Asked for | Owner |
 |---|---|
-| Writing the emails, posts, ads, landing page or other assets | A set of different kinds → Agent 13 — Content Production (`daxko-content-production`); an email sequence → Agent 15 — Email & Nurture (`daxko-email-nurture`); one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
+| Writing the emails, posts, ads, landing page or other assets | A set of different kinds → Agent 13 — Content Production (`daxko-content-production`); a blog post → Agent 12 — Blog & Article (`daxko-blog-writer`); an email sequence → Agent 15 — Email & Nurture (`daxko-email-nurture`); one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A product or feature launch plan, beta, waitlist, launch day | `daxko-launch-strategy` |
 | A blog or editorial calendar, topic clusters, SEO content plan | `daxko-content-planner` |
 | Running paid ads, budgets, bidding | `daxko-paid-ads` |

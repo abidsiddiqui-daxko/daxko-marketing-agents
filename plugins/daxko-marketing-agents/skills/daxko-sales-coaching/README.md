@@ -1,6 +1,6 @@
 # Agent 57 — Sales Coaching — teammate guide
 
-**Skill:** `daxko-sales-coaching` · **Owner:** Abid Siddiqui · **Version:** 1.7.34
+**Skill:** `daxko-sales-coaching` · **Owner:** Abid Siddiqui · **Version:** 1.7.35
 
 ## What it does
 Coaches **one sales rep on one new-business call at a time**, from Daxko's own files. It can play a practice buyer, help you get ready for one call, or review one call you paste — and tells you what worked, what missed, and the approved line to use instead, with the file it comes from.

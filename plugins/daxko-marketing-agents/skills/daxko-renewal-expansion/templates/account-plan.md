@@ -1,6 +1,6 @@
 # TEMPLATE — Expansion plan (A) · Renewal prep (B) · Segment expansion map (C)
 
-> Never quote a fact from `examples/`. Account facts only "as pasted". At most 3 products, ranked. No prices, discounts or terms. Roadmap AI never offered. SKILL VERSION: 1.7.34
+> Never quote a fact from `examples/`. Account facts only "as pasted". At most 3 products, ranked. No prices, discounts or terms. Roadmap AI never offered. SKILL VERSION: 1.7.35
 
 ## SCOPE
 Shape · market · segment · the account (organization only — no personal names) · what was pasted · assumptions
@@ -32,4 +32,4 @@ Not offered in this segment: … and why
 | (deal economics, risk, competitor fact, KR — internal only) | (customer-safe wording from the files; never roadmap, price or a competitor attack) |
 
 ## INTERNAL NOTES · DECLINED · NOT ON FILE · KEY RESULT · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER. KEY RESULT quoted verbatim for A and B. Multi-touch account-manager sequences → `gong-sequence-builder`. SOURCES end with `SKILL VERSION: 1.7.34` and "No web search or connector was used. Nothing was sent, logged or updated and no file was changed."
+As in `SKILL.md` → HOW TO ANSWER. KEY RESULT quoted verbatim for A and B. Multi-touch account-manager sequences → `gong-sequence-builder`. SOURCES end with `SKILL VERSION: 1.7.35` and "No web search or connector was used. Nothing was sent, logged or updated and no file was changed."
