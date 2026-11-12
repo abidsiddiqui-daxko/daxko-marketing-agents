@@ -1,6 +1,6 @@
 # Agent 10 — Content Strategy — teammate guide
 
-**Skill:** `daxko-content-planner` · **Owner:** Abid Siddiqui · **Version:** 1.7.30
+**Skill:** `daxko-content-planner` · **Owner:** Abid Siddiqui · **Version:** 1.7.34
 
 ## What it does
 Plans what to publish for one market or segment from Daxko's own files: a content plan or editorial calendar, a list of topic ideas, a gap check against content you paste, or a ranking of topics using numbers you paste. Every topic shows where it came from. It says "not on file" when the files are silent.

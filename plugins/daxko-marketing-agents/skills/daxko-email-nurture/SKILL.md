@@ -9,7 +9,7 @@ description: Drafts an email-only sequence for Daxko's own prospects and custome
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.7.33** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** An open rate, benchmark, cadence rule, price, customer, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -40,7 +40,7 @@ Everything is bundled here; nothing is fetched from the web, an email platform, 
 | **Nonprofit (all)** | `references/nonprofit-playbook.md` — `## Segment Intelligence` · `## Segment-Specific Messaging` · `## AI Positioning for NP` (`### NP-Specific AI Capabilities to Reference (Approved 2026)`, `### Verbatim AI Objection Responses`) · `## Operational Guidelines (from NP-05 — mandatory)` · `## Campaign Strategy Guardrails` · `references/segment-language-guide.md` · `references/nonprofit-learnings.md` |
 | YMCA | `master-icps.md` → `### YMCA` · `references/nonprofit-ymca-playbook.md` — `## YMCA-Specific ICP Notes` · `## Marketing Motions` · `## Proven Campaign Themes` · `## Case Studies Available` · `## Messaging Do's and Don'ts (YMCA-Specific)` |
 | JCC | `master-icps.md` → `### JCC (Jewish Community Centers)` · `references/nonprofit-jcc-playbook.md` — `## Perception Challenge` · `## Key Pain Points (JCC-Specific)` · `## Marketing Motions` · `## Proven Campaign Themes` · `## Case Studies Available` · `## Messaging Do's and Don'ts (JCC-Specific)` · `## Words to Use` |
-| BGC | `master-icps.md` → `### Boys & Girls Clubs (BGC)` · `references/nonprofit-bgc-playbook.md` — `## BGC-Specific ICP Notes` · `## Objection Handling` · `## Marketing Motions` · `## Proven Campaign Themes` · `## Case Studies Available` · `## Messaging Do's and Don'ts (BGC-Specific)` · `## Words to Use` |
+| BGC | `master-icps.md` → `### Boys & Girls Clubs (BGC)` · `references/nonprofit-bgc-playbook.md` — `## BGC-Specific ICP Notes` · `## Objection Handling` · `## Marketing Motions` · `## Proven Campaign Themes` · `## Case Studies Available` · `### Concrete Proof Points (Use in BGC-Facing Copy)` · `## Messaging Do's and Don'ts (BGC-Specific)` · `## Words to Use` |
 | Community centers | `master-icps.md` → `### Community Centers` · `nonprofit-playbook.md` → `### Community Centers` |
 | **Club** | `master-icps.md` → `### Segment 1 — Single-Location Health Club / Gym` · `### Segment 2 — Multi-Location Fitness Operator` · `### Segment 3 — Medical Fitness & Specialty Wellness` · `### Club Buying Committee — Quick Reference` · `references/club-playbook.md` — `## Segment Intelligence` · `## Buyer Persona Messaging` · `## Key Metrics Clubs Care About` · `## AI Positioning for Club` · `## Campaign Strategy Guardrails` · `references/club-sss-revenue-model.md` — `## Payments Positioning` · `## Engage Pro — Lead Management and Conversion` · `## V1 to V2 Upgrade Path` · `references/club-learnings.md` |
 | **Boutique (all)** | `references/boutique-playbook.md` — `## Segment Intelligence` · `## Boutique AI Use Case Framework (from BO-03)` · `## Zen Planner Positioning` · `## Segment-Specific Messaging` · `## Campaign Strategy Guardrails` · `references/boutique-learnings.md` |
@@ -78,7 +78,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 1. **Customer copy is separate.** Email text a prospect or customer will read goes under **DRAFT COPY — needs Agent 9 — Brand Guardian before it goes out**; sources, gaps and notes go under **INTERNAL NOTES**. Never put an internal note, competitor weakness or roadmap item in the draft copy.
 2. **Files and pasted numbers only.** No open rate, click rate, benchmark, send-time rule, price, customer, quote or feature unless a bundled file holds it, or the person pasted it (then quote it back as theirs, with its period). Missing = "not on file".
 3. **One job per email, one call to action.** Say each email's job in a line. The call to action is a demo, a conversation or a resource the files name — *"contact sales for a quote"*, never an exact price. No urgency tactics in Nonprofit emails ("last chance", countdowns).
-4. **Approved proof only, with use rules; another segment's customer is never proof.** "[Pending …]" or "[Pending upload]" = none on file → Agent 67 — Customer Proof & Advocacy. Rochester JCC / Siegel JCC: migration fact only. A community center is not a YMCA or JCC; CrossFit is not martial arts. No invented customer, quote or result.
+4. **Approved proof only, with use rules; another segment's customer is never proof.** "[Pending …]" or "[Pending upload]" = no case study on file — but "no case study" is not "no proof": check every proof section for the segment (e.g. BGC `### Concrete Proof Points (Use in BGC-Facing Copy)`, `## Proof Points by Market`) before saying none; new proof → Agent 67 — Customer Proof & Advocacy. Rochester JCC / Siegel JCC: migration fact only. A community center is not a YMCA or JCC; CrossFit is not martial arts. No invented customer, quote or result.
 5. **Roadmap is never available.** AI Agents, Member Intelligence 360°, Unified Comms Center ("delivery starting Q3 2026" — status **not confirmed**); Dynamic Segmentation, **Smart Sending Engine**, Intelligent Scoring ("Early 2027"). Not in any email — **not even softened** ("coming", "on the way", a date). Roadmap items are confidential. Delivered AI only (Daxko Engage Pro AI, Daxko Digital Marketing Services AI, Zen Planner Engage AI); "Humans + AI", never replacing people.
 6. **Voice by market.** Email campaigns tone: direct, helpful, action-oriented (`## Tone by Content Type`); by market per `### Voice rules by market` — Nonprofit measured and mission-aligned, Club energetic and ROI-focused, Boutique warm and community-focused. Every line checked against `banned-words.md`; Nonprofit never "impact" or "gym" (owner ruling 2026-11-10: the ban beats "Lead with mission impact" — write mission outcomes); "branch" and "association" are YMCA-only (`segment-language-guide.md`). **No Zen Planner free trial**; offer a demo path.
 7. **Segments and markets apart.** One sequence per segment (YMCA ≠ JCC ≠ BGC ≠ community center; martial arts ≠ CrossFit ≠ personal trainer); Nonprofit, Club and Boutique never share a sequence. Product routing: martial arts → Zen Planner · CrossFit / HIIT / functional fitness → Exercise.com · clubs → Club Automation · nonprofit → Daxko Operations / Daxko Engage. Full names; ClassPass is a partner.
@@ -102,7 +102,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 5. **NOT ON FILE** — every gap the request touched (benchmarks, cadence, send times, stage definitions, who signs off).
 6. **KEY RESULT** — only when the request names or needs one, quoted verbatim.
 7. **NEXT STEP** — exactly one offer (usually *"Run the draft copy through Agent 9 — Brand Guardian before it goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.7.33`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.7.34`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
 
 ---
 
@@ -114,7 +114,8 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 | A campaign across channels (emails + page + social from one message) | Agent 13 — Content Production (`daxko-content-production`) |
 | One email on its own | `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | Cancel flows, save offers, dunning or failed-payment strategy | `daxko-churn-prevention` |
-| Event promotion emails | `daxko-event-comms` (Field Marketing) |
+| An offer, trial, discount or price to put in an email | Sales — *"contact sales for a quote"*; pricing or packaging decisions → `daxko-pricing-strategy`. Not on file = not in the email |
+| Event promotion emails | Field Marketing's `daxko-event-comms` skill — not installed for most teammates; if it is not available, say so and stop |
 | A referral programme | `daxko-referral-program` |
 | What to gate, a lead magnet | `daxko-lead-magnets` |
 | A market campaign brief | `daxko-campaign-brief` |

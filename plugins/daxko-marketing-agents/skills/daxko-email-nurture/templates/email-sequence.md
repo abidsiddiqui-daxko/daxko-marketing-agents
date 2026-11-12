@@ -1,6 +1,6 @@
 # TEMPLATE — Email sequence (A) · Review and fix (B) · Sequence map only (C)
 
-> Never quote a fact from `examples/`. Timing is a placeholder. Customer-readable text only under DRAFT COPY. The email count is the person's; if you suggest one, label it *suggested, not Daxko-approved*. SKILL VERSION: 1.7.33
+> Never quote a fact from `examples/`. Timing is a placeholder. Customer-readable text only under DRAFT COPY. The email count is the person's; if you suggest one, label it *suggested, not Daxko-approved*. SKILL VERSION: 1.7.34
 
 ## SCOPE
 Market · segment · sequence type · who it is for · number of emails (given / suggested) · what was pasted · assumptions
@@ -30,4 +30,4 @@ Then the corrected sequence under DRAFT COPY, and a short "what changed".
 Section A without DRAFT COPY.
 
 ## DECLINED · NOT ON FILE · KEY RESULT (only if asked) · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER. Calls, voicemail, LinkedIn or Gong steps → `gong-sequence-builder`. SOURCES end with `SKILL VERSION: 1.7.33` and "No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."
+As in `SKILL.md` → HOW TO ANSWER. Calls, voicemail, LinkedIn or Gong steps → `gong-sequence-builder`. SOURCES end with `SKILL VERSION: 1.7.34` and "No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."

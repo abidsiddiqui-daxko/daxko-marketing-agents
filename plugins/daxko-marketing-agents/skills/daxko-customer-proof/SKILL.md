@@ -9,7 +9,7 @@ description: Plans and drafts Daxko customer advocacy asks and says which custom
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.33** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A proof point, quote or number that is not in them does not exist for you. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file lists them as a contact, and name no one in their place.
 
@@ -35,7 +35,7 @@ Everything is bundled here; nothing is fetched from the web, a CRM, a drive or a
 
 | Market | Files | What they add |
 |---|---|---|
-| Nonprofit | `references/nonprofit-playbook.md` · `references/nonprofit-learnings.md` · the named segment: `references/nonprofit-ymca-playbook.md` · `references/nonprofit-jcc-playbook.md` · `references/nonprofit-bgc-playbook.md` · `references/segment-language-guide.md` | `## Case Studies Available` per segment (approval status, use rules), peer-proof motions, segment words |
+| Nonprofit | `references/nonprofit-playbook.md` · `references/nonprofit-learnings.md` · the named segment: `references/nonprofit-ymca-playbook.md` · `references/nonprofit-jcc-playbook.md` · `references/nonprofit-bgc-playbook.md` · `references/segment-language-guide.md` | `## Case Studies Available` per segment (approval status, use rules) · BGC `### Concrete Proof Points (Use in BGC-Facing Copy)` · `### AI Foundation Proof Points (Use in Prospect-Facing Copy)` · peer-proof motions, segment words |
 | Club | `references/club-playbook.md` (`### Key Proof Points`) · `references/club-sss-revenue-model.md` (`## Proof Points — Customer Results`) · `references/club-learnings.md` | Club results, Engage Pro figures |
 | Boutique | `references/boutique-playbook.md` · `references/boutique-martial-arts-playbook.md` · `references/boutique-functional-fitness.md` (`## Proof Points`) · `references/boutique-learnings.md` | CrossFit 1926, Campaign Marketplace, product routing |
 | Whom to ask | `references/master-icps.md` — the segment's buying committee | Ask by **role**, never by a name you were not given |
@@ -75,6 +75,7 @@ A request can need several shapes. The finished case study, story page, landing 
    - The playbooks say: "All case studies require written approval from the referenced organization." Brand guidelines: never "publish customer stories without written approval"; "only use approved pull quotes".
    - **Rochester JCC and Siegel JCC** are approved only as Amilia → Daxko **migration** proof: "use the fact of the migration; do NOT fabricate metrics, quotes, or operational outcomes without separate written approval".
    - A segment whose case-study table reads `[Pending upload]` (YMCA, BGC today) has **no case study on file** — say so; never borrow another segment's customer to fill it (a community center is not a YMCA).
+   - **"No case study" is not "no proof".** Before saying a segment has no proof, check every proof section for it: `## Case Studies Available`, Boys & Girls Clubs `### Concrete Proof Points (Use in BGC-Facing Copy)`, `nonprofit-playbook.md` → `### AI Foundation Proof Points (Use in Prospect-Facing Copy)` and `product-knowledge.md` → `## Proof Points by Market`. Only when all are empty or "[Pending …]" is there no proof on file.
 4. **A pasted comment is not an approved quote.** An NPS comment, email line or review the person pastes is *unverified and unapproved*: it may guide the ask, never appear in public copy until the customer approves it in writing.
 5. **Bad moments — recommend waiting.** If the request mentions an open support ticket, billing dispute, complaint, outage, migration or go-live still in progress, or a low score, say *wait*, give the reason, and suggest what would make it a good moment. Never draft an ask to an unhappy customer.
 6. **Reviews.** Never suggest a gift, discount or any incentive for a public review (no policy on file — owner default). Never write the review text for the customer; the ask only invites an honest review.
@@ -90,12 +91,12 @@ A request can need several shapes. The finished case study, story page, landing 
 
 1. **SCOPE** — customers, market / segment, product, moment, shapes.
 2. **PER CUSTOMER** — the shapes asked for (A–E), each proof line with its source.
-3. **DECLINED** — anything refused (invented quote, incentive, finished case study) in one plain line each, with the owner skill where there is one.
+3. **DECLINED** — anything refused (invented quote, incentive, finished case study, a sequence) in one plain line each, always naming the owner from BOUNDARY.
 4. **APPROVAL CHECKLIST** — shape D, always.
 5. **NOT ON FILE** — every gap the request touched.
 6. **KEY RESULT** — the current KR line this serves, quoted from `okrs-and-priorities.md`, or "no Key Result in the file maps to this".
 7. **NEXT STEP** — exactly one offer; for a drafted ask, usually *"Run the draft past Agent 9 — Brand Guardian before it goes out."*
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.33`; *"No web search or connector was used. Nothing was sent."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.34`; *"No web search or connector was used. Nothing was sent."*
 
 Size follows the question: "what proof do we have for clubs?" gets shape E plus the closing lines, not a full package.
 
@@ -107,8 +108,10 @@ Size follows the question: "what proof do we have for clubs?" gets shape E plus 
 |---|---|
 | The finished case study, customer story, testimonial page or landing page | Market copywriter: `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` — give them the approved facts and the checklist |
 | A referral, refer-a-friend, ambassador or affiliate program | `daxko-referral-program` |
-| An automated multi-email advocacy flow | `daxko-email-sequence` |
-| Research interviews, churn interviews, voice of customer | `daxko-customer-research` |
+| An email-only advocacy or follow-up sequence | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
+| A multi-touch sequence — calls, voicemail, LinkedIn, Gong Engage steps | `gong-sequence-builder` (the owner's own skill — name it and stop; never build or imitate it) |
+| Themes across pasted feedback — NPS comments, reviews, tickets | Agent 50 — Product Insights & Feedback (`daxko-feedback-insights`) |
+| Research or churn interviews, finding new reviews online | `daxko-customer-research` |
 | Promoting a finished story across channels | Agent 13 — Content Production (`daxko-content-production`) |
 | Competitor questions | Agent 3 — Market Intelligence & Competitive (`daxko-market-intelligence`) |
 | Brand check before sending | Agent 9 — Brand Guardian (`daxko-brand-guardian`) |

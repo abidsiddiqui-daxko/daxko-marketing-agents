@@ -9,7 +9,7 @@ description: Plans renewal and expansion for one existing Daxko customer, from D
 
 Always write agents as number and name together — "Agent 67 — Customer Proof & Advocacy", never "Agent 67" alone.
 
-> **SKILL VERSION: 1.7.33** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.34** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A usage figure, health score, renewal date, contract value, price, discount, customer result, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -102,7 +102,7 @@ One account per answer. If the person names no account and no segment, ask one s
 6. **NOT ON FILE** — every gap the request touched (usage, renewal terms, prices, who approves a discount, who signs off, the delivery status of any roadmap item mentioned, anything else).
 7. **KEY RESULT** — for shapes A and B always; quote the row verbatim from `okrs-and-priorities.md` (e.g. the Expansion pipeline coverage row, the market's GRR row, the Engage bookings or Cash Discounting row, the V1 → V2 row).
 8. **NEXT STEP** — exactly one offer.
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.33`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.34`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
 
 ---
 
@@ -119,6 +119,9 @@ One account per answer. If the person names no account and no segment, ask one s
 | A full battle card or objection sheet | Agent 20 — Battlecard & Objection Handling (`daxko-battlecards`) |
 | A proposal or statement of work | `daxko-sales-enablement` (proposal template) — Agent 58 — Proposal Generator is not built yet |
 | Prices, packaging, a price increase | `daxko-pricing-strategy`; a quote → sales |
+| A health score, churn score or ranking of accounts | Declined — no scoring model is on file; say so (no owner is named on file) |
+| A product not offered in this market (e.g. Analytics as a Service for Boutique) | Declined with the file line; product questions → Daxko's product team (the Club product team for Club) |
+| Practising or reviewing a renewal call with a rep | Not covered yet — Agent 57 — Sales Coaching covers new-business calls only (owner, 2026-11-12); this skill preps the renewal (shape B) |
 | Whether a roadmap item has shipped, or a delivery date for any feature | Daxko's product team — status is "not confirmed" on file; never promised here |
 | A V2 rollout date for a club, the V1 customer count, Club packaging questions | The Club product team (named in the files) — the date and the count are not on file |
 | In-app upgrade screens or upsell pop-ups | `daxko-paywall-upgrade-cro` |

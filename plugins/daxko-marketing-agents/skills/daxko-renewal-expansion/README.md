@@ -1,6 +1,6 @@
 # Agent 49 — Renewal & Expansion — teammate guide
 
-**Skill:** `daxko-renewal-expansion` · **Owner:** Abid Siddiqui · **Version:** 1.7.33
+**Skill:** `daxko-renewal-expansion` · **Owner:** Abid Siddiqui · **Version:** 1.7.34
 
 ## What it does
 Helps an account manager with **one existing Daxko customer**: which Daxko product or add-on fits next and why, and how to prepare the renewal conversation. It answers from Daxko's own files plus the notes you paste about that one account. It can also map which add-ons fit a whole segment.

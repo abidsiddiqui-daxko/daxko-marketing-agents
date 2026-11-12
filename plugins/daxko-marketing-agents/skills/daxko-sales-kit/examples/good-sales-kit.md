@@ -16,4 +16,4 @@ Pain [master-icps.md, segment section] · proof [file, use rule] · left out: [r
 
 **DECLINED:** [invented ROI → not on file]; [free trial → none exists]
 **NOT ON FILE:** [ROI figure] · [testimonial] · who signs off — confirm who signs off
-**SOURCES:** [files + sections, as_of dates] · SKILL VERSION: 1.7.33 · No web search or connector was used. Nothing was sent and no file was changed.
+**SOURCES:** [files + sections, as_of dates] · SKILL VERSION: 1.7.34 · No web search or connector was used. Nothing was sent and no file was changed.

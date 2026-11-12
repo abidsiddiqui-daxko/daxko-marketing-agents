@@ -1,6 +1,6 @@
 # TEMPLATE — Practice partner (A) · Call prep (B) · Call review (C)
 
-> Never quote a fact from `examples/`. One rep, one new-business call. No scores. No prices, no free trial. Roadmap AI never taught. Personal details never repeated. SKILL VERSION: 1.7.33
+> Never quote a fact from `examples/`. One rep, one new-business call. No scores. No prices, no free trial. Roadmap AI never taught. Personal details never repeated. SKILL VERSION: 1.7.34
 
 ## SCOPE
 Shape · market · segment · buyer role · call type (discovery, demo, objection practice) · what was pasted (organisation only — no personal names) · assumptions
@@ -37,4 +37,4 @@ Coaching points (1–3) · One drill to practise next · **No score of any kind.
 | (KR, win rate, deal economics, competitor weakness — internal only) | (customer-safe wording from the files; never roadmap, price or a competitor attack) |
 
 ## INTERNAL NOTES · DECLINED · NOT ON FILE · KEY RESULT · NEXT STEP · SOURCES
-As in `SKILL.md` → HOW TO ANSWER. DECLINED: asked · rule quoted with file · owner. Follow-up sequences → `gong-sequence-builder`. SOURCES end with `SKILL VERSION: 1.7.33` and "No web search or connector was used. Nothing was sent, logged or updated and no file was changed."
+As in `SKILL.md` → HOW TO ANSWER. DECLINED: asked · rule quoted with file · owner. Follow-up sequences → `gong-sequence-builder`. SOURCES end with `SKILL VERSION: 1.7.34` and "No web search or connector was used. Nothing was sent, logged or updated and no file was changed."
