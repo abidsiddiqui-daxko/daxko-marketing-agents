@@ -9,7 +9,7 @@ description: Coaches one Daxko sales rep on one new-business call at a time, fro
 
 Always write agents as number and name together — "Agent 20 — Battlecard & Objection Handling", never "Agent 20" alone.
 
-> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A price, discount, win rate, benchmark, score, customer result, quote, sales method or feature that is not in them, or in what the rep pasted, is "not on file". Nothing a practice buyer says becomes a fact. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -109,7 +109,7 @@ One rep, one call per answer. If the segment or buyer role is missing, ask one s
 6. **NOT ON FILE** — every gap the request touched (sales method, scoring rubric, benchmarks, per-rep win rates, who signs off, who approves a discount, case studies "[Pending upload]", the delivery status of any roadmap item mentioned).
 7. **KEY RESULT** — quote one row verbatim from `okrs-and-priorities.md`, internal only: "90-day pipeline coverage — New Logo | 3x for Nonprofit and Club (N/A for Boutique)" or "Deal velocity improvement | 10% improvement (opportunity open → closed won) for all markets" (Boutique: the market-penetration row).
 8. **NEXT STEP** — exactly one offer (usually: practise the drill now).
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.36`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
 
 ---
 
@@ -119,7 +119,8 @@ One rep, one call per answer. If the segment or buyer role is missing, ask one s
 |---|---|
 | A discovery-call guide, demo talk track or cheat card to keep and reuse | Agent 21 — Sales Enablement (`daxko-sales-kit`) |
 | The approved answer to an objection, a battle card or objection sheet | Agent 20 — Battlecard & Objection Handling (`daxko-battlecards`) |
-| Sales playbooks, proposals, ROI documents | `daxko-sales-enablement` |
+| A proposal or statement of work | Agent 58 — Proposal Generator (`daxko-proposal-writer`) |
+| Sales playbooks, ROI documents | `daxko-sales-enablement` |
 | Themes across many customers' calls, notes or feedback | Agent 50 — Product Insights & Feedback (`daxko-feedback-insights`) |
 | Checking a competitor rumour heard on a call against the files | Agent 3 — Market Intelligence & Competitive (`daxko-market-intelligence`) |
 | A renewal or upsell call | Prep → Agent 49 — Renewal & Expansion (`daxko-renewal-expansion`, renewal prep). Practising or reviewing a renewal call is not covered yet (new-business only, owner 2026-11-12) — say so, still flag any risky claim in a pasted renewal call with its owner, and stop |

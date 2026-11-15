@@ -18,9 +18,9 @@ skill name that Claude uses to pick it (`daxko-email-nurture`). Skill names can 
 numbers and hyphens, so the two never look the same. Use this table to match them.
 
 **How to read this table:** one row per agent. *Skill #* counts the skills — Agents 63, 64 and 65 share
-skill #12, which is why there are 21 rows but only 19 skills. *Ask it like this* is copied from the
+skill #12, which is why there are 40 rows but only 38 skills. *Ask it like this* is copied from the
 skill's own description. *First published* is checked against the plugin repo's git history.
-*Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* skills are live.
+*Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* and *Batch 6* skills are live.
 
 | S.No | Skill # | Batch | Agent (number — name) | Skill name (what Claude calls it) | What it does, in plain words | Ask it like this | First published | Status today |
 |---|---|---|---|---|---|---|---|---|
@@ -45,8 +45,27 @@ skill's own description. *First published* is checked against the plugin repo's 
 | 19 | 17 | 2 | Agent 49 — Renewal & Expansion | `daxko-renewal-expansion` | For one existing customer: which Daxko add-on fits next and why, and how to prepare the renewal talk. | "expansion plan for this YMCA" | v1.7.32 | Live in claude.ai |
 | 20 | 18 | 2 | Agent 57 — Sales Coaching | `daxko-sales-coaching` | Coaches a sales rep on one new-business call: plays a practice buyer, preps a call, or reviews a call you paste — what worked, what missed, what to say instead. | "practise a discovery call with me as a YMCA CFO" | v1.7.33 | Live in claude.ai |
 | 21 | 19 | 2 (added) | Agent 12 — Blog & Article | `daxko-blog-writer` | Writes one search-optimized blog post for one market and segment from Daxko's files and blog guidelines — titles, meta description, the post with FAQs and a demo call to action — or an outline first, or a corrected version of an old post you paste. | "write a blog post for mid-size YMCAs about keeping members after January" | v1.7.35 | Live in claude.ai |
+| 22 | 20 | 6 | Agent 45 — CX Email & Response | `daxko-support-reply` | Drafts one reply to one customer support email or case you paste (or one reusable response template, or fixes your draft reply), for you to check and send. | "draft a reply to this upset YMCA director about a double charge" | v1.7.36 | Live in claude.ai |
+| 23 | 21 | 6 | Agent 46 — Knowledge Base & Article | `daxko-help-article` | Writes one help-center article, FAQ or how-to from the steps or answer you paste — screen and button names exactly as given; never invents a menu or button. | "help article on setting up family billing in Daxko Operations from these steps" | v1.7.36 | Live in claude.ai |
+| 24 | 22 | 6 | Agent 48 — Success Playbook & QBR | `daxko-success-qbr` | Builds a quarterly business review (QBR) outline or a success plan for one existing customer account from facts you paste, or a success playbook for one segment. | "QBR outline for the Testville YMCA" | v1.7.36 | Live in claude.ai |
+| 25 | 23 | 6 | Agent 58 — Proposal Generator | `daxko-proposal-writer` | Drafts one sales proposal, SOW or RFP response for one deal from your pasted deal notes; prices only as sales gave them. | "write a proposal for this mid-size YMCA" | v1.7.36 | Live in claude.ai |
+| 26 | 24 | 6 | Agent 1 — AI Strategy & Governance | `daxko-ai-governance` | Answers "can I use this AI tool or paste this data?" from Daxko's AI rules and the Safe Harbor draft — fits, breaks, or ask Information Security; never says "approved". | "can I paste our member export into Claude?" | v1.7.36 | Live in claude.ai |
+| 27 | 25 | 6 | Agent 43 — Accessibility | `daxko-accessibility` | Checks one pasted web page, form or email for things that block disabled people, says how to fix each, writes alt text and works out colour contrast. | "is this form screen-reader friendly?" | v1.7.36 | Live in claude.ai |
+| 28 | 26 | 6 | Agent 26 — Client Communication | `daxko-client-updates` | Drafts one message to a Digital Services client — status update, meeting recap, reply or request — from pasted notes; never sends. | "write this week's status update for our YMCA website client" | v1.7.36 | Live in claude.ai |
+| 29 | 27 | 6 | Agent 25 — Onboarding & Requirements | `daxko-client-requirements` | Writes kickoff questions for a new web client, or turns their answers into a project brief with scope, owners and open questions. | "turn these intake answers into a project brief" | v1.7.36 | Live in claude.ai |
+| 30 | 28 | 6 | Agent 73 — Pre-Launch QA | `daxko-ad-prelaunch-check` | Checks one ad campaign's settings against its brief before it goes live and says GO or NO-GO; changes nothing. | "is this Meta campaign ready to launch?" | v1.7.36 | Live in claude.ai |
+| 31 | 29 | 6 | Agent 27 — Strategy & Discovery | `daxko-client-discovery` | Discovery questions, a review of a client's local competitors from pasted pages, and a short digital strategy for one Digital Services client. | "compare our client's site with these two local clubs" | v1.7.36 | Live in claude.ai |
+| 32 | 30 | 6 | Agent 35 — Web Content | `daxko-web-content` | Writes website copy for a Digital Services client's own site — up to 3 pages, a client blog post, a rewrite, or page titles and metas — from the client facts you paste. | "write the homepage for the Riverbend YMCA's new site" | v1.7.36 | Live in claude.ai |
+| 33 | 31 | 6 | Agent 71 — Budget Reallocation | `daxko-budget-reallocation` | Recommends where a Digital Services client's ad money should move between campaigns, from numbers you paste (or reads with your OK) — never moves money itself. | "should we shift budget from Meta to Google for this YMCA client" | v1.7.36 | Live in claude.ai |
+| 34 | 32 | 6 | Agent 28 — Information Architecture | `daxko-information-architecture` | Plans a website's page tree, menus and web addresses — for a client's site or a Daxko site — plus an old-to-new address map when a site is rebuilt. | "plan the sitemap for a JCC's new website" | v1.7.36 | Live in claude.ai |
+| 35 | 33 | 6 | Agent 32 — QA & Testing | `daxko-qa-testing` | Does-it-work checking for a website: test plans and cases, bug reports from a tester's notes, and a go / no-go summary — tests nothing live itself. | "turn these tester notes into bug reports" | v1.7.36 | Live in claude.ai |
+| 36 | 34 | 6 | Agent 6 — Pendo Engagement Intelligence | `daxko-usage-insights` | Reads a product-usage export (Pendo or similar) and says which features customers use or ignore, what changed, and which accounts look busy or quiet. | "which Club Automation features are customers not using?" | v1.7.36 | Live in claude.ai |
+| 37 | 35 | 6 | Agent 22 — Pipeline Intelligence | `daxko-pipeline-intelligence` | Reads a Salesforce pipeline export and works out 90-day coverage, deal speed, overdue deals and forecast vs actual, by market, segment and stage. | "do we have 3x coverage for nonprofit new logo?" | v1.7.36 | Live in claude.ai |
+| 38 | 36 | 6 | Agent 17 — Paid Media | `daxko-paid-media` | Reads results of Daxko's own Google, LinkedIn and Meta ads and says what worked, what didn't, and what a person could pause, scale or test. | "how did our LinkedIn ads do last month?" | v1.7.36 | Live in claude.ai |
+| 39 | 37 | 6 | Agent 52 — Defect & Quality Intelligence | `daxko-defect-quality` | Reads a bug export (Jira or similar), release dates and support numbers and shows where bugs cluster, how fast critical bugs get fixed and how stable releases were. | "are we fixing S1 and S2 bugs within 30 days?" | v1.7.36 | Live in claude.ai |
+| 40 | 38 | 6 | Agent 53 — Experiment & Feature Flag | `daxko-experiment-results` | Reads A/B test or feature-flag results and says whether the difference is real (worked out step by step) — ship, stop or keep running, for a person to decide; spots stale flags. | "did variant B win?" | v1.7.36 | Live in claude.ai |
 
-19 skills, 21 agents.
+38 skills, 40 agents.
 
 More agents are added over time, one tested agent at a time. This table is updated with every release.
 

@@ -9,7 +9,7 @@ description: Plans what Daxko should publish for one market or segment - YMCA, J
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A keyword, search volume, ranking, date, published page or customer story that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -77,7 +77,7 @@ A request can need several shapes. Pieces, drafts and assets are **not** yours (
 1. **Plan only.** Write no piece, no draft copy beyond a one-line topic angle, no file; send, schedule and publish nothing. Pieces → Agent 13 — Content Production (one piece → the market copywriter).
 2. **Files and pasted numbers only.** No keyword, search volume, ranking, traffic or conversion figure unless the person pasted it — then quote it back with its source. A claim such as "we rank #1 for X" without pasted data is declined. Missing = "not on file".
 3. **Trace every topic.** Each topic names the pain, theme, objection or approved fact it comes from, with file and section. No topic from nowhere; no "buyer stage" labels (not on file).
-4. **No invented dates, seasons or events.** Timing is placeholders ("Weeks 1–4 — confirm dates") unless the person gives dates. The nonprofit playbook names the *kinds* of moments (board cycles, budget planning, national conferences, grant cycles) — you may name those, with dates "not on file". Never add a holiday, giving day or event the files do not name.
+4. **No invented dates, seasons or events.** Timing is placeholders ("Weeks 1–4 — confirm dates") unless the person gives dates. The nonprofit playbook names the *kinds* of moments (board cycles, budget planning, national conferences, grant cycles) — you may name those, with dates "not on file". Never add a holiday, giving day or event the files do not name. If the person names a moment and its dates (e.g. "Giving Tuesday, 1 December"), plan around it "as told" and list it under NOT ON FILE as theirs.
 5. **Approved proof only, with its use rules.** "[Pending …]" or "[Pending upload]" = no case study on file — but "no case study" is not "no proof": check every proof section for the segment (e.g. BGC `### Concrete Proof Points (Use in BGC-Facing Copy)`, `## Proof Points by Market`) before saying none; a planned case study is shown as a **proof gap** → Agent 67 — Customer Proof & Advocacy. Rochester JCC / Siegel JCC: migration fact only. **Another segment's customer is never a topic's proof** (a community center is not a JCC or a YMCA; CrossFit is not martial arts): the proof column says "none on file for this segment", and the other segment's result may be named only in the notes as belonging to that segment. No invented customer, quote or result as a topic's proof.
 6. **Roadmap is never available.** AI Agents, Member Intelligence 360°, Unified Comms Center ("delivery starting Q3 2026" — status **not confirmed**); Dynamic Segmentation, Smart Sending Engine, Intelligent Scoring ("Early 2027"). No topic positions them as available — not even softened ("coming", "on the way"). Roadmap items are confidential. Delivered AI only (Daxko Engage Pro AI, Daxko Digital Marketing Services AI, Zen Planner Engage AI); "Humans + AI".
 7. **One KR, quoted verbatim** from `okrs-and-priorities.md`. Nonprofit pipeline **"\$25.9M"**, never "\$20.9M". A KR the person names that is not in the file → say so and offer the nearest real one.
@@ -102,7 +102,7 @@ A request can need several shapes. Pieces, drafts and assets are **not** yours (
 5. **NOT ON FILE** — every gap the request touched (keywords, volumes, dates, what is published, who signs off).
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`; always for shape A, otherwise only when asked.
 7. **NEXT STEP** — exactly one offer (usually *"Hand a blog topic to Agent 12 — Blog & Article (or a multi-asset set to Agent 13 — Content Production), then Agent 9 — Brand Guardian before anything goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; the pasted data you used; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; the pasted data you used; `SKILL VERSION: 1.7.36`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
 
 ---
 

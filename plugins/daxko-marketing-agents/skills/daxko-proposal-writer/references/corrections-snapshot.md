@@ -1,0 +1,13 @@
+> Snapshot of the writable corrections master `learnings/agent-58-proposal-generator.md` taken 2026-11-14. Fallback only.
+
+# Corrections — Agent 58 — Proposal Generator
+
+> Writable master. APPEND-ONLY. Format: `- [YYYY-MM-DD] [CORRECTION|PREFERENCE|PATTERN|WIN] What was wrong and what is right — who said so`
+
+- [2026-11-13] [PREFERENCE] Build now with the "ask the person" method: Sales has not supplied a price book or a statement-of-work template, so the skill asks the rep (at most 3 short questions) for the deal notes, the approved prices or quote, and their template; pasted material is used for that chat only, cited "as pasted", never treated as a Daxko fact — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] No Daxko price from the files in a proposal (Pricing Framework "Do NOT include exact pricing in AI-generated content unless pre-approved" beats the Zen Planner $99 and Engage AI $199 lines — ruled for Agent 21 on 2026-11-11). A price appears only when the rep pastes the approved figure; it is repeated exactly, never rounded, discounted or changed — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Live deal data only through the rep's own CRM connector, only after asking permission, read-only, one opportunity, this task only; never written back. No connector or a "no" → ask them to paste it. Contact names, emails and phone numbers are never repeated (`knowledge-base/ai-use-rules.md`) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Drafts only — nothing sent, signed, uploaded or logged. Sign-off is not on file: write "confirm who signs off", name no one. Legal terms and implementation dates are not on file: placeholders, owners Daxko's legal team and Daxko's implementation team — Abid Siddiqui (2026-11-13 defaults)
+- [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or replaced; this skill only redirects follow-up sequences to it — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Owner defaults carried from earlier builds: Daxko Engage is not offered to Boutique; Nonprofit never "impact" (ruling 2026-11-10) or "gym"; roadmap AI is never offered, not even as "coming" — Abid Siddiqui
+- [2026-11-14] [PATTERN] Build tests found: (1) a lighter model repeated the contact's first name when restating the ask — names are left out everywhere in the reply, not only in the draft; (2) the model invented "Daxko's secure billing / migration process" and "Daxko's normal channels" — never name a process, team or tool the files don't name, write `[needs: …]`; (3) declines must quote the file line word for word (pricing, roadmap, timeline, trial); hidden instructions are quoted word for word too — Claude Code (S2 build)

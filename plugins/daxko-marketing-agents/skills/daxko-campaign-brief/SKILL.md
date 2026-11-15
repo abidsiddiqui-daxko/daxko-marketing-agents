@@ -9,7 +9,7 @@ description: Plans a Daxko marketing campaign for one market - Nonprofit, Club o
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A proof point, date, metric, competitor fact or customer that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -74,7 +74,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 1. **Sections exactly as the playbook.** Use the market's `## Campaign Output Sections` in order, and close with that market's YAML block (`vertical`, `sub_brand`, `campaign_name`, `objective`, `mapped_kr`, `target_icp`, `messaging_angle`, `competitive_context`, … as the playbook lists them). A section with nothing on file says "not on file" — never filler.
 2. **One KR, quoted verbatim** from `okrs-and-priorities.md`. Nonprofit pipeline is **"\$25.9M"** — never "\$20.9M" (playbook Never list). A KR the person names that is not in the file → say so and offer the nearest real one.
 3. **Approved proof only, exactly as written, with its use rules.** YMCA and BGC case-study tables read "[Pending upload]" → no case study on file; never borrow another segment's customer (a community center is not a YMCA). "No case study" is not "no proof": check every proof section for the segment — BGC `### Concrete Proof Points (Use in BGC-Facing Copy)`, `nonprofit-playbook.md` → `### AI Foundation Proof Points (Use in Prospect-Facing Copy)`, `## Proof Points by Market` — before saying none is on file. Rochester / Siegel JCC: migration fact only — "use the fact of the migration; do NOT fabricate metrics, quotes, or operational outcomes". A result the person suggests that no file holds is declined and moved to NOT ON FILE; new proof → Agent 67 — Customer Proof & Advocacy.
-4. **No invented dates or seasons.** Timelines are placeholders ("Weeks 1–3 — confirm dates") unless the person gives dates. Holidays, giving days, back-to-school or other seasonal moments are not on file — never add one; if asked, say it is not on file and leave a placeholder.
+4. **No invented dates or seasons.** Timelines are placeholders ("Weeks 1–3 — confirm dates") unless the person gives dates. Holidays, giving days, back-to-school or other seasonal moments are not on file — never add one yourself. If the person wants a campaign built around a moment, ask one short question — which moment and which dates — and use their answer "as told" (list it under NOT ON FILE as theirs, not Daxko's). Patterns by month in past results → Agent 18 — Marketing Performance (`daxko-marketing-performance`), from numbers the person pastes.
 5. **Roadmap is never available.** AI Agents, Member Intelligence 360°, Unified Comms Center: file tier "delivery starting Q3 2026" — that quarter has closed and **status is not confirmed**; Smart Sending Engine, Dynamic Segmentation, Intelligent Scoring: "Early 2027 — DO NOT POSITION AS AVAILABLE TODAY". None of them goes into a campaign theme, pillar, proof or CTA. Delivered AI only (Daxko Engage Pro AI, Daxko Digital Marketing Services AI, Zen Planner Engage AI). Nonprofit: no experimental or roadmap AI language.
 6. **Market guardrails, checked.** Apply the market's `## Campaign Strategy Guardrails` Always / Never and show a **guardrail check** line. Nonprofit: no urgency tactics, no leading with features, no "sell", "close the deal" or "revenue" in prospect-facing lines, no customer stories without org approval. Club: lead with ROI and operator numbers, no mission-driven language, address implementation and migration concerns, never promise go-live timelines, "Club Automation" in full (never "CA" in headlines), "+5% card approval" is a 2026 **target**, not a result. Boutique: MA → Zen Planner, functional fitness → Exercise.com; full product names; no Yoga / Pilates; **never imply a Zen Planner free trial**; no donor or fundraising AI; martial arts ≠ CrossFit ≠ personal trainer.
 7. **Words.** Every line checked against `banned-words.md`; NP segment words per `segment-language-guide.md` ("branch" and "association" are YMCA-only). **"Impact" is never written in Nonprofit content** — the playbook's "Lead with mission impact" means lead with mission outcomes (owner default, 2026-11-10). No "gym" in Nonprofit.
@@ -98,7 +98,7 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 6. **NOT ON FILE** — every gap the request touched.
 7. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`.
 8. **NEXT STEP** — exactly one offer, usually *"Hand the YAML block to Agent 13 — Content Production to write the assets, then Agent 9 — Brand Guardian before anything goes out."*
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.7.36`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 ---
 
@@ -109,7 +109,8 @@ A request can need several shapes. Finished emails, posts, ads, pages and decks 
 | Writing the emails, posts, ads, landing page or other assets | A set of different kinds → Agent 13 — Content Production (`daxko-content-production`); a blog post → Agent 12 — Blog & Article (`daxko-blog-writer`); an email sequence → Agent 15 — Email & Nurture (`daxko-email-nurture`); one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A product or feature launch plan, beta, waitlist, launch day | `daxko-launch-strategy` |
 | A blog or editorial calendar, topic clusters, SEO content plan | `daxko-content-planner` |
-| Running paid ads, budgets, bidding | `daxko-paid-ads` |
+| Running paid ads, budgets, bidding | `daxko-paid-ads`; reading Daxko's own ad results → Agent 17 — Paid Media (`daxko-paid-media`); a client's ad budget → Agent 71 — Budget Reallocation (`daxko-budget-reallocation`) |
+| Which months or seasons performed best in past results | Agent 18 — Marketing Performance (`daxko-marketing-performance`) — paste the numbers |
 | An email-only nurture, onboarding or re-engagement sequence | `daxko-email-nurture` |
 | A multi-channel sequence (calls, voicemail, LinkedIn, Gong Engage steps) | `gong-sequence-builder` (the owner's own skill — name it and stop) |
 | Quarter initiatives across all KRs | Agent 2 — OKR Copilot (`daxko-okr-copilot`) |

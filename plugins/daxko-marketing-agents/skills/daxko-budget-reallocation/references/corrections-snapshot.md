@@ -1,0 +1,14 @@
+> Snapshot of the writable corrections master `learnings/agent-71-budget-reallocation.md` taken 2026-11-14. Fallback only.
+
+# Corrections — Agent 71 — Budget Reallocation
+
+> Writable master. APPEND-ONLY. Format: `- [YYYY-MM-DD] [CORRECTION|PREFERENCE|PATTERN|WIN] What was wrong and what is right — who said so`
+
+- [2026-11-13] [PREFERENCE] Built with the "ask the person" method: Daxko's files do not hold Digital Services process files or any client's facts, so the skill asks its user up to 3 short questions and works from what they paste; pasted material is used for that chat only, cited "as pasted", never treated as a Daxko fact and never added to a file (owner decision, Batch 6 handoff) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Live data only through a connector the person already has, and only after asking "May I pull … ? Read-only, for this task only." — never write, send, update or schedule anything through a connector (owner decision; `knowledge-base/ai-use-rules.md`) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] A Digital Services client's brand, facts, prices, programs, numbers and goals come only from what the person pastes or pulls with permission; Daxko's brand files apply only where Daxko's own name or services appear (owner decision, Batch 6 handoff) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Drafts and recommendations only — nothing is sent, scheduled, published or changed in any live system; who signs off is not on file: write "confirm who signs off" and name no one (default) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Never ask for, repeat or keep sensitive data (passwords, keys, card or bank details, ID numbers, health information, bulk personal details); if pasted, say "I left out the personal or sensitive details" and work without them (`ai-use-rules.md`) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
+- [2026-11-13] [PREFERENCE] Recommends only: never moves money, changes a bid or budget, pauses an ad or edits a campaign, even when a connector could (MASTER-PLAN: "recommending is a skill; acting is not"). Scope defaults applied without asking: a Digital Services client's ad budget; the total stays the same unless the person says otherwise; any step size or test period it suggests is labelled general practice, not a Daxko rule; Daxko's own Digital Marketing Services results (233% leads, 54% lower CPL) are never promised to a client — Abid Siddiqui (default)

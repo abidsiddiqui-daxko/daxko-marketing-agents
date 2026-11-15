@@ -9,7 +9,7 @@ description: Writes internal battle cards and gives objection answers for Daxko 
 
 Always write agents as number and name together — "Agent 3 — Market Intelligence & Competitive", never "Agent 3" alone.
 
-> **SKILL VERSION: 1.7.35** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A price, feature, win rate, customer or quote that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -110,7 +110,7 @@ If the market or competitor is missing or ambiguous (e.g. "Mindbody" — Club or
 5. **NOT ON FILE** — every gap the request touched (prices, win rates, quotes, a missing competitor, who signs off).
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md` **only when the request names or needs a Key Result**; otherwise omit this line.
 7. **NEXT STEP** — exactly one offer (e.g. a campaign brief → `daxko-campaign-brief`; proof → Agent 67 — Customer Proof & Advocacy).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; **last reviewed** = the oldest `as_of` of the competitor files used; `SKILL VERSION: 1.7.35`; *"No web search or connector was used. Nothing was sent and no file was changed."* Add the freshness line: competitor profiles were last enriched April–May 2026 per the file change logs.
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; **last reviewed** = the oldest `as_of` of the competitor files used; `SKILL VERSION: 1.7.36`; *"No web search or connector was used. Nothing was sent and no file was changed."* Add the freshness line: competitor profiles were last enriched April–May 2026 per the file change logs.
 
 Shape B keeps it short: the five lines first, then only the parts of the tail that apply (always DECLINED if anything was declined, NOT ON FILE, SOURCES).
 
@@ -122,7 +122,7 @@ Shape B keeps it short: the five lines first, then only the parts of the tail th
 |---|---|
 | A public vs, alternative or comparison page, a "[Product] vs [Product]" SEO page | `daxko-competitor-alternatives` |
 | A sales deck, pitch deck, one-pager, leave-behind, discovery guide or demo talk track | Agent 21 — Sales Enablement (`daxko-sales-kit`) |
-| A proposal template or ROI analysis | `daxko-sales-enablement` |
+| A proposal or statement of work | Agent 58 — Proposal Generator (`daxko-proposal-writer`); an ROI analysis → `daxko-sales-enablement` |
 | Practising an objection or a call (role-play), prep for one named call, a review of a call the rep had, or any score for a rep | Agent 57 — Sales Coaching (`daxko-sales-coaching`) — never run the role-play or give a score here (no scoring rubric is on file) |
 | A price, quote, discount, free trial or other offer for a prospect | Sales — *"contact sales for a quote"*; pricing decisions → `daxko-pricing-strategy` |
 | What we know about a competitor, what a news item or rumour means, drafting a Market Insight record | Agent 3 — Market Intelligence & Competitive (`daxko-market-intelligence`) |
