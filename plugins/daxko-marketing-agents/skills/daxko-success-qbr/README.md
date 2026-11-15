@@ -1,6 +1,6 @@
 # Agent 48 — Success Playbook & QBR — teammate guide
 
-**Skill:** `daxko-success-qbr` · **Owner:** Abid Siddiqui · **Version:** 1.7.36
+**Skill:** `daxko-success-qbr` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
 
 ## What it does
 Builds one quarterly business review (QBR) outline or one success plan for one existing customer account — or one success playbook for one segment's customers, such as the first 90 days. What the customer will see is kept apart from your internal prep notes.

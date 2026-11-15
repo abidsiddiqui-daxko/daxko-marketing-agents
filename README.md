@@ -18,7 +18,7 @@ skill name that Claude uses to pick it (`daxko-email-nurture`). Skill names can 
 numbers and hyphens, so the two never look the same. Use this table to match them.
 
 **How to read this table:** one row per agent. *Skill #* counts the skills — Agents 63, 64 and 65 share
-skill #12, which is why there are 40 rows but only 38 skills. *Ask it like this* is copied from the
+skill #12, which is why there are 47 rows but only 45 skills. *Ask it like this* is copied from the
 skill's own description. *First published* is checked against the plugin repo's git history.
 *Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* and *Batch 6* skills are live.
 
@@ -64,8 +64,15 @@ skill's own description. *First published* is checked against the plugin repo's 
 | 38 | 36 | 6 | Agent 17 — Paid Media | `daxko-paid-media` | Reads results of Daxko's own Google, LinkedIn and Meta ads and says what worked, what didn't, and what a person could pause, scale or test. | "how did our LinkedIn ads do last month?" | v1.7.36 | Live in claude.ai |
 | 39 | 37 | 6 | Agent 52 — Defect & Quality Intelligence | `daxko-defect-quality` | Reads a bug export (Jira or similar), release dates and support numbers and shows where bugs cluster, how fast critical bugs get fixed and how stable releases were. | "are we fixing S1 and S2 bugs within 30 days?" | v1.7.36 | Live in claude.ai |
 | 40 | 38 | 6 | Agent 53 — Experiment & Feature Flag | `daxko-experiment-results` | Reads A/B test or feature-flag results and says whether the difference is real (worked out step by step) — ship, stop or keep running, for a person to decide; spots stale flags. | "did variant B win?" | v1.7.36 | Live in claude.ai |
+| 41 | 39 | 6 | Agent 16 — AI Lifecycle Orchestration | `daxko-lifecycle-journeys` | Plans one customer journey — onboarding, adoption, retention or expansion — for Daxko's own customers from usage you paste: what starts each step, what it's for, when, which channel, who owns it. Writes no emails and sends nothing. | "onboarding journey for new Club Automation customers" | v1.7.37 | Live in claude.ai |
+| 42 | 40 | 6 | Agent 29 — UX/UI Design | `daxko-ux-design` | Lays out a website's pages in words — wireframes, the parts the site needs and a simple style guide — for a Digital Services client (or a Daxko page if asked), from the brand you paste. No pictures or code. | "wireframe the homepage for our YMCA client's new site" | v1.7.37 | Live in claude.ai |
+| 43 | 41 | 6 | Agent 34 — SEO & AEO | `daxko-site-seo` | Gives one website — a Digital Services client's, or Daxko's own if asked — an ordered list of fixes so it shows up better on Google and in AI answers like ChatGPT, from the Search Console or Analytics numbers you paste. Changes nothing on the site. | "SEO fixes for this YMCA client's site from this Search Console export" | v1.7.37 | Live in claude.ai |
+| 44 | 42 | 6 | Agent 39 — CRO | `daxko-site-conversion` | Reads one website's visitor numbers (Google Analytics, Clarity), finds where people drop out before becoming leads, and recommends changes in order — never edits the site or starts a test. | "our YMCA client gets 9,000 visits but only 40 tour bookings - why" | v1.7.37 | Live in claude.ai |
+| 45 | 43 | 6 | Agent 40 — Client Success | `daxko-client-health` | Health check for one Digital Services client — rates each warning sign green, amber or red with the evidence, says what's at risk and who acts; can rank a list of clients. | "health check for our YMCA website client" | v1.7.37 | Live in claude.ai |
+| 46 | 44 | 6 | Agent 41 — Retention & Upsell | `daxko-client-retention-upsell` | For one Digital Services client: the next service that fits, or a save plan if they may cancel — no prices or discounts unless sales pastes them. | "this club client wants to cancel their SEO - save plan" | v1.7.37 | Live in claude.ai |
+| 47 | 45 | 6 | Agent 42 — Speed & Performance | `daxko-site-speed` | Reads a pasted PageSpeed or Lighthouse report for one website and lists the speed fixes in order, each tied to a line in the report — tests and changes nothing itself. | "what should we fix first from this PageSpeed report" | v1.7.37 | Live in claude.ai |
 
-38 skills, 40 agents.
+45 skills, 47 agents.
 
 More agents are added over time, one tested agent at a time. This table is updated with every release.
 

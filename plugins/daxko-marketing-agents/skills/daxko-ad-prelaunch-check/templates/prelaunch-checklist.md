@@ -1,6 +1,6 @@
 # Template — Agent 73 — Pre-Launch QA
 
-SKILL VERSION: 1.7.36 · One campaign per answer. Headings in the reply stay in this order. Placeholders stay in square brackets.
+SKILL VERSION: 1.7.37 · One campaign per answer. Headings in the reply stay in this order. Placeholders stay in square brackets.
 
 ---
 
@@ -58,4 +58,4 @@ Verdict rule: any Fix → NO-GO · no Fix but any of rows 1–8 Not given → CA
 
 **NEXT STEP** — [exactly one offer, e.g. "Paste the corrected settings and I'll re-check them."]
 
-**SOURCES** — files opened (sections) · `as_of` from MANIFEST · corrections file used · settings and brief as pasted / as pulled from [connector] on [date], read-only, with your permission / No connector was used · SKILL VERSION: 1.7.36 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — files opened (sections) · `as_of` from MANIFEST · corrections file used · settings and brief as pasted / as pulled from [connector] on [date], read-only, with your permission / No connector was used · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.

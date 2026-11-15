@@ -1,6 +1,6 @@
 # Agent 26 — Client Communication — teammate guide
 
-**Skill:** `daxko-client-updates` · **Owner:** Abid Siddiqui · **Version:** 1.7.36
+**Skill:** `daxko-client-updates` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
 
 ## What it does
 Drafts one message from Daxko's Digital Services team to a website or marketing client about their project: a weekly or monthly status update, a meeting recap with decisions and action items, a reply to the client's question, or a request for content, access or approval. It works from the notes, call transcript or email thread you paste. If something is missing it first asks up to 3 short questions.

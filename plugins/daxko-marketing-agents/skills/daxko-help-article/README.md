@@ -1,6 +1,6 @@
 # Agent 46 — Knowledge Base & Article — teammate guide
 
-**Skill:** `daxko-help-article` · **Owner:** Abid Siddiqui · **Version:** 1.7.36
+**Skill:** `daxko-help-article` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
 
 ## What it does
 Writes one help-center article, FAQ or how-to for Daxko customers or their staff, from the product steps, release note or support answer you paste. It can also update an old article you paste and list every change.

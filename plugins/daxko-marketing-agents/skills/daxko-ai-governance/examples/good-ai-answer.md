@@ -14,4 +14,4 @@
 **NOT ON FILE** — a written AI policy beyond the two rules · an approved-tool list · [the claim the person reported].
 **KEY RESULT** — none needed for this question.
 **NEXT STEP** — Want me to draft the request to Information Security?
-**SOURCES** — `ai-use-rules.md` (as_of from MANIFEST) · `safe-harbor-policy.md` (as_of) · what the person told me, as told · SKILL VERSION: 1.7.36 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — `ai-use-rules.md` (as_of from MANIFEST) · `safe-harbor-policy.md` (as_of) · what the person told me, as told · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.

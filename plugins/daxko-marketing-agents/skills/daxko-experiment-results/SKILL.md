@@ -12,7 +12,7 @@ description: Reads the RESULTS of a Daxko A/B test, experiment or feature-flag r
 
 Always write agents as number and name together — "Agent 18 — Marketing Performance", never "Agent 18" alone.
 
-> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the person's numbers are the only truth.** A figure, target, benchmark, threshold, date, customer or feature status that is not in a bundled file, or in what the person pasted or pulled, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their figures stay valid), and name no one in their place.
 
@@ -126,7 +126,7 @@ A result is internal evidence, not approved customer proof — public use → Ag
 5. **NOT ON FILE** — every gap the request touched (the planned sample size or run time, the main metric if not stated, a stale-flag threshold, a company significance level (95% two-sided used by default), the platform's own definitions, dates not given); every set-aside figure as "[needs: date]"; and always "who signs off this read-out".
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from the file only when the test metric is itself a Key Result (e.g. "| Online joins self-service | Improve members' ability to self-service online joins for V2 customers to 40% |" — `okrs-and-priorities.md`); most tests have none; or "none on file".
 7. **NEXT STEP** — exactly one offer.
-8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.7.36`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 ## BOUNDARY — hand over, even "just this once"
@@ -135,7 +135,7 @@ A result is internal evidence, not approved customer proof — public use → Ag
 |---|---|
 | Planning or designing a test — hypothesis, sample size, run time | `daxko-ab-test-setup` |
 | Setting up or fixing tracking | `daxko-analytics-tracking` |
-| Advice on improving one page's conversion | `daxko-page-cro` |
+| Advice on improving one page's or funnel's conversion | Agent 39 — CRO (`daxko-site-conversion`); a Daxko page's copy with no numbers → `daxko-page-cro` |
 | Campaign or marketing results against a Key Result | Agent 18 — Marketing Performance (`daxko-marketing-performance`) |
 | Daxko's own ad results overall | Agent 17 — Paid Media (`daxko-paid-media`) |
 | Using a result as public proof or in copy | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`); copy check → Agent 9 — Brand Guardian |

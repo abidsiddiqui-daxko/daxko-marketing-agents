@@ -1,6 +1,6 @@
 # Daxko Usage Insights — Agent 6 — Pendo Engagement Intelligence
 
-**Version:** 1.7.36 · **Skill:** `daxko-usage-insights` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
+**Version:** 1.7.37 · **Skill:** `daxko-usage-insights` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
 
 ## What it does, in plain words
 Paste a Pendo (or similar) usage export and ask what it means. It tells you which features customers use or ignore, what changed and when, which accounts look busy or quiet, and what marketing, sales and customer success could check next.

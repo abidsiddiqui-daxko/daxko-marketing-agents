@@ -9,7 +9,7 @@ description: Drafts an email-only sequence for Daxko's own prospects and custome
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** An open rate, benchmark, cadence rule, price, customer, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -102,7 +102,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 5. **NOT ON FILE** — every gap the request touched (benchmarks, cadence, send times, stage definitions, who signs off).
 6. **KEY RESULT** — only when the request names or needs one, quoted verbatim.
 7. **NEXT STEP** — exactly one offer (usually *"Run the draft copy through Agent 9 — Brand Guardian before it goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.7.36`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.7.37`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
 
 ---
 
@@ -120,6 +120,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 | A referral programme | `daxko-referral-program` |
 | What to gate, a lead magnet | `daxko-lead-magnets` |
 | A market campaign brief | `daxko-campaign-brief` |
+| Planning a customer journey across channels from usage signals (which step, when, which channel, who owns it) | Agent 16 — AI Lifecycle Orchestration (`daxko-lifecycle-journeys`) — it hands the email steps back here |
 | A content plan or editorial calendar | `daxko-content-planner` |
 | Emails a customer sends to its own members | Digital Services — not covered yet |
 | What a competitor is doing | Agent 3 — Market Intelligence & Competitive (`daxko-market-intelligence`) |

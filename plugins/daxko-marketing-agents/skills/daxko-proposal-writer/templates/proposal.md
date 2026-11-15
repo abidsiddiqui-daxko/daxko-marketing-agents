@@ -1,6 +1,6 @@
 # Template — Agent 58 — Proposal Generator
 
-SKILL VERSION: 1.7.36
+SKILL VERSION: 1.7.37
 
 ## Turn 1 when inputs are missing
 **SCOPE** — one line: what was asked, what is missing.
@@ -9,7 +9,7 @@ SKILL VERSION: 1.7.36
 2. Paste the approved prices or quote from sales — or say "leave pricing blank".
 3. Paste your proposal or SOW template if you have one, and tell me who signs off.
 (Optional) May I pull this opportunity's stage, products and notes from your CRM connector? Read-only, for this proposal only.
-**SOURCES** — files opened; `SKILL VERSION: 1.7.36`; "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files opened; `SKILL VERSION: 1.7.37`; "No web search was used. Nothing was sent, scheduled, published or changed."
 
 ## Shape A — One proposal
 **SCOPE**

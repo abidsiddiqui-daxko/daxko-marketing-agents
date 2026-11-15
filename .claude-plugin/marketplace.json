@@ -9,7 +9,7 @@
     {
       "name": "daxko-marketing-agents",
       "source": "./plugins/daxko-marketing-agents",
-      "description": "Daxko marketing, sales, success and Digital Services agents. Plan: OKRs, content, briefs. Write: blog, email nurture, long-form, content sets, repurposing, help articles, support replies. Check: brand, accessibility, ad launch, site QA. Sell and keep: battlecards, sales kit, coaching, proposals, renewal, QBRs, proof. Know: competitors, ICP, performance, feedback, releases, usage, pipeline, paid media, defects, tests, AI rules. Client sites: copy, IA, updates, briefs, discovery, ad budgets.",
+      "description": "Daxko marketing, sales, success and client-site agents. Plan: OKRs, content, briefs, lifecycle. Write: blog, nurture, long-form, repurposing, help articles, support. Check: brand, accessibility, ad launch, site QA. Sell and keep: battlecards, sales kit, coaching, proposals, renewal, QBRs, proof. Know: competitors, ICP, performance, feedback, releases, usage, pipeline, ads, defects, tests, AI rules. Client sites: copy, IA, UX, SEO, CRO, speed, updates, briefs, discovery, budgets, health, upsell.",
       "category": "marketing"
     }
   ]

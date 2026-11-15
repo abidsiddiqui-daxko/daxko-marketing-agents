@@ -1,6 +1,6 @@
 # Template — site structure (Agent 28 — Information Architecture)
 
-SKILL VERSION: 1.7.36
+SKILL VERSION: 1.7.37
 
 ## SCOPE
 Shape: [A new sitemap / B restructure / C one section] · Site: [client as named / Daxko site] · Segment: [ ] · Audiences: [ ] · The one action: [ ] · Pasted: [ ] · Assumed: [ ]
@@ -30,4 +30,4 @@ Shape: [A new sitemap / B restructure / C one section] · Site: [client as named
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.7.36 · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.

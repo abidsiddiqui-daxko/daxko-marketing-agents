@@ -9,7 +9,7 @@ description: Drafts ONE Daxko sales proposal or statement of work (SOW) for one 
 
 Always write agents as number and name together — "Agent 21 — Sales Enablement", never "Agent 21" alone.
 
-> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts.** A price, discount, trial, timeline, legal term, customer, result, quote, SLA or feature that is not in them is "not on file". Deal facts come only from what the person pastes or pulls — "as pasted" / "as pulled from [connector] on [date]", for this chat only, never a Daxko fact, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -119,7 +119,7 @@ One deal per answer. If the segment is unclear, ask (it counts toward the 3 ques
 5. **NOT ON FILE** — every gap the request touched; check each one: approved price (if not pasted) · discount rules · payment terms · SLAs · legal terms · implementation dates and team · who signs off · a missing case study · each `[needs: …]` item.
 6. **KEY RESULT** — verbatim from `okrs-and-priorities.md`: *"| Deal velocity improvement | 10% improvement (opportunity open → closed won) for all markets |"* (and *"| Annual bookings | \$41.8M (21.0% YoY growth) |"* when bookings are in play).
 7. **NEXT STEP** — exactly one offer, usually *"Run the draft through Agent 9 — Brand Guardian, then to your sales sign-off."*
-8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.7.36`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -130,7 +130,7 @@ One deal per answer. If the segment is unclear, ask (it counts toward the 3 ques
 | A one-pager, deck outline, discovery guide, demo talk track or buyer card | Agent 21 — Sales Enablement (`daxko-sales-kit`) |
 | An ROI calculator or a generic sales playbook | `daxko-sales-enablement` |
 | What to charge, packaging, a discount policy | `daxko-pricing-strategy`; a quote or discount for this deal → sales |
-| A renewal plan, or which add-on to pitch an existing customer | Agent 49 — Renewal & Expansion (`daxko-renewal-expansion`) |
+| A renewal plan, or which add-on to pitch an existing customer | Agent 49 — Renewal & Expansion (`daxko-renewal-expansion`); for a Digital Services client → Agent 41 — Retention & Upsell (`daxko-client-retention-upsell`) |
 | A battle card or objection answer | Agent 20 — Battlecard & Objection Handling (`daxko-battlecards`) |
 | Practising the proposal call | Agent 57 — Sales Coaching (`daxko-sales-coaching`) |
 | New customer proof, a quote, a case study, a reference | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`) |

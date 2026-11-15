@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-14 · **Skill:** `daxko-client-requirements` · **Skill version:** 1.7.36 · **Batch 2**
+**Generated:** 2026-11-14 · **Skill:** `daxko-client-requirements` · **Skill version:** 1.7.37 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|

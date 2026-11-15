@@ -9,7 +9,7 @@ description: Plans renewal and expansion for one existing Daxko customer, from D
 
 Always write agents as number and name together — "Agent 67 — Customer Proof & Advocacy", never "Agent 67" alone.
 
-> **SKILL VERSION: 1.7.36** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A usage figure, health score, renewal date, contract value, price, discount, customer result, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -102,7 +102,7 @@ One account per answer. If the person names no account and no segment, ask one s
 6. **NOT ON FILE** — every gap the request touched (usage, renewal terms, prices, who approves a discount, who signs off, the delivery status of any roadmap item mentioned, anything else).
 7. **KEY RESULT** — for shapes A and B always; quote the row verbatim from `okrs-and-priorities.md` (e.g. the Expansion pipeline coverage row, the market's GRR row, the Engage bookings or Cash Discounting row, the V1 → V2 row).
 8. **NEXT STEP** — exactly one offer.
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.36`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.7.37`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
 
 ---
 
@@ -114,19 +114,20 @@ One account per answer. If the person names no account and no segment, ask one s
 | Renewal, onboarding, re-engagement or win-back emails | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
 | A multi-touch sequence for account managers — calls, voicemail, LinkedIn, Gong Engage steps | **`gong-sequence-builder`** (the owner's own skill — name it and stop; never build or imitate it) |
 | Cancel flows, save offers, dunning or failed-payment strategy | `daxko-churn-prevention` |
-| An expansion campaign for many accounts or a whole segment | Agents 63, 64, 65 — Campaign & Content Strategists (`daxko-campaign-brief`) |
+| An expansion campaign for many accounts or a whole segment | Agents 63, 64, 65 — Campaign & Content Strategists (`daxko-campaign-brief`); an always-on expansion or retention journey triggered by usage signals → Agent 16 — AI Lifecycle Orchestration (`daxko-lifecycle-journeys`) |
 | A finished one-pager, deck outline or discovery guide | Agent 21 — Sales Enablement (`daxko-sales-kit`) |
 | A full battle card or objection sheet | Agent 20 — Battlecard & Objection Handling (`daxko-battlecards`) |
 | The proposal or statement of work for an add-on the customer agreed to discuss | Agent 58 — Proposal Generator (`daxko-proposal-writer`) |
 | Prices, packaging, a price increase | `daxko-pricing-strategy`; a quote → sales |
-| A health score, churn score or ranking of accounts | Declined — no scoring model is on file; say so (no owner is named on file) |
+| A health score, churn score or ranking of accounts | Declined for Daxko software customers — no scoring model is on file; say so. A Digital Services client's health check → Agent 40 — Client Success (`daxko-client-health`) |
 | A product not offered in this market (e.g. Analytics as a Service for Boutique) | Declined with the file line; product questions → Daxko's product team (the Club product team for Club) |
 | Practising or reviewing a renewal call with a rep | Not covered yet — Agent 57 — Sales Coaching covers new-business calls only (owner, 2026-11-12); this skill preps the renewal (shape B) |
 | Whether a roadmap item has shipped, or a delivery date for any feature | Daxko's product team — status is "not confirmed" on file; never promised here |
 | A V2 rollout date for a club, the V1 customer count, Club packaging questions | The Club product team (named in the files) — the date and the count are not on file |
 | In-app upgrade screens or upsell pop-ups | `daxko-paywall-upgrade-cro` |
 | A QBR outline, success plan or success playbook | Agent 48 — Success Playbook & QBR (`daxko-success-qbr`) |
-| A Digital Services website client's account | Not covered yet — planned as Agent 41 — Retention & Upsell |
+| A Digital Services client's account health or risk | Agent 40 — Client Success (`daxko-client-health`) |
+| A Digital Services client's next service or save plan | Agent 41 — Retention & Upsell (`daxko-client-retention-upsell`) |
 | A Digital Services client's project update, meeting recap or reply | Agent 26 — Client Communication (`daxko-client-updates`) |
 | Pipeline coverage, deal velocity or a pipeline export | Agent 22 — Pipeline Intelligence (`daxko-pipeline-intelligence`); marketing numbers against a Key Result → Agent 18 — Marketing Performance (`daxko-marketing-performance`) |
 | One account's product-usage numbers | Agent 6 — Pendo Engagement Intelligence (`daxko-usage-insights`) |

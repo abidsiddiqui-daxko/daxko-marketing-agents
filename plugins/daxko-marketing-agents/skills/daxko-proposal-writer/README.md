@@ -1,6 +1,6 @@
 # Agent 58 — Proposal Generator — teammate guide
 
-**Skill:** `daxko-proposal-writer` · **Owner:** Abid Siddiqui · **Version:** 1.7.36
+**Skill:** `daxko-proposal-writer` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
 
 ## What it does
 Drafts one sales proposal or one statement of work (SOW) for one deal. It first asks you up to 3 short questions — your deal notes, the approved prices from sales, and your template — then writes the draft from what you paste plus Daxko's files: what the buyer needs, which Daxko products fit, approved proof, how implementation works, next steps and a price section that only repeats the approved figures you pasted.
