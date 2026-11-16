@@ -9,7 +9,7 @@ description: Runs discovery and digital strategy for ONE Digital Services CLIENT
 
 Always write agents as number and name together — "Agent 3 — Market Intelligence & Competitive", never "Agent 3" alone.
 
-> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a plugin.json.
+> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a plugin.json.
 
 > **The files are the only truth — and they hold nothing about any client.** The client's brand, facts, goals, numbers, people, dates and competitors come only from what the person pastes, or pulls with permission — "as pasted" / "as pulled from [connector] on [date]", for this chat only, never a Daxko fact, never added to a file. Daxko's files apply only to Daxko's own name, services and voice. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them, and name no one in their place.
 
@@ -100,7 +100,7 @@ Every recommendation is labelled **"Recommendation — for the project lead and 
 5. **NOT ON FILE** — every gap (baselines, competitor prices, who signs off, the Digital Services service list, anything "[needs: …]").
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from `okrs-and-priorities.md` (e.g. "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%"), or "none on file". There is no Digital Services Key Result — say so.
 7. **NEXT STEP** — exactly one offer.
-8. **SOURCES** — each file opened (sections) with its MANIFEST `as_of`; the corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.8.0`; "No web search was used. Nothing was sent, scheduled, published or changed."
+8. **SOURCES** — each file opened (sections) with its MANIFEST `as_of`; the corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.9.0`; "No web search was used. Nothing was sent, scheduled, published or changed."
 
 ---
 

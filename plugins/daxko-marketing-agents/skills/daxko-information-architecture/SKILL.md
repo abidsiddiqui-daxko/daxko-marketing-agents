@@ -9,7 +9,7 @@ description: Plans a website's structure - sitemap, main and footer navigation, 
 
 Always write agents as number and name together — "Agent 35 — Web Content", never "Agent 35" alone.
 
-> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The site's contents come only from the person.** Daxko's files hold nothing about any client — not its programs, locations, current pages, URLs, visitors or analytics. Every client page, program, location and URL comes from what the person pastes (or pulls with permission, below), for this chat only, cited "as pasted". A page you add that they did not list is marked **proposed** with the reason; a fact you need is `[needs: …]` — never invented. For a Daxko site, product names and markets come only from `product-knowledge.md`. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -93,7 +93,7 @@ Market playbooks and ICPs describe how Daxko sells software — not a client's v
 6. **NOT ON FILE** — every gap: each `[needs: …]`, analytics, the platform and its set-up, Digital Services' IA standards or templates, who signs off.
 7. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."* (For a Daxko site, quote the nearest Key Result verbatim only if one plainly applies; otherwise the same line.)
 8. **NEXT STEP** — exactly one offer (usually: confirm the tree with the client, then Agent 35 — Web Content writes the pages).
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

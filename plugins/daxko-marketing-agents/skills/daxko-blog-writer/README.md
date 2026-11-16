@@ -1,6 +1,6 @@
 # Agent 12 — Blog & Article — teammate guide
 
-**Skill:** `daxko-blog-writer` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-blog-writer` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Writes one search-optimized blog post or article for one market and one segment, from Daxko's files and Daxko's own blog guidelines (the SEO Content Guidelines and the Nonprofit, Club Automation and Zen Planner Blog Optimization Frameworks). You get title options, a meta description, the post with headings and FAQs, one demo call to action and link placeholders. It can also outline a post first, turn one pasted transcript into one post, or refresh an old post you paste and list every fix.

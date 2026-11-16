@@ -1,6 +1,6 @@
 # Agent 71 — Budget Reallocation — teammate guide
 
-**Skill:** `daxko-budget-reallocation` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-budget-reallocation` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Recommends how to move a Digital Services client's ad budget between campaigns or channels (Google Ads, Meta, LinkedIn). You paste spend and results for one period — or, if you say yes, it reads them from a connector you already have. It checks the numbers add up, works out what each lead or join costs, flags thin data, and gives a move-by-move table, what to watch, and a short summary for the client.

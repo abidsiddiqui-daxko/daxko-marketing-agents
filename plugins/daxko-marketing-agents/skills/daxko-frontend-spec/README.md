@@ -1,6 +1,6 @@
 # Agent 30 — Frontend Development — teammate guide
 
-**Skill:** `daxko-frontend-spec` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-frontend-spec` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Turns ONE web page or template into a **build spec in plain words** for the web publishing team: every section and part, what goes in each slot, how it behaves (menus, forms, errors), what changes on phone, tablet and desktop, accessibility needs, tracking and SEO bits, and a numbered "done when" list. It is for a Digital Services client's site by default; a Daxko page only if you ask.

@@ -9,7 +9,7 @@ description: Plans and writes social posts for ONE Digital Services CLIENT - a Y
 
 Always write agents as number and name together — "Agent 26 — Client Communication", never "Agent 26" alone.
 
-> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Client facts come only from the person.** Daxko's files hold no client's programs, prices, hours, events, voice, hashtags, photos or social accounts. Every client fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` — never invented. Daxko's own brand files apply only where Daxko's own name or services appear; the client's posts use the client's voice as pasted. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -130,7 +130,7 @@ How you apply it:
 7. **NOT ON FILE** — every gap.
 8. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 9. **NEXT STEP** — exactly one offer.
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; client facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.8.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; client facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.9.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 

@@ -1,6 +1,6 @@
 # Agent 56 — Campaign Workflows — teammate guide
 
-**Skill:** `daxko-campaign-golive` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-campaign-golive` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 For ONE of Daxko's own marketing campaigns, it makes every channel go live together: a launch run-sheet with each channel's steps in order, timing, owner, a "ready?" check per channel, a go / no-go call and what to do if one channel is late. It asks short rounds of questions (up to 3 at a time) and works from the campaign brief and asset status you paste.

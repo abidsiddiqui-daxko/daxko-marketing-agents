@@ -1,6 +1,6 @@
 # Agent 42 — Speed & Performance — teammate guide
 
-**Skill:** `daxko-site-speed` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-site-speed` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Reads the speed numbers for one website (a Digital Services client's by default) — a PageSpeed Insights or Lighthouse report, Core Web Vitals or Google Analytics page timings that you paste, or that it reads from a connector you already have after you say yes — and lists the fixes in order, each tied to a line in your report, with effort and who does it. Plus a short summary for the client.

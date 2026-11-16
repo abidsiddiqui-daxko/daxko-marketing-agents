@@ -1,6 +1,6 @@
 # Template — Agent 24 — Agency Orchestrator — one client project
 
-SKILL VERSION: 1.8.0
+SKILL VERSION: 1.9.0
 
 **SCOPE** — client [as named] · project type [as pasted] · shape [A / B / C / D] · today's date used [date] · pasted or pulled [what] · assumed [what]
 
@@ -42,4 +42,4 @@ DECISIONS NEEDED · INTERNAL STATUS SUMMARY (five lines at most, internal only)
 
 **INTERNAL NOTES** · **DECLINED** [asked, in your own words · rule + file · named owner] · **NOT ON FILE** · **KEY RESULT** (None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.) · **NEXT STEP** (one offer)
 
-**SOURCES** — files and sections with `as_of` · corrections file · "as pasted, this chat only" / "as pulled from [connector] on [date]" · SKILL VERSION: 1.8.0 · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files and sections with `as_of` · corrections file · "as pasted, this chat only" / "as pulled from [connector] on [date]" · SKILL VERSION: 1.9.0 · "No web search was used. Nothing was sent, scheduled, published or changed."

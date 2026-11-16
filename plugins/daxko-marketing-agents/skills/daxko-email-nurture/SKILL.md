@@ -9,7 +9,7 @@ description: Drafts an email-only sequence for Daxko's own prospects and custome
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** An open rate, benchmark, cadence rule, price, customer, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -102,7 +102,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 5. **NOT ON FILE** — every gap the request touched (benchmarks, cadence, send times, stage definitions, who signs off).
 6. **KEY RESULT** — only when the request names or needs one, quoted verbatim.
 7. **NEXT STEP** — exactly one offer (usually *"Run the draft copy through Agent 9 — Brand Guardian before it goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.8.0`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.9.0`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
 
 ---
 
@@ -116,7 +116,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 | A reply to one customer's support email or case | Agent 45 — CX Email & Response (`daxko-support-reply`) |
 | Cancel flows, save offers, dunning or failed-payment strategy | `daxko-churn-prevention` |
 | An offer, trial, discount or price to put in an email | Sales — *"contact sales for a quote"*; pricing or packaging decisions → `daxko-pricing-strategy`. Not on file = not in the email |
-| Event promotion emails | Field Marketing's `daxko-event-comms` skill — not installed for most teammates; if it is not available, say so and stop |
+| Event or webinar promotion emails (invites, reminders, pre- and post-event series) | Agent 23 — Event & Webinar (`daxko-event-promotion`); event logistics and travel emails → `daxko-event-planning` |
 | A referral programme | `daxko-referral-program` |
 | What to gate, a lead magnet | `daxko-lead-magnets` |
 | A market campaign brief | `daxko-campaign-brief` |

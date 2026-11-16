@@ -1,6 +1,6 @@
 # Template — QA (Agent 32 — QA & Testing)
 
-SKILL VERSION: 1.8.0
+SKILL VERSION: 1.9.0
 
 ## SCOPE
 Shape: [A test plan / B bug reports / C QA round summary] · Site: [client as named / Daxko page] · Tested: [ ] · Environment: [staging / live — as pasted] · Devices and browsers: [as pasted or "assumed"] · Launch: [ ] · Pasted: [ ]
@@ -29,4 +29,4 @@ Severity scale — suggested, use your team's if you have one: Blocker · Major 
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client websites.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.

@@ -1,6 +1,6 @@
 # Template — UX/UI design (Agent 29 — UX/UI Design)
 
-SKILL VERSION: 1.8.0
+SKILL VERSION: 1.9.0
 
 ## SCOPE
 Client: [as named] · Page(s): [ ] · Main action: [ ] · Brand pasted: [colours / fonts / logo / photos / none] · Client page or Daxko page: [ ] · Assumed: [ ]
@@ -40,4 +40,4 @@ Above the fold: [ ] · Mobile order: [ ]
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · [brief or numbers] as pasted, this chat only · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+[files opened, sections, as_of from MANIFEST] · [brief or numbers] as pasted, this chat only · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.

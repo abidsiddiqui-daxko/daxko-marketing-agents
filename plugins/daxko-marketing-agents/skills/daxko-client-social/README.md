@@ -1,6 +1,6 @@
 # Agent 37 — Social Media — teammate guide
 
-**Skill:** `daxko-client-social` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-client-social` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Plans and writes social posts for ONE Digital Services client: a calendar (dates, times, platforms), the text for each platform, image notes, what the client must approve, and a list ready to load into their scheduling tool. It asks short rounds of questions (up to 3 at a time) and uses only the client facts you paste.

@@ -1,6 +1,6 @@
 # Template — next move for one client (Agent 41 — Retention & Upsell)
 
-SKILL VERSION: 1.8.0
+SKILL VERSION: 1.9.0
 
 ## SCOPE
 Client: [as named] · Services now: [as pasted] · Grow or keep: [ ] · Facts: [as pasted, this chat only / as pulled from [connector] on [date]] · Service list: [pasted / only the two broad lines on file] · Approved offer: [pasted by sales / none] · Assumed: [ ]
@@ -32,4 +32,4 @@ Timings are general practice, not a Daxko rule.
 No Key Result in `okrs-and-priorities.md` names Digital Services client work. Nearest, verbatim: "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" (Objective 1) and "90-day pipeline coverage — Expansion | 2x for Nonprofit and Club (N/A for Boutique)" (Objective 4) — whether Digital Services revenue counts toward them is not on file.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.

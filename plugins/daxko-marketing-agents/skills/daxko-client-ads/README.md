@@ -1,6 +1,6 @@
 # Agent 36 — Paid Digital — teammate guide
 
-**Skill:** `daxko-client-ads` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-client-ads` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Builds ONE new paid ad campaign for a Digital Services client (Google Ads, Meta, LinkedIn) as a campaign build sheet: structure, targeting, budget and dates as you give them, keywords as you paste them, ad text options, names, UTM tags and what conversions to track. It asks you short rounds of questions (up to 3 at a time) until it has what the job needs, and shows a checklist of what is given and what is still missing.

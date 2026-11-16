@@ -1,6 +1,6 @@
 # Agent 40 — Client Success — teammate guide
 
-**Skill:** `daxko-client-health` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-client-health` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 A health check for one Digital Services client (a YMCA, JCC, club or studio whose website or marketing Daxko runs). You paste what you know — lead trends, late project items, support requests, missed meetings, client emails, survey scores, contract date — or, if you say yes, it reads them from a connector you already have. It rates each signal green, amber or red with the evidence, gives an overall read (Healthy / Watch / At risk), what to check next and which role acts. It can also rank a pasted list of clients by risk.

@@ -1,6 +1,6 @@
 # Agent 16 — AI Lifecycle Orchestration — teammate guide
 
-**Skill:** `daxko-lifecycle-journeys` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
+**Skill:** `daxko-lifecycle-journeys` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
 
 ## What it does
 Plans one customer journey for Daxko's own customers — onboarding, adoption, retention or expansion — for one product, segment or group of accounts. You paste account-level usage (for example a Pendo export), or, if you say yes, it reads it from a connector you already have. It lays out each step: what starts it, the message's purpose, when, on which of your channels, who owns it, when to stop — and what to measure against the GRR Key Result.

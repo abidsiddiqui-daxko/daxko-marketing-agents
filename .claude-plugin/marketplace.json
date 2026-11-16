@@ -9,7 +9,7 @@
     {
       "name": "daxko-marketing-agents",
       "source": "./plugins/daxko-marketing-agents",
-      "description": "Daxko team agents. Plan: OKRs, agent routing, content, briefs, go-live, lifecycle. Write: blog, nurture, long-form, repurposing, help, support. Check: brand, accessibility, ad launch, QA. Sell/keep: battlecards, sales kit, coaching, proposals, renewal, QBRs, proof. Know: rivals, ICP, results, feedback, releases, usage, pipeline, ads, defects, tests, AI rules. Clients: projects, discovery, copy, IA, UX, specs, CMS, migration, SEO, CRO, speed, ads, social, budgets, health, upsell.",
+      "description": "Daxko agents. Plan: OKRs, routing, content, briefs, go-live, lifecycle. Events: plans, promos, webinars, ROI. Write: blog, nurture, long-form, reuse, help, support. Check: brand, accessibility, ad launch, QA. Sell: battlecards, sales kit, coaching, proposals, renewal, QBRs, proof. Know: rivals, ICP, results, feedback, releases, usage, pipeline, ads, defects, tests, AI rules. Clients: projects, discovery, copy, IA, UX, specs, CMS, migration, SEO, CRO, speed, ads, social, budgets, health, upsell.",
       "category": "marketing"
     }
   ]

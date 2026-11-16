@@ -24,4 +24,4 @@ PLUGINS — "a forms plugin" (general practice, not a Daxko rule) — product [n
 
 **DECLINED** — the ask to publish the pages tonight · `ai-use-rules.md` "Never: … publish a live page …" · the Digital Services developer.
 
-**SOURCES** — … · as pasted, this chat only · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — … · as pasted, this chat only · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.

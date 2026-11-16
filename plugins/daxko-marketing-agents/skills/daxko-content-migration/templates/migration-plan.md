@@ -1,6 +1,6 @@
 # Template — Agent 33 — Content Migration — one site rebuild
 
-SKILL VERSION: 1.8.0
+SKILL VERSION: 1.9.0
 
 **SCOPE** — client and site [as named] · old CMS / new CMS [as named / needs] · shape(s) · pasted or pulled [what] · assumed [what]
 
@@ -45,4 +45,4 @@ AFTER-MOVE CHECK LIST — per page: text · links · images and files · forms �
 
 **INTERNAL NOTES** · **DECLINED** [asked, in your own words · rule + file · named owner] · **NOT ON FILE** · **KEY RESULT** (None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.) · **NEXT STEP** (one offer)
 
-**SOURCES** — files and sections with `as_of` · corrections file · "as pasted, this chat only" / "as pulled from [connector] on [date]" · SKILL VERSION: 1.8.0 · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files and sections with `as_of` · corrections file · "as pasted, this chat only" / "as pulled from [connector] on [date]" · SKILL VERSION: 1.9.0 · "No web search was used. Nothing was sent, scheduled, published or changed."

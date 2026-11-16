@@ -18,7 +18,7 @@ skill name that Claude uses to pick it (`daxko-email-nurture`). Skill names can 
 numbers and hyphens, so the two never look the same. Use this table to match them.
 
 **How to read this table:** one row per agent. *Skill #* counts the skills — Agents 63, 64 and 65 share
-skill #12, which is why there are 55 rows but only 53 skills. *Ask it like this* is copied from the
+skill #12, which is why there are 57 rows but only 55 skills. *Ask it like this* is copied from the
 skill's own description. *First published* is checked against the plugin repo's git history.
 *Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* and *Batch 6* skills are live.
 
@@ -79,8 +79,10 @@ skill's own description. *First published* is checked against the plugin repo's 
 | 53 | 51 | 6 | Agent 36 — Paid Digital | `daxko-client-ads` | Builds one new ad campaign for a Digital Services client — structure, targeting, budget and dates as given, keywords as pasted, ad text, names and tracking tags — and, after your yes, can create it paused in their ad account. Never turns ads on or spends money. | "build the Google Ads campaign for our YMCA client's spring drive" | v1.8.0 | Live in claude.ai |
 | 54 | 52 | 6 | Agent 37 — Social Media | `daxko-client-social` | Plans and writes one client's social calendar — dates, platforms, post text, image notes, approval list — and, after your yes, can load the posts as unscheduled drafts. Never schedules or posts. | "social calendar for our YMCA client for March" | v1.8.0 | Live in claude.ai |
 | 55 | 53 | 6 | Agent 56 — Campaign Workflows | `daxko-campaign-golive` | Makes every channel of one Daxko campaign go live together — run-sheet, owners, a ready check per channel, go / no-go, slip plan — and, after your yes, can create internal Asana tasks and post one internal Slack message. Never sends, launches or publishes. | "launch checklist for our Q1 campaign across email, ads and social" | v1.8.0 | Live in claude.ai |
+| 56 | 54 | 6 | Agent 23 — Event & Webinar (event messaging) | `daxko-event-promotion` | Writes the promotion for one Daxko event or webinar — emails, sales sequence, social, landing page, Pendo, blogs, sponsor and booth copy, webinar invites and follow-up — and, after your yes, can save unsent drafts in HubSpot or Salesloft. Never sends or publishes. | "event assets for NAYDO — emails, sales sequence and social" | v1.9.0 | Live in claude.ai |
+| 57 | 55 | 6 | Agent 23 — Event & Webinar (event planning) | `daxko-event-planning` | Plans one Daxko event or webinar from contract to recap — brief, Slack setup, team selection, travel emails, workback, kickoff deck, canvases, week-of messages, organizer deliverables, field guide, webinar run of show and the Event ROI score — and, after your yes, can create internal Asana tasks, post one internal Slack message or save an internal document. Never books, buys, emails or submits. | "we just signed for IHRSA, set it up" | v1.9.0 | Live in claude.ai |
 
-53 skills, 55 agents.
+55 skills, 56 agents (Agent 23 — Event & Webinar has two skills).
 
 More agents are added over time, one tested agent at a time. This table is updated with every release.
 

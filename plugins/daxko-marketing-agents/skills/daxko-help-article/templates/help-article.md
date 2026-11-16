@@ -1,6 +1,6 @@
 # Template — help article (Agent 46 — Knowledge Base & Article)
 
-SKILL VERSION: 1.8.0
+SKILL VERSION: 1.9.0
 
 **SCOPE** — shape · product and version · market · reader · what was pasted or pulled · what I assumed · "I left out the personal or sensitive details." (if any)
 
@@ -36,7 +36,7 @@ SKILL VERSION: 1.8.0
 **NOT ON FILE** — steps, errors, fixes, URLs, who publishes ("confirm who publishes")
 **KEY RESULT** — verbatim from `okrs-and-priorities.md`
 **NEXT STEP** — one offer
-**SOURCES** — files + sections + MANIFEST `as_of` · corrections file · pasted material "as pasted" · `SKILL VERSION: 1.8.0` · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files + sections + MANIFEST `as_of` · corrections file · pasted material "as pasted" · `SKILL VERSION: 1.9.0` · "No web search was used. Nothing was sent, scheduled, published or changed."
 
 ## Shape B — FAQ
 5–10 questions in the reader's words; each answer from pasted material only.

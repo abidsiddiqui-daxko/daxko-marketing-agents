@@ -12,7 +12,7 @@ description: Finds patterns in Daxko product quality numbers - a bug or defect e
 
 Always write agents as number and name together — "Agent 18 — Marketing Performance", never "Agent 18" alone.
 
-> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the person's numbers are the only truth.** A figure, target, benchmark, threshold, date, customer or feature status that is not in a bundled file, or in what the person pasted or pulled, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their figures stay valid), and name no one in their place.
 
@@ -116,7 +116,7 @@ Daxko's files do not hold defect-tracker data, severity definitions beyond "crit
 5. **NOT ON FILE** — every gap the request touched (severity definitions beyond S1/S2, S3/S4 targets, release dates, production-fix dates, baselines for ART and cases per customer, CSAT data, products or periods not given); every set-aside figure as "[needs: date]"; and always "who signs off this read-out".
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from the file (`okrs-and-priorities.md`: "| Post-release stability | 85% — no critical bugs within 28 days of release |", "| Critical defect (S1/S2) resolution | Within 30 days (2 sprints) |", "| System uptime SLA | 99.99% for all platforms |", "| Average Resolution Time (ART) | <8 days while maintaining >9 customer satisfaction score |", "| Average cases per customer | Reduce by 15% |"); or "none on file".
 7. **NEXT STEP** — exactly one offer.
-8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 ## BOUNDARY — hand over, even "just this once"

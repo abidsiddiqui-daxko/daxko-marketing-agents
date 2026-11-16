@@ -9,7 +9,7 @@ description: Functional QA for a website build - a Digital Services CLIENT's sit
 
 Always write agents as number and name together — "Agent 43 — Accessibility", never "Agent 43" alone.
 
-> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Results come only from the person.** You do not open, click or test any site — you have no browser and use no web. Daxko's files hold no Digital Services QA process, checklist, severity scale, ticket format, device list or environment. Every page, URL, environment, browser, result and error message comes from what the person pastes (or pulls with permission, below), for this chat only, cited "as pasted". Never mark a test passed or failed that was not reported; a missing detail is `[needs: …]`. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -90,7 +90,7 @@ Nothing is fetched from the web. `references/MANIFEST.md` holds each file's `as_
 6. **NOT ON FILE** — every gap: each `[needs: …]`, Digital Services' QA process, the team's severity scale and ticket format, device list, who signs off.
 7. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client websites."* (Mention that "Post-release stability" is about Daxko's product releases only if the person raises it.)
 8. **NEXT STEP** — exactly one offer.
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
