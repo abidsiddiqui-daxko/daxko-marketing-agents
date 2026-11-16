@@ -9,7 +9,7 @@ description: Writes ONE search-optimized Daxko blog post for one market and segm
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A statistic, keyword, search volume, ranking, traffic figure, customer, quote, price, date, URL or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -109,7 +109,7 @@ One post per answer. A post for several segments uses neutral words (`segment-la
 6. **NOT ON FILE** — every gap the request touched (keyword data, rankings, traffic, URLs, byline, who signs off, a case study, a roadmap item's delivery status as the file states it).
 7. **KEY RESULT** — the nearest real Key Result, quoted verbatim from `okrs-and-priorities.md` (there is no organic-traffic KR — say so if asked).
 8. **NEXT STEP** — exactly one offer, usually *"Run the draft through Agent 9 — Brand Guardian before it goes out."*
-9. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used, marked "as pasted"; `SKILL VERSION: 1.7.37`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
+9. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used, marked "as pasted"; `SKILL VERSION: 1.8.0`; *"No web search or connector was used. Nothing was sent, scheduled or published and no file was changed."*
 
 ---
 

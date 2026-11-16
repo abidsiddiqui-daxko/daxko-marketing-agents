@@ -1,6 +1,6 @@
 # Template — Agent 43 — Accessibility
 
-SKILL VERSION: 1.7.37 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets.
+SKILL VERSION: 1.8.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets.
 
 ---
 
@@ -75,4 +75,4 @@ Suggested fix (draft): [a darker or lighter shade for the designer to confirm; f
 
 **NEXT STEP** — [exactly one offer]
 
-**SOURCES** — [each file opened, sections, `as_of` from MANIFEST] · corrections: [master / snapshot / neither] · [as pasted / as pulled from [connector] on [date], read-only, with your permission / No connector was used] · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — [each file opened, sections, `as_of` from MANIFEST] · corrections: [master / snapshot / neither] · [as pasted / as pulled from [connector] on [date], read-only, with your permission / No connector was used] · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.

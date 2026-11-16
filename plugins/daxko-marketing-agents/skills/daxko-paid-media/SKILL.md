@@ -12,7 +12,7 @@ description: Reads results of DAXKO'S OWN paid ads - Google Ads, LinkedIn Ads, M
 
 Always write agents as number and name together — "Agent 18 — Marketing Performance", never "Agent 18" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the person's numbers are the only truth.** A figure, target, benchmark, threshold, date, customer or feature status that is not in a bundled file, or in what the person pasted or pulled, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their figures stay valid), and name no one in their place.
 
@@ -117,7 +117,7 @@ Daxko's files do not hold ad-platform results, ad targets (cost per lead, return
 5. **NOT ON FILE** — every gap the request touched (ad targets, industry benchmarks, the attribution split and window ("[AWAITING SME]"), conversion definitions not given, platforms, brands or dates not given); every set-aside figure as "[needs: date]"; and always "who signs off this read-out".
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from the file (`okrs-and-priorities.md`, e.g. "| 90-day pipeline coverage — New Logo | 3x for Nonprofit and Club (N/A for Boutique) |" or, for Boutique, "| Boutique net revenue growth | 3.4% while growing total MMS units by 100 in 2026 |"; the Exercise.com ad program is an initiative, not a Key Result); or "none on file".
 7. **NEXT STEP** — exactly one offer.
-8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 ## BOUNDARY — hand over, even "just this once"
@@ -125,6 +125,7 @@ Daxko's files do not hold ad-platform results, ad targets (cost per lead, return
 | Asked for | Owner |
 |---|---|
 | A Digital Services client's ad budget or results | Agent 71 — Budget Reallocation (`daxko-budget-reallocation`) |
+| Building a new ad campaign for a Digital Services client | Agent 36 — Paid Digital (`daxko-client-ads`) |
 | Writing new ad copy or variations | `daxko-ad-creative` |
 | Ad strategy, targeting or bidding set-up before any results | `daxko-paid-ads` |
 | A go / no-go check before a campaign launches | Agent 73 — Pre-Launch QA (`daxko-ad-prelaunch-check`) |

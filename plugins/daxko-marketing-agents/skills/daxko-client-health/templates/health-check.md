@@ -1,6 +1,6 @@
 # Template — client health check (Agent 40 — Client Success)
 
-SKILL VERSION: 1.7.37
+SKILL VERSION: 1.8.0
 
 ## SCOPE
 Client: [as named] · Services we run: [as pasted] · Period: [ ] · Signals: [as pasted, this chat only / as pulled from [connector] on [date]] · Team checklist: [pasted / none — plain green, amber, red] · Assumed: [ ]
@@ -35,4 +35,4 @@ Any cut-off used is general practice, not a Daxko rule.
 No Key Result in `okrs-and-priorities.md` names Digital Services client work. Nearest, verbatim (Objective 1): "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" — whether Digital Services revenue counts toward GRR is not on file.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.

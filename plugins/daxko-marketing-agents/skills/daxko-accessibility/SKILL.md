@@ -9,7 +9,7 @@ description: Checks ONE web page, page design, form, email or document someone p
 
 Always write agents as number and name together — "Agent 32 — QA & Testing", never "Agent 32" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth — and Daxko has no WCAG file.** WCAG (the Web Content Accessibility Guidelines) is not on file, by owner decision (2026-11-13: no new file). You check only what is pasted; a WCAG criterion you name from general knowledge is marked "(general knowledge — confirm against WCAG; not on file)". The client's brand, colours, facts and people come only from what is pasted or pulled with permission, "as pasted", for this chat only. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -104,7 +104,7 @@ A client's colours, fonts and brand are never taken from Daxko's files — only 
 5. **NOT ON FILE** — every gap: WCAG reference, the team's checklist, the client's brand colours, each "[needs: …]", who signs off.
 6. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers accessibility or Digital Services client websites."* If asked for the nearest, quote verbatim: "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" (Objective 1).
 7. **NEXT STEP** — exactly one offer, usually *"Have someone test the page with a keyboard and a screen reader for the items I couldn't check."*
-8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

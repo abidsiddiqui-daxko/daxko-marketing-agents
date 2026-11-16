@@ -9,7 +9,7 @@ description: Writes website copy for a Digital Services CLIENT - a YMCA, JCC, Bo
 
 Always write agents as number and name together — "Agent 28 — Information Architecture", never "Agent 28" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The client's facts come only from the person.** Daxko's files hold nothing about any client — not its programs, hours, prices, locations, staff, history, awards, reviews or numbers. Every client fact comes from what the person pastes (or pulls with permission, below) and is used for this chat only, cited "as pasted". A client fact you were not given is `[needs: …]` — never invented. Daxko's own brand rules apply only where Daxko's own name or services appear. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -96,7 +96,7 @@ More than three full pages → write three and offer the rest as the next batch.
 6. **NOT ON FILE** — every gap: each `[needs: …]`, the client's source for any claim, the brand guide if not pasted, who signs off.
 7. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 8. **NEXT STEP** — exactly one offer (usually: fill the `[needs: …]` gaps with the client, then the project lead reviews).
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -111,11 +111,12 @@ More than three full pages → write three and offer the rest as the next batch.
 | A WCAG accessibility audit | Agent 43 — Accessibility (`daxko-accessibility`) |
 | An update or status email to the client | Agent 26 — Client Communication (`daxko-client-updates`) |
 | A live client page's conversion | Agent 39 — CRO (`daxko-site-conversion`) · redesigning a form → `daxko-form-cro` |
-| Ads · social posts · an email sequence | `daxko-ad-creative` · `daxko-social-content` · Agent 15 — Email & Nurture (`daxko-email-nurture`) |
+| A client's ad campaign · a client's social posts · an email sequence | Agent 36 — Paid Digital (`daxko-client-ads`) · Agent 37 — Social Media (`daxko-client-social`) · Agent 15 — Email & Nurture (`daxko-email-nurture`) |
 | Moving the client's ad budget | Agent 71 — Budget Reallocation (`daxko-budget-reallocation`) |
 | Which of the client's pages to fix for search or AI answers, from Search Console numbers | Agent 34 — SEO & AEO (`daxko-site-seo`) · structured data `daxko-schema-markup` |
 | A brand check of Daxko's own copy | Agent 9 — Brand Guardian (`daxko-brand-guardian`) |
 | A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| Moving an old site's pages into the new site with the meaning unchanged | Agent 33 — Content Migration (`daxko-content-migration`) |
 | Publishing, loading into WordPress or a CMS, scheduling, sending | A human on the Digital Services team — you only draft |
 | A Daxko price, trial or discount | Sales |
 

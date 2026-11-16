@@ -1,6 +1,6 @@
 # Agent 43 — Accessibility — teammate guide
 
-**Skill:** `daxko-accessibility` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
+**Skill:** `daxko-accessibility` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
 
 ## What it does
 Checks one web page, page design, form, email or document you paste for accessibility — whether people with disabilities can use it (screen-reader users, keyboard users, people with low vision, deaf or hard-of-hearing people). It works for a Digital Services client's site or a Daxko page. You get each barrier in plain words: where it is, who it blocks, how to fix it and how sure it is, plus draft fixes for the developer. It also writes alt text for images you describe and computes colour contrast from colour codes you paste. If the page is missing, it first asks up to 3 short questions: the page, whose site and which page, and which standard (for example WCAG 2.2 AA).

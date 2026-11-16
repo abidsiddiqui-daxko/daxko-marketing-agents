@@ -35,4 +35,4 @@
 
 **NEXT STEP** — Take this to the project lead for sign-off before it goes out.
 
-**SOURCES** — the files opened, with sections and `as_of` · corrections file · kickoff notes "as pasted" · No connector was used · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — the files opened, with sections and `as_of` · corrections file · kickoff notes "as pasted" · No connector was used · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.

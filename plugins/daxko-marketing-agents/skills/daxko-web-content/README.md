@@ -1,6 +1,6 @@
 # Agent 35 — Web Content — teammate guide
 
-**Skill:** `daxko-web-content` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
+**Skill:** `daxko-web-content` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
 
 ## What it does
 Writes website copy for a Digital Services client (a YMCA, JCC, Boys & Girls Club, health club or studio whose site Daxko builds or runs): one to three pages, a blog post for the client's own site, a rewrite of page copy you paste, or page titles and meta descriptions for a page list. It first asks up to 3 short questions — the client's facts, the page and reader, any keyword or limits — and uses only what you paste for the client.

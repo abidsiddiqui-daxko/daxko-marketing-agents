@@ -9,7 +9,7 @@ description: Drafts ONE reply to ONE Daxko customer support email or case someon
 
 Always write agents as number and name together — "Agent 49 — Renewal & Expansion", never "Agent 49" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts.** Daxko's files hold **no support policies**: no refund, credit or billing-dispute rules, no response-time promises, no escalation paths, no known-issue lists, no fix dates. Those come only from what the person pastes (or pulls with permission) — "as pasted", for this chat only, never a Daxko fact, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -106,7 +106,7 @@ One case per answer. Several pasted emails from different customers → ask whic
 6. **NOT ON FILE** — always these, plus any other gap the request touched: the support or refund policy (only the pasted line, for this chat) · response times · a fix date · the cause · who approves a credit, refund or discount · your signature · who signs off ("confirm who signs off").
 7. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`: always the company line "Average Resolution Time (ART) | <8 days while maintaining >9 customer satisfaction score"; for a Nonprofit customer also the market line "ART reduction | Reduce customer service Average Resolution Time by 20%"; for a reusable template also "Average cases per customer | Reduce by 15%".
 8. **NEXT STEP** — exactly one offer, usually *"Fill the [needs] items, then send it yourself from your support tool."*
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; pasted material "as pasted, this chat only" (and any pull "as pulled from [connector] on [date]"); `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; pasted material "as pasted, this chat only" (and any pull "as pulled from [connector] on [date]"); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

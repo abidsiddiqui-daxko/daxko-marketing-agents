@@ -1,6 +1,6 @@
 # Read-out template — Agent 52 — Defect & Quality Intelligence
 
-> **SKILL VERSION: 1.7.37** · Shape only — never quote a figure from this file.
+> **SKILL VERSION: 1.8.0** · Shape only — never quote a figure from this file.
 
 **SCOPE** — Question: … · Market / product / period: … · Given: … · **Not given:** … · Left out as personal: … · Assumed: …
 
@@ -20,4 +20,4 @@
 **NOT ON FILE** — …
 **KEY RESULT** — verbatim line + file, or "none on file".
 **NEXT STEP** — one offer.
-**SOURCES** — files + sections + `as_of` · corrections file · "as pasted" / "as pulled from [connector] on [date]" or "No connector was used." · `SKILL VERSION: 1.7.37` · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files + sections + `as_of` · corrections file · "as pasted" / "as pulled from [connector] on [date]" or "No connector was used." · `SKILL VERSION: 1.8.0` · "No web search was used. Nothing was sent, scheduled, published or changed."

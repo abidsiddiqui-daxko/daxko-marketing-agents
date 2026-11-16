@@ -1,6 +1,6 @@
 # Daxko Paid Media — Agent 17 — Paid Media
 
-**Version:** 1.7.37 · **Skill:** `daxko-paid-media` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
+**Version:** 1.8.0 · **Skill:** `daxko-paid-media` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
 
 ## What it does, in plain words
 Paste last month's results from Google Ads, LinkedIn Ads or Meta for Daxko's own ads (Daxko, Club Automation, Zen Planner, Exercise.com). It tells you what worked, what didn't, and what a person could pause, scale or test — with every sum shown.

@@ -1,6 +1,6 @@
 # Template — conversion review (Agent 39 — CRO)
 
-SKILL VERSION: 1.7.37
+SKILL VERSION: 1.8.0
 
 ## SCOPE
 Site: [as named] · Pages or funnel: [ ] · Period: [dates — N days] · Lead = [tour / join / form] · Goal: [ ] · Limits: [ ] · Numbers: [as pasted, this chat only / as pulled from [connector] on [date]] · Assumed: [ ]
@@ -36,4 +36,4 @@ Hi [client contact], [3–5 plain sentences; no internal notes; no promised lift
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · [brief or numbers] as pasted, this chat only · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.
+[files opened, sections, as_of from MANIFEST] · [brief or numbers] as pasted, this chat only · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.

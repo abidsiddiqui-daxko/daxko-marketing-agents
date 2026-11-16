@@ -18,7 +18,7 @@ skill name that Claude uses to pick it (`daxko-email-nurture`). Skill names can 
 numbers and hyphens, so the two never look the same. Use this table to match them.
 
 **How to read this table:** one row per agent. *Skill #* counts the skills — Agents 63, 64 and 65 share
-skill #12, which is why there are 47 rows but only 45 skills. *Ask it like this* is copied from the
+skill #12, which is why there are 55 rows but only 53 skills. *Ask it like this* is copied from the
 skill's own description. *First published* is checked against the plugin repo's git history.
 *Batch 1* skills are out with stakeholders for testing and are not changed; *Batch 2* and *Batch 6* skills are live.
 
@@ -71,8 +71,16 @@ skill's own description. *First published* is checked against the plugin repo's 
 | 45 | 43 | 6 | Agent 40 — Client Success | `daxko-client-health` | Health check for one Digital Services client — rates each warning sign green, amber or red with the evidence, says what's at risk and who acts; can rank a list of clients. | "health check for our YMCA website client" | v1.7.37 | Live in claude.ai |
 | 46 | 44 | 6 | Agent 41 — Retention & Upsell | `daxko-client-retention-upsell` | For one Digital Services client: the next service that fits, or a save plan if they may cancel — no prices or discounts unless sales pastes them. | "this club client wants to cancel their SEO - save plan" | v1.7.37 | Live in claude.ai |
 | 47 | 45 | 6 | Agent 42 — Speed & Performance | `daxko-site-speed` | Reads a pasted PageSpeed or Lighthouse report for one website and lists the speed fixes in order, each tied to a line in the report — tests and changes nothing itself. | "what should we fix first from this PageSpeed report" | v1.7.37 | Live in claude.ai |
+| 48 | 46 | 6 | Agent 8 — CMO Orchestrator | `daxko-cmo-orchestrator` | For one goal or campaign, says which of our agents to use and in what order, what each needs and hands on, where the brand check sits, and which Key Result it serves. Does no agent's work; after your yes it can add the steps as tasks in your Asana project. | "which agents should we use for the Giving Tuesday push" | v1.8.0 | Live in claude.ai |
+| 49 | 47 | 6 | Agent 24 — Agency Orchestrator | `daxko-project-delivery` | Runs one Digital Services client project — plan by stage, what's late or blocked, next week's actions, internal status; can create Asana tasks after your yes. | "plan the Asana tasks for this YMCA website build" | v1.8.0 | Live in claude.ai |
+| 50 | 48 | 6 | Agent 30 — Frontend Development | `daxko-frontend-spec` | Turns one web page or template into a build spec in plain words for the web publishing team — sections, what goes in each slot, how it behaves, phone / tablet / desktop rules, accessibility needs and "done when" checks. Writes no code; after your yes it can put the spec in one Asana task or doc. | "build spec for our YMCA client's new homepage" | v1.8.0 | Live in claude.ai |
+| 51 | 49 | 6 | Agent 31 — Backend/CMS | `daxko-cms-setup` | Plans one client site's CMS setup — content types, fields, roles, forms, links, plugins, checklist; can create draft items after your yes. | "CMS setup plan for our YMCA client's new WordPress site" | v1.8.0 | Live in claude.ai |
+| 52 | 50 | 6 | Agent 33 — Content Migration | `daxko-content-migration` | Moves one client site's old pages to the new site — inventory, move map, cleaned text, redirect list, checks; can create draft pages after your yes. | "move the old site's pages into the new site" | v1.8.0 | Live in claude.ai |
+| 53 | 51 | 6 | Agent 36 — Paid Digital | `daxko-client-ads` | Builds one new ad campaign for a Digital Services client — structure, targeting, budget and dates as given, keywords as pasted, ad text, names and tracking tags — and, after your yes, can create it paused in their ad account. Never turns ads on or spends money. | "build the Google Ads campaign for our YMCA client's spring drive" | v1.8.0 | Live in claude.ai |
+| 54 | 52 | 6 | Agent 37 — Social Media | `daxko-client-social` | Plans and writes one client's social calendar — dates, platforms, post text, image notes, approval list — and, after your yes, can load the posts as unscheduled drafts. Never schedules or posts. | "social calendar for our YMCA client for March" | v1.8.0 | Live in claude.ai |
+| 55 | 53 | 6 | Agent 56 — Campaign Workflows | `daxko-campaign-golive` | Makes every channel of one Daxko campaign go live together — run-sheet, owners, a ready check per channel, go / no-go, slip plan — and, after your yes, can create internal Asana tasks and post one internal Slack message. Never sends, launches or publishes. | "launch checklist for our Q1 campaign across email, ads and social" | v1.8.0 | Live in claude.ai |
 
-45 skills, 47 agents.
+53 skills, 55 agents.
 
 More agents are added over time, one tested agent at a time. This table is updated with every release.
 

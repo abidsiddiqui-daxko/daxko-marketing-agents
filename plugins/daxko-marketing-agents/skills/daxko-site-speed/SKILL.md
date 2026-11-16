@@ -9,7 +9,7 @@ description: Reads the speed numbers for ONE website - a Digital Services CLIENT
 
 Always write agents as number and name together — "Agent 39 — CRO", never "Agent 39" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Numbers come only from the person.** Daxko's files hold no site's speed numbers, no Digital Services speed targets and no platform or hosting facts. Every number is "as pasted, this chat only" or "as pulled from [connector] on [date]". A number you were not given is `[needs: …]` — never invented, never estimated. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -101,7 +101,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells software �
 7. **NOT ON FILE** — every gap (missing metrics, pages, platform, hosting, speed targets, who signs off).
 8. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 9. **NEXT STEP** — exactly one offer.
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the numbers "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (If you pulled with permission, add: "Read-only pull from [connector]; nothing was changed.")
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the numbers "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (If you pulled with permission, add: "Read-only pull from [connector]; nothing was changed.")
 
 ---
 
@@ -120,7 +120,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells software �
 | An update email to the client | Agent 26 — Client Communication (`daxko-client-updates`) |
 | The client's account health | Agent 40 — Client Success (`daxko-client-health`) |
 | A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
-| Actually changing code, plugins, images, caching or settings | A developer on the Digital Services team (Agent 30 — Frontend Development is not a skill), after review |
+| Actually changing code, plugins, images, caching or settings | The website / web publishing team, after review; a build spec for the fixes → Agent 30 — Frontend Development (`daxko-frontend-spec`) |
 | Hosting, server or CDN changes | The site's hosting provider, through the Digital Services project lead |
 | A Daxko price or a Digital Services fee | Sales |
 | A sensitive detail that was pasted | Information Security |

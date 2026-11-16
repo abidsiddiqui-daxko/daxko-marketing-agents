@@ -1,6 +1,6 @@
 # Daxko Experiment Results — Agent 53 — Experiment & Feature Flag
 
-**Version:** 1.7.37 · **Skill:** `daxko-experiment-results` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
+**Version:** 1.8.0 · **Skill:** `daxko-experiment-results` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
 
 ## What it does, in plain words
 Paste the results of an A/B test or a feature-flag rollout. It checks whether the difference is real — enough people, a significance test worked out step by step, side effects — and says ship, stop or keep running, for a person to decide. It can also spot old flags to clean up.

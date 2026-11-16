@@ -1,6 +1,6 @@
 # Good read-out — what "right" looks like (Agent 6 — Pendo Engagement Intelligence)
 
-> **SKILL VERSION: 1.7.37** · Illustration only. Every name and number below is a placeholder. **Never quote a fact or figure from this file.**
+> **SKILL VERSION: 1.8.0** · Illustration only. Every name and number below is a placeholder. **Never quote a fact or figure from this file.**
 
 **SCOPE** — Question: [question] · Period: [start date] to [end date] · Given: [what was pasted, as pasted] · **Not given:** [named gaps] · Left out as personal: [kind of field, no values] · Assumed: [assumption].
 
@@ -21,4 +21,4 @@
 **NOT ON FILE** — [gaps].
 **KEY RESULT** — "[verbatim line]" — `okrs-and-priorities.md`.
 **NEXT STEP** — [one offer].
-**SOURCES** — [files, sections, as_of] · "as pasted" · No connector was used. · `SKILL VERSION: 1.7.37` · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — [files, sections, as_of] · "as pasted" · No connector was used. · `SKILL VERSION: 1.8.0` · No web search was used. Nothing was sent, scheduled, published or changed.

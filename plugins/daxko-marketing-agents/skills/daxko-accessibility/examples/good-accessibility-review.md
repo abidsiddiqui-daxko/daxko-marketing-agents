@@ -36,4 +36,4 @@ The person pasted the HTML of a "Join now" page for **Testford Valley YMCA** (a 
 
 **NEXT STEP** — Have someone test the page with a keyboard and a screen reader for the items I couldn't check.
 
-**SOURCES** — `ai-use-rules.md` (in full, as_of [from MANIFEST]) · corrections master read · page HTML as pasted · No connector was used · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — `ai-use-rules.md` (in full, as_of [from MANIFEST]) · corrections master read · page HTML as pasted · No connector was used · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.

@@ -1,6 +1,6 @@
 # Daxko Defect & Quality — Agent 52 — Defect & Quality Intelligence
 
-**Version:** 1.7.37 · **Skill:** `daxko-defect-quality` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
+**Version:** 1.8.0 · **Skill:** `daxko-defect-quality` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
 
 ## What it does, in plain words
 Paste a bug export from Jira (plus release dates or support-case counts) and ask where the problems are. It shows where bugs cluster, how fast critical bugs get fixed, how stable releases were and how support numbers move — every sum shown.

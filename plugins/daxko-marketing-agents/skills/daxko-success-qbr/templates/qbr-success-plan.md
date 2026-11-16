@@ -1,6 +1,6 @@
 # Template — QBR outline / success plan / playbook (Agent 48 — Success Playbook & QBR)
 
-SKILL VERSION: 1.7.37
+SKILL VERSION: 1.8.0
 
 **SCOPE** — shape · account (organization name only) · market · segment · quarter · attendees (roles) · what was pasted or pulled · what I assumed · "I left out the personal or sensitive details." (if any)
 
@@ -35,4 +35,4 @@ Agenda: [4–6 items]
 **NOT ON FILE** — account facts not given · health score method · renewal date · named case study · fix dates · Daxko QBR template · who signs off
 **KEY RESULT** — verbatim from `okrs-and-priorities.md` (internal only)
 **NEXT STEP** — one offer
-**SOURCES** — files + sections + MANIFEST `as_of` · corrections file · pasted material "as pasted" · `SKILL VERSION: 1.7.37` · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files + sections + MANIFEST `as_of` · corrections file · pasted material "as pasted" · `SKILL VERSION: 1.8.0` · "No web search was used. Nothing was sent, scheduled, published or changed."

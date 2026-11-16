@@ -1,6 +1,6 @@
 # Agent 29 — UX/UI Design — teammate guide
 
-**Skill:** `daxko-ux-design` · **Owner:** Abid Siddiqui · **Version:** 1.7.37
+**Skill:** `daxko-ux-design` · **Owner:** Abid Siddiqui · **Version:** 1.8.0
 
 ## What it does
 Designs a Digital Services client's website pages **in words**: a wireframe block by block (desktop and mobile), the list of parts the site needs, a simple design-system outline, or a review of a layout you paste. It uses only the brand and content you paste. A Daxko page only if you ask — then Daxko's own brand files (Barlow font) apply.

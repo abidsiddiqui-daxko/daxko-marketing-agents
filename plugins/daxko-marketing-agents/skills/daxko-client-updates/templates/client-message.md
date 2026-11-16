@@ -1,6 +1,6 @@
 # Template — one client message (Agent 26 — Client Communication)
 
-SKILL VERSION: 1.7.37 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets. One message per answer.
+SKILL VERSION: 1.8.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets. One message per answer.
 
 ---
 
@@ -60,4 +60,4 @@ Thanks,
 
 **NEXT STEP** — [exactly one offer — e.g. fill the [needs: …] gaps, then the project lead reviews and sends it]
 
-**SOURCES** — files opened (sections) · `as_of` from MANIFEST · corrections file · "as pasted" / "as pulled from [connector] on [date], read-only, with your permission" / "No connector was used" · SKILL VERSION: 1.7.37 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — files opened (sections) · `as_of` from MANIFEST · corrections file · "as pasted" / "as pulled from [connector] on [date], read-only, with your permission" / "No connector was used" · SKILL VERSION: 1.8.0 · No web search was used. Nothing was sent, scheduled, published or changed.

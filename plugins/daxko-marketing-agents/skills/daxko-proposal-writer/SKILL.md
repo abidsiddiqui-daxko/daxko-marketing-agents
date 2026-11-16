@@ -9,7 +9,7 @@ description: Drafts ONE Daxko sales proposal or statement of work (SOW) for one 
 
 Always write agents as number and name together — "Agent 21 — Sales Enablement", never "Agent 21" alone.
 
-> **SKILL VERSION: 1.7.37** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.8.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts.** A price, discount, trial, timeline, legal term, customer, result, quote, SLA or feature that is not in them is "not on file". Deal facts come only from what the person pastes or pulls — "as pasted" / "as pulled from [connector] on [date]", for this chat only, never a Daxko fact, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -119,7 +119,7 @@ One deal per answer. If the segment is unclear, ask (it counts toward the 3 ques
 5. **NOT ON FILE** — every gap the request touched; check each one: approved price (if not pasted) · discount rules · payment terms · SLAs · legal terms · implementation dates and team · who signs off · a missing case study · each `[needs: …]` item.
 6. **KEY RESULT** — verbatim from `okrs-and-priorities.md`: *"| Deal velocity improvement | 10% improvement (opportunity open → closed won) for all markets |"* (and *"| Annual bookings | \$41.8M (21.0% YoY growth) |"* when bookings are in play).
 7. **NEXT STEP** — exactly one offer, usually *"Run the draft through Agent 9 — Brand Guardian, then to your sales sign-off."*
-8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.7.37`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.8.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
