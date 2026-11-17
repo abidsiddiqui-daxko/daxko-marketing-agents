@@ -9,7 +9,7 @@ description: Writes the promotion for ONE Daxko event or webinar - trade show, c
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone. Several agents in one skill: "Agents 63, 64, 65 — Campaign & Content Strategists".
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Event facts come only from the person.** Daxko's files hold no event's dates, booth, sessions, speakers, partners, offers, giveaways, lists or deadlines. Every event fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` or a placeholder — never invented. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, never list them as an owner, and name no one in their place.
 
@@ -203,7 +203,7 @@ How you apply it:
 8. **NOT ON FILE** — every gap.
 9. **KEY RESULT** — quoted word for word from `okrs-and-priorities.md` with its section, or `[needs: which Key Result — event owner]`.
 10. **NEXT STEP** — exactly one offer.
-11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; event facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; any web page used after a yes (address, date); `SKILL VERSION: 1.10.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."* (if a web search was used after a yes, replace "No web search was used." with "Web search used after your yes: [pages].").
+11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; event facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; any web page used after a yes (address, date); `SKILL VERSION: 1.10.1`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."* (if a web search was used after a yes, replace "No web search was used." with "Web search used after your yes: [pages].").
 
 ---
 

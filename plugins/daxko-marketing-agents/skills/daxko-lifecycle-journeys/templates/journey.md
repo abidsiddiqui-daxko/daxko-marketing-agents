@@ -1,6 +1,6 @@
 # Template — lifecycle journey plan (Agent 16 — AI Lifecycle Orchestration)
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 ## SCOPE
 Journey: [onboarding / adoption / retention / expansion] · Product: [ ] · Segment: [ ] · Accounts: [N, as pasted] · Period: [dates — length] · Channels named: [ ] · Signals: [as pasted, this chat only / as pulled from [connector] on [date]] · Not given: [ ] · Left out as personal: [kind of field only] · Assumed: [ ]
@@ -28,4 +28,4 @@ Thresholds and timings not given by you are general practice, not a Daxko rule �
 ## KEY RESULT
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.10.0 · as pasted, this chat only · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.10.1 · as pasted, this chat only · No web search was used. Nothing was sent, scheduled, published or changed.

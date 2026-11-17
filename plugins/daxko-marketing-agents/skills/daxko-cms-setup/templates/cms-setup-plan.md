@@ -1,6 +1,6 @@
 # Template — Agent 31 — Backend/CMS — one client site
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 **SCOPE** — client and site [as named] · CMS [as named / needs] · shape [A / B / C / D] · pasted or pulled [what] · assumed [what]
 
@@ -49,4 +49,4 @@ SETUP CHECKLIST — 1. [step] · owner role · done when …
 
 **INTERNAL NOTES** · **DECLINED** [asked, in your own words · rule + file · named owner] · **NOT ON FILE** · **KEY RESULT** (None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.) · **NEXT STEP** (one offer)
 
-**SOURCES** — files and sections with `as_of` · corrections file · "as pasted, this chat only" / "as pulled from [connector] on [date]" · SKILL VERSION: 1.10.0 · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files and sections with `as_of` · corrections file · "as pasted, this chat only" / "as pulled from [connector] on [date]" · SKILL VERSION: 1.10.1 · "No web search was used. Nothing was sent, scheduled, published or changed."

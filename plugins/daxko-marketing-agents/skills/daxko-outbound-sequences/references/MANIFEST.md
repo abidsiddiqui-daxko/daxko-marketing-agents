@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-17 · **Skill:** `daxko-outbound-sequences` · **Skill version:** 1.10.0 · **Batch 2**
+**Generated:** 2026-11-17 · **Skill:** `daxko-outbound-sequences` · **Skill version:** 1.10.1 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-17 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `9faba5bf958bce8742a6636a6749516a6b43a9935a808c817fa4717cc1d708ba` | verbatim | 2026-11-17 | 2026-11-16 | 3 KB |
 | `outbound-sequence-intel.md` | `knowledge-base/outbound-sequence-intel.md` | `32f59d7dba5a17288a99744993ccd0e1bd2167e76d7e42d93a8ffb67beee6e74` | verbatim | 2026-11-17 | 2026-09-14 | 11 KB |
-| `corrections-snapshot.md` | `learnings/agent-19-outbound-sequences.md` | `222beb19bfbc555313da902f382d4b6b0198b77e08c6fb197b159486eb630c20` | converted | 2026-11-17 | 2026-11-17 | 3 KB |
+| `corrections-snapshot.md` | `learnings/agent-19-outbound-sequences.md` | `b27df1225d7b6dd20bcdaac7f5afe18ed32b573e0f7c68ae31da900567f62029` | converted | 2026-11-17 | 2026-11-17 | 3 KB |
 
 **23 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

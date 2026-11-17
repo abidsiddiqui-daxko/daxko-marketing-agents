@@ -1,6 +1,6 @@
 # Template — event and webinar asset specs (Agent 23 — Event & Webinar, event messaging)
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 Open only the sections for the assets the person chose. For each asset: ask its questions in rounds of **up to 3 per message** (skip any the brief already answers); if the person says "go ahead with what you have", use the default shown and mark the rest `[needs: …]`. Then draft it in the format below, under the DRAFT label from SKILL.md. Open the example file named for the asset and mirror its **format, structure and length only** — never an event name, date, stat, offer, speaker or quote from it.
 

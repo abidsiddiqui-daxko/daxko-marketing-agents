@@ -1,6 +1,6 @@
 # Template — Daxko outbound sequence (Agent 19 — BDR/AM Sequence Builder)
 
-> SKILL VERSION: 1.10.0 · Shape only. Fill from Daxko's files and the person's answers; never from the examples.
+> SKILL VERSION: 1.10.1 · Shape only. Fill from Daxko's files and the person's answers; never from the examples.
 
 ---
 
@@ -56,6 +56,12 @@ Hi {First Name},
 ### Step [n] — LinkedIn message (✋ Manual) — Day [n]
 [A short paragraph, one idea, one question — only after the connection step]
 
+### Step [n] — SMS (✋ Manual) — Day [n] (only if SMS was asked for)
+"Hi {First Name}, it's {Rep First Name} at [company]. [One short line, one question.] Reply STOP to opt out." — **[count] / 160 characters** · no link in the first text · only for contacts who agreed to receive texts
+
+### Step [n] — Social DM (✋ Manual) — Day [n] (only if social DMs were asked for — Instagram or Facebook)
+[Two to three short sentences, written like a person, one question, no link in the first message]
+
 ### Step [n] — Email ⚡ AUTOMATED — Day [n] (only if the person asked for automated)
 **Trigger:** [when it fires] · **Send-from:** maps to the rep so replies land with them · **Test:** send a test to yourself before go-live
 [No per-contact field the rep must fill — only fields the sales tool fills, each with a fallback]
@@ -78,6 +84,7 @@ Hi {First Name},
 - [ ] Copy re-read against the market voice and banned words
 - [ ] Any automated trigger, enrolment rule and exit rule checked
 - [ ] LinkedIn note counts ≤ 300 characters
+- [ ] SMS steps ≤ 160 characters with an opt-out line; text consent confirmed with marketing operations (only when there are SMS steps)
 - [ ] Days checked against the actual enrolment day
 
 ## INTERNAL NOTES
@@ -96,4 +103,4 @@ Source of each claim [file, section] · proof gaps · weak spots on file · self
 Run the draft copy through Agent 9 — Brand Guardian before it goes out.
 
 ## SOURCES
-[files and sections opened · each `as_of` from MANIFEST · corrections file · "as pasted, this chat only"] · SKILL VERSION: 1.10.0 · No web search or connector was used. Nothing was sent, enrolled, loaded or changed.
+[files and sections opened · each `as_of` from MANIFEST · corrections file · "as pasted, this chat only"] · SKILL VERSION: 1.10.1 · No web search or connector was used. Nothing was sent, enrolled, loaded or changed.

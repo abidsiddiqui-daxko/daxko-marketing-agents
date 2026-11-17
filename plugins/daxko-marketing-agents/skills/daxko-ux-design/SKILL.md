@@ -9,7 +9,7 @@ description: Designs how ONE website looks and is laid out, as text - a Digital 
 
 Always write agents as number and name together — "Agent 28 — Information Architecture", never "Agent 28" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The client's brand comes only from the person.** Daxko's files hold no client's colours, fonts, logo, photos, programs, locations, hours or prices. Each is "as pasted, this chat only"; a missing one is `[needs: …]` — never invented. **A client page never gets Daxko's colours or fonts.** Daxko's visual-brand files apply only when the page is Daxko's own. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -109,7 +109,7 @@ More than 3 pages → do the 3 most important (ask which) and list the rest as n
 7. **NOT ON FILE** — every gap (brand colours, fonts, logo, photos, content, platform or theme, breakpoints, DS templates, who signs off).
 8. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 9. **NEXT STEP** — exactly one offer.
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the brief "as pasted, this chat only"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the brief "as pasted, this chat only"; `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

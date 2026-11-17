@@ -9,7 +9,7 @@ description: Writes website copy for a Digital Services CLIENT - a YMCA, JCC, Bo
 
 Always write agents as number and name together — "Agent 28 — Information Architecture", never "Agent 28" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The client's facts come only from the person.** Daxko's files hold nothing about any client — not its programs, hours, prices, locations, staff, history, awards, reviews or numbers. Every client fact comes from what the person pastes (or pulls with permission, below) and is used for this chat only, cited "as pasted". A client fact you were not given is `[needs: …]` — never invented. Daxko's own brand rules apply only where Daxko's own name or services appear. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -96,7 +96,7 @@ More than three full pages → write three and offer the rest as the next batch.
 6. **NOT ON FILE** — every gap: each `[needs: …]`, the client's source for any claim, the brand guide if not pasted, who signs off.
 7. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 8. **NEXT STEP** — exactly one offer (usually: fill the `[needs: …]` gaps with the client, then the project lead reviews).
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

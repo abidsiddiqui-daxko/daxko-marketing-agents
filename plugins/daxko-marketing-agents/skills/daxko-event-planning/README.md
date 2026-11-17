@@ -1,6 +1,6 @@
 # Agent 23 — Event & Webinar (event planning) — teammate guide
 
-**Skill:** `daxko-event-planning` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-event-planning` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 **Sister skill:** `daxko-event-promotion` (Agent 23 — Event & Webinar, event messaging) writes all the promotion copy.
 
 ## What it does

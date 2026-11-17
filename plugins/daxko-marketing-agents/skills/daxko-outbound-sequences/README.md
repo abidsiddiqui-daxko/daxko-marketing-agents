@@ -1,10 +1,11 @@
 # Daxko Outbound Sequences — Agent 19 — BDR/AM Sequence Builder
 
-**Version:** 1.10.0 · **Skill name:** `daxko-outbound-sequences` · **Owner:** Abid Siddiqui
+**Version:** 1.10.1 · **Skill name:** `daxko-outbound-sequences` · **Owner:** Abid Siddiqui
 
 ## What it does (in plain words)
 Writes outreach that Daxko's reps send themselves: one cold email, or a sequence of steps over a few weeks.
-You choose the channels — **email only, calls only, LinkedIn only, or a mix** — and it gives back only those.
+You choose the channels — **email, calls, LinkedIn, SMS or social DMs, on their own or mixed** — and it gives back only those.
+It also writes follow-up for people who downloaded a report or guide, built around the findings you paste, up to 12+ touches.
 It works for BDRs and SDRs writing to new organizations, and for account managers writing to existing customers.
 
 ## How to use it

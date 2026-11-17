@@ -1,6 +1,6 @@
 # Agent 31 — Backend/CMS — teammate guide
 
-**Skill:** `daxko-cms-setup` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-cms-setup` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 
 ## What it does
 For one client website (a YMCA, JCC, club or studio site Daxko builds — or a Daxko site if you ask), it plans how the content system (CMS, such as WordPress) is set up: the kinds of content and the fields each holds, templates, menus, who can edit and publish, forms and where they go, integrations such as the join or registration links you paste, plugins, and a step-by-step setup checklist. It asks a few short questions at a time until it has the full picture. With your yes, it can read the CMS, and — only after showing you the exact list and getting your yes — create draft, unpublished items there.

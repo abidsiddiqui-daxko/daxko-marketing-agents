@@ -9,7 +9,7 @@ description: Writes ONE Daxko help-center article, FAQ or how-to from the produc
 
 Always write agents as number and name together — "Agent 51 — Roadmap & Release Briefing", never "Agent 51" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts — and they hold no product steps.** Menus, screens, buttons, settings, permissions, plan limits, error messages and fixes come only from what the person pastes (or pulls with permission) — "as pasted", for this chat only, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -98,7 +98,7 @@ One article per answer. Several topics → one article, and offer the next. The 
 6. **NOT ON FILE** — every gap the request touched (steps, error messages, troubleshooting fixes, URLs, who publishes, a roadmap item's status as the file states it).
 7. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`: usually "Average cases per customer | Reduce by 15%".
 8. **NEXT STEP** — exactly one offer, usually *"Have a product or support expert check every step, then publish it yourself."*
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; pasted material "as pasted, this chat only" (any pull "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; pasted material "as pasted, this chat only" (any pull "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

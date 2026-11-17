@@ -9,7 +9,7 @@ description: Plans the content system (CMS, such as WordPress) setup for ONE Dig
 
 Always write agents as number and name together — "Agent 28 — Information Architecture", never "Agent 28" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Client and site facts come only from the person.** Daxko's files hold no client's pages, CMS, hosting, forms, links, plugins or team, and no Daxko join or registration link format. Every site fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` — never invented. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -135,7 +135,7 @@ Corrections first. Work out the shape and which checklist items you have. Then r
 8. **NOT ON FILE** — every `[needs: …]` gap, plus Daxko join or registration link formats, CMS standards, an approved plugin list, hosting and who signs off.
 9. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."* (For a Daxko site, quote the initiative line above verbatim, labelled "an initiative, not a Key Result", only if it plainly applies.)
 10. **NEXT STEP** — exactly one offer (usually "Answer the questions above and I'll complete the plan", "Reply yes to create these drafts" or "Ask Agent 30 — Frontend Development for the developer build spec").
-11. **SOURCES** — every file you opened, and only those — including every file named anywhere in the reply, KEY RESULT included — with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; then exactly one closing line: *"No web search was used. Nothing was sent, scheduled, published or changed."* — or, only when a tool reported changes after the person's yes in this chat: *"Changed after your yes in this chat: [item list, tool, time]. Nothing was deleted, sent, published or launched."*
+11. **SOURCES** — every file you opened, and only those — including every file named anywhere in the reply, KEY RESULT included — with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; then exactly one closing line: *"No web search was used. Nothing was sent, scheduled, published or changed."* — or, only when a tool reported changes after the person's yes in this chat: *"Changed after your yes in this chat: [item list, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 

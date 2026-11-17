@@ -30,4 +30,4 @@
 
 **NEXT STEP** — Paste the competitors' price pages and I will add a price row, quoted as pasted.
 
-**SOURCES** — `brand-guidelines.md` (`## Tone by Content Type`, `### Voice rules by market`), `segment-language-guide.md` (`## YMCA`), `okrs-and-priorities.md` (Objective 1), each with its MANIFEST `as_of` · corrections master read · three pages as pasted · No connector was used · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — `brand-guidelines.md` (`## Tone by Content Type`, `### Voice rules by market`), `segment-language-guide.md` (`## YMCA`), `okrs-and-priorities.md` (Objective 1), each with its MANIFEST `as_of` · corrections master read · three pages as pasted · No connector was used · SKILL VERSION: 1.10.1 · No web search was used. Nothing was sent, scheduled, published or changed.

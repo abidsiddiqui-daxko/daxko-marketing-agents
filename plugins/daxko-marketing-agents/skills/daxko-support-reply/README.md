@@ -1,6 +1,6 @@
 # Agent 45 — CX Email & Response — teammate guide
 
-**Skill:** `daxko-support-reply` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-support-reply` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 
 ## What it does
 Drafts one reply to one customer support email or case you paste — a billing question, a how-to, a bug, an upset customer — for you to check and send. It can also write one reusable response template, or fix a reply you already drafted.

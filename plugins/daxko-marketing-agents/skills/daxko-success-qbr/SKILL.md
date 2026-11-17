@@ -9,7 +9,7 @@ description: Builds a quarterly business review (QBR) outline or a success plan 
 
 Always write agents as number and name together — "Agent 49 — Renewal & Expansion", never "Agent 49" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts — and they hold no account data.** Products held, goals, usage, support cases, NPS, health scores, contract and renewal dates come only from what the person pastes (or pulls with permission) — quoted "as given", for this chat only, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -107,7 +107,7 @@ One account (or one segment) per answer. A slide file → `pptx`, after the outl
 5. **NOT ON FILE** — every gap the request touched (account numbers not given, health score method, renewal date, renewal terms and price whenever price or renewal comes up, a named case study, fix dates, a Daxko QBR template, who signs off).
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`, internal only: the account's market GRR line (e.g. "GRR — Nonprofit | 93.9%").
 7. **NEXT STEP** — exactly one offer, usually *"Fill the [needs] items with your CSM records, then review it with your manager before the meeting."*
-8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; pasted material "as pasted, this chat only" (any pull "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; pasted material "as pasted, this chat only" (any pull "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

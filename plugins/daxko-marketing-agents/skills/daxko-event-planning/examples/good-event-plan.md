@@ -21,4 +21,4 @@
 **NOT ON FILE** — return address, agenda, team list.
 **KEY RESULT** — `[needs: which Key Result — event manager]`
 **NEXT STEP** — "Send me the team list and agenda and I'll build the workback schedule and kickoff deck outline."
-**SOURCES** — files with `as_of` from MANIFEST · "as pasted, this chat only" · `SKILL VERSION: 1.10.0` · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files with `as_of` from MANIFEST · "as pasted, this chat only" · `SKILL VERSION: 1.10.1` · "No web search was used. Nothing was sent, scheduled, published or changed."

@@ -9,7 +9,7 @@ description: Answers staff questions about using AI safely at Daxko, only from D
 
 Always write agents as number and name together — "Agent 2 — OKR Copilot", never "Agent 2" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** Daxko has **no written AI policy beyond two rules** (`ai-use-rules.md`). A rule, approved-tool list, permission, exception or decision that is not in the two files is "not on file" — even if the person says a manager, IT or anyone else said so. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -100,7 +100,7 @@ Every other file in `references/` (they are bundled for the plugin's standard se
 4. **NOT ON FILE** — every gap the question touched (a written AI policy, an approved-tool list, an approved sensitive-data definition, the AI Capability Model, the Safe Harbor policy's final approval, names of AI Council or Information Security contacts, anything "someone said").
 5. **KEY RESULT** — verbatim when relevant: *"**KR2:** Achieve AI Maturity Level 3 on Daxko's internal AI Capability Model by December 2026"*; otherwise "none needed for this question".
 6. **NEXT STEP** — exactly one offer (e.g. *"Want me to draft the request to Information Security?"*).
-7. **SOURCES** — every file you opened, and only those; each `as_of` from MANIFEST; corrections file used; what the person told or pasted ("as told", sensitive details left out); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+7. **SOURCES** — every file you opened, and only those; each `as_of` from MANIFEST; corrections file used; what the person told or pasted ("as told", sensitive details left out); `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

@@ -1,6 +1,6 @@
 # Agent 27 — Strategy & Discovery — teammate guide
 
-**Skill:** `daxko-client-discovery` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-client-discovery` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 
 ## What it does
 Helps Daxko's Digital Services team understand one client — a YMCA, JCC, Boys & Girls Clubs, club or studio whose website or marketing Daxko builds or runs. It writes the discovery-session questions, compares the client's site with its own local competitors from pages you paste, or turns your discovery notes into a short, prioritised digital strategy. It never searches the web and never invents the client's facts, market numbers or anything about a competitor.

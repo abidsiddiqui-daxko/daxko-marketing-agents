@@ -15,4 +15,4 @@ REDIRECT LIST — /[old-a] → /[new-a] · /[old-b] → /[new-b] · /[old-d] →
 
 **DECLINED** — the ask to set the redirects live tonight · `ai-use-rules.md` "Never: … publish a live page …" and this skill's rule 3 · the Digital Services developer.
 
-**SOURCES** — … · as pasted, this chat only · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — … · as pasted, this chat only · SKILL VERSION: 1.10.1 · No web search was used. Nothing was sent, scheduled, published or changed.

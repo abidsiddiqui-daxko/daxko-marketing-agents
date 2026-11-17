@@ -9,7 +9,7 @@ description: Onboards ONE new Digital Services client - a website build or redes
 
 Always write agents as number and name together — "Agent 58 — Proposal Generator", never "Agent 58" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts.** Daxko's files hold **no** Digital Services intake process, templates, service list, price list, SLAs, team names or sign-off chain. The client's brand, goals, numbers, people, pages and dates come **only** from what the person pastes or pulls — "as pasted" / "as pulled from [connector] on [date]", for this chat only, never a Daxko fact, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -102,7 +102,7 @@ All customer-readable text sits under **DRAFT — needs the project lead before 
 5. **NOT ON FILE** — every gap the request touched (`[needs: …]` items, DS process or service list, who signs off, dates not given).
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from `okrs-and-priorities.md` for the client's market: *"| GRR — Nonprofit | 93.9% |"* · *"| GRR — Club | 94.3% |"* · *"| GRR — Boutique | 81.8% |"* — or "none on file". There is no Digital Services Key Result; say so.
 7. **NEXT STEP** — exactly one offer, e.g. *"Want me to turn the client's answers into the requirements doc once they come back?"* or *"Take this to the project lead for sign-off before it goes out."*
-8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 

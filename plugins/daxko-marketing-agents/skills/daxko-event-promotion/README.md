@@ -1,6 +1,6 @@
 # Agent 23 — Event & Webinar (event messaging) — teammate guide
 
-**Skill:** `daxko-event-promotion` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-event-promotion` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 
 ## What it does
 For ONE Daxko event or webinar, it writes the promotion copy: pre- and post-event HubSpot emails, a sales outreach sequence (emails, calls, LinkedIn), 5 social posts, the event landing page, Pendo in-app messages, pre- and post-event blogs, sponsor pieces (push notifications, ads, organizer emails), booth copy (banners, table signs, handouts) and webinar pieces (registration page, invites, reminders, follow-up for attendees and no-shows, on-demand promotion). It asks about your messaging framework first, then the event brief, your main call to action and what you are promoting, then shows a menu to pick from. It asks up to 3 questions at a time and uses only what you paste. It is the upgraded version of Field Marketing's old `daxko-event-comms` skill.

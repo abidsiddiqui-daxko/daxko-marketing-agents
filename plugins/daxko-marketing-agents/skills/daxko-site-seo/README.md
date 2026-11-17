@@ -1,6 +1,6 @@
 # Agent 34 — SEO & AEO — teammate guide
 
-**Skill:** `daxko-site-seo` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-site-seo` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 
 ## What it does
 Gives one website — a Digital Services client's by default, Daxko's own if you say so — an ordered list of fixes so it shows up better on Google (SEO) and in AI answers like ChatGPT (AEO). You paste Search Console or Google Analytics numbers for one period (or, if you say yes, it reads them from a connector you already have). It checks the numbers add up, works out click rates, and says what to fix first, why, how big a job, who does it and what to watch — plus a short summary for the client.

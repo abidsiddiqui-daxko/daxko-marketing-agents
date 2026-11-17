@@ -1,6 +1,6 @@
 # Template — campaign launch run-sheet (Agent 56 — Campaign Workflows)
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 ## SCOPE
 Campaign: [as named] · Market and brand: [ ] · Channels: [ ] · Go-live: [date, time, time zone as given] · Facts: [as pasted, this chat only / as pulled from [connector] on [date]] · Assumed: [ ]
@@ -58,4 +58,4 @@ Reply **yes** to create exactly these [N] tasks in [project] and post this one m
 [quoted word for word from `okrs-and-priorities.md`, with its section] — or [needs: which Key Result — campaign owner]
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · [facts] as pasted, this chat only / as pulled from [connector] on [date] · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed. — OR, only after a yes and a connector result in this chat: Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched.
+[files opened, sections, as_of from MANIFEST] · [facts] as pasted, this chat only / as pulled from [connector] on [date] · SKILL VERSION: 1.10.1 · No web search was used. Nothing was sent, scheduled, published or changed. — OR, only after a yes and a connector result in this chat: Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched.

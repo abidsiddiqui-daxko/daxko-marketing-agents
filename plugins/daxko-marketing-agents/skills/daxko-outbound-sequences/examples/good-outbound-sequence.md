@@ -52,4 +52,4 @@ Reply rates and best send times · who signs off ("confirm who signs off").
 Run the draft copy through Agent 9 — Brand Guardian before it goes out.
 
 ## SOURCES
-[files and sections] · SKILL VERSION: 1.10.0 · No web search or connector was used. Nothing was sent, enrolled, loaded or changed.
+[files and sections] · SKILL VERSION: 1.10.1 · No web search or connector was used. Nothing was sent, enrolled, loaded or changed.

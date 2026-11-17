@@ -1,6 +1,6 @@
 # Template — support reply (Agent 45 — CX Email & Response)
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 ## Shape A — one reply
 
@@ -37,7 +37,7 @@ Hi [customer first name],
 
 **NEXT STEP** — one offer
 
-**SOURCES** — files + sections + MANIFEST `as_of` · corrections file · pasted material "as pasted" · `SKILL VERSION: 1.10.0` · "No web search was used. Nothing was sent, scheduled, published or changed."
+**SOURCES** — files + sections + MANIFEST `as_of` · corrections file · pasted material "as pasted" · `SKILL VERSION: 1.10.1` · "No web search was used. Nothing was sent, scheduled, published or changed."
 
 ## Shape B — response template
 As Shape A, every case fact as `[placeholder]`, plus: **Use when:** … · **Don't use when:** …

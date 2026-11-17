@@ -1,6 +1,6 @@
 # Template — budget reallocation (Agent 71 — Budget Reallocation)
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 ## SCOPE
 Client: [as named] · Period: [ ] · Channels: [ ] · Result = [lead / tour / join] · Goal: [ ] · Total budget: [fixed / changed by the person] · Limits: [ ] · Numbers: [as pasted / as pulled from [connector] on [date]] · Assumed: [ ]
@@ -28,4 +28,4 @@ Rows read: [ ] · Total spend re-added: [ ] vs stated [ ] · Mismatches: [ ] · 
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.10.1 · No web search was used. Nothing was sent, scheduled, published or changed.

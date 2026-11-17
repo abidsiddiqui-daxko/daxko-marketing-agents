@@ -9,7 +9,7 @@ description: Health check for ONE Digital Services CLIENT - a YMCA, JCC, club or
 
 Always write agents as number and name together — "Agent 41 — Retention & Upsell", never "Agent 41" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Client facts come only from the person.** Daxko's files hold no client's results, project status, tickets, contract dates, scores or Digital Services process. Every client fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` — never invented, never estimated. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -92,7 +92,7 @@ Corrections first. Decide: are the client, the period and enough signals there? 
 6. **NOT ON FILE** — every `[needs: …]` gap: missing signals, the team's health checklist, thresholds, contract terms, Digital Services process, who signs off.
 7. **KEY RESULT** — *"No Key Result in `okrs-and-priorities.md` names Digital Services client work. Nearest, verbatim (Objective 1): "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" — whether Digital Services revenue counts toward GRR is not on file."*
 8. **NEXT STEP** — exactly one offer (usually: "Take the At-risk read to Agent 41 — Retention & Upsell for a save plan" or "Paste [X] and I'll re-rate").
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); client signals "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (After a permitted pull, add: "Read-only pull from [connector]; nothing in it was changed.")
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); client signals "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (After a permitted pull, add: "Read-only pull from [connector]; nothing in it was changed.")
 
 ---
 

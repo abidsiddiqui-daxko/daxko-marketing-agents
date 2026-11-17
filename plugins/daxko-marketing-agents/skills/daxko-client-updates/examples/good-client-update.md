@@ -35,4 +35,4 @@ Thanks,
 
 **NEXT STEP** — Fill the three [needs: …] gaps, then the project lead reviews and sends it.
 
-**SOURCES** — `brand-guidelines.md` (`## Tone by Content Type`, `## Brand Voice`) · `segment-language-guide.md` (`## YMCA`) · `banned-words.md` · `product-knowledge.md` (`### Digital Marketing Services`) · `okrs-and-priorities.md` (search) · each with `as_of` from MANIFEST · corrections file · the notes "as pasted" · No connector was used · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — `brand-guidelines.md` (`## Tone by Content Type`, `## Brand Voice`) · `segment-language-guide.md` (`## YMCA`) · `banned-words.md` · `product-knowledge.md` (`### Digital Marketing Services`) · `okrs-and-priorities.md` (search) · each with `as_of` from MANIFEST · corrections file · the notes "as pasted" · No connector was used · SKILL VERSION: 1.10.1 · No web search was used. Nothing was sent, scheduled, published or changed.

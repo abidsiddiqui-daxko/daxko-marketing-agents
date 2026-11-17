@@ -9,7 +9,7 @@ description: Builds ONE new paid ad campaign for a Digital Services CLIENT - Goo
 
 Always write agents as number and name together — "Agent 73 — Pre-Launch QA", never "Agent 73" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Client facts come only from the person.** Daxko's files hold no client's offer, prices, budget, keywords, audiences, landing pages or ad accounts. Every client fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` — never invented, never estimated. Daxko's own brand files apply only where Daxko's own name or services appear. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -134,7 +134,7 @@ How you apply it:
 7. **NOT ON FILE** — every gap.
 8. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 9. **NEXT STEP** — exactly one offer (usually the pre-launch check by Agent 73 — Pre-Launch QA).
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; client facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.10.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; client facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.10.1`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 

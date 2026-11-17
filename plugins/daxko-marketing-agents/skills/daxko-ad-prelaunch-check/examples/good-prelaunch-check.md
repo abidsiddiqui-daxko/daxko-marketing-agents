@@ -34,6 +34,6 @@
 
 **NEXT STEP** — Paste the corrected settings and I'll re-check them.
 
-**SOURCES** — `ai-use-rules.md` (in full) · `okrs-and-priorities.md` (search) · each `as_of` from MANIFEST · corrections file read · settings, brief and convention as pasted · No connector was used · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — `ai-use-rules.md` (in full) · `okrs-and-priorities.md` (search) · each `as_of` from MANIFEST · corrections file read · settings, brief and convention as pasted · No connector was used · SKILL VERSION: 1.10.1 · No web search was used. Nothing was sent, scheduled, published or changed.
 
 **Why this is good:** every Result cites the pasted line it compared; the budget math is shown, not described; the unknown is "Not given", not assumed; the landing page is "not opened"; the verdict follows the rule (any Fix → NO-GO); the FIX LIST is steps for a human — nothing was launched, edited or re-budgeted.

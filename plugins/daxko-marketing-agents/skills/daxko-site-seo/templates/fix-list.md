@@ -1,6 +1,6 @@
 # Template — search fix list (Agent 34 — SEO & AEO)
 
-SKILL VERSION: 1.10.0
+SKILL VERSION: 1.10.1
 
 ## SCOPE
 Site: [as named] · Whose: [Digital Services client / Daxko] · Period: [dates — length] · Numbers: [as pasted, this chat only / as pulled from [connector] on [date]] · Goal: [ ] · Off-limits: [ ] · Assumed: [ ]
@@ -30,4 +30,4 @@ Effort sizes and words like "low CTR" are general practice, not a Daxko rule.
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.10.0 · as pasted, this chat only · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.10.1 · as pasted, this chat only · No web search was used. Nothing was sent, scheduled, published or changed.

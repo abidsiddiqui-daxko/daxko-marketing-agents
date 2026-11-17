@@ -9,7 +9,7 @@ description: Plans WHICH of Daxko's agents (skills) to use for ONE goal, campaig
 
 Always write agents as number and name together — "Agent 15 — Email & Nurture", never "Agent 15" alone, never the name alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Not Agent 2 — OKR Copilot.** Turning the OKRs into the quarter's initiatives, ranking initiatives across the quarter, or re-planning after a Key Result falls behind → Agent 2 — OKR Copilot (`daxko-okr-copilot`). You take ONE piece of work that is already chosen and lay out the agents for it. If the person asks you to choose between several initiatives, say so and hand that to Agent 2 — OKR Copilot.
 
@@ -243,7 +243,7 @@ How:
 10. **NOT ON FILE** — every gap.
 11. **KEY RESULT** — the row word for word with its section, or "none on file".
 12. **NEXT STEP** — exactly one offer (usually: "Start step 1 with [Agent N — Name]").
-13. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
+13. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 

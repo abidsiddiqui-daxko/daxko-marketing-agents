@@ -1,6 +1,6 @@
 # Agent 1 — AI Strategy & Governance — teammate guide
 
-**Skill:** `daxko-ai-governance` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
+**Skill:** `daxko-ai-governance` · **Owner:** Abid Siddiqui · **Version:** 1.10.1
 
 ## What it does
 Answers "can I use this AI tool?", "can I paste this into Claude?" and "may AI do this task?" — only from Daxko's two AI rules (use only approved connectors; don't paste sensitive data) and the AI Agent Safe Harbor policy (still a draft). Each answer says one of three things — fits the rules on file, breaks them, or is not covered (ask Information Security) — quotes the rule, and names who decides. It can also draft a request to Information Security for a new tool.

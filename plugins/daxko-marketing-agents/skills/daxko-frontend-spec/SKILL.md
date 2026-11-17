@@ -9,7 +9,7 @@ description: Writes a developer BUILD SPEC in plain words for ONE web page or te
 
 Always write agents as number and name together — "Agent 29 — UX/UI Design", never "Agent 29" alone.
 
-> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.1** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **NO CODE — ever.** No HTML, CSS, JavaScript, PHP, JSON, Liquid, shortcodes, class names, selectors, regular expressions, code blocks or "just a small snippet" — even when asked, even "only as an example". Describe everything in words: *"Validation: the email field shows 'Please enter a valid email address' under the field when the visitor leaves it empty or types no @."* If asked for code, decline: owner — the website / web publishing team.
 
@@ -156,7 +156,7 @@ How:
 8. **NOT ON FILE** — every gap.
 9. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."* (A Daxko page: quote the nearest real Key Result word for word, or "none on file".)
 10. **NEXT STEP** — exactly one offer.
-11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [item, tool, time]. Nothing was deleted, sent, published or launched."*
+11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.1`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [item, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 

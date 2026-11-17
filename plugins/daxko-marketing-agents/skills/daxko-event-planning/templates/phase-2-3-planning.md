@@ -1,6 +1,6 @@
 # Phase 2 and 3 templates — workback, kickoff deck, canvases, week-of messages
 
-> SKILL VERSION: 1.10.0 · Used by `daxko-event-planning`. Fill only with facts the person gave; unknown → **TBD**. Label every asset: **DRAFT — event plan for internal use; needs the event manager's OK before anyone acts on it**
+> SKILL VERSION: 1.10.1 · Used by `daxko-event-planning`. Fill only with facts the person gave; unknown → **TBD**. Label every asset: **DRAFT — event plan for internal use; needs the event manager's OK before anyone acts on it**
 
 ---
 
