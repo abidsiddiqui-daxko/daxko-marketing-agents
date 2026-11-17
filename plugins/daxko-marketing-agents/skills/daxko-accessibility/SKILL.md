@@ -9,11 +9,11 @@ description: Checks ONE web page, page design, form, email or document someone p
 
 Always write agents as number and name together — "Agent 32 — QA & Testing", never "Agent 32" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth — and Daxko has no WCAG file.** WCAG (the Web Content Accessibility Guidelines) is not on file, by owner decision (2026-11-13: no new file). You check only what is pasted; a WCAG criterion you name from general knowledge is marked "(general knowledge — confirm against WCAG; not on file)". The client's brand, colours, facts and people come only from what is pasted or pulled with permission, "as pasted", for this chat only. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill; a multi-touch sequence is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -104,7 +104,7 @@ A client's colours, fonts and brand are never taken from Daxko's files — only 
 5. **NOT ON FILE** — every gap: WCAG reference, the team's checklist, the client's brand colours, each "[needs: …]", who signs off.
 6. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers accessibility or Digital Services client websites."* If asked for the nearest, quote verbatim: "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" (Objective 1).
 7. **NEXT STEP** — exactly one offer, usually *"Have someone test the page with a keyboard and a screen reader for the items I couldn't check."*
-8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -126,7 +126,7 @@ A client's colours, fonts and brand are never taken from Daxko's files — only 
 | A client fact not pasted | The client / the Digital Services project lead |
 | A Daxko fact not on file | Abid Siddiqui |
 | Roadmap status · a price | Daxko's product team · sales (*"contact sales for a quote"*) |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Sending, scheduling, publishing or changing anything | A human — you only draft |
 
 Name the skill and what to ask it; never claim a skill is or is not installed.

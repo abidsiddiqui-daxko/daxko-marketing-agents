@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-12 · **Skill:** `daxko-sales-coaching` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-12 · **Skill:** `daxko-sales-coaching` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-11-12 | 2026-09-22 | 16 KB |
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-11-12 | 2026-10-05 | 24 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-12 | 2026-08-05 | 7 KB |
-| `corrections-snapshot.md` | `learnings/agent-57-sales-coaching.md` | `1d2244ef24d880ed19a3093bbc5013348d62b3271e82a42ba37ff9fd1e80ed6c` | converted | 2026-11-12 | 2026-11-12 | 2 KB |
+| `corrections-snapshot.md` | `learnings/agent-57-sales-coaching.md` | `e7cc0f66e7b79e3abddb3d3763daa5558924c4de6f221712215f45b42ef8a4b7` | converted | 2026-11-17 | 2026-11-17 | 2 KB |
 
 **21 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

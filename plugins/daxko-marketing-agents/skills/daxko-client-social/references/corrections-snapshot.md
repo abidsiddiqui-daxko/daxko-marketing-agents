@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-37-client-social.md` taken 2026-11-16. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-37-client-social.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 37 — Social Media
 
@@ -14,3 +14,4 @@
 - [2026-11-16] [PREFERENCE] Scheduling a public post to go out counts as posting to the public and is never done by the skill; anything created in an ad account, CMS or scheduler is created paused, draft or unscheduled; internal Slack or Asana items are allowed after a yes, anything a client or the public would see stays a DRAFT for a person to send (owner decision, Batch 6 round 3 handoff) — Abid Siddiqui
 - [2026-11-16] [PREFERENCE] Plans and writes ONE client's social calendar and posts; dates, programs, offers and hashtags only as given; posting times and character guidance labelled general practice, not a Daxko rule. After a yes it may load posts as UNSCHEDULED drafts in the client's scheduling tool; it never schedules, publishes, replies to comments or messages, or deletes. No child or member is named or identifiable in a post, and a photo of a person needs the client's confirmed consent ([needs: …] otherwise). Daxko's own social → `daxko-social-content`. No question asked of the owner: safe defaults existed (Batch 6 round 3 handoff) — Abid Siddiqui (default)
 - [2026-11-16] [PATTERN] Testing found two slips the rules now block: a weekday not checked against its date ("Tuesday 17 March 2027" is a Wednesday) carried into every later date, and an approval deadline or past Daxko result used in the wrong place. Every total and every weekday is now checked before use; a mismatch is flagged and asked, never built on — Claude Code (R3-S2 tests)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

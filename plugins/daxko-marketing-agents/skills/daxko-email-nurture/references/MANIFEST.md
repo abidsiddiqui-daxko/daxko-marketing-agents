@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-11 · **Skill:** `daxko-email-nurture` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-11 · **Skill:** `daxko-email-nurture` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | `boutique-martial-arts-playbook.md` | `verticals/boutique-martial-arts-playbook.md` | `d4a962cca09201f8af363e95d9ae3eb74d2b5194612eb05157f13441f0bb3a48` | verbatim | 2026-11-11 | 2026-09-22 | 16 KB |
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-11-11 | 2026-10-05 | 24 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-11 | 2026-08-05 | 7 KB |
-| `corrections-snapshot.md` | `learnings/agent-15-email-nurture.md` | `771a6401f090397954b3e47eeaefea81304cdc19ff6949c8b134c123efc4ac6c` | converted | 2026-11-11 | 2026-11-11 | 1 KB |
+| `corrections-snapshot.md` | `learnings/agent-15-email-nurture.md` | `c12d4e4f7c2de330999229a56453efaef91da2a3adfa0ddf9d4f01f6faf3f5f8` | converted | 2026-11-17 | 2026-11-17 | 2 KB |
 
 **21 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

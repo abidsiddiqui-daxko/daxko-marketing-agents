@@ -1,6 +1,6 @@
 # Any-time templates — organizer deliverables wrangler and event-day field guide
 
-> SKILL VERSION: 1.9.0 · Used by `daxko-event-planning`. Fill only with facts the person gave; unknown → **TBD**.
+> SKILL VERSION: 1.10.0 · Used by `daxko-event-planning`. Fill only with facts the person gave; unknown → **TBD**.
 
 ---
 

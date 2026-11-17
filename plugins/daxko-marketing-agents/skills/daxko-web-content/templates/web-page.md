@@ -1,6 +1,6 @@
 # Template — client web page (Agent 35 — Web Content)
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 ## SCOPE
 Shape: [A new page / B rewrite / C titles and metas] · Client: [as named] · Segment: [YMCA / JCC / Boys & Girls Clubs / community center / club / studio] · Page(s): [ ] · Reader: [ ] · Call to action: [ ] · Focus keyword: [theirs or "none given"] · Pasted: [ ] · Assumed: [ ]
@@ -33,4 +33,4 @@ Shape: [A new page / B rewrite / C titles and metas] · Client: [as named] · Se
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-… · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+… · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

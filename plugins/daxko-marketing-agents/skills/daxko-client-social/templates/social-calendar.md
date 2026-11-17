@@ -1,6 +1,6 @@
 # Template — client social calendar (Agent 37 — Social Media)
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 ## SCOPE
 Client: [as named] · Platforms: [ ] · Period: [ ] · Goal: [ ] · Facts: [as pasted, this chat only / as pulled from [connector] on [date]] · Assumed: [ ]
@@ -55,4 +55,4 @@ Reply **yes** to create exactly these [N] unscheduled drafts in [tool]. You will
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · [facts] as pasted, this chat only / as pulled from [connector] on [date] · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed. — OR, only after a yes and a connector result in this chat: Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched.
+[files opened, sections, as_of from MANIFEST] · [facts] as pasted, this chat only / as pulled from [connector] on [date] · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed. — OR, only after a yes and a connector result in this chat: Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched.

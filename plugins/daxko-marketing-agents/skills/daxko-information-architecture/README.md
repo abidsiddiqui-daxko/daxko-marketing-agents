@@ -1,6 +1,6 @@
 # Agent 28 — Information Architecture — teammate guide
 
-**Skill:** `daxko-information-architecture` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-information-architecture` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Plans how a website is organised — the page tree (sitemap), main and footer menus, web addresses and what each page is for — for a Digital Services client's site or a Daxko site. For an existing site it gives a new structure, a list of changes and an old-to-new address map (redirect map). It first asks up to 3 short questions: what the site must hold, who visits and why, and anything fixed.

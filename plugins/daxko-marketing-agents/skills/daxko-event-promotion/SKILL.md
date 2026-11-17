@@ -1,6 +1,6 @@
 ---
 name: daxko-event-promotion
-description: Writes the promotion for ONE Daxko event or webinar - trade show, conference, sponsorship or webinar - from the pasted brief and messaging framework: pre- and post-event HubSpot emails, an event sales sequence with call and LinkedIn steps, 5 social posts, the landing page, Pendo in-app messages, event blogs, sponsor push notifications, ads and organizer emails, booth banners, table signs and handouts, and webinar registration page, invites, reminders and no-show follow-up. Asks in short rounds; never invents stats, quotes, speakers or offers. After a yes it may save unsent drafts in HubSpot or Salesloft; never sends, publishes or schedules. Use for "event assets for NAYDO", "webinar invite and reminder emails", "booth banner copy for HFA". NOT event logistics, travel, workback or the post-event ROI recap - daxko-event-planning. NOT a nurture with no event - daxko-email-nurture. NOT a launch kit with no event - daxko-content-production. NOT a sequence built in Gong - gong-sequence-builder.
+description: Writes the promotion for ONE Daxko event or webinar - trade show, conference, sponsorship or webinar - from the pasted brief and messaging framework: pre- and post-event HubSpot emails, an event sales sequence with call and LinkedIn steps, 5 social posts, the landing page, Pendo in-app messages, event blogs, sponsor push notifications, ads and organizer emails, booth banners, table signs and handouts, and webinar registration page, invites, reminders and no-show follow-up. Asks in short rounds; never invents stats, quotes, speakers or offers. After a yes it may save unsent drafts in HubSpot or Salesloft; never sends, publishes or schedules. Use for "event assets for NAYDO", "webinar invite and reminder emails", "booth banner copy for HFA". NOT event logistics, travel, workback or the post-event ROI recap - daxko-event-planning. NOT a nurture with no event - daxko-email-nurture. NOT a launch kit with no event - daxko-content-production. NOT outreach not tied to an event - daxko-outbound-sequences.
 ---
 
 # Daxko Event Promotion — Agent 23 — Event & Webinar (event messaging)
@@ -9,11 +9,11 @@ description: Writes the promotion for ONE Daxko event or webinar - trade show, c
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone. Several agents in one skill: "Agents 63, 64, 65 — Campaign & Content Strategists".
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Event facts come only from the person.** Daxko's files hold no event's dates, booth, sessions, speakers, partners, offers, giveaways, lists or deadlines. Every event fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` or a placeholder — never invented. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, never list them as an owner, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. You write the event sales sequence as copy for Salesloft or Outreach; a sequence to be **built in Gong** (Gong Engage, Gong variables, a Word file for MOPs) is handed to `gong-sequence-builder` by name. Never build, copy or imitate it.
+> **Outreach not tied to this event goes to Agent 19.** You write the event sales sequence as tool-neutral copy for whatever sales tool the team uses. BDR, SDR or account-manager outreach that is not about one Daxko event is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`).
 
 ---
 
@@ -123,7 +123,7 @@ These are the same Daxko files the market copywriters (`daxko-nonprofit-copywrit
 >
 > **📣 Event Promotion**
 > - [ ] **HubSpot campaign** — marketing nurture email series (pre + post-event)
-> - [ ] **Sales outreach sequence** — personalized pre/post-event sequence with call steps (for Salesloft / Outreach; a Gong build goes to `gong-sequence-builder`)
+> - [ ] **Sales outreach sequence** — personalized pre/post-event sequence with call steps (tool-neutral copy for the team's sales tool; outreach not tied to the event → `daxko-outbound-sequences`)
 > - [ ] **Social campaign** — 5 posts across formats (announcement, speaker/session, partner, book a meeting, see you next week)
 > - [ ] **Landing page** — event-specific page with clear CTA (demo form or meeting scheduler) + SEO meta
 > - [ ] **Pendo messages** — in-app notifications for existing customers
@@ -203,7 +203,7 @@ How you apply it:
 8. **NOT ON FILE** — every gap.
 9. **KEY RESULT** — quoted word for word from `okrs-and-priorities.md` with its section, or `[needs: which Key Result — event owner]`.
 10. **NEXT STEP** — exactly one offer.
-11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; event facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; any web page used after a yes (address, date); `SKILL VERSION: 1.9.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."* (if a web search was used after a yes, replace "No web search was used." with "Web search used after your yes: [pages].").
+11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; event facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; any web page used after a yes (address, date); `SKILL VERSION: 1.10.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."* (if a web search was used after a yes, replace "No web search was used." with "Web search used after your yes: [pages].").
 
 ---
 
@@ -225,7 +225,7 @@ How you apply it:
 | Paid ad variants for Daxko's own ad campaigns | `daxko-ad-creative`; Daxko's ad results → Agent 17 — Paid Media (`daxko-paid-media`) |
 | A webinar recording turned into many formats | Agent 14 — Content Repurposing (`daxko-content-repurposing`) |
 | A sales one-pager, deck or talk track not tied to an event | Agent 21 — Sales Enablement (`daxko-sales-kit`) |
-| A multi-touch sequence built in Gong | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| BDR, SDR or account-manager outreach not tied to one Daxko event | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A brand check of the drafts | Agent 9 — Brand Guardian (`daxko-brand-guardian`); a live page → `daxko-brand-qa` |
 | A customer quote, story or logo approval | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`) |
 | Whether an AI or product feature has shipped | Agent 51 — Roadmap & Release Briefing (`daxko-release-briefing`); ship dates → Daxko's product team |

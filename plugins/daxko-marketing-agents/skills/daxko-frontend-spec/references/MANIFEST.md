@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-16 · **Skill:** `daxko-frontend-spec` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-16 · **Skill:** `daxko-frontend-spec` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | `color-system.md` | `visual-brand/color-system.md` | `b3deb87185aa88bbd0a231c3b0c5facb0706f53ee07091649cb18604c7a828b2` | verbatim | 2026-11-16 | 2026-05-28 | 24 KB |
 | `typography-system.md` | `visual-brand/typography-system.md` | `c5b7dd44867ee989027c210db9ee8e31b500cd5530e3e81a73ba43b58369d237` | verbatim | 2026-11-16 | 2026-05-28 | 7 KB |
 | `layout-and-spacing.md` | `visual-brand/layout-and-spacing.md` | `c0c1b5ef3b6a40784abf4910679f95373fece699c17a27fc3de063e493a79981` | verbatim | 2026-11-16 | 2026-09-02 | 15 KB |
-| `corrections-snapshot.md` | `learnings/agent-30-frontend-spec.md` | `e5ab752770859d6bb46e6f0c41c784f778cd73d6af1ad3ab5ee834cc3580f037` | converted | 2026-11-16 | 2026-11-16 | 4 KB |
+| `corrections-snapshot.md` | `learnings/agent-30-frontend-spec.md` | `7c95690d3c0743a64bb71a5c8745950367fb977c10245a5d9060bc74a3315b04` | converted | 2026-11-17 | 2026-11-17 | 5 KB |
 
 **25 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-26-client-updates.md` taken 2026-11-14. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-26-client-updates.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 26 — Client Communication
 
@@ -10,3 +10,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or replaced; this skill only redirects multi-touch sequences to it — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or free trials (Pricing Framework; ruled 2026-11-11) — contact sales for a quote — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Sign-off chain is not on file — write "confirm who signs off"; Constance Miller and Anna Klement have left Daxko — never route to them — Abid Siddiqui
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

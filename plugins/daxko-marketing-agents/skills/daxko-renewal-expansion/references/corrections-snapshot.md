@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-49-renewal-expansion.md` taken 2026-11-12. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-49-renewal-expansion.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 49 — Renewal & Expansion
 
@@ -11,3 +11,4 @@
 - [2026-11-12] [PREFERENCE] No exact prices, discounts or renewal terms (Pricing Framework beats the Zen Planner $99 and Engage AI $199 lines) — ruled for Agent 21 on 2026-11-11; applies here — Abid Siddiqui
 - [2026-11-12] [PREFERENCE] Who signs off a renewal or expansion offer, and who approves a discount or term change, are not on file — write "confirm who signs off" / "confirm who approves", name no one (default) — Abid Siddiqui
 - [2026-11-10] [PREFERENCE] "Lead with mission impact" in nonprofit-playbook.md conflicts with its Never list and banned-words.md: the ban wins, never write "impact" in Nonprofit content — Abid Siddiqui
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

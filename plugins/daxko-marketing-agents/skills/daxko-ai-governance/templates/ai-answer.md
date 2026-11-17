@@ -1,6 +1,6 @@
 # Template — Agent 1 — AI Strategy & Governance
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 ## Turn 1 when tool, data or purpose is missing
 **SCOPE** — one line.

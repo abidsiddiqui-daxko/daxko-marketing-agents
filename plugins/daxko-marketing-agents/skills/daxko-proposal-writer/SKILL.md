@@ -9,11 +9,11 @@ description: Drafts ONE Daxko sales proposal or statement of work (SOW) for one 
 
 Always write agents as number and name together — "Agent 21 — Sales Enablement", never "Agent 21" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts.** A price, discount, trial, timeline, legal term, customer, result, quote, SLA or feature that is not in them is "not on file". Deal facts come only from what the person pastes or pulls — "as pasted" / "as pulled from [connector] on [date]", for this chat only, never a Daxko fact, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A follow-up sequence after the proposal — calls, emails, LinkedIn, Gong Engage steps — is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -73,7 +73,7 @@ Only to quote a Key Result: `references/okrs-and-priorities.md`.
 | `references/corrections-snapshot.md` | Fallback. If neither exists, say so in SOURCES |
 
 ### Never opened
-`product-marketing-context.md`, `shared-learnings-legacy.md`, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including the old org skill's and Gong's), any price book, contract or proposal on the person's computer that they did not paste.
+`product-marketing-context.md`, `shared-learnings-legacy.md`, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including the old org skill's), any price book, contract or proposal on the person's computer that they did not paste.
 
 ---
 
@@ -119,7 +119,7 @@ One deal per answer. If the segment is unclear, ask (it counts toward the 3 ques
 5. **NOT ON FILE** — every gap the request touched; check each one: approved price (if not pasted) · discount rules · payment terms · SLAs · legal terms · implementation dates and team · who signs off · a missing case study · each `[needs: …]` item.
 6. **KEY RESULT** — verbatim from `okrs-and-priorities.md`: *"| Deal velocity improvement | 10% improvement (opportunity open → closed won) for all markets |"* (and *"| Annual bookings | \$41.8M (21.0% YoY growth) |"* when bookings are in play).
 7. **NEXT STEP** — exactly one offer, usually *"Run the draft through Agent 9 — Brand Guardian, then to your sales sign-off."*
-8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -138,7 +138,7 @@ One deal per answer. If the segment is unclear, ask (it counts toward the 3 ques
 | Contract wording, liability, legal or payment terms | Daxko's legal team (not on file) |
 | Implementation dates, go-live, staffing | Daxko's implementation team (not on file) |
 | A Word or PDF file of the approved draft | `docx` · `pdf` |
-| A follow-up sequence (calls, emails, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A follow-up sequence (emails, calls, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A brand check before it goes out | Agent 9 — Brand Guardian (`daxko-brand-guardian`) |
 | Can I paste this, may I use this AI tool | Agent 1 — AI Strategy & Governance (`daxko-ai-governance`) |
 | Sending, e-signature, updating the CRM, logging, editing a file | A human — you only draft; Abid Siddiqui owns the files |

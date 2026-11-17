@@ -1,6 +1,6 @@
 # Agent 41 — Retention & Upsell — teammate guide
 
-**Skill:** `daxko-client-retention-upsell` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-client-retention-upsell` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 For one Digital Services client (a YMCA, JCC, club or studio whose website or marketing Daxko runs), it plans the next move: either which extra Digital Services service fits them now and why, or a save plan when the client may cancel, not renew or cut back. You paste the client's services, goals, results and concerns — or, if you say yes, it reads them from a connector you already have. You get a fit table or save actions with owners, talking points and what never to promise.

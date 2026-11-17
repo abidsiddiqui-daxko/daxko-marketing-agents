@@ -1,6 +1,6 @@
 # Agent 45 — CX Email & Response — teammate guide
 
-**Skill:** `daxko-support-reply` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-support-reply` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Drafts one reply to one customer support email or case you paste — a billing question, a how-to, a bug, an upset customer — for you to check and send. It can also write one reusable response template, or fix a reply you already drafted.
@@ -32,6 +32,6 @@ The reply under **DRAFT REPLY — needs the support agent to check it before it 
 | A renewal or save plan | Agent 49 — Renewal & Expansion |
 | A QBR or success plan | Agent 48 — Success Playbook & QBR |
 | Roadmap status | Agent 51 — Roadmap & Release Briefing |
-| Gong or multi-touch sequence | `gong-sequence-builder` (your own skill) |
+| Multi-touch outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A refund, credit or price decision | your manager / sales |
 | Sending or closing the case | you |

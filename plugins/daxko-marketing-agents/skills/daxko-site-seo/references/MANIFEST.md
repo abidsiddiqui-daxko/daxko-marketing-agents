@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-16 · **Skill:** `daxko-site-seo` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-16 · **Skill:** `daxko-site-seo` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | `blog-nonprofit-optimization-framework.md` | `knowledge-base/blog-nonprofit-optimization-framework.md` | `1c87b84d42be61d6d561c2ca646290c275babd9a0c62297bef7bd0380735d78e` | verbatim | 2026-11-16 | 2026-02-19 | 9 KB |
 | `blog-club-automation-optimization-framework.md` | `knowledge-base/blog-club-automation-optimization-framework.md` | `5224c4a90e905ad6b74c842cb1c78fb805055403f79fe929a6d8899e0ec7eddb` | verbatim | 2026-11-16 | 2026-02-19 | 9 KB |
 | `blog-zen-planner-optimization-framework.md` | `knowledge-base/blog-zen-planner-optimization-framework.md` | `1b09748e1089f90f7a67e41fee118e0bf08ff55a572001b8d425d428bc6591aa` | verbatim | 2026-11-16 | 2026-02-19 | 7 KB |
-| `corrections-snapshot.md` | `learnings/agent-34-site-seo.md` | `e728bea44b4c3be44b90e648a088140307551d91892f65614fc0754c9ee87151` | converted | 2026-11-16 | 2026-11-16 | 4 KB |
+| `corrections-snapshot.md` | `learnings/agent-34-site-seo.md` | `4905167de7e0750a588e2e324c58233a3c03b233b47491b741df841a74fac547` | converted | 2026-11-17 | 2026-11-17 | 4 KB |
 
 **26 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

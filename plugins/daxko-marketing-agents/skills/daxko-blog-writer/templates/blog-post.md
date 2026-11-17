@@ -1,6 +1,6 @@
 # Template — Agent 12 — Blog & Article
 
-SKILL VERSION: 1.9.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets.
+SKILL VERSION: 1.10.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets.
 
 ---
 
@@ -50,7 +50,7 @@ H4: FAQ — 4–6 questions, each answer under 120 words, factual
 
 **NEXT STEP** — Run the draft through Agent 9 — Brand Guardian before it goes out.
 
-**SOURCES** — files opened (in full / sections) · `as_of` from MANIFEST · corrections file · pasted material · SKILL VERSION: 1.9.0 · No web search or connector was used. Nothing was sent, scheduled or published and no file was changed.
+**SOURCES** — files opened (in full / sections) · `as_of` from MANIFEST · corrections file · pasted material · SKILL VERSION: 1.10.0 · No web search or connector was used. Nothing was sent, scheduled or published and no file was changed.
 
 ---
 

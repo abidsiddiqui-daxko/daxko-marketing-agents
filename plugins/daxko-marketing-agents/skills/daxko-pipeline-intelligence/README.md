@@ -1,6 +1,6 @@
 # Daxko Pipeline Intelligence — Agent 22 — Pipeline Intelligence
 
-**Version:** 1.9.0 · **Skill:** `daxko-pipeline-intelligence` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
+**Version:** 1.10.0 · **Skill:** `daxko-pipeline-intelligence` · **Owner:** Abid Siddiqui · **Type:** read-only data analyst
 
 ## What it does, in plain words
 Paste a pipeline export from Salesforce and ask how healthy it is. It works out 90-day coverage, deal speed, overdue and long-sitting deals and forecast vs actual — by market, segment and stage — and shows every sum.

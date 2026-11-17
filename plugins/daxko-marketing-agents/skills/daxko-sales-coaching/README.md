@@ -1,6 +1,6 @@
 # Agent 57 — Sales Coaching — teammate guide
 
-**Skill:** `daxko-sales-coaching` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-sales-coaching` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Coaches **one sales rep on one new-business call at a time**, from Daxko's own files. It can play a practice buyer, help you get ready for one call, or review one call you paste — and tells you what worked, what missed, and the approved line to use instead, with the file it comes from.
@@ -29,7 +29,7 @@ A practice buyer built only from real pains, objections and trap questions on fi
 | Themes across many calls or feedback | Agent 50 — Product Insights & Feedback |
 | A renewal or upsell call | Agent 49 — Renewal & Expansion |
 | A follow-up email | Agent 15 — Email & Nurture, then Agent 9 — Brand Guardian |
-| A follow-up sequence with calls, voicemail, LinkedIn | `gong-sequence-builder` (Abid's own skill) |
+| A follow-up sequence with calls, voicemail, LinkedIn | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Whether a roadmap feature has shipped | Daxko's product team |
 | Update Salesforce or Gong, send emails | You — it only coaches |
 | Edit a knowledge file | Abid Siddiqui |

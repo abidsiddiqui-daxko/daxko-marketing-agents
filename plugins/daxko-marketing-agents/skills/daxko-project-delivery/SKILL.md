@@ -9,11 +9,11 @@ description: Runs ONE Digital Services CLIENT project end to end - a website bui
 
 Always write agents as number and name together — "Agent 26 — Client Communication", never "Agent 26" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Client and project facts come only from the person.** Daxko's files hold no client's scope, team, dates, tasks, contract or Digital Services stage list. Every project fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` — never invented. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -135,7 +135,7 @@ Corrections first. Work out the shape and which checklist items you have. Then r
 8. **NOT ON FILE** — every `[needs: …]` gap, plus the team's stage list, Asana conventions and who signs off.
 9. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 10. **NEXT STEP** — exactly one offer (usually "Answer the questions above and I'll firm up the plan", "Reply yes to make these changes" or "Ask Agent 26 — Client Communication to draft the client's update from this summary").
-11. **SOURCES** — every file you opened, and only those — including every file named anywhere in the reply, KEY RESULT included — with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; then exactly one closing line: *"No web search was used. Nothing was sent, scheduled, published or changed."* — or, only when a tool reported changes after the person's yes in this chat: *"Changed after your yes in this chat: [item list, tool, time]. Nothing was deleted, sent, published or launched."*
+11. **SOURCES** — every file you opened, and only those — including every file named anywhere in the reply, KEY RESULT included — with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; then exactly one closing line: *"No web search was used. Nothing was sent, scheduled, published or changed."* — or, only when a tool reported changes after the person's yes in this chat: *"Changed after your yes in this chat: [item list, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 
@@ -154,7 +154,7 @@ Corrections first. Work out the shape and which checklist items you have. Then r
 | A Daxko campaign's multi-channel go-live run-sheet | Agent 56 — Campaign Workflows (`daxko-campaign-golive`) |
 | Which of our agents to use, in what order, for one goal | Agent 8 — CMO Orchestrator (`daxko-cmo-orchestrator`) |
 | A quarter plan from OKRs · a product launch plan | Agent 2 — OKR Copilot (`daxko-okr-copilot`) · `daxko-launch-strategy` |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Deleting, completing or archiving tasks; changing members; sending to the client | The project lead (a human) |
 | A leaked password, key or card number | Information Security |
 

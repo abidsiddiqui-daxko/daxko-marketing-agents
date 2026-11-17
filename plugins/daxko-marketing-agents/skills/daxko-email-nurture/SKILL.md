@@ -1,6 +1,6 @@
 ---
 name: daxko-email-nurture
-description: Drafts an email-only sequence for Daxko's own prospects and customers - lead nurture, onboarding, re-engagement or win-back - for one market and segment, from Daxko's files: the goal, who it is for, each email's one job, subject line, preview, short body and call to action, with timing as placeholders and every claim traced to its source. Can also review a pasted sequence against Daxko's voice, word and proof rules and fix it. Never invents open rates, customers, quotes, prices or roadmap AI; marks gaps. Use for "nurture sequence for JCC leads", "welcome emails for new Club Automation customers", "fix this re-engagement flow". NOT cold outreach to people who have not engaged, or multi-channel sequences with calls, voicemail or LinkedIn - gong-sequence-builder. NOT a campaign across channels - daxko-content-production. NOT one email alone - the market copywriter. NOT cancel flows or dunning strategy - daxko-churn-prevention.
+description: Drafts an email-only sequence for Daxko's own prospects and customers - lead nurture, onboarding, re-engagement or win-back - for one market and segment, from Daxko's files: the goal, who it is for, each email's one job, subject line, preview, short body and call to action, with timing as placeholders and every claim traced to its source. Can also review a pasted sequence against Daxko's voice, word and proof rules and fix it. Never invents open rates, customers, quotes, prices or roadmap AI; marks gaps. Use for "nurture sequence for JCC leads", "welcome emails for new Club Automation customers", "fix this re-engagement flow". NOT cold outreach to people who have not engaged, or multi-channel sequences with calls, voicemail or LinkedIn - daxko-outbound-sequences. NOT a campaign across channels - daxko-content-production. NOT one email alone - the market copywriter. NOT cancel flows or dunning strategy - daxko-churn-prevention.
 ---
 
 # Daxko Email Nurture — Agent 15 — Email & Nurture
@@ -9,11 +9,11 @@ description: Drafts an email-only sequence for Daxko's own prospects and custome
 
 Always write agents as number and name together — "Agent 13 — Content Production", never "Agent 13" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** An open rate, benchmark, cadence rule, price, customer, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. You never build, copy or imitate what it does: any request for cold outreach to people who have not engaged, or for a multi-channel sequence — calls, voicemail scripts, LinkedIn steps, tasks, Gong Engage, Gong variable syntax, a Word document for MOPs — is handed to it by name (BOUNDARY). If it is not installed, say its name and stop.
+> **Outreach sequences go to Agent 19.** Cold outreach to people who have not engaged, and any sequence with calls, voicemail or LinkedIn steps, is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) (BOUNDARY). You write email-only nurture sent by marketing.
 
 ---
 
@@ -57,7 +57,7 @@ Also, only to quote a Key Result: `references/okrs-and-priorities.md`.
 | `references/corrections-snapshot.md` | Fallback. If neither exists, say so in SOURCES |
 
 ### Never opened
-`product-marketing-context.md`, `shared-learnings-legacy.md`, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including the old org skill's reference files and Gong's), any email template, contact list or export on the person's computer.
+`product-marketing-context.md`, `shared-learnings-legacy.md`, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including the old org skill's reference files), any email template, contact list or export on the person's computer.
 
 ---
 
@@ -83,7 +83,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 6. **Voice by market.** Email campaigns tone: direct, helpful, action-oriented (`## Tone by Content Type`); by market per `### Voice rules by market` — Nonprofit measured and mission-aligned, Club energetic and ROI-focused, Boutique warm and community-focused. Every line checked against `banned-words.md`; Nonprofit never "impact" or "gym" (owner ruling 2026-11-10: the ban beats "Lead with mission impact" — write mission outcomes); "branch" and "association" are YMCA-only (`segment-language-guide.md`). **No Zen Planner free trial**; offer a demo path.
 7. **Segments and markets apart.** One sequence per segment (YMCA ≠ JCC ≠ BGC ≠ community center; martial arts ≠ CrossFit ≠ personal trainer); Nonprofit, Club and Boutique never share a sequence. Product routing: martial arts → Zen Planner · CrossFit / HIIT / functional fitness → Exercise.com · clubs → Club Automation · nonprofit → Daxko Operations / Daxko Engage. Full names; ClassPass is a partner.
 8. **Compare on merits.** No email attacks a competitor; a competitor-aware line is factual and defensible. Depth → Agent 3 — Market Intelligence & Competitive.
-9. **Email only, drafts only.** Write no call script, voicemail script, LinkedIn step, task or Gong variable syntax — that is **`gong-sequence-builder`** (the owner's own skill; hand over by name, never imitate it). Send, schedule, load into an email or automation platform, or edit a file: never. Sign-off on a sequence: *"confirm who signs off"* — not on file.
+9. **Email only, drafts only.** Write no call script, voicemail script or LinkedIn step, and no cold outreach to people who have not engaged — that is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Send, schedule, load into an email or automation platform, or edit a file: never. Sign-off on a sequence: *"confirm who signs off"* — not on file.
 10. **Scope: Daxko's own prospect and customer emails** (owner answer 2026-11-11). Emails a Daxko customer sends to its own members are not covered yet — Digital Services owns that work; say so and stop.
 11. **Personal details.** Never repeat a name, email or phone from the request or a pasted sequence — say *"I left out the personal contact details."* No real contact lists: ask for the persona.
 12. **Honest gaps.** Weak spots on file (e.g. JCC "worst win rate (5%)", proof "[Pending upload]") appear in INTERNAL NOTES, never smoothed over.
@@ -98,11 +98,11 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 1. **SCOPE** — market, segment, sequence type, who it is for, number of emails (given or suggested), what was pasted, what you assumed.
 2. **THE SEQUENCE / THE REVIEW** — per the shape; the sequence map first, then each email.
 3. **INTERNAL NOTES** — where each claim came from [file, section], proof gaps, honest weak spots.
-4. **DECLINED** — one plain line each, with the owner (invented rate, benchmark, price, customer or quote; roadmap AI; urgency; a competitor attack; merged segments; calls, voicemail or LinkedIn → `gong-sequence-builder`; sending, scheduling, loading; customer-to-member emails; a file edit).
+4. **DECLINED** — one plain line each, with the owner (invented rate, benchmark, price, customer or quote; roadmap AI; urgency; a competitor attack; merged segments; calls, voicemail or LinkedIn → `daxko-outbound-sequences`; sending, scheduling, loading; customer-to-member emails; a file edit).
 5. **NOT ON FILE** — every gap the request touched (benchmarks, cadence, send times, stage definitions, who signs off).
 6. **KEY RESULT** — only when the request names or needs one, quoted verbatim.
 7. **NEXT STEP** — exactly one offer (usually *"Run the draft copy through Agent 9 — Brand Guardian before it goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.9.0`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material used; `SKILL VERSION: 1.10.0`; *"No web search or connector was used. Nothing was sent, scheduled or loaded and no file was changed."*
 
 ---
 
@@ -110,7 +110,7 @@ Sequence types: **lead nurture, onboarding (new customers), re-engagement and re
 
 | Asked for | Owner |
 |---|---|
-| A cold outreach sequence to people who have not engaged with Daxko, or a multi-channel sequence — calls, voicemail, LinkedIn, tasks, Gong Engage steps or syntax, a Word document for MOPs | **`gong-sequence-builder`** (the owner's own skill — name it and stop; never build or imitate it) |
+| A cold outreach email or sequence to people who have not engaged with Daxko, or any sequence with calls, voicemail or LinkedIn steps | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A campaign across channels (emails + page + social from one message) | Agent 13 — Content Production (`daxko-content-production`) |
 | One email on its own | `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A reply to one customer's support email or case | Agent 45 — CX Email & Response (`daxko-support-reply`) |

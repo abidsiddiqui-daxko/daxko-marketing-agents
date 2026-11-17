@@ -1,6 +1,6 @@
 # Agent 27 — Strategy & Discovery — teammate guide
 
-**Skill:** `daxko-client-discovery` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-client-discovery` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Helps Daxko's Digital Services team understand one client — a YMCA, JCC, Boys & Girls Clubs, club or studio whose website or marketing Daxko builds or runs. It writes the discovery-session questions, compares the client's site with its own local competitors from pages you paste, or turns your discovery notes into a short, prioritised digital strategy. It never searches the web and never invents the client's facts, market numbers or anything about a competitor.
@@ -33,5 +33,5 @@ If something is missing, up to 3 short questions first — nothing else. Then th
 | Proposal or price | Agent 58 — Proposal Generator; prices → sales |
 | Ad budget moves | Agent 71 — Budget Reallocation |
 | Message to the client | Agent 26 — Client Communication |
-| Gong or multi-touch sequence | `gong-sequence-builder` (your own skill) |
+| Multi-touch outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Send, publish, change anything; edit a knowledge file | a human — the project lead; Abid Siddiqui owns the files |

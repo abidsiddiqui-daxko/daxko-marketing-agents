@@ -1,6 +1,6 @@
 # Agent 49 — Renewal & Expansion — teammate guide
 
-**Skill:** `daxko-renewal-expansion` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-renewal-expansion` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Helps an account manager with **one existing Daxko customer**: which Daxko product or add-on fits next and why, and how to prepare the renewal conversation. It answers from Daxko's own files plus the notes you paste about that one account. It can also map which add-ons fit a whole segment.
@@ -26,7 +26,7 @@ Up to three ranked suggestions, each showing the Daxko file line it rests on and
 |---|---|
 | Ask a customer for a testimonial, case study or reference | Agent 67 — Customer Proof & Advocacy |
 | Renewal or win-back emails | Agent 15 — Email & Nurture |
-| Multi-touch sequence with calls, voicemail, LinkedIn | `gong-sequence-builder` (your own skill) |
+| Multi-touch sequence with calls, voicemail, LinkedIn | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Cancel flows, save offers, dunning | `daxko-churn-prevention` |
 | Expansion campaign for a whole segment | Agents 63, 64, 65 — Campaign & Content Strategists |
 | A finished one-pager or deck | Agent 21 — Sales Enablement |

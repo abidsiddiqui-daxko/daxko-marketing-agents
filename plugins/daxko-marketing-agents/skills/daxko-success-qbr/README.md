@@ -1,6 +1,6 @@
 # Agent 48 — Success Playbook & QBR — teammate guide
 
-**Skill:** `daxko-success-qbr` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-success-qbr` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Builds one quarterly business review (QBR) outline or one success plan for one existing customer account — or one success playbook for one segment's customers, such as the first 90 days. What the customer will see is kept apart from your internal prep notes.
@@ -32,5 +32,5 @@ A customer-facing outline under **CUSTOMER-FACING OUTLINE — DRAFT — needs th
 | A prospect deck | Agent 21 — Sales Enablement |
 | A case study or reference ask | Agent 67 — Customer Proof & Advocacy |
 | A slide file | `pptx` |
-| Gong or multi-touch sequence | `gong-sequence-builder` (your own skill) |
+| Multi-touch outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Updating the CRM, sending the plan | you / the customer success manager |

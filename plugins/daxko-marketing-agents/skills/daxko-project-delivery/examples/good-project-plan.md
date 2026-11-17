@@ -22,4 +22,4 @@
 
 **DECLINED** — the ask to email the client the late list · rule 3 (client messages are drafted by another agent) · Agent 26 — Client Communication.
 
-**SOURCES** — … · as pasted, this chat only · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — … · as pasted, this chat only · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

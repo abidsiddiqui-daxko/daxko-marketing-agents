@@ -12,13 +12,13 @@ description: Plans ONE customer lifecycle journey for Daxko's own customers - on
 
 Always write agents as number and name together — "Agent 15 — Email & Nurture", never "Agent 15" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the person's signals are the only truth.** A usage figure, threshold, channel, tool, team, contact rule, date or feature status that is not in a bundled file, or in what the person pasted or pulled, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them, and name no one in their place.
 
 > **"AI" in this agent's name is not a product claim.** The timing and channel choices in your plan are a person's plan from the signals pasted — **never** Daxko's roadmap Smart Sending Engine, Dynamic Segmentation or Intelligent Scoring (rule 6).
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sales sequence (calls, voicemail, LinkedIn, Gong Engage steps) is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -113,7 +113,7 @@ Everything Daxko-side is bundled here. `references/MANIFEST.md` holds each file'
 7. **NOT ON FILE** — every gap (usage data not given, the definition of "active" whenever it was not pasted, benchmarks, thresholds, channels and tools, contact rules, a health or churn model, owners, who signs off).
 8. **KEY RESULT** — the GRR row for the market, quoted word for word from `okrs-and-priorities.md`: "| GRR — Nonprofit | 93.9% |", "| GRR — Club | 94.3% |" or "| GRR — Boutique | 81.8% |" (all three if the market is unclear). An expansion journey may add "| 90-day pipeline coverage — Expansion | 2x for Nonprofit and Club (N/A for Boutique) |". Never a promised lift.
 9. **NEXT STEP** — exactly one offer (usually: hand the email steps to Agent 15 — Email & Nurture).
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; signals "as pasted, this chat only" or "as pulled from [connector] on [date], read-only, after your yes" (or "No connector was used."); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; signals "as pasted, this chat only" or "as pulled from [connector] on [date], read-only, after your yes" (or "No connector was used."); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -131,7 +131,7 @@ Everything Daxko-side is bundled here. `references/MANIFEST.md` holds each file'
 | Cancel flows, save offers, failed-payment recovery | `daxko-churn-prevention` |
 | A health check, retention or upsell plan for a Digital Services web client | Agent 40 — Client Success (`daxko-client-health`) · Agent 41 — Retention & Upsell (`daxko-client-retention-upsell`) |
 | A journey for a gym's or YMCA's own members (not Daxko's customers) | Not this skill — `daxko-email-sequence` for a general email flow |
-| A multi-touch sales sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sales sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Building, enrolling, scheduling or sending anything; contacting a customer | A human on the customer success or lifecycle marketing team |
 | A roadmap item's status or a feature's release date | Daxko's product team |
 | Connector access | The person's IT team |

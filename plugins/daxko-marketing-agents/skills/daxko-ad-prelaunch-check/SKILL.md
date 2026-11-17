@@ -9,11 +9,11 @@ description: Checks ONE paid ad campaign before it goes live - a Digital Service
 
 Always write agents as number and name together — "Agent 71 — Budget Reallocation", never "Agent 71" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko; the paste is the only truth for the campaign.** Daxko's files hold no naming convention, tracking standard, client brief, budget or sign-off chain. A setting, date, amount, URL or rule you were not given is "Not given" — never assumed, never filled in. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence (calls, voicemail, LinkedIn steps, Gong Engage) is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -110,7 +110,7 @@ Several campaigns → one checklist each, or ask which first. **The ten checklis
 5. **NOT ON FILE** — every gap (naming convention, conversion tracking, pixel, who signs off — "confirm who signs off", anything marked `[needs: …]`).
 6. **KEY RESULT** — verbatim from `okrs-and-priorities.md`, or *"none on file"*. No Key Result covers Digital Services work; for a client campaign the nearest real line may be quoted as nearest only ("GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%", Objective 1).
 7. **NEXT STEP** — exactly one offer (e.g. *"Paste the corrected settings and I'll re-check them."*).
-8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the settings and brief "as pasted" or "as pulled from [connector] on [date], read-only, with your permission", or *"No connector was used"*; `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the settings and brief "as pasted" or "as pulled from [connector] on [date], read-only, with your permission", or *"No connector was used"*; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -128,7 +128,7 @@ Several campaigns → one checklist each, or ask which first. **The ten checklis
 | Landing page accessibility | Agent 43 — Accessibility (`daxko-accessibility`) |
 | A product launch plan or launch timeline | `daxko-launch-strategy` |
 | A message to the client about the launch | Agent 26 — Client Communication (`daxko-client-updates`) |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Launching, pausing, editing, approving or re-budgeting the campaign | A human — the campaign owner |
 | A Daxko fact not on file | Abid Siddiqui |
 | A client fact — brief, budget, naming convention, sign-off | The client / the project lead |

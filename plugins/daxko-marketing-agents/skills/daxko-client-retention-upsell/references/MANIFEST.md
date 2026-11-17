@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-16 · **Skill:** `daxko-client-retention-upsell` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-16 · **Skill:** `daxko-client-retention-upsell` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-11-16 | 2026-10-05 | 24 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-16 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `c875b06a1f37837c989df7d0363f354a13325316bc868233226539139a4601c3` | verbatim | 2026-11-16 | 2026-11-13 | 2 KB |
-| `corrections-snapshot.md` | `learnings/agent-41-client-retention-upsell.md` | `8c1d50a96647b62ace7b14ed222da9ef7cbdf661ac7f876da910b1d3833309a4` | converted | 2026-11-16 | 2026-11-16 | 4 KB |
+| `corrections-snapshot.md` | `learnings/agent-41-client-retention-upsell.md` | `5f51f022321d84326e8e3aacf9aa825feca90366dc5d7fbb5912984b2f081b4a` | converted | 2026-11-17 | 2026-11-17 | 4 KB |
 
 **22 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

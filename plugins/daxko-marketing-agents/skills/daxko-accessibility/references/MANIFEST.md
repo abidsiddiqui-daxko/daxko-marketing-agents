@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-14 · **Skill:** `daxko-accessibility` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-14 · **Skill:** `daxko-accessibility` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-11-14 | 2026-10-05 | 24 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-14 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `c875b06a1f37837c989df7d0363f354a13325316bc868233226539139a4601c3` | verbatim | 2026-11-14 | 2026-11-13 | 2 KB |
-| `corrections-snapshot.md` | `learnings/agent-43-accessibility.md` | `fba3516445c2415b110c02b22f3d5af0e9df4606aa812a53dfca7da0e6f81420` | converted | 2026-11-14 | 2026-11-14 | 2 KB |
+| `corrections-snapshot.md` | `learnings/agent-43-accessibility.md` | `21762167a5e1cd96e863ac90bff0f73a2a6377937a9640acf5c1458e5b351841` | converted | 2026-11-17 | 2026-11-17 | 2 KB |
 
 **22 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

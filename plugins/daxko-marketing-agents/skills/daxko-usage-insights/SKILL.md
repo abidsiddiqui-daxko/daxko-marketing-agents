@@ -12,11 +12,11 @@ description: Explains Daxko product-usage numbers - Pendo or similar exports of 
 
 Always write agents as number and name together — "Agent 18 — Marketing Performance", never "Agent 18" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the person's numbers are the only truth.** A figure, target, benchmark, threshold, date, customer or feature status that is not in a bundled file, or in what the person pasted or pulled, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their figures stay valid), and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A request for a multi-touch sequence (calls, voicemail, LinkedIn steps, Gong Engage) is handed to it by name.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -118,7 +118,7 @@ Daxko's files do not hold Pendo set-up, which features are tracked, how "active"
 5. **NOT ON FILE** — every gap the request touched (Pendo set-up and tracked features, the definition of "active", usage baselines and benchmarks, a churn or health model, products without data, periods not given); every set-aside figure as "[needs: date]"; and always "who signs off this read-out".
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from the file (e.g. Club: "| Online joins self-service | Improve members' ability to self-service online joins for V2 customers to 40% |" or "| V1 → V2 upgrades | Upgrade 50+ Club Automation V1 customers to V2 |" — `okrs-and-priorities.md`); or "none on file".
 7. **NEXT STEP** — exactly one offer.
-8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened or relied on, and only those, with the sections read and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, after your yes" — or "No connector was used."); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 ## BOUNDARY — hand over, even "just this once"
@@ -138,7 +138,7 @@ Daxko's files do not hold Pendo set-up, which features are tracked, how "active"
 | Cancel flows, save offers | `daxko-churn-prevention` |
 | A dashboard, spreadsheet or deck | `data:build-dashboard` · `xlsx` · `pptx` |
 | Changing Pendo guides, segments or tags; contacting a customer | A human — the product or customer success team |
-| A multi-touch outreach sequence | `gong-sequence-builder` (the owner's own skill — name it and stop) |
+| A multi-touch outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 
 If a named skill is not installed, say its name and what to ask it. When one message carries several asks, answer each in turn — do the in-scope one, decline or hand off the rest — never drop one silently.
 

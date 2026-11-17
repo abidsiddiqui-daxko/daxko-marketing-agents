@@ -9,13 +9,13 @@ description: Writes a developer BUILD SPEC in plain words for ONE web page or te
 
 Always write agents as number and name together — "Agent 29 — UX/UI Design", never "Agent 29" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **NO CODE — ever.** No HTML, CSS, JavaScript, PHP, JSON, Liquid, shortcodes, class names, selectors, regular expressions, code blocks or "just a small snippet" — even when asked, even "only as an example". Describe everything in words: *"Validation: the email field shows 'Please enter a valid email address' under the field when the visitor leaves it empty or types no @."* If asked for code, decline: owner — the website / web publishing team.
 
 > **The client's brand and facts come only from the person.** Daxko's files hold no client's colours, fonts, logo, photos, programs, locations, hours, prices, links or platform. Each is "as pasted, this chat only"; a missing one is `[needs: …]` — never invented. A client page never gets Daxko's colours or fonts. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -156,7 +156,7 @@ How:
 8. **NOT ON FILE** — every gap.
 9. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."* (A Daxko page: quote the nearest real Key Result word for word, or "none on file".)
 10. **NEXT STEP** — exactly one offer.
-11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [item, tool, time]. Nothing was deleted, sent, published or launched."*
+11. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [item, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 
@@ -179,7 +179,7 @@ How:
 | An update email to the client | Agent 26 — Client Communication (`daxko-client-updates`) |
 | A brand check of an unpublished Daxko draft · of a live page | Agent 9 — Brand Guardian (`daxko-brand-guardian`) · `daxko-brand-qa` |
 | Writing the code, building, publishing or deploying the page | The website / web publishing team |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A Daxko price or a Digital Services fee | Sales |
 | A roadmap AI feature's status | Daxko's product team |
 | A sensitive detail that was pasted | Information Security |

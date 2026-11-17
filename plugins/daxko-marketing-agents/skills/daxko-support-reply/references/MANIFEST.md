@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-13 · **Skill:** `daxko-support-reply` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-13 · **Skill:** `daxko-support-reply` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-13 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `c875b06a1f37837c989df7d0363f354a13325316bc868233226539139a4601c3` | verbatim | 2026-11-13 | 2026-11-13 | 2 KB |
 | `performance-data-schema.md` | `knowledge-base/performance-data-schema.md` | `6de5a39ed2394de335c310e5ffc018977a0fd3fb89883cbb35a3b471479891e7` | verbatim | 2026-11-13 | 2026-08-11 | 10 KB |
-| `corrections-snapshot.md` | `learnings/agent-45-support-reply.md` | `59cf649797b6491528f88ea8724d17884c097095f76f222c45fa576efa192cbe` | converted | 2026-11-13 | 2026-11-13 | 3 KB |
+| `corrections-snapshot.md` | `learnings/agent-45-support-reply.md` | `12a1bdc5385485f284cbfb726753060e45a43397837ed06f816d461495107410` | converted | 2026-11-17 | 2026-11-17 | 4 KB |
 
 **23 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

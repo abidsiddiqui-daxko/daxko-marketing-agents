@@ -1,6 +1,6 @@
 # Template — Agent 27 — Strategy & Discovery
 
-SKILL VERSION: 1.9.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets. One client per answer. Client facts only "as pasted" / "as pulled from [connector] on [date]".
+SKILL VERSION: 1.10.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets. One client per answer. Client facts only "as pasted" / "as pulled from [connector] on [date]".
 
 ---
 
@@ -97,4 +97,4 @@ Every cell is from its own paste; an empty cell reads "not in the paste". Factua
 
 **NEXT STEP** — exactly one offer.
 
-**SOURCES** — files opened (sections) with `as_of` from MANIFEST · corrections file used · pasted material "as pasted" / pulled "as pulled from [connector] on [date], read-only, with your permission" / "No connector was used" · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — files opened (sections) with `as_of` from MANIFEST · corrections file used · pasted material "as pasted" / pulled "as pulled from [connector] on [date], read-only, with your permission" / "No connector was used" · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

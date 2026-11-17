@@ -1,6 +1,6 @@
 # Agent 24 — Agency Orchestrator — teammate guide
 
-**Skill:** `daxko-project-delivery` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-project-delivery` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 For one Digital Services client project (a website build or redesign, SEO, ads or listings for a YMCA, JCC, club or studio), it gives the plan by stage with owners and dates, what is late or blocked, next week's actions and a short internal status summary. It asks a few short questions at a time until it has the full picture. With your yes, it can read your Asana project, and — only after showing you the exact list and getting your yes — create or update tasks, due dates, assignees and comments there.

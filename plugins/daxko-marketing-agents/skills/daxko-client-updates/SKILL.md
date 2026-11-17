@@ -9,11 +9,11 @@ description: Drafts ONE message from Daxko's Digital Services team to a website 
 
 Always write agents as number and name together — "Agent 18 — Marketing Performance", never "Agent 18" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The client's facts come only from the person.** Daxko's files hold nothing about any client's project — no dates, scope, results, people, templates or decisions. Every client fact comes from what the person pastes (or pulls with permission, below), used for this chat only and cited "as pasted". A fact you were not given is `[needs: …]` — never invented. Daxko's own files apply only to Daxko's own name, services and voice. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence (calls, voicemail, LinkedIn, Gong Engage) is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -56,7 +56,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells — **they 
 | `references/corrections-snapshot.md` | Fallback. If neither exists, say so in SOURCES |
 
 ### Never opened
-`product-marketing-context.md` (not a source), `shared-learnings-legacy.md`, playbooks for client facts, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including Gong's), the person's drives or tools without a yes.
+`product-marketing-context.md` (not a source), `shared-learnings-legacy.md`, playbooks for client facts, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files, the person's drives or tools without a yes.
 
 ---
 
@@ -106,7 +106,7 @@ A kickoff recap email is yours; the requirements document from the same notes is
 5. **NOT ON FILE** — every `[needs: …]`, unconfirmed dates, who signs off, any Digital Services template, SLA or process (none on file).
 6. **KEY RESULT** — none covers Digital Services client work; nearest, verbatim from `okrs-and-priorities.md` (Objective 1): "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" — the client's market only — or "none on file".
 7. **NEXT STEP** — exactly one offer (usually: fill the `[needs: …]` gaps, then the project lead reviews and sends it themselves).
-8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -123,7 +123,7 @@ A kickoff recap email is yours; the requirements document from the same notes is
 | A requirements document or project brief | Agent 25 — Onboarding & Requirements (`daxko-client-requirements`) |
 | Discovery for a new client | Agent 27 — Strategy & Discovery (`daxko-client-discovery`) |
 | An email sequence or nurture | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | The project plan, what is late or blocked, next week's tasks, tasks in Asana | Agent 24 — Agency Orchestrator (`daxko-project-delivery`) |
 | Sending, scheduling, posting to any tool | A human — the project lead; you only draft |
 | A client fact not pasted | The client / the project lead |

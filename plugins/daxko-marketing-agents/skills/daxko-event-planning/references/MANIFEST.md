@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-16 · **Skill:** `daxko-event-planning` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-16 · **Skill:** `daxko-event-planning` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-16 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `9faba5bf958bce8742a6636a6749516a6b43a9935a808c817fa4717cc1d708ba` | verbatim | 2026-11-16 | 2026-11-16 | 3 KB |
 | `event-roi-and-recap.md` | `knowledge-base/event-roi-and-recap.md` | `c061730860b9588c246c9e00c79f328dd3cb62c9d9b9d951c5c0f29d9b918efd` | verbatim | 2026-11-16 | 2026-11-16 | 5 KB |
-| `corrections-snapshot.md` | `learnings/agent-23-event-planning.md` | `671a9231bb9d73f00e969aa911b7bc8e2a0ccdec599ebe0ee4fce85e50250ada` | converted | 2026-11-16 | 2026-11-16 | 5 KB |
+| `corrections-snapshot.md` | `learnings/agent-23-event-planning.md` | `ab11215ec280f4b6935653d89fecb4c7ee563d46b4c307adb81e4e7ba03147e6` | converted | 2026-11-17 | 2026-11-17 | 6 KB |
 
 **23 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

@@ -1,6 +1,6 @@
 # Webinar logistics and post-event recap templates
 
-> SKILL VERSION: 1.9.0 · Used by `daxko-event-planning`. Fill only with facts the person gave; unknown → **TBD**. Label: **DRAFT — event plan for internal use; needs the event manager's OK before anyone acts on it**
+> SKILL VERSION: 1.10.0 · Used by `daxko-event-planning`. Fill only with facts the person gave; unknown → **TBD**. Label: **DRAFT — event plan for internal use; needs the event manager's OK before anyone acts on it**
 
 ---
 

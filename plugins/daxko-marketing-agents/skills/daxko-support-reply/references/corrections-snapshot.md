@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-45-support-reply.md` taken 2026-11-13. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-45-support-reply.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 45 — CX Email & Response
 
@@ -15,3 +15,4 @@
 - [2026-11-13] [PREFERENCE] No exact prices, discounts, credits or free trials unless the approved figure is pasted by sales (ruled for Agent 21 on 2026-11-11; Batch 6 default) — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Owner defaults ("I don't know" → defaults): Daxko Engage is not offered to Boutique; Constance Miller and Anna Klement have left Daxko — route nothing to them and name no one in their place — Abid Siddiqui
 - [2026-11-10] [PREFERENCE] "Lead with mission impact" in nonprofit-playbook.md conflicts with its Never list and banned-words.md: the ban wins, never write "impact" in Nonprofit content — Abid Siddiqui
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

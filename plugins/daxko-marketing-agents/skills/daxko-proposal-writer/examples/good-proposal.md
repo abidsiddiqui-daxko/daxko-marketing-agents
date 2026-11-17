@@ -20,4 +20,4 @@
 **NOT ON FILE** — legal terms · implementation dates · who signs off.
 **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md`.
 **NEXT STEP** — Run the draft through Agent 9 — Brand Guardian, then to your sales sign-off.
-**SOURCES** — files with MANIFEST `as_of` · pasted material "as pasted" · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — files with MANIFEST `as_of` · pasted material "as pasted" · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

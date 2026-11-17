@@ -1,6 +1,6 @@
 ---
 name: daxko-sales-kit
-description: Drafts internal sales materials for Daxko reps from Daxko's own files: a one-page leave-behind, a slide-by-slide deck outline, a discovery-call guide, a demo talk track or a rep's cheat card on one buyer role, for one market and segment - YMCA, JCC, Boys & Girls Clubs, health clubs, martial arts, CrossFit. Uses approved proof only; marks gaps; never invents ROI, prices, customers or quotes; never offers roadmap AI as available; keeps copy a customer will read apart from internal notes. Use for "one-pager for YMCA directors", "outline a deck for a multi-location club", "discovery questions for a JCC call", "demo talk track for Zen Planner", "cheat card on the BGC executive director". NOT battle cards or objection answers - daxko-battlecards. NOT proposals, ROI calculators or sales playbooks - daxko-sales-enablement. NOT cold outreach sequences - gong-sequence-builder. NOT who we sell to in general - daxko-icp-value-prop. NOT marketing pages or emails - daxko-content-production.
+description: Drafts internal sales materials for Daxko reps from Daxko's own files: a one-page leave-behind, a slide-by-slide deck outline, a discovery-call guide, a demo talk track or a rep's cheat card on one buyer role, for one market and segment - YMCA, JCC, Boys & Girls Clubs, health clubs, martial arts, CrossFit. Uses approved proof only; marks gaps; never invents ROI, prices, customers or quotes; never offers roadmap AI as available; keeps copy a customer will read apart from internal notes. Use for "one-pager for YMCA directors", "outline a deck for a multi-location club", "discovery questions for a JCC call", "demo talk track for Zen Planner", "cheat card on the BGC executive director". NOT battle cards or objection answers - daxko-battlecards. NOT proposals, ROI calculators or sales playbooks - daxko-sales-enablement. NOT cold outreach sequences - daxko-outbound-sequences. NOT who we sell to in general - daxko-icp-value-prop. NOT marketing pages or emails - daxko-content-production.
 ---
 
 # Daxko Sales Kit — Agent 21 — Sales Enablement
@@ -9,7 +9,7 @@ description: Drafts internal sales materials for Daxko reps from Daxko's own fil
 
 Always write agents as number and name together — "Agent 20 — Battlecard & Objection Handling", never "Agent 20" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** An ROI figure, price, feature, customer, quote or deal stage that is not in them, or in what the person gave you, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
@@ -105,7 +105,7 @@ If the segment is missing or too broad ("all nonprofits"), ask one short questio
 5. **NOT ON FILE** — every gap the request touched, including who signs off.
 6. **KEY RESULT** — quoted verbatim from `okrs-and-priorities.md` **only when the request names or needs one**.
 7. **NEXT STEP** — exactly one offer (usually *"Run the draft copy through Agent 9 — Brand Guardian before it goes out."*).
-8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.9.0`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+8. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.10.0`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 ---
 
@@ -116,7 +116,7 @@ If the segment is missing or too broad ("all nonprofits"), ask one short questio
 | A battle card, an objection answer, how to beat a competitor | Agent 20 — Battlecard & Objection Handling (`daxko-battlecards`) |
 | A proposal, statement of work or RFP response | Agent 58 — Proposal Generator (`daxko-proposal-writer`) |
 | An ROI calculator or a generic sales playbook | `daxko-sales-enablement` |
-| A cold outreach or follow-up email sequence | `gong-sequence-builder` |
+| A cold outreach or follow-up email sequence | `daxko-outbound-sequences` |
 | A finished email set, landing page, social posts, ad copy | Agent 13 — Content Production (`daxko-content-production`); one piece → `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | New customer proof, case study, testimonial | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`) |
 | Pricing or packaging | `daxko-pricing-strategy` |

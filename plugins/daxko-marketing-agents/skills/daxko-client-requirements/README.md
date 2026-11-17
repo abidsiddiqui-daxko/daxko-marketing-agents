@@ -1,6 +1,6 @@
 # Agent 25 — Onboarding & Requirements — teammate guide
 
-**Skill:** `daxko-client-requirements` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-client-requirements` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Helps a Digital Services project lead start one new client project — a website build or redesign, SEO, paid ads or listings. It writes the kickoff questions (or a kickoff agenda), turns the client's intake answers or kickoff notes into a clear requirements document — goals, audience, scope in and out, deliverables, pages named, integrations, what the client still owes, dates as given, open questions and risks — or checks a brief you paste for gaps. Daxko's files hold no Digital Services intake process or client facts, so it asks you up to 3 short questions first when something is missing.
@@ -32,5 +32,5 @@ The questionnaire, requirements doc or gap table under **DRAFT — needs the pro
 | In-product onboarding for software users | `daxko-onboarding-cro` |
 | Onboarding emails | Agent 15 — Email & Nurture |
 | Tracking plan | `daxko-analytics-tracking` |
-| Gong or multi-touch sequence | `gong-sequence-builder` (your own skill) |
+| Multi-touch outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Send the questionnaire, create tasks | a human — the project lead |

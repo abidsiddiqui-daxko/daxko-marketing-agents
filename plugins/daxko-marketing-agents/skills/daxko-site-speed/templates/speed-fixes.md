@@ -1,6 +1,6 @@
 # Template — speed fix list (Agent 42 — Speed & Performance)
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 ## SCOPE
 Site: [as named] · Pages: [ ] · Tool and date: [ ] · Mobile / desktop: [ ] · Lab / field: [ ] · Numbers: [as pasted, this chat only / as pulled from [connector] on [date]] · Assumed: [ ]
@@ -33,4 +33,4 @@ Hi [client contact], [3–5 plain sentences; no internal notes; no promised scor
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · [brief or numbers] as pasted, this chat only · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+[files opened, sections, as_of from MANIFEST] · [brief or numbers] as pasted, this chat only · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

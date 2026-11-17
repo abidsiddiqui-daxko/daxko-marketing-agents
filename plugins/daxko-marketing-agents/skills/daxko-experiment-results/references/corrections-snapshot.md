@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-53-experiment-results.md` taken 2026-11-13. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-53-experiment-results.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 53 — Experiment & Feature Flag
 
@@ -11,3 +11,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or replaced; redirect only — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No exact Daxko prices (Pricing Framework wins, ruled 2026-11-11); roadmap AI never written as available; Constance Miller and Anna Klement have left — route nothing to them — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Significance default: 95%, two-sided, unless the person states another level; no early winner — below the planned sample or with no plan stated, the call is "keep running" or "not enough evidence" — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

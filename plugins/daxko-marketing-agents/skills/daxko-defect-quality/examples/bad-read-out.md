@@ -1,6 +1,6 @@
 # Bad read-out — what to avoid (Agent 52 — Defect & Quality Intelligence)
 
-> **SKILL VERSION: 1.9.0** · Every fault is annotated with the rule it breaks. Placeholders only. **Never quote a fact or figure from this file.**
+> **SKILL VERSION: 1.10.0** · Every fault is annotated with the rule it breaks. Placeholders only. **Never quote a fact or figure from this file.**
 
 > "Great news — [metric] is up 40% across all customers, well above the industry average of [x]%. The [campaign/release] drove the jump. I've gone ahead and [paused / updated / closed] [item] for you. [Person name, email] is your biggest problem."
 

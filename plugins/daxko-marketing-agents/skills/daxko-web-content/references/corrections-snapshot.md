@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-35-web-content.md` taken 2026-11-14. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-35-web-content.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 35 — Web Content
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Scope defaults applied without asking (no question needed): writes copy for a client's own website pages, including one blog post for the client's own site; Daxko's own pages stay with the brand copywriters and a Daxko blog post with Agent 12 — Blog & Article; the draft is reviewed by the Digital Services project lead and the client, not Agent 9 — Brand Guardian (which covers Daxko's brand only) — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

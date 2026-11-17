@@ -9,11 +9,11 @@ description: Finds why visitors to ONE website or funnel are not becoming leads,
 
 Always write agents as number and name together — "Agent 18 — Marketing Performance", never "Agent 18" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Numbers come only from the person.** Daxko's files hold no site's analytics, goals, conversion rates or benchmarks. Every number is "as pasted, this chat only" or "as pulled from [connector] on [date]". A number you were not given is `[needs: …]` — never invented, never estimated from an "average". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -98,7 +98,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells software �
 7. **NOT ON FILE** — every gap (missing numbers, goal, benchmarks, tracking details, who signs off).
 8. **KEY RESULT** — *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."*
 9. **NEXT STEP** — exactly one offer.
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the numbers "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (If you pulled with permission, add: "Read-only pull from [connector]; nothing was changed.")
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the numbers "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (If you pulled with permission, add: "Read-only pull from [connector]; nothing was changed.")
 
 ---
 
@@ -119,7 +119,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells software �
 | Tracking or conversions not recording | `daxko-analytics-tracking` |
 | An update email to the client | Agent 26 — Client Communication (`daxko-client-updates`) |
 | The client's account health | Agent 40 — Client Success (`daxko-client-health`) |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Actually changing a page, form, tag or test | The Digital Services team, after the client agrees |
 | A Daxko price or a Digital Services fee | Sales |
 | A sensitive detail that was pasted | Information Security |

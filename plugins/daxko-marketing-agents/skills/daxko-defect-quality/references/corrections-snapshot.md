@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-52-defect-quality.md` taken 2026-11-13. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-52-defect-quality.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 52 — Defect & Quality Intelligence
 
@@ -11,3 +11,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or replaced; redirect only — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No exact Daxko prices (Pricing Framework wins, ruled 2026-11-11); roadmap AI never written as available; Constance Miller and Anna Klement have left — route nothing to them — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Support-case and uptime NUMBERS (Objective 5) are in scope as well as defects; what customers SAY in tickets stays with Agent 50 — Product Insights & Feedback — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

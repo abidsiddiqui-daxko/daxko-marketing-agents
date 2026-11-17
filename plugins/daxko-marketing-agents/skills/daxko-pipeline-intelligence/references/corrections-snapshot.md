@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-22-pipeline-intelligence.md` taken 2026-11-13. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-22-pipeline-intelligence.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 22 — Pipeline Intelligence
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] No exact Daxko prices (Pricing Framework wins, ruled 2026-11-11); roadmap AI never written as available; Constance Miller and Anna Klement have left — route nothing to them — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No ranking or scoring of individual reps: per-rep columns are summed away and the read-out is by market, segment, stage and deal type — Abid Siddiqui (default)
 - [2026-11-13] [PREFERENCE] The 90-day coverage denominator is not on file: the person gives the bookings target for those 90 days; an annual target is never divided by 4 — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

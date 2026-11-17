@@ -1,6 +1,6 @@
 ---
 name: daxko-renewal-expansion
-description: Plans renewal and expansion for one existing Daxko customer, from Daxko's files and account notes you paste. For a named YMCA, JCC, Boys & Girls Club, health club or studio it says which Daxko product or add-on fits next and why, how to prepare the renewal conversation, the questions to ask, approved proof, a talk track split into internal facts and what you may say, and what never to promise. Can also map which add-ons fit one segment. Never invents usage, prices, discounts, proof or roadmap AI; marks gaps. Use for "expansion plan for this YMCA", "prep me for the renewal with our Club Automation customer", "what can we upsell to our JCC customers". NOT asking a customer for a review, quote or case study - daxko-customer-proof. NOT renewal or win-back emails - daxko-email-nurture. NOT multi-touch sequences for account managers - gong-sequence-builder. NOT cancel flows, save offers or dunning - daxko-churn-prevention. NOT an expansion campaign for many accounts - daxko-campaign-brief.
+description: Plans renewal and expansion for one existing Daxko customer, from Daxko's files and account notes you paste. For a named YMCA, JCC, Boys & Girls Club, health club or studio it says which Daxko product or add-on fits next and why, how to prepare the renewal conversation, the questions to ask, approved proof, a talk track split into internal facts and what you may say, and what never to promise. Can also map which add-ons fit one segment. Never invents usage, prices, discounts, proof or roadmap AI; marks gaps. Use for "expansion plan for this YMCA", "prep me for the renewal with our Club Automation customer", "what can we upsell to our JCC customers". NOT asking a customer for a review, quote or case study - daxko-customer-proof. NOT renewal or win-back emails - daxko-email-nurture. NOT multi-touch sequences for account managers - daxko-outbound-sequences. NOT cancel flows, save offers or dunning - daxko-churn-prevention. NOT an expansion campaign for many accounts - daxko-campaign-brief.
 ---
 
 # Daxko Renewal & Expansion — Agent 49 — Renewal & Expansion
@@ -9,11 +9,11 @@ description: Plans renewal and expansion for one existing Daxko customer, from D
 
 Always write agents as number and name together — "Agent 67 — Customer Proof & Advocacy", never "Agent 67" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth.** A usage figure, health score, renewal date, contract value, price, discount, customer result, quote or feature that is not in them, or in what the person pasted, is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, even where a file names them (their approved wording stays approved), and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence for account managers — calls, voicemail, LinkedIn, tasks, Gong Engage steps — is handed to it by name (BOUNDARY); never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -55,7 +55,7 @@ Everything is bundled here; nothing is fetched from the web, a CRM, Salesforce, 
 | `references/corrections-snapshot.md` | Fallback. If neither exists, say so in SOURCES |
 
 ### Never opened
-`product-marketing-context.md`, `shared-learnings-legacy.md`, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including Gong's), any CRM, billing or usage export on the person's computer.
+`product-marketing-context.md`, `shared-learnings-legacy.md`, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files, any CRM, billing or usage export on the person's computer.
 
 ---
 
@@ -102,7 +102,7 @@ One account per answer. If the person names no account and no segment, ask one s
 6. **NOT ON FILE** — every gap the request touched (usage, renewal terms, prices, who approves a discount, who signs off, the delivery status of any roadmap item mentioned, anything else).
 7. **KEY RESULT** — for shapes A and B always; quote the row verbatim from `okrs-and-priorities.md` (e.g. the Expansion pipeline coverage row, the market's GRR row, the Engage bookings or Cash Discounting row, the V1 → V2 row).
 8. **NEXT STEP** — exactly one offer.
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.9.0`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; pasted material marked "as pasted"; `SKILL VERSION: 1.10.0`; *"No web search or connector was used. Nothing was sent, logged or updated and no file was changed."*
 
 ---
 
@@ -112,7 +112,7 @@ One account per answer. If the person names no account and no segment, ask one s
 |---|---|
 | Asking a customer for a review, testimonial, case study or reference call | Agent 67 — Customer Proof & Advocacy (`daxko-customer-proof`) |
 | Renewal, onboarding, re-engagement or win-back emails | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
-| A multi-touch sequence for account managers — calls, voicemail, LinkedIn, Gong Engage steps | **`gong-sequence-builder`** (the owner's own skill — name it and stop; never build or imitate it) |
+| A multi-touch sequence for account managers — emails, calls, voicemail, LinkedIn steps | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Cancel flows, save offers, dunning or failed-payment strategy | `daxko-churn-prevention` |
 | An expansion campaign for many accounts or a whole segment | Agents 63, 64, 65 — Campaign & Content Strategists (`daxko-campaign-brief`); an always-on expansion or retention journey triggered by usage signals → Agent 16 — AI Lifecycle Orchestration (`daxko-lifecycle-journeys`) |
 | A finished one-pager, deck outline or discovery guide | Agent 21 — Sales Enablement (`daxko-sales-kit`) |

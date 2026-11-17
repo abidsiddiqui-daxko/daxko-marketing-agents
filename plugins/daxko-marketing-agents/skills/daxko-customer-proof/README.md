@@ -27,7 +27,7 @@
 | Write the finished case study, story or testimonial page | `daxko-nonprofit-copywriter` · `club-automation-copywriter` · `zen-planner-copywriter` |
 | A referral, refer-a-friend or ambassador program | `daxko-referral-program` |
 | An email-only sequence | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
-| A multi-touch sequence with calls or LinkedIn | `gong-sequence-builder` |
+| A multi-touch sequence with calls or LinkedIn | `daxko-outbound-sequences` |
 | Research or churn interviews | `daxko-customer-research` |
 | Competitor questions | Agent 3 — Market Intelligence & Competitive |
 | Send anything, or log it in a CRM | You — it only drafts |

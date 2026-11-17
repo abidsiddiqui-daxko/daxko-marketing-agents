@@ -12,11 +12,11 @@ description: Gives ONE website a prioritised list of search fixes - for Google (
 
 Always write agents as number and name together — "Agent 35 — Web Content", never "Agent 35" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Numbers come only from the person.** Daxko's files hold no client's search numbers, keywords, rankings, traffic, goals or benchmarks. Every number is "as pasted, this chat only" or "as pulled from [connector] on [date]". A number you were not given is `[needs: …]` — never invented, never estimated from an "industry average". **You cannot see the live site or any AI answer** — no crawl, no web search, no "I checked ChatGPT". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -107,7 +107,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells software �
 7. **NOT ON FILE** — every gap (missing numbers, keywords, rankings, AI-answer appearances, the client's goal, CMS limits, who signs off).
 8. **KEY RESULT** — client site: *"None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work."* Daxko's own site: *"No organic-search Key Result on file"*, then the nearest real one quoted word for word (e.g. "| 90-day pipeline coverage — New Logo | 3x for Nonprofit and Club (N/A for Boutique) |").
 9. **NEXT STEP** — exactly one offer.
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the numbers "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (After a permitted pull add: "Read-only pull from [connector]; nothing in the account was changed.")
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; the numbers "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (After a permitted pull add: "Read-only pull from [connector]; nothing in the account was changed.")
 
 ---
 
@@ -129,7 +129,7 @@ Market playbooks, ICPs and competitor files describe how Daxko sells software �
 | Daxko's marketing numbers against a Key Result | Agent 18 — Marketing Performance (`daxko-marketing-performance`) |
 | Accessibility · does the site work | Agent 43 — Accessibility (`daxko-accessibility`) · Agent 32 — QA & Testing (`daxko-qa-testing`) |
 | An update message to the client | Agent 26 — Client Communication (`daxko-client-updates`) |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Actually changing the site, CMS, sitemap or Search Console | A human on the Digital Services team, after the client agrees |
 | A Daxko price or a Digital Services fee; what Daxko promises a client | Sales |
 | A roadmap item's status | Daxko's product team |

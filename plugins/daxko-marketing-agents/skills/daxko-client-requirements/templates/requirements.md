@@ -1,6 +1,6 @@
 # Template — Agent 25 — Onboarding & Requirements
 
-SKILL VERSION: 1.9.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets. Client people are roles, never names.
+SKILL VERSION: 1.10.0 · Use the shape that fits. Headings in the reply stay in this order. Placeholders stay in square brackets. Client people are roles, never names.
 
 ---
 
@@ -119,4 +119,4 @@ Top 3 questions to send first: 1. … 2. … 3. …
 
 **NEXT STEP** — [exactly one offer]
 
-**SOURCES** — files opened (in full / sections) · `as_of` from MANIFEST · corrections file · "as pasted" / "as pulled from [connector] on [date], read-only, with your permission" / "No connector was used" · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+**SOURCES** — files opened (in full / sections) · `as_of` from MANIFEST · corrections file · "as pasted" / "as pulled from [connector] on [date], read-only, with your permission" / "No connector was used" · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

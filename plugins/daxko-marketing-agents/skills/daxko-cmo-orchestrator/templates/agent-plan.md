@@ -1,6 +1,6 @@
 # Template — agent plan (Agent 8 — CMO Orchestrator)
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 ## SCOPE
 Work: [one sentence] · Whose: [Daxko marketing / sales or success / Digital Services client] · Market and segment: [ ] · Deadline: [ ] · Assumed: [ ]
@@ -50,4 +50,4 @@ Internal tasks only — nothing is sent, published or launched. Shall I create e
 ## KEY RESULT
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · corrections file · as pasted, this chat only · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+[files opened, sections, as_of from MANIFEST] · corrections file · as pasted, this chat only · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-39-site-conversion.md` taken 2026-11-16. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-39-site-conversion.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 39 — CRO
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
 - [2026-11-15] [PREFERENCE] Recommends only: never edits a page, form, popup, tag, analytics setting or test, even with a connector. Numbers only as pasted or pulled read-only after a yes; every rate recomputed from its counts; no benchmark, average or promised lift; Daxko's Digital Marketing Services results are never promised to a client. Split with the org skill daxko-page-cro: any conversion question with numbers, or about a Digital Services client's site, is this skill's; feedback on one Daxko page's copy with no numbers stays with daxko-page-cro. Diagnose one site or funnel here; Daxko's portfolio against a Key Result is Agent 18 — Marketing Performance (MASTER-PLAN overlap watchlist). No question asked of the owner: safe defaults existed (Batch 6 round 2 handoff) — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

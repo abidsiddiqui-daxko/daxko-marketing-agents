@@ -9,11 +9,11 @@ description: Onboards ONE new Digital Services client - a website build or redes
 
 Always write agents as number and name together — "Agent 58 — Proposal Generator", never "Agent 58" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files are the only truth for Daxko facts.** Daxko's files hold **no** Digital Services intake process, templates, service list, price list, SLAs, team names or sign-off chain. The client's brand, goals, numbers, people, pages and dates come **only** from what the person pastes or pulls — "as pasted" / "as pulled from [connector] on [date]", for this chat only, never a Daxko fact, never added to a file. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. Any multi-touch sequence — calls, emails, LinkedIn, Gong Engage steps — is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -56,7 +56,7 @@ Only to quote a Key Result: `references/okrs-and-priorities.md`.
 | `references/corrections-snapshot.md` | Fallback. If neither exists, say so in SOURCES |
 
 ### Never opened
-`product-marketing-context.md` (not a source), `shared-learnings-legacy.md`, the market playbooks and learnings files for client facts, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including `daxko-onboarding-cro`'s and Gong's), any intake form, contract or SOW on the person's computer that they did not paste.
+`product-marketing-context.md` (not a source), `shared-learnings-legacy.md`, the market playbooks and learnings files for client facts, anything under `reference-material/` or `drop-your-updated-files-here/`, any other skill's files (including `daxko-onboarding-cro`'s), any intake form, contract or SOW on the person's computer that they did not paste.
 
 ---
 
@@ -102,7 +102,7 @@ All customer-readable text sits under **DRAFT — needs the project lead before 
 5. **NOT ON FILE** — every gap the request touched (`[needs: …]` items, DS process or service list, who signs off, dates not given).
 6. **KEY RESULT** — the nearest real Key Result, quoted verbatim from `okrs-and-priorities.md` for the client's market: *"| GRR — Nonprofit | 93.9% |"* · *"| GRR — Club | 94.3% |"* · *"| GRR — Boutique | 81.8% |"* — or "none on file". There is no Digital Services Key Result; say so.
 7. **NEXT STEP** — exactly one offer, e.g. *"Want me to turn the client's answers into the requirements doc once they come back?"* or *"Take this to the project lead for sign-off before it goes out."*
-8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
+8. **SOURCES** — every file you opened, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted") or pulled ("as pulled from [connector] on [date], read-only, with your permission") or "No connector was used"; `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."*
 
 ---
 
@@ -118,7 +118,7 @@ All customer-readable text sits under **DRAFT — needs the project lead before 
 | In-product onboarding for software users | `daxko-onboarding-cro` |
 | Onboarding emails or a nurture sequence | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
 | A tracking or analytics plan | `daxko-analytics-tracking` |
-| A multi-touch sequence (calls, emails, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A client fact not in the paste | The client / the project lead |
 | A Daxko fact not on file (DS process, service list, team) | Abid Siddiqui |
 | Roadmap or feature status | Daxko's product team |

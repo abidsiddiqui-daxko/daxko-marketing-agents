@@ -1,6 +1,6 @@
 # Template — event and webinar asset specs (Agent 23 — Event & Webinar, event messaging)
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 Open only the sections for the assets the person chose. For each asset: ask its questions in rounds of **up to 3 per message** (skip any the brief already answers); if the person says "go ahead with what you have", use the default shown and mark the rest `[needs: …]`. Then draft it in the format below, under the DRAFT label from SKILL.md. Open the example file named for the asset and mirror its **format, structure and length only** — never an event name, date, stat, offer, speaker or quote from it.
 
@@ -30,7 +30,7 @@ Timing: write every send or post time relative to the event ("3 weeks before", "
 > - [ ] Confirm all `{placeholder}` fields are either pre-populated by data or flagged for rep to fill before sending
 > - [ ] QA any automated triggers (timing, enrollment criteria, exit conditions)
 **Pre-Booked Meetings Process (Tier 1 only):** meeting types with time block and rep expectations (current customer · strategic prospect · cold / new prospect) · talk track per audience (opening, meeting pitch, if yes, if no) · when to use the sequence vs a live call · how the landing page's "Request a Meeting" routing works — every channel name, approver and routing step `[needs: … — event owner]` unless pasted · how to add executives, product or services to a meeting — the approver as a role the person gives, never a name from the example file.
-**Gong:** if the person wants this built **in Gong** (Gong Engage, Gong variables, a Word file for MOPs), stop and hand it to `gong-sequence-builder` by name — do not build or imitate it.
+**Not about this event?** BDR or account-manager outreach that is not tied to this event goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`).
 
 ### A3. Social campaign — 5 posts
 **Example file:** `references/event-examples-social-posts.md` (`## Format Standards`, `## Standard 5-Post Set`, `## Writing Notes`).
@@ -122,7 +122,7 @@ After the live date: an on-demand landing-page block (title, 3 learn-points, "Wa
 
 📋 Next steps (each team does its own step after Agent 9 — Brand Guardian and the event owner say yes):
 - HubSpot campaign → marketing operations builds and tests it
-- Sales sequence → marketing operations loads it in Salesloft / Outreach; reps work the MOPs checklist (Gong build → gong-sequence-builder)
+- Sales sequence → marketing operations loads it in the team's sales tool; reps work the MOPs checklist (outreach not tied to the event → `daxko-outbound-sequences`)
 - Social posts → social team for creative and scheduling
 - Landing page / registration page → web team builds and publishes
 - Pendo messages → Daxko's product team configures and publishes

@@ -1,6 +1,6 @@
 # Phase 1 templates — at contract signing
 
-> SKILL VERSION: 1.9.0 · Used by `daxko-event-planning` (Agent 23 — Event & Webinar, event planning). Fill only with facts the person gave; every unknown is **TBD**. Contact details (email, phone) are never filled in — leave the placeholder. Shipping addresses and accounts are never filled from memory.
+> SKILL VERSION: 1.10.0 · Used by `daxko-event-planning` (Agent 23 — Event & Webinar, event planning). Fill only with facts the person gave; every unknown is **TBD**. Contact details (email, phone) are never filled in — leave the placeholder. Shipping addresses and accounts are never filled from memory.
 
 ---
 

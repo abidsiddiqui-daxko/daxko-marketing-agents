@@ -1,6 +1,6 @@
 # Agent 8 — CMO Orchestrator — teammate guide
 
-**Skill:** `daxko-cmo-orchestrator` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-cmo-orchestrator` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 For ONE goal, campaign or piece of work, it tells you **which of our agents to use, in what order**, what each one needs from you, what it hands to the next one, where the brand check sits, and which Daxko Key Result the work serves (quoted word for word from the goals file). It also gives you the first line to type into each agent. It plans the route — it does not do the agents' work.

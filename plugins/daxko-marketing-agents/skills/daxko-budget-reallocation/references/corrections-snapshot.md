@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-71-budget-reallocation.md` taken 2026-11-14. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-71-budget-reallocation.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 71 — Budget Reallocation
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Recommends only: never moves money, changes a bid or budget, pauses an ad or edits a campaign, even when a connector could (MASTER-PLAN: "recommending is a skill; acting is not"). Scope defaults applied without asking: a Digital Services client's ad budget; the total stays the same unless the person says otherwise; any step size or test period it suggests is labelled general practice, not a Daxko rule; Daxko's own Digital Marketing Services results (233% leads, 54% lower CPL) are never promised to a client — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

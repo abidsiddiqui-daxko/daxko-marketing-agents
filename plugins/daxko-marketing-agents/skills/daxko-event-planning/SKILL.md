@@ -9,11 +9,11 @@ description: Plans the logistics of ONE Daxko event - trade show, conference boo
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone. Several agents in one skill: "Agents 63, 64, 65 — Campaign & Content Strategists".
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Event facts come only from the person.** Daxko's files hold no event's contract, dates, venue, team, budget, booth, hotel, shipping details or results. Every event fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is **TBD** in a draft and `[needs: …]` in the checklist — never invented. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sales sequence is handed to it (or, for event outreach copy, to `daxko-event-promotion`). Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -151,7 +151,7 @@ How you apply it:
 7. **NOT ON FILE** — every gap.
 8. **KEY RESULT** — quoted word for word from `okrs-and-priorities.md` with its section, or `[needs: which Key Result — event manager]`.
 9. **NEXT STEP** — exactly one offer (usually the next phase, or "send me [X] and I'll build [asset]").
-10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from `references/MANIFEST.md`; corrections file used; event facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.9.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
+10. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from `references/MANIFEST.md`; corrections file used; event facts "as pasted, this chat only" or "as pulled from [connector] on [date]"; `SKILL VERSION: 1.10.0`; then either *"No web search was used. Nothing was sent, scheduled, published or changed."* or, only if a connector returned a result after a yes, *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 
@@ -200,7 +200,7 @@ Everything Daxko-side is bundled; nothing is fetched from the web. `references/M
 | Which agents to use for a bigger piece of work | Agent 8 — CMO Orchestrator (`daxko-cmo-orchestrator`) |
 | A Digital Services client's project | Agent 24 — Agency Orchestrator (`daxko-project-delivery`) |
 | A product or feature launch plan | `daxko-launch-strategy` |
-| A multi-touch sales sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sales sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Sending emails, booking travel or hotels, ordering booth, swag or attire, submitting to an organizer, posting outside Daxko | The event manager (travel → each traveller through the company booking route) |
 | A Daxko price, discount or trial | Sales |
 | A sensitive detail that was pasted | Information Security |

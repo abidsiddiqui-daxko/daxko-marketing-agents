@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-12-blog-writer.md` taken 2026-11-13. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-12-blog-writer.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 12 — Blog & Article
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] No exact prices, discounts or free trials in a post (Pricing Framework beats the Zen Planner $99 and Engage AI $199 lines) — ruled for Agent 21 on 2026-11-11; applies here — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Owner defaults ("I don't know" → defaults): Daxko Engage is not offered to Boutique; in Nonprofit prospect copy the ban on "conversion rate" language beats Engage Pro's "+391% lead conversion"; the blog draft uses Daxko's "we" voice (`brand-guidelines.md`), the skill's own notes use "I" — Abid Siddiqui
 - [2026-11-10] [PREFERENCE] "Lead with mission impact" in nonprofit-playbook.md conflicts with its Never list and banned-words.md: the ban wins, never write "impact" in Nonprofit content — Abid Siddiqui
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

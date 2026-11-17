@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-32-qa-testing.md` taken 2026-11-14. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-32-qa-testing.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 32 — QA & Testing
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Scope defaults applied without asking: functional website QA only (test plans, test cases, bug reports from pasted notes, QA-pass summaries); it tests nothing live and never files, closes or changes a ticket; no Daxko severity scale for client websites is on file, so it uses a plain suggested 4-level scale labelled "suggested — use your team's scale if you have one"; the launch decision belongs to the project lead and the client — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

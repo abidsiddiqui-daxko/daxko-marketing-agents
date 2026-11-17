@@ -1,6 +1,6 @@
 # Agent 58 — Proposal Generator — teammate guide
 
-**Skill:** `daxko-proposal-writer` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-proposal-writer` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Drafts one sales proposal or one statement of work (SOW) for one deal. It first asks you up to 3 short questions — your deal notes, the approved prices from sales, and your template — then writes the draft from what you paste plus Daxko's files: what the buyer needs, which Daxko products fit, approved proof, how implementation works, next steps and a price section that only repeats the approved figures you pasted.
@@ -30,5 +30,5 @@ The draft under **DRAFT PROPOSAL — needs your sales sign-off and Agent 9 — B
 | New customer proof | Agent 67 — Customer Proof & Advocacy |
 | Legal terms · go-live dates | Daxko's legal team · Daxko's implementation team |
 | Word or PDF file | `docx` · `pdf` |
-| Follow-up sequence | `gong-sequence-builder` (your own skill) |
+| Follow-up sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Send it, e-sign, update the CRM | a human |

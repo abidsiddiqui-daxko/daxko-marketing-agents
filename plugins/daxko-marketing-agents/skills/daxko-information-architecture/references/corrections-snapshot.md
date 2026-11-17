@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-28-information-architecture.md` taken 2026-11-14. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-28-information-architecture.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 28 — Information Architecture
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Scope defaults applied without asking: plans sitemaps, navigation, page hierarchy and URL plans for a Digital Services client's site or a Daxko site; for a Daxko site, product names come only from `product-knowledge.md` and no roadmap product gets a page; nonprofit clients' labels follow `segment-language-guide.md` ("branch" for a YMCA, "Club" for Boys & Girls Clubs); wireframes, page copy and building the site are other owners' jobs — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

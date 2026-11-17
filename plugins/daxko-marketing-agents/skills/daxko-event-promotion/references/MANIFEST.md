@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-16 · **Skill:** `daxko-event-promotion` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-16 · **Skill:** `daxko-event-promotion` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | `event-examples-landing-pages.md` | `knowledge-base/event-examples-landing-pages.md` | `b72e32eba0886629fdf93be4fa4899f9182e4e65122b6fd0a4e768f8f1f5a191` | verbatim | 2026-11-16 | 2026-11-16 | 18 KB |
 | `event-examples-blogs.md` | `knowledge-base/event-examples-blogs.md` | `9714fad02f6b4050af118513553687f4425a32ceb6a2b9a6db0073be819d69e1` | verbatim | 2026-11-16 | 2026-11-16 | 2 KB |
 | `event-examples-booth-assets.md` | `knowledge-base/event-examples-booth-assets.md` | `30648059cc81ff237962f817923406461a2fa3fe6bb3171b56a9b7d7405cd2eb` | verbatim | 2026-11-16 | 2026-11-16 | 3 KB |
-| `corrections-snapshot.md` | `learnings/agent-23-event-promotion.md` | `a3859713024c2fdd3a68855284253bc7c4a3d6f080deb66772856dc99c72de7c` | converted | 2026-11-16 | 2026-11-16 | 7 KB |
+| `corrections-snapshot.md` | `learnings/agent-23-event-promotion.md` | `a50357941e7519d73caebbfd237871b6a7053ab0f517837f67251cbb3dec6b6b` | converted | 2026-11-17 | 2026-11-17 | 7 KB |
 
 **29 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

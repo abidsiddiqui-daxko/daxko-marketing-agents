@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-16 · **Skill:** `daxko-campaign-golive` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-16 · **Skill:** `daxko-campaign-golive` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | `boutique-functional-fitness.md` | `verticals/boutique-functional-fitness.md` | `3bca2d59fdd40fcdf4e72cfc6b2f34fcbd458521a235beefd05acbda5d960c99` | verbatim | 2026-11-16 | 2026-10-05 | 24 KB |
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-16 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `9faba5bf958bce8742a6636a6749516a6b43a9935a808c817fa4717cc1d708ba` | verbatim | 2026-11-16 | 2026-11-16 | 3 KB |
-| `corrections-snapshot.md` | `learnings/agent-56-campaign-golive.md` | `a6b9ac56e3a4054844e68e02fc60d4743d0758e7ae527f235955e84e79e5bc7e` | converted | 2026-11-16 | 2026-11-16 | 4 KB |
+| `corrections-snapshot.md` | `learnings/agent-56-campaign-golive.md` | `eab36b4319e6fe8f55f4f7f5ab1007397a8421e865d1000ebb3d88da6a2a19ba` | converted | 2026-11-17 | 2026-11-17 | 5 KB |
 
 **22 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

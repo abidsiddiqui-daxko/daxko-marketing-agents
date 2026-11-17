@@ -2,7 +2,7 @@
 
 > ⚠️ **GENERATED. NEVER HAND-EDIT.** `source_checksum` = `shasum -a 256` of the SOURCE at bundling time. `as_of` = the date SOURCES reports.
 
-**Generated:** 2026-11-13 · **Skill:** `daxko-success-qbr` · **Skill version:** 1.9.0 · **Batch 2**
+**Generated:** 2026-11-13 · **Skill:** `daxko-success-qbr` · **Skill version:** 1.10.0 · **Batch 2**
 
 | bundled_file | source_file | source_checksum | fidelity | bundled_on | as_of | size |
 |---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | `boutique-learnings.md` | `verticals/boutique-learnings.md` | `9cab2245798aa84783f264c558a04f07c1eeab4da3884650ecb851411db302ad` | verbatim | 2026-11-13 | 2026-08-05 | 7 KB |
 | `ai-use-rules.md` | `knowledge-base/ai-use-rules.md` | `c875b06a1f37837c989df7d0363f354a13325316bc868233226539139a4601c3` | verbatim | 2026-11-13 | 2026-11-13 | 2 KB |
 | `performance-data-schema.md` | `knowledge-base/performance-data-schema.md` | `6de5a39ed2394de335c310e5ffc018977a0fd3fb89883cbb35a3b471479891e7` | verbatim | 2026-11-13 | 2026-08-11 | 10 KB |
-| `corrections-snapshot.md` | `learnings/agent-48-success-qbr.md` | `01b37205d64491110bedb31e655272f6fe765253534ed8b540bcebcd1eb1dbfa` | converted | 2026-11-13 | 2026-11-13 | 3 KB |
+| `corrections-snapshot.md` | `learnings/agent-48-success-qbr.md` | `1acc118e8fc5617cd11b3f87cfec731f7bee7a3581157494fa8052f936ddf527` | converted | 2026-11-17 | 2026-11-17 | 3 KB |
 
 **23 rows.** Both directions checked: every row has a file and every `references/*.md` except `MANIFEST.md` has a row.
 

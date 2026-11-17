@@ -1,6 +1,6 @@
 # Agent 32 — QA & Testing — teammate guide
 
-**Skill:** `daxko-qa-testing` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-qa-testing` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Does-it-work checking (QA) for a website build — a Digital Services client's site or a Daxko web page. It writes test plans and test cases, turns a tester's notes into clear bug reports, and sums up a test round with a go / no-go recommendation for the project lead. It first asks up to 3 short questions: what is being tested, on which devices and browsers, and your team's bug format.

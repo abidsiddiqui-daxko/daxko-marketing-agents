@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-42-site-speed.md` taken 2026-11-16. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-42-site-speed.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 42 — Speed & Performance
 
@@ -12,3 +12,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or imitated; only redirected to — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] No Daxko prices, discounts or trials unless sales pastes the approved figure (ruled 2026-11-11) — Abid Siddiqui
 - [2026-11-15] [PREFERENCE] Recommends only: never changes code, plugins, images, caching, CDN, hosting or settings, and tests nothing live (no web fetch, no running PageSpeed, no monitoring). Numbers only as pasted or pulled read-only after a yes; Core Web Vitals bands, effort sizes and best practice are labelled general practice, not a Daxko rule; never promises a score, a ranking gain or more leads; Daxko's Digital Marketing Services results are never promised to a client. A client site by default, a Daxko site only if asked. No question asked of the owner: safe defaults existed (Batch 6 round 2 handoff) — Abid Siddiqui (default)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

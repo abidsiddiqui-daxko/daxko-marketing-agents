@@ -1,6 +1,6 @@
 # Template — build spec (Agent 30 — Frontend Development)
 
-SKILL VERSION: 1.9.0
+SKILL VERSION: 1.10.0
 
 ## SCOPE
 Client: [as named] · Page or template: [ ] · Main action: [ ] · Client page or Daxko page: [ ] · Assumed: [ ]
@@ -65,4 +65,4 @@ Created as an internal task / doc — nothing is published, built or sent to the
 None on file — no Key Result in `okrs-and-priorities.md` covers Digital Services client work.
 ## NEXT STEP
 ## SOURCES
-[files opened, sections, as_of from MANIFEST] · corrections file · as pasted, this chat only · SKILL VERSION: 1.9.0 · No web search was used. Nothing was sent, scheduled, published or changed.
+[files opened, sections, as_of from MANIFEST] · corrections file · as pasted, this chat only · SKILL VERSION: 1.10.0 · No web search was used. Nothing was sent, scheduled, published or changed.

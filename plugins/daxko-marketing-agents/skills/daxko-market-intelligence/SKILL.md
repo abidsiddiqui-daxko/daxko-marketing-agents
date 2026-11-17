@@ -9,7 +9,7 @@ description: Answers internal questions about Daxko's competitors and markets fr
 
 Always write agents as number and name together — "Agent 5 — ICP & Value Prop", never "Agent 5" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`; it is outside your folder.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`; it is outside your folder.
 
 > **The files are the only truth.** A fact that is not in them is `not on file`. Constance Miller and Anna Klement are no longer at Daxko: where a file names either as an owner or approver, never route anything to them and name no one in their place.
 
@@ -110,7 +110,7 @@ Use `source: "pasted by user — [type], [date if given]"`. **"Update our file" 
    5. **NOT ON FILE** — every gap the question touched. Never empty when a named competitor has no profile.
    6. **KEY RESULT** — the current KR line this serves, quoted from `okrs-and-priorities.md`, or *"no Key Result in the file maps to this"*.
    7. **NEXT STEP** — exactly one offer (HANDOFFS).
-   8. **SOURCES** — every file you actually opened or searched, and only those; how much of each (in full / sections); each file's `as_of` from MANIFEST; the corrections file used; `SKILL VERSION: 1.9.0`; and *"No web search or connector was used."*
+   8. **SOURCES** — every file you actually opened or searched, and only those; how much of each (in full / sections); each file's `as_of` from MANIFEST; the corrections file used; `SKILL VERSION: 1.10.0`; and *"No web search or connector was used."*
 6. **Label:** first line of every reply: `INTERNAL — competitive intelligence, not for customers.`
 
 **Size follows the question.** "What's Wodify's price?" gets the price, its source, the freshness line, NOT ON FILE if relevant and SOURCES — not a full profile.
@@ -135,7 +135,7 @@ Use `source: "pasted by user — [type], [date if given]"`. **"Update our file" 
 | What Daxko should charge | — | `daxko-pricing-strategy` |
 | Whether a Daxko feature or roadmap item has shipped; a release briefing | — | Agent 51 — Roadmap & Release Briefing (`daxko-release-briefing`) |
 | Practising a call or an objection with a rep | — | Agent 57 — Sales Coaching (`daxko-sales-coaching`) |
-| A multi-touch sequence — calls, voicemail, LinkedIn, Gong Engage steps | Name it and stop; never build or imitate it | `gong-sequence-builder` (the owner's own skill) |
+| A multi-touch sequence — emails, calls, voicemail, LinkedIn steps | Hand it over | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Editing, updating or saving any knowledge file | Hand over the draft Market Insight block | Abid Siddiqui files it |
 | Live web research, "check their website now" | Say the files are dated, ask them to paste the page or article | — |
 

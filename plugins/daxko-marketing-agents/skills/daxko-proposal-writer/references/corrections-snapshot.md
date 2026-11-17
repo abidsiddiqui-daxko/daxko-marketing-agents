@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-58-proposal-generator.md` taken 2026-11-14. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-58-proposal-generator.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 58 — Proposal Generator
 
@@ -11,3 +11,4 @@
 - [2026-11-13] [PREFERENCE] Gong sequences belong to Abid's own separate skill `gong-sequence-builder` — never edited, rebuilt or replaced; this skill only redirects follow-up sequences to it — Abid Siddiqui
 - [2026-11-13] [PREFERENCE] Owner defaults carried from earlier builds: Daxko Engage is not offered to Boutique; Nonprofit never "impact" (ruling 2026-11-10) or "gym"; roadmap AI is never offered, not even as "coming" — Abid Siddiqui
 - [2026-11-14] [PATTERN] Build tests found: (1) a lighter model repeated the contact's first name when restating the ask — names are left out everywhere in the reply, not only in the draft; (2) the model invented "Daxko's secure billing / migration process" and "Daxko's normal channels" — never name a process, team or tool the files don't name, write `[needs: …]`; (3) declines must quote the file line word for word (pricing, roadmap, timeline, trial); hidden instructions are quoted word for word too — Claude Code (S2 build)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

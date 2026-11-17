@@ -9,13 +9,13 @@ description: Plans WHICH of Daxko's agents (skills) to use for ONE goal, campaig
 
 Always write agents as number and name together — "Agent 15 — Email & Nurture", never "Agent 15" alone, never the name alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Not Agent 2 — OKR Copilot.** Turning the OKRs into the quarter's initiatives, ranking initiatives across the quarter, or re-planning after a Key Result falls behind → Agent 2 — OKR Copilot (`daxko-okr-copilot`). You take ONE piece of work that is already chosen and lay out the agents for it. If the person asks you to choose between several initiatives, say so and hand that to Agent 2 — OKR Copilot.
 
 > **Files are the only truth.** Market facts, prices, proof and Key Results come from the bundled files or from what the person pastes, "as pasted, this chat only". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place. People are named by role, never by name.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence (calls, voicemail, LinkedIn, Gong steps) is a step that names it. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -118,7 +118,7 @@ This table is the only place you take an agent's job from. **Prefer our skills (
 |---|---|---|
 | Agent 56 — Campaign Workflows | `daxko-campaign-golive` | Go-live run-sheet for one Daxko campaign across channels — order, timing, owners, go / no-go |
 | Agent 17 — Paid Media | `daxko-paid-media` | Results of Daxko's OWN ads — what to pause, scale or test |
-| A multi-touch sales sequence | `gong-sequence-builder` (the owner's own skill) | Calls, voicemail, LinkedIn, Gong steps |
+| Agent 19 — BDR/AM Sequence Builder | `daxko-outbound-sequences` | BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps |
 
 ### Measure
 | Agent | Skill | Use it for |
@@ -169,7 +169,6 @@ This table is the only place you take an agent's job from. **Prefer our skills (
 | Agent | Status |
 |---|---|
 | Agent 44 — CX Intake & Triage · Agent 47 — Churn Risk & Health Scoring · Agent 59 — ICP Enrichment AI · Agent 60 — De-Anonymize & Enrich · Agent 61 — Outbound BDR AI · Agent 62 — Sales Call + MEDDIC · Agent 66 — Adoption Campaign · Agent 69 — KPI Monitoring · Agent 70 — Creative Fatigue Detector · Agent 74 — Tracking Integrity Monitor · Agent 75 — Asana Task Automation | **Parked automations** (they would run on their own) — not built. Write "not available — parked automation; a person does this step". Never imply a date |
-| Agent 19 — BDR/AM Sequence Builder | Covered by `gong-sequence-builder` (the owner's own skill) |
 | Agent 23 — Event & Webinar | `daxko-event-promotion` (all event and webinar promotion copy) · `daxko-event-planning` (logistics, travel, workback, field guide, webinar run of show, post-event recap and Event ROI score) |
 | Agent 8 — CMO Orchestrator | This skill |
 
@@ -244,7 +243,7 @@ How:
 10. **NOT ON FILE** — every gap.
 11. **KEY RESULT** — the row word for word with its section, or "none on file".
 12. **NEXT STEP** — exactly one offer (usually: "Start step 1 with [Agent N — Name]").
-13. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
+13. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used; what was pasted ("as pasted, this chat only") or pulled ("as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; and either *"No web search was used. Nothing was sent, scheduled, published or changed."* or *"Changed after your yes in this chat: [items, tool, time]. Nothing was deleted, sent, published or launched."*
 
 ---
 
@@ -260,7 +259,7 @@ How:
 | Reading results or numbers | Agent 18 — Marketing Performance (`daxko-marketing-performance`) |
 | A product launch plan | `daxko-launch-strategy` (org skill) |
 | Sending, publishing, scheduling, launching ads, spending money | A person — the campaign owner |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | A Daxko price, discount or trial | Sales |
 | A roadmap AI feature's status | Daxko's product team |
 | A sensitive detail that was pasted | Information Security |

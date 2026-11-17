@@ -1,6 +1,6 @@
 # Agent 46 — Knowledge Base & Article — teammate guide
 
-**Skill:** `daxko-help-article` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-help-article` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Writes one help-center article, FAQ or how-to for Daxko customers or their staff, from the product steps, release note or support answer you paste. It can also update an old article you paste and list every change.
@@ -32,5 +32,5 @@ The article under **DRAFT ARTICLE — needs a product or support expert to check
 | Themes across tickets | Agent 50 — Product Insights & Feedback |
 | In-app onboarding | `daxko-onboarding-cro` |
 | An email about it | Agent 15 — Email & Nurture |
-| Gong or multi-touch sequence | `gong-sequence-builder` (your own skill) |
+| Multi-touch outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Publishing to the help center | a human |

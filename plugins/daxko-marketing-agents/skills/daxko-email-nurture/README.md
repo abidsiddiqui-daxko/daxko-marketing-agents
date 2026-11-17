@@ -1,6 +1,6 @@
 # Agent 15 — Email & Nurture — teammate guide
 
-**Skill:** `daxko-email-nurture` · **Owner:** Abid Siddiqui · **Version:** 1.9.0
+**Skill:** `daxko-email-nurture` · **Owner:** Abid Siddiqui · **Version:** 1.10.0
 
 ## What it does
 Drafts an email-only sequence for Daxko's own prospects and customers — lead nurture, onboarding, re-engagement or win-back — for one market and segment, from Daxko's files. It can also review a sequence you paste and fix it. Each email has one job, a subject line, a preview, a short body and one call to action. Timing is placeholders.
@@ -17,13 +17,13 @@ The sequence map, the draft emails (needing Agent 9 — Brand Guardian before us
 ## Good to know
 - It never invents open rates, benchmarks, send times, customers, quotes or prices. The number of emails is yours to give; if you don't, it suggests one and says it is not Daxko-approved.
 - It never offers roadmap AI (AI Agents, Smart Sending Engine) as available, not even as "coming".
-- Calls, voicemail, LinkedIn steps or Gong sequences are **not** done here: they go to your Gong skill, `gong-sequence-builder`, which is separate and which you tweak yourself.
+- BDR or account-manager outreach sequences (emails, calls, voicemail, LinkedIn) are **not** done here: they go to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`).
 - It writes and sends nothing. Who signs off is not on file: confirm who signs off.
 
 ## What it will NOT do — and who does
 | Ask | Owner |
 |---|---|
-| Multi-channel or Gong sequence | `gong-sequence-builder` (your own skill) |
+| Multi-channel outreach sequence | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Campaign set across channels | Agent 13 — Content Production |
 | One email alone | the market copywriter |
 | Cancel flows, dunning | `daxko-churn-prevention` |

@@ -1,4 +1,4 @@
-> Snapshot of the writable corrections master `learnings/agent-33-content-migration.md` taken 2026-11-16. Fallback only.
+> Snapshot of the writable corrections master `learnings/agent-33-content-migration.md` taken 2026-11-17. Fallback only.
 
 # Corrections — Agent 33 — Content Migration
 
@@ -15,3 +15,4 @@
 - [2026-11-16] [PREFERENCE] Scope defaults applied without asking: ONE client site rebuild — content inventory from the pasted or pulled old pages; a page-by-page move map (old address → new address → keep / rewrite / merge / drop, each with its reason); cleaned text ready to paste for "keep" pages, with meaning unchanged and old facts flagged, never updated; a redirect list taken only from Agent 28 — Information Architecture's map or a pasted list (new addresses are never invented); an after-move check list; may create draft, unpublished pages in the new CMS with the moved text after a yes; never publishes, never sets a redirect live, never deletes the old site or a page — Abid Siddiqui (default)
 - [2026-11-16] [PREFERENCE] Split with Agent 28 — Information Architecture: Agent 28 plans the new structure and the old-to-new address map; Agent 33 moves the content along that map; Agent 35 — Web Content rewrites copy marked "rewrite" (default, Batch 6 round 3 handoff §2) — Abid Siddiqui (default)
 - [2026-11-16] [PATTERN] Build tests: round 1 did not ask for the old site's address and old CMS, and an unmapped page suggested for dropping was left off the ORPHANS list — fixed: round 1 asks old address, old CMS, new CMS, cut-over date and approver; ORPHANS lists every unmapped page; every file named in the reply is in SOURCES; DECLINED owners are never "you"; the read-only question ends with the exact words "Read-only, for this task only." — Claude Code (R3-S1 build session)
+- [2026-11-17] [CORRECTION] Supersedes every earlier line in this file about a personal Gong sequence skill: never mention, point to or hand over to it. BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — goes to Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) — Abid Siddiqui

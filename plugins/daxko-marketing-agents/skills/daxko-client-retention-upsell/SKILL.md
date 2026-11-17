@@ -9,11 +9,11 @@ description: For ONE Digital Services CLIENT - a YMCA, JCC, club or studio whose
 
 Always write agents as number and name together — "Agent 40 — Client Success", never "Agent 40" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **Client facts come only from the person.** Daxko's files hold no client's goals, results, contract, services bought, complaints or Digital Services price list. Every client fact is "as pasted, this chat only" or "as pulled from [connector] on [date]". A fact you were not given is `[needs: …]` — never invented. Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
-> **Gong is not yours.** `gong-sequence-builder` is the owner's own separate skill. A multi-touch sequence is handed to it by name. Never build, copy or imitate it.
+> **Outreach sequences go to Agent 19.** BDR, SDR or account-manager outreach — a cold email, or a sequence of emails, calls, voicemail or LinkedIn steps — is Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`). Hand it over; never write it here.
 
 ---
 
@@ -94,7 +94,7 @@ Corrections first. Decide: is it grow (A) or keep (B), and are the client, curre
 6. **NOT ON FILE** — every `[needs: …]` gap: the service list and prices, approved offers, contract terms, renewal date, hand-over steps, who signs off.
 7. **KEY RESULT** — *"No Key Result in `okrs-and-priorities.md` names Digital Services client work. Nearest, verbatim: "GRR — Nonprofit | 93.9%" · "GRR — Club | 94.3%" · "GRR — Boutique | 81.8%" (Objective 1) and "90-day pipeline coverage — Expansion | 2x for Nonprofit and Club (N/A for Boutique)" (Objective 4) — whether Digital Services revenue counts toward them is not on file."*
 8. **NEXT STEP** — exactly one offer (usually: "Ask Agent 26 — Client Communication to draft the email from these talking points" or "Paste [X] and I'll firm up the plan").
-9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); client facts "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.9.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (After a permitted pull, add: "Read-only pull from [connector]; nothing in it was changed.")
+9. **SOURCES** — every file you opened, and only those, with sections and each `as_of` from MANIFEST; corrections file used (or "not present"); client facts "as pasted, this chat only" (or "as pulled from [connector] on [date]"); `SKILL VERSION: 1.10.0`; *"No web search was used. Nothing was sent, scheduled, published or changed."* (After a permitted pull, add: "Read-only pull from [connector]; nothing in it was changed.")
 
 ---
 
@@ -112,7 +112,7 @@ Corrections first. Decide: is it grow (A) or keep (B), and are the client, curre
 | Fixing the client's site speed · conversion · search | Agent 42 — Speed & Performance (`daxko-site-speed`) · Agent 39 — CRO (`daxko-site-conversion`) · Agent 34 — SEO & AEO (`daxko-site-seo`) |
 | Cancel flows, save offers or failed-payment recovery for subscribers | `daxko-churn-prevention` |
 | A win-back or re-engagement email sequence | Agent 15 — Email & Nurture (`daxko-email-nurture`) |
-| A multi-touch sequence (calls, voicemail, LinkedIn, Gong) | **`gong-sequence-builder`** (the owner's own skill — name it and stop) |
+| A multi-touch sequence (emails, calls, voicemail, LinkedIn) | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Pricing or packaging strategy | `daxko-pricing-strategy` |
 | Approving a discount, credit or concession; quoting a price | Sales, with the Digital Services account lead |
 | Updating the CRM or contract; contacting the client | The Digital Services account lead (a human) |

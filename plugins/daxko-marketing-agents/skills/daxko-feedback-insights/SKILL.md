@@ -9,7 +9,7 @@ description: Makes sense of Daxko customer feedback someone pastes - NPS comment
 
 Always write agents as number and name together — "Agent 9 — Brand Guardian", never "Agent 9" alone.
 
-> **SKILL VERSION: 1.9.0** — report it in SOURCES. Never look for a `plugin.json`.
+> **SKILL VERSION: 1.10.0** — report it in SOURCES. Never look for a `plugin.json`.
 
 > **The files and the paste are the only truth.** A count, cause, customer or owner that is in neither is "not on file". Constance Miller and Anna Klement are no longer at Daxko: never route anything to them, and name no one in their place.
 
@@ -96,7 +96,7 @@ A request can need several shapes. Searching the web for more feedback, personas
 6. **NOT ON FILE** — every gap the request touched.
 7. **KEY RESULT** — the KR(s) this moves, quoted from `okrs-and-priorities.md`, or "no Key Result in the file maps to this".
 8. **NEXT STEP** — exactly one offer, usually *"Send the top three themes to the product owner (confirm who) with the item numbers."*
-9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.9.0`; *"No web search or connector was used. Nothing was sent and no file was changed."*
+9. **SOURCES** — every file you opened or searched, and only those; in full or which sections; each `as_of` from MANIFEST; corrections file used; `SKILL VERSION: 1.10.0`; *"No web search or connector was used. Nothing was sent and no file was changed."*
 
 Size follows the question: "is the belt-tracking complaint a known issue?" gets shape C plus the closing lines, not a full synthesis.
 
@@ -117,7 +117,7 @@ Size follows the question: "is the belt-tracking complaint a known issue?" gets 
 | Product-usage numbers · bug, release or support-case counts | Agent 6 — Pendo Engagement Intelligence (`daxko-usage-insights`) · Agent 52 — Defect & Quality Intelligence (`daxko-defect-quality`) |
 | A feedback intake portal or tracker in Airtable | `airtable:product-ops` |
 | Coaching one sales rep on one call they had | Agent 57 — Sales Coaching (`daxko-sales-coaching`) |
-| A multi-touch sequence — calls, voicemail, LinkedIn, Gong Engage steps | `gong-sequence-builder` (the owner's own skill — name it and stop; never build or imitate it) |
+| A multi-touch sequence — emails, calls, voicemail, LinkedIn steps | Agent 19 — BDR/AM Sequence Builder (`daxko-outbound-sequences`) |
 | Drafting a reply to one ticket | Agent 45 — CX Email & Response (`daxko-support-reply`) |
 | A help article or FAQ that answers a theme | Agent 46 — Knowledge Base & Article (`daxko-help-article`) |
 | Can I paste this data, may I use this AI tool | Agent 1 — AI Strategy & Governance (`daxko-ai-governance`) |
